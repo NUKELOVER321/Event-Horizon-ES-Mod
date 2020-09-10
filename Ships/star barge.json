@@ -1,0 +1,19 @@
+{
+  "ItemType": 6,
+  "Id": 303,
+  "Name": "Star Barge",
+  "Faction": 201,
+  "IconImage": "star barge icon.png",
+  "IconScale": 0.5,
+  "ModelImage": "star barge.png",
+  "ModelScale": 0.6,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#40FFF096",
+  "EngineSize": 0.1,
+  "Layout": "000010000000111000000333000001242100001242100011222110011222110005535500001535100",
+  "Barrels": [
+    {}
+  ]
+}
