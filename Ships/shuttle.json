@@ -5,14 +5,14 @@
   "Faction": 201,
   "IconImage": "shuttle icon.png",
   "IconScale": 0.5,
-  "ModelImage": "shuttle image.png",
+  "ModelImage": "shuttle.png",
   "ModelScale": 0.6,
   "EnginePosition": {
     "x": -0.8
   },
   "EngineColor": "#24D8DA",
   "EngineSize": 0.1,
-  "Layout": "000000000000040000000040000000121000000323000001222100001222100000555000000050000",
+  "Layout": "000040000000040000000141000000323000000222000001222100001222100001555100000050000",
   "Barrels": [
     {
       "Position": {
