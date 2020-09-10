@@ -1,6 +1,6 @@
 {
   "ItemType": 6,
-  "Id": 302,
+  "Id": 304,
   "Name": "Heavy Shuttle",
   "Faction": 201,
   "IconImage": "heavy shuttle icon.png",
@@ -12,6 +12,20 @@
   },
   "EngineColor": "#24D8DA",
   "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.1,
+        "y": -0.9
+      }
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": -0.9
+      }
+    }
+  ],
   "Layout": "0000440000000144100000014410000003223000000322300000032230000003223000001122110000115511000005555000",
   "Barrels": [
     {

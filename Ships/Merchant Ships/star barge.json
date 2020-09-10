@@ -10,11 +10,26 @@
   "EnginePosition": {
     "x": -0.8
   },
-  "EngineColor": "#40FFF096",
+  "EngineColor": "#24D8DA",
   "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.2,
+        "y": -0.9
+      }
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": -0.9
+      }
+    }
+  ],
   "Layout": "000010000000111000000333000001242100001242100011222110011222110005535500001535100",
   "Barrels": [
     {
+      "Position": {},
       "PlatformType": 1,
       "WeaponClass": "C"
     }
