@@ -1,18 +1,18 @@
 {
   "ItemType": 6,
-  "Id": 301,
-  "Name": "Shuttle",
+  "Id": 302,
+  "Name": "Heavy Shuttle",
   "Faction": 201,
-  "IconImage": "shuttle icon.png",
+  "IconImage": "heavy shuttle icon.png",
   "IconScale": 0.5,
-  "ModelImage": "shuttle.png",
+  "ModelImage": "heavy shuttle.png",
   "ModelScale": 0.6,
   "EnginePosition": {
     "x": -0.8
   },
   "EngineColor": "#24D8DA",
   "EngineSize": 0.1,
-  "Layout": "000040000000141000000141000000323000000222000001222100001222100001555100000050000",
+  "Layout": "0000440000000144100000014410000003223000000322300000032230000003223000001122110000115511000005555000",
   "Barrels": [
     {
       "Position": {
