@@ -6,7 +6,7 @@
   "IconImage": "shuttle icon.png",
   "IconScale": 0.5,
   "ModelImage": "shuttle.png",
-  "ModelScale": 0.7,
+  "ModelScale": 0.9,
   "EnginePosition": {
     "x": -0.8
   },
@@ -30,7 +30,8 @@
     {
       "Position": {
         "x": 0.8
-      }
+      },
+      "PlatformType": 3
     }
   ]
 }

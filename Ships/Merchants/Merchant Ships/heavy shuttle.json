@@ -6,7 +6,7 @@
   "IconImage": "heavy shuttle icon.png",
   "IconScale": 0.5,
   "ModelImage": "heavy shuttle.png",
-  "ModelScale": 0.8,
+  "ModelScale": 1.0,
   "EnginePosition": {
     "x": -0.8
   },
@@ -32,6 +32,7 @@
       "Position": {
         "x": 0.8
       },
+      "PlatformType": 3,
       "WeaponClass": "C"
     }
   ]
