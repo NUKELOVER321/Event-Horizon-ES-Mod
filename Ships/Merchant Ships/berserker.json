@@ -1,0 +1,23 @@
+{
+  "ItemType": 6,
+  "Id": 305,
+  "Name": "Berserker",
+  "Faction": 201,
+  "IconImage": "berserker icon.png",
+  "IconScale": 0.5,
+  "ModelImage": "berserker.png",
+  "ModelScale": 0.6,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#40FFF096",
+  "EngineSize": 0.1,
+  "Layout": "040525111",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.5
+      }
+    }
+  ]
+}
