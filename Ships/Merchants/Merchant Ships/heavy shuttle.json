@@ -6,7 +6,7 @@
   "IconImage": "heavy shuttle icon.png",
   "IconScale": 0.5,
   "ModelImage": "heavy shuttle.png",
-  "ModelScale": 0.6,
+  "ModelScale": 0.8,
   "EnginePosition": {
     "x": -0.8
   },
