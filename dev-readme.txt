@@ -14,3 +14,21 @@ Cooling is obsolete in EH - perhaps make them reduce energy consumption while ha
 To balance this, all vanilla reactors would also need energy consumption.
 Interference plating to be made as all-type resist armor.
 Jump Drive as improved teleport device.
+Scanners as mix of rangemasters, reloaders, and damage boosters.
+
+---------------
+
+Plans:
+
+Merchants: freighters and transports, interceptors, light warships, ion engines, fuelcells, nucleivoltaics, thermo ionics, batteries, shield gens
+Pirates: all marauder ships, medium and heavy civilian warships, gatling gun, flamethrower
+Republic: appropriate vessels, armageddon reactor, scanners, atomics
+Syndicate: appropriate vessels, regenerators, nuke
+Free Worlds: appropriate vessels, stack and fission reactors, plasma engines
+Drones scattered across the three main factions.
+Hai: appropriate ships, outfits, and drones
+Remnant: see above
+Coalition: see above
+Wanderer: see above
+Korath: see above
+Quarg (Drak) + Pug: see above (buff arfecta and archon to fit). 
