@@ -25,15 +25,13 @@
       "Position": {
         "x": 0.3,
         "y": 0.65
-      },
-      "WeaponClass": "L"
+      }
     },
     {
       "Position": {
         "x": 0.3,
         "y": -0.65
-      },
-      "WeaponClass": "L"
+      }
     }
   ]
 }
