@@ -1,0 +1,18 @@
+[Faction Name]
+
+ShipName ItemID TechID BuildIDRange (0vet, 1vet, 2vet)
+CompName ItemID TechID
+...
+
+Merchants
+
+Shuttle 301 301 1001-1003
+Sparrow 302 302 1004-1006
+Star Barge 303 303 1007-1007
+Heavy Shuttle 304 304 1010-1012
+Berserker 305 305 1013-1015
+Flivver 306 306 1016-1018
+Fury 307 307 1019-1021
+Hawk 308 308 1022-1024
+Wasp 309 309 1025-1027
+Clipper 310 310 1028-1030
