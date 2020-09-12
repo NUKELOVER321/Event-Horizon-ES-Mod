@@ -1,0 +1,60 @@
+{
+  "ItemType": 6,
+  "Id": 310,
+  "Name": "Clipper",
+  "Faction": 201,
+  "IconImage": "clipper icon.png",
+  "IconScale": 0.5,
+  "ModelImage": "clipper.png",
+  "ModelScale": 0.9,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.4,
+        "y": -0.8
+      }
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -0.8
+      }
+    }
+  ],
+  "Layout": "0000000000000000000011000000000000110000000000003300000000004222240000000042222400000001422224100000011122111000000111221110000001112211100004111322311140041553333551400005501105500000000011000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.4,
+        "y": 0.35
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": -0.35
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": 0.8
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -0.8
+      },
+      "PlatformType": 3
+    }
+  ]
+}

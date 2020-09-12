@@ -2,6 +2,7 @@
   "ItemType": 8,
   "Id": 1023,
   "ShipId": 308,
+  "DifficultyClass": 1,
   "Components": [
     {
       "ComponentId": 74,
