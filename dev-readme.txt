@@ -31,4 +31,4 @@ Remnant: see above
 Coalition: see above
 Wanderer: see above
 Korath: see above
-Quarg (Drak) + Pug: see above (buff arfecta and archon to fit).
+Quarg (Drak) + Pug: see above (buff arfecta and archon to fit), jump drive
