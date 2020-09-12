@@ -1,0 +1,46 @@
+{
+  "ItemType": 6,
+  "Id": 308,
+  "Name": "Hawk",
+  "Faction": 201,
+  "IconImage": "hawk icon.png",
+  "IconScale": 0.5,
+  "ModelImage": "hawk.png",
+  "ModelScale": 0.9,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.45,
+        "y": -0.8
+      }
+    },
+    {
+      "Position": {
+        "x": -0.45,
+        "y": -0.8
+      }
+    }
+  ],
+  "Layout": "0000000000000000000200000000000020000000000002000000000004240000000000424000000000042400000000004240000000052222250000115222225110111522522511100051151150000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.4,
+        "y": 0.15
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": -0.15
+      },
+      "PlatformType": 3
+    }
+  ]
+}

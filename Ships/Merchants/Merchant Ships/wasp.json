@@ -1,0 +1,45 @@
+{
+  "ItemType": 6,
+  "Id": 309,
+  "Name": "Wasp",
+  "Faction": 201,
+  "IconImage": "wasp icon.png",
+  "IconScale": 0.5,
+  "ModelImage": "wasp.png",
+  "ModelScale": 0.9,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "y": -0.9
+      }
+    }
+  ],
+  "Layout": "0000004000000000041414000000004141400000000422240000011112221111000011222110000011101011100001002220010000000222000000000022200000000005250000000000555000000000055500000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": 0.3
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": -0.3
+      },
+      "PlatformType": 3
+    }
+  ]
+}
