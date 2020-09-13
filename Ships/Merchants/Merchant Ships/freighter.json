@@ -3,10 +3,11 @@
   "Id": 312,
   "Name": "Freighter",
   "Faction": 201,
+  "SizeClass": 1,
   "IconImage": "freighter icon.png",
   "IconScale": 0.5,
   "ModelImage": "freighter.png",
-  "ModelScale": 0.9,
+  "ModelScale": 2.0,
   "EnginePosition": {
     "x": -0.8
   },

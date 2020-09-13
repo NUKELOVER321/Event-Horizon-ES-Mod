@@ -6,7 +6,7 @@
   "IconImage": "star barge icon.png",
   "IconScale": 0.5,
   "ModelImage": "star barge.png",
-  "ModelScale": 0.9,
+  "ModelScale": 1.0,
   "EnginePosition": {
     "x": -0.8
   },
