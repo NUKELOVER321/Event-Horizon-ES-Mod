@@ -4,7 +4,7 @@
   "Name": "Argosy",
   "Faction": 201,
   "IconImage": "argosy icon.png",
-  "IconScale": 0.5,
+  "IconScale": 0.75,
   "ModelImage": "argosy.png",
   "ModelScale": 1.5,
   "EnginePosition": {

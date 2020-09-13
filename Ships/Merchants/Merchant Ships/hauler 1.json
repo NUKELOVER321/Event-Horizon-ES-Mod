@@ -5,7 +5,7 @@
   "Faction": 201,
   "SizeClass": 1,
   "IconImage": "hauler 1 icon.png",
-  "IconScale": 0.5,
+  "IconScale": 0.75,
   "ModelImage": "hauler 1.png",
   "ModelScale": 2.0,
   "EnginePosition": {

@@ -4,7 +4,7 @@
   "Name": "Clipper",
   "Faction": 201,
   "IconImage": "clipper icon.png",
-  "IconScale": 0.5,
+  "IconScale": 0.75,
   "ModelImage": "clipper.png",
   "ModelScale": 1.0,
   "EnginePosition": {
