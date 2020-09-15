@@ -1,0 +1,39 @@
+{
+  "ItemType": 6,
+  "Id": 315,
+  "Name": "Blackbird",
+  "Faction": 201,
+  "SizeClass": 1,
+  "IconImage": "blackbird icon.png",
+  "IconScale": 0.75,
+  "ModelImage": "blackbird.png",
+  "ModelScale": 1.5,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.5,
+        "y": -0.6
+      }
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": -0.6
+      }
+    }
+  ],
+  "Layout": "0000000000000000100000000014100000000141000000001410000005222225000152222251011522222511115222225110000020000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.4
+      },
+      "PlatformType": 2
+    }
+  ]
+}

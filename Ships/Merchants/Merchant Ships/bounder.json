@@ -1,0 +1,38 @@
+{
+  "ItemType": 6,
+  "Id": 316,
+  "Name": "Bounder",
+  "Faction": 201,
+  "SizeClass": 1,
+  "IconImage": "bounder icon.png",
+  "IconScale": 0.75,
+  "ModelImage": "bounder.png",
+  "ModelScale": 1.5,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "y": -0.5
+      }
+    }
+  ],
+  "Layout": "0000001100000000000022000000000011221100000000002200000000000022000000000000220000000000002200000000044022044000000442222440000001135531100000011355311000000110000110000001000000100000010000001000",
+  "Barrels": [
+    {
+      "Position": {
+        "y": 0.4
+      },
+      "PlatformType": 2
+    },
+    {
+      "Position": {
+        "y": -0.4
+      },
+      "PlatformType": 2
+    }
+  ]
+}
