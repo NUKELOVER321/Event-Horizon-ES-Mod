@@ -28,3 +28,4 @@ Scout 317 317 1049-1051
 "Hauler 3" 320 320 1058-1060
 Behemoth 321 321 1061-1063
 "Bulk Freighter" 322 322 1064-1066
+"nGVF-AA fuelcell" 323 323
