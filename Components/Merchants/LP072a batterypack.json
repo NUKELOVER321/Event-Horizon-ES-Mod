@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1007,
+  "Name": "LP072a Battery Pack",
+  "Description": "A small battery pack sold by the Merchants.",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1007,
+  "Faction": 201,
+  "Icon": "LP072a batterypack.png",
+  "Layout": "1111",
+  "PossibleModifications": [
+    9
+  ]
+}

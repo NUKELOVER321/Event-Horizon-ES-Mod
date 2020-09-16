@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1006,
+  "Name": "LP036a Battery Pack",
+  "Description": "The smallest battery pack sold by the Merchants.",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1006,
+  "Faction": 201,
+  "Icon": "LP036a batterypack.png",
+  "Layout": "1",
+  "PossibleModifications": [
+    9
+  ]
+}

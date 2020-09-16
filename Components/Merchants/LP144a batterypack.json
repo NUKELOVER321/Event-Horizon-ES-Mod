@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1008,
+  "Name": "LP144a Battery Pack",
+  "Description": "A medium battery pack sold by the Merchants.",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1008,
+  "Faction": 201,
+  "Icon": "LP144a batterypack.png",
+  "Layout": "111111111",
+  "PossibleModifications": [
+    9
+  ]
+}
