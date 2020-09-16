@@ -6,7 +6,7 @@
   "Faction": 201,
   "SizeClass": 4,
   "IconImage": "behemoth icon.png",
-  "IconScale": 0.75,
+  "IconScale": 1.0,
   "ModelImage": "behemoth.png",
   "ModelScale": 2.5,
   "EnginePosition": {

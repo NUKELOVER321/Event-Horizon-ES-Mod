@@ -2,6 +2,7 @@
   "ItemType": 10,
   "Id": 1002,
   "ItemId": 1002,
+  "Faction": 201,
   "Price": 5,
   "Dependencies": [
     309,

@@ -3,6 +3,6 @@
   "Id": 204,
   "Name": "Syndicate",
   "Color": "#99CCFF",
-  "HomeStarDistance": 100,
-  "WanderingShipsDistance": 40
+  "HomeStarDistance": 50,
+  "WanderingShipsDistance": 20
 }

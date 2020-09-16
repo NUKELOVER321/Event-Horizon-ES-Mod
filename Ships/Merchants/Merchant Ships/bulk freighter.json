@@ -6,7 +6,7 @@
   "Faction": 201,
   "SizeClass": 4,
   "IconImage": "bulk freighter icon.png",
-  "IconScale": 0.75,
+  "IconScale": 1.0,
   "ModelImage": "bulk freighter.png",
   "ModelScale": 2.5,
   "EnginePosition": {
