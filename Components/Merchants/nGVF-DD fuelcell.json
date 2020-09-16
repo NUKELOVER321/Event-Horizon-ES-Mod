@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1004,
+  "Name": "nGVF-DD Fuel Cell",
+  "Description": "A large fuelcell for most civilian vessels.",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1004,
+  "Faction": 201,
+  "Icon": "nVGF-DD fuelcell.png",
+  "Layout": "1111111111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

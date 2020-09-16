@@ -1,11 +1,11 @@
 {
   "ItemType": 1,
-  "Id": 323,
+  "Id": 1001,
   "Name": "nGVF-AA Fuel Cell",
   "Description": "The smallest and weakest fuel cell sold by the Merchants.",
   "DisplayCategory": 3,
   "Availability": 1,
-  "ComponentStatsId": 323,
+  "ComponentStatsId": 1001,
   "Faction": 201,
   "Icon": "nVGF-AA fuelcell.png",
   "Layout": "1",

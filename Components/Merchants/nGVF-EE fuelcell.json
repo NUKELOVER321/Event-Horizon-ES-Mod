@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1005,
+  "Name": "nGVF-EE Fuel Cell",
+  "Description": "The largest commercially available fuelcell.",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1005,
+  "Faction": 201,
+  "Icon": "nVGF-EE fuelcell.png",
+  "Layout": "1111111111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}
