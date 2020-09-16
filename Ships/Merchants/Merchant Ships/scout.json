@@ -1,0 +1,47 @@
+{
+  "ItemType": 6,
+  "Id": 317,
+  "Name": "Scout",
+  "Faction": 201,
+  "SizeClass": 1,
+  "IconImage": "scout icon.png",
+  "IconScale": 0.75,
+  "ModelImage": "scout.png",
+  "ModelScale": 1.5,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.15,
+        "y": -0.8
+      }
+    },
+    {
+      "Position": {
+        "x": -0.15,
+        "y": -0.8
+      }
+    }
+  ],
+  "Layout": "0000001000000000000100000000000222000000000022200000000012221000000001222100000004122214000000422222400000042222240000001111111000001515151510000151515151000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.1,
+        "y": 0.4
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "x": 0.1,
+        "y": -0.4
+      },
+      "PlatformType": 3
+    }
+  ]
+}

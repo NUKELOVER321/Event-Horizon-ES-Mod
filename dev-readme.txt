@@ -20,7 +20,7 @@ Scanners as mix of rangemasters, reloaders, and damage boosters.
 
 Plans:
 
-Merchants: freighters and transports, interceptors, light warships, ion engines, fuelcells, nucleivoltaics, thermo ionics, batteries, shield gens
+Merchants: freighters and transports, interceptors, light warships, ion engines, fuel cells, nucleiovoltaics, thermal ionics, batteries, shield gens
 Pirates: all marauder ships, medium and heavy civilian warships, gatling gun, flamethrower
 Republic: appropriate vessels, armageddon reactor, scanners, atomics
 Syndicate: appropriate vessels, regenerators, nuke
@@ -32,3 +32,7 @@ Coalition: see above
 Wanderer: see above
 Korath: see above
 Quarg (Drak) + Pug: see above (buff arfecta and archon to fit), jump drive
+
+Add Kestrel as unique ship for those who assisted in making the mod.
+Make Arfecta and Emerald Sword uncraftable and require a quest chain.
+Make Arfecta the only moderately hard way to beat Archon.

@@ -3,7 +3,7 @@
   "Id": 315,
   "Name": "Blackbird",
   "Faction": 201,
-  "SizeClass": 1,
+  "SizeClass": 2,
   "IconImage": "blackbird icon.png",
   "IconScale": 0.75,
   "ModelImage": "blackbird.png",
