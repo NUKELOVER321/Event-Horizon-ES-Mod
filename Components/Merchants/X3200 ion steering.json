@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1016,
   "Name": "X3200 Ion Steering",
+  "Description": "A medium ion engine for civilian use.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1016,
@@ -10,8 +11,6 @@
   "Layout": "111111111",
   "CellType": "5",
   "PossibleModifications": [
-    2,
-    1,
     11
   ]
 }

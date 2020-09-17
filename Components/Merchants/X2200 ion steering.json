@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1014,
   "Name": "X2200 Ion Steering",
+  "Description": "A small ion engine for civilian use.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1014,
@@ -10,8 +11,6 @@
   "Layout": "1111",
   "CellType": "5",
   "PossibleModifications": [
-    2,
-    1,
     11
   ]
 }

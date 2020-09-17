@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1013,
   "Name": "X2700 Ion Thruster",
+  "Description": "A small ion engine for civilian use.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1013,
@@ -10,8 +11,6 @@
   "Layout": "1111",
   "CellType": "5",
   "PossibleModifications": [
-    2,
-    1,
     11
   ]
 }

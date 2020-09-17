@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1012,
   "Name": "X1200 Ion Steering",
+  "Description": "The smallest ion engines available for civilian use.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1012,
@@ -10,8 +11,6 @@
   "Layout": "1",
   "CellType": "5",
   "PossibleModifications": [
-    2,
-    1,
     11
   ]
 }
