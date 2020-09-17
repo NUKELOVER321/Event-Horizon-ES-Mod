@@ -39,3 +39,13 @@ Bactrian 323 323 1067-1069
 "LP144a Battery Pack" 1008 1008 1008
 "LP288a Battery Pack" 1009 1009 1009
 "LP576a Battery Pack" 1010 1010 1010
+"X1700 Ion Thruster"
+"X1200 Ion Steering"
+"X2700 Ion Thruster"
+"X2200 Ion Steering"
+"X31700 Ion Thruster"
+"X3200 Ion Steering"
+"X4700 Ion Thruster"
+"X4200 Ion Steering"
+"X5700 Ion Thruster"
+"X5200 Ion Steering"

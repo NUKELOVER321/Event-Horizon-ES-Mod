@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1018,
+  "Name": "X4200 Ion Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1018,
+  "Level": 5,
+  "Icon": "X4200 ion steering.png",
+  "Layout": "1111111111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    2,
+    1,
+    11
+  ]
+}
