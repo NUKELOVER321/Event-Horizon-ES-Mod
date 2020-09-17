@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1012,
+  "Name": "X1200 Ion Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1012,
+  "Level": 5,
+  "Icon": "X1200 ion steering.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    2,
+    1,
+    11
+  ]
+}

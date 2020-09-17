@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1011,
+  "Name": "X1700 Ion Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1011,
+  "Level": 5,
+  "Icon": "X1700 ion thruster.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    2,
+    1,
+    11
+  ]
+}

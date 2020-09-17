@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1016,
+  "Name": "X3200 Ion Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1016,
+  "Level": 5,
+  "Icon": "X3200 ion steering.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    2,
+    1,
+    11
+  ]
+}
