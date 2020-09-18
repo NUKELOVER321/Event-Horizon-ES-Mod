@@ -7,7 +7,7 @@
   "Availability": 1,
   "ComponentStatsId": 1001,
   "Faction": 201,
-  "Icon": "nVGF-AA fuelcell.png",
+  "Icon": "nGVF-AA fuelcell.png",
   "Layout": "1",
   "CellType": "2",
   "PossibleModifications": [

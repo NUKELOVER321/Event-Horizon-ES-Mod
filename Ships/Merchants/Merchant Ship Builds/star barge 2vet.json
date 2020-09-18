@@ -15,16 +15,6 @@
       "KeyBinding": 1
     },
     {
-      "ComponentId": 66,
-      "Modification": 9,
-      "Quality": 5,
-      "Locked": true,
-      "X": 1,
-      "Y": 5,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
       "ComponentId": 56,
       "Modification": 11,
       "Quality": 5,
@@ -266,6 +256,16 @@
       "Locked": true,
       "X": 3,
       "Y": 2
+    },
+    {
+      "ComponentId": 1007,
+      "Modification": 9,
+      "Quality": 5,
+      "Locked": true,
+      "X": 1,
+      "Y": 5,
+      "BarrelId": -1,
+      "KeyBinding": 1
     }
   ]
 }

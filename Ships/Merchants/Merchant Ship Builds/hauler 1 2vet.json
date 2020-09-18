@@ -250,7 +250,6 @@
       "X": 8,
       "Y": 14,
       "BarrelId": -1,
-      "Behaviour": -1,
       "KeyBinding": -1
     },
     {
@@ -261,7 +260,6 @@
       "X": 10,
       "Y": 9,
       "BarrelId": -1,
-      "Behaviour": -1,
       "KeyBinding": -1
     },
     {
@@ -272,7 +270,6 @@
       "X": 8,
       "Y": 9,
       "BarrelId": -1,
-      "Behaviour": -1,
       "KeyBinding": -1
     },
     {
@@ -283,7 +280,6 @@
       "X": 10,
       "Y": 8,
       "BarrelId": -1,
-      "Behaviour": -1,
       "KeyBinding": -1
     },
     {
@@ -294,7 +290,6 @@
       "X": 10,
       "Y": 7,
       "BarrelId": -1,
-      "Behaviour": -1,
       "KeyBinding": -1
     },
     {
