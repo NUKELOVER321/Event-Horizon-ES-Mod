@@ -1,0 +1,38 @@
+{
+  "ItemType": 6,
+  "Id": 326,
+  "Name": "Marauder Bounder",
+  "Faction": 202,
+  "IconImage": "marauder bounder icon.png",
+  "IconScale": 0.75,
+  "ModelImage": "marauder bounder.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.1,
+        "y": -0.8
+      }
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": -0.8
+      }
+    }
+  ],
+  "Layout": "0000000440000000000000044000000000000112211000000000011221100000000000022000000000000032230000000000003223000000000040022004000000004022220400000000422552240000000112255221100000011225522110000001111551111000000110000001100000011000000110000001000000001000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "PlatformType": 3
+    }
+  ]
+}

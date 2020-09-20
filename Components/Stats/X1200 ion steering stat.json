@@ -3,6 +3,6 @@
   "Id": 1012,
   "EnergyRechargeRate": -0.1,
   "Weight": 20.0,
-  "EnginePower": 0.5,
+  "EnginePower": 1.0,
   "TurnRate": 2.0
 }

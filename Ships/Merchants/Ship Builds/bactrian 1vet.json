@@ -1,0 +1,36 @@
+{
+  "ItemType": 8,
+  "Id": 1068,
+  "ShipId": 323,
+  "DifficultyClass": 1,
+  "Components": [
+    {
+      "ComponentId": 1017,
+      "Locked": true,
+      "X": 25,
+      "Y": 46,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1018,
+      "Locked": true,
+      "X": 21,
+      "Y": 46,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1010,
+      "Locked": true,
+      "X": 22,
+      "Y": 2,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1005,
+      "Locked": true,
+      "X": 23,
+      "Y": 41,
+      "BarrelId": -1
+    }
+  ]
+}

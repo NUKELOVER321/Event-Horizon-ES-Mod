@@ -1,0 +1,38 @@
+{
+  "ItemType": 6,
+  "Id": 324,
+  "Name": "Marauder Arrow",
+  "Faction": 202,
+  "IconImage": "marauder arrow icon.png",
+  "IconScale": 0.75,
+  "ModelImage": "marauder arrow.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.1,
+        "y": -0.8
+      }
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": -0.8
+      }
+    }
+  ],
+  "Layout": "000000040000000000000141000000000000141000000000000131000000000000333000000000000222000000000000222000000000000222000000000000222000000000000333000000000000535000000000001515100000000001515100000000011515110000000011010110000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "PlatformType": 3
+    }
+  ]
+}

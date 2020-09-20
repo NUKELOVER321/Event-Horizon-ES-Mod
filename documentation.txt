@@ -2,6 +2,7 @@
 
 ShipName ItemID TechID BuildIDRange (0vet, 1vet, 2vet)
 CompName ItemID StatID TechID
+WeaponName ItemID WeaponID AmmoID TechID (ComponentStatsId implied to be 1)
 ...
 
 Merchants
@@ -39,13 +40,20 @@ Bactrian 323 323 1067-1069
 "LP144a Battery Pack" 1008 1008 1008
 "LP288a Battery Pack" 1009 1009 1009
 "LP576a Battery Pack" 1010 1010 1010
-"X1700 Ion Thruster"
-"X1200 Ion Steering"
-"X2700 Ion Thruster"
-"X2200 Ion Steering"
-"X31700 Ion Thruster"
-"X3200 Ion Steering"
-"X4700 Ion Thruster"
-"X4200 Ion Steering"
-"X5700 Ion Thruster"
-"X5200 Ion Steering"
+"X1700 Ion Thruster" 1011 1011 1011
+"X1200 Ion Steering" 1012 1012 1012
+"X2700 Ion Thruster" 1013 1013 1013
+"X2200 Ion Steering" 1014 1014 1014
+"X3700 Ion Thruster" 1015 1015 1015
+"X3200 Ion Steering" 1016 1016 1016
+"X4700 Ion Thruster" 1017 1017 1017
+"X4200 Ion Steering" 1018 1018 1018
+"X5700 Ion Thruster" 1019 1019 1019
+"X5200 Ion Steering" 1020 1020 1020
+
+Pirates
+"Marauder Arrow" 324 324 1070-1072
+Headhunter 325 325 1073-1075
+"Marauder Bounder" 326 326 1076-1078
+(1021 is broken, idk why)
+"Quad Blaster" 1022 1022 1022 1022
