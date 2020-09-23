@@ -1,10 +1,9 @@
 {
   "ItemType": 1,
   "Id": 132,
-  "Name": "MissileLauncher_L_4",
+  "Name": "Heavy Missile Launcher M4",
   "DisplayCategory": 1,
   "ComponentStatsId": 1,
-  "Faction": -1,
   "Icon": "rocket1",
   "Color": "#FF0000",
   "Layout": "110110110",

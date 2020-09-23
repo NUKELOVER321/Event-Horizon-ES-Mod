@@ -2,8 +2,12 @@
 
 ShipName ItemID TechID BuildIDRange (0vet, 1vet, 2vet)
 CompName ItemID StatID TechID
-WeaponName ItemID WeaponID AmmoID TechID (ComponentStatsId implied to be 1)
+WeaponName ItemID WeaponID TechID (ComponentStatsId implied to be 1)
 ...
+
+Ammunition and Bullet Prefab IDs:
+Blasters: 1001, 1001
+
 
 Merchants
 
@@ -56,4 +60,5 @@ Pirates
 Headhunter 325 325 1073-1075
 "Marauder Bounder" 326 326 1076-1078
 (1021 is broken, idk why)
-"Quad Blaster" 1022 1022 1022 1022
+"Quad Blaster" 1022 1022 1022
+"Modified Blaster" 1023 1023 1023
