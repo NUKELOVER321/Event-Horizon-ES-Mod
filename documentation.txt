@@ -8,6 +8,8 @@ WeaponName ItemID WeaponID TechID (ComponentStatsId implied to be 1)
 Ammunition and Bullet Prefab IDs:
 Blasters: 1001, 1001
 
+Special ships:
+Kestrel 1000 10000
 
 Merchants
 

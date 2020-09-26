@@ -4,7 +4,6 @@
   "ItemId": 1009,
   "Faction": 201,
   "Price": 15,
-  "Hidden": true,
   "Dependencies": [
     1004
   ]

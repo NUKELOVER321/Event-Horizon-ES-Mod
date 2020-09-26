@@ -1,0 +1,31 @@
+{
+  "ItemType": 15,
+  "Id": 10001,
+  "QuestType": 1,
+  "StartCondition": 4,
+  "Weight": 1.0,
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "Welcome to the Endless Sky mod. You will receive the Super Kestrel as a reward for helping to test the beta versions of the mod.",
+      "Loot": 10000,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "Collect loot"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 35,
+      "DefaultTransition": 3,
+      "Loot": 10000
+    },
+    {
+      "Id": 3,
+      "Type": 40
+    }
+  ]
+}

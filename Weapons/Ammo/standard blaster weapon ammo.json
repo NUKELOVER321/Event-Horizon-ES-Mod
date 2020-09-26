@@ -2,9 +2,9 @@
   "ItemType": 25,
   "Id": 1001,
   "Body": {
-    "Size": 0.5,
+    "Size": 1.0,
     "Velocity": 20.0,
-    "Range": 10.0,
+    "Range": 20.0,
     "BulletPrefab": 1001,
     "EnergyCost": 2.0,
     "CanBeDisarmed": true
