@@ -5,6 +5,7 @@
   "ItemId": 95,
   "Price": 100,
   "Dependencies": [
-    264
+    250,
+    247
   ]
 }

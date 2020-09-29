@@ -4,8 +4,8 @@
   "Type": 1,
   "ItemId": 97,
   "Price": 100,
-  "Special": true,
   "Dependencies": [
-    264
+    250,
+    247
   ]
 }
