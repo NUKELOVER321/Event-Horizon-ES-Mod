@@ -1,11 +1,11 @@
 {
   "ItemType": 6,
-  "Id": 327,
-  "Name": "Modified Argosy",
+  "Id": 329,
+  "Name": "Marauder Fury",
   "Faction": 202,
-  "IconImage": "modified argosy icon.png",
+  "IconImage": "marauder fury icon.png",
   "IconScale": 0.75,
-  "ModelImage": "modified argosy.png",
+  "ModelImage": "marauder fury.png",
   "ModelScale": 1.0,
   "EnginePosition": {
     "x": -0.8

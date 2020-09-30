@@ -62,7 +62,6 @@ Bactrian 323 323 1067-1069
 
 Pirates
 "Marauder Arrow" 324 324 1070-1072
-Headhunter 325 325 1073-1075
 "Marauder Bounder" 326 326 1076-1078
 (1021 is broken, idk why)
 "Quad Blaster" 1022 1022 1022
@@ -71,3 +70,7 @@ Headhunter 325 325 1073-1075
 "Heavy Laser Turret" 1025 1025 1025
 "Modified Argosy" 327 327 327 1079-1081
 "Marauder Raven" 328 328 328 1082-1084
+"Marauder Fury" 329 329 329 1085-1087
+
+Syndicate
+Headhunter 325 325 1073-1075
