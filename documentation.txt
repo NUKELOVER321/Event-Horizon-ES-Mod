@@ -69,3 +69,5 @@ Headhunter 325 325 1073-1075
 "Modified Blaster" 1023 1023 1023
 "Laser Turret" 1024 1024 1024
 "Heavy Laser Turret" 1025 1025 1025
+"Modified Argosy" 327 327 327 1079-1081
+"Marauder Raven" 328 328 328 1082-1084
