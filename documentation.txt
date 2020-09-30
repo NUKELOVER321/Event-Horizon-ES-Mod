@@ -7,6 +7,9 @@ WeaponName ItemID WeaponID TechID (ComponentStatsId implied to be 1)
 
 Ammunition and Bullet Prefab IDs:
 Blasters: 1001, 1001
+Mod Blaster: 1002, 1001
+Laser: 1003, 1003
+Heavy Laser: 1004, 1004
 
 Special ships:
 Kestrel 1000 10000
@@ -64,3 +67,5 @@ Headhunter 325 325 1073-1075
 (1021 is broken, idk why)
 "Quad Blaster" 1022 1022 1022
 "Modified Blaster" 1023 1023 1023
+"Laser Turret" 1024 1024 1024
+"Heavy Laser Turret" 1025 1025 1025

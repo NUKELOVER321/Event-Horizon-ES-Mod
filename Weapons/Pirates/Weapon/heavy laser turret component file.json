@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 1025,
+  "Name": "Heavy Laser Beam Turret",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 202,
+  "Level": 115,
+  "Icon": "heavy laser turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1025,
+  "AmmunitionId": 1004,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    2,
+    7,
+    1
+  ]
+}
