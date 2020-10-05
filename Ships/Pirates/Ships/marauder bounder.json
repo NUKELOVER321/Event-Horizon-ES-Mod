@@ -15,14 +15,7 @@
   "Engines": [
     {
       "Position": {
-        "x": 0.1,
-        "y": -0.8
-      }
-    },
-    {
-      "Position": {
-        "x": -0.1,
-        "y": -0.8
+        "y": -0.5
       }
     }
   ],
@@ -31,6 +24,18 @@
     {
       "Position": {
         "x": 0.9
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "y": 0.45
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "y": -0.45
       },
       "PlatformType": 3
     }
