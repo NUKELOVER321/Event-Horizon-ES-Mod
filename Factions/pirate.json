@@ -3,5 +3,6 @@
   "Id": 202,
   "Name": "Pirates",
   "Color": "#C80000",
-  "HomeStarDistance": 30
+  "HomeStarDistance": 50,
+  "WanderingShipsDistance": 25
 }

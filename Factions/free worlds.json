@@ -3,6 +3,6 @@
   "Id": 205,
   "Name": "Free Worlds",
   "Color": "#0FAF00",
-  "HomeStarDistance": 75,
-  "WanderingShipsDistance": 40
+  "HomeStarDistance": 150,
+  "WanderingShipsDistance": 75
 }

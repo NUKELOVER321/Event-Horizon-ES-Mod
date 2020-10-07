@@ -10,6 +10,8 @@ Blasters: 1001, 1001
 Mod Blaster: 1002, 1001
 Laser: 1003, 1003
 Heavy Laser: 1004, 1004
+Meteor: 1005
+Sidewinder: 1006
 
 Special ships:
 Kestrel 1000 10000
@@ -71,6 +73,8 @@ Pirates
 "Modified Argosy" 327 327 327 1079-1081
 "Marauder Raven" 328 328 328 1082-1084
 "Marauder Fury" 329 329 329 1085-1087
+"Meteor Missile Launcher" 1026 1026 1026
+"Sidewinder Missile Launcher" 1027 1027 1027
 
 Syndicate
 Headhunter 325 325 1073-1075
