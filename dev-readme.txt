@@ -10,7 +10,7 @@ Modules start at 1001.
 
 Select ships from Remnant, Coalition, Wanderer, Korath, and all Quarg and Pug ships are to be made unavailable in smugglers.
 Quarg and Pug are intended as "gatekeeper" factions with super caps (Archon and Arfecta respectively) until the mod is fully balanced.
-Use existing images for reactors, batteries, and engines. Use recolored vanilla modules for weapons.
+Use existing images for reactors, batteries, weapons, and engines.
 Cooling is obsolete in EH - perhaps make them reduce energy consumption while have reactors increase consumption.
 To balance this, all vanilla reactors would also need energy consumption.
 Interference plating to be made as all-type resist armor.
@@ -23,11 +23,11 @@ Add quests for Emerald Sword, Arfecta (end game), and tributing planets.
 
 Plans:
 
-Merchants: freighters and transports, interceptors, light warships, ion engines, fuel cells, nucleiovoltaics, thermal ionics, batteries, shield gens
-Pirates: all marauder ships, medium and heavy civilian warships, gatling gun, flamethrower
-Republic: appropriate vessels, armageddon reactor, scanners, atomics
-Syndicate: appropriate vessels, regenerators, nuke
-Free Worlds: appropriate vessels, stack and fission reactors, plasma engines
+Merchants: freighters and transports, interceptors, light warships, ion engines, fuel cells, batteries
+Pirates: marauder ships, gatling gun, flamethrower, blasters, lasers
+Republic: appropriate vessels, armageddon reactor, scanners, atomic engines, largest shields, electron beam, particle cannon
+Syndicate: appropriate vessels, regenerators, nuke, radiothermal, thermionic, some shields, proton cannon
+Free Worlds: appropriate vessels, stack, dwarf, and fission reactors, plasma engines, some more shields, plasma cannons
 Drones scattered across the three main factions.
 Hai: appropriate ships, outfits, and drones
 Remnant: see above
