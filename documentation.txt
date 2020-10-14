@@ -75,6 +75,8 @@ Pirates
 "Marauder Fury" 329 329 329 1085-1087
 "Meteor Missile Launcher" 1026 1026 1026
 "Sidewinder Missile Launcher" 1027 1027 1027
+"Javelin Rocket Launcher" 1028 1028 1028
+"Gatling Gun" 1029 1029 1029
 
 Syndicate
 Headhunter 325 325 1073-1075

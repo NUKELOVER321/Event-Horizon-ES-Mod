@@ -7,6 +7,7 @@
   "Availability": 1,
   "ComponentStatsId": 1010,
   "Faction": 201,
+  "Level": 75,
   "Icon": "LP576a batterypack.png",
   "Layout": "0111011111111111111101110",
   "PossibleModifications": [

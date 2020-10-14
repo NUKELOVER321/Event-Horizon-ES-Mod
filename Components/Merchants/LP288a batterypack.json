@@ -7,6 +7,7 @@
   "Availability": 1,
   "ComponentStatsId": 1009,
   "Faction": 201,
+  "Level": 50,
   "Icon": "LP288a batterypack.png",
   "Layout": "1111111111111111",
   "PossibleModifications": [
