@@ -3,8 +3,8 @@
   "Id": 1008,
   "Body": {
     "Size": 1.0,
+    "Velocity": 50.0,
     "Range": 20.0,
-    "Lifetime": 0.1,
     "BulletPrefab": 1008,
     "EnergyCost": 3.5
   },
@@ -15,7 +15,6 @@
       "VisualEffect": 1
     }
   ],
-  "ImpactType": 2,
   "Effects": [
     {
       "Power": 5.0

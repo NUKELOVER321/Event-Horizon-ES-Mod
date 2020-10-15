@@ -4,8 +4,8 @@
   "Body": {
     "Type": 1,
     "Size": 1.0,
-    "Range": 20.0,
-    "Lifetime": 0.1,
+    "Velocity": 15.0,
+    "Range": 30.0,
     "BulletPrefab": 1005,
     "EnergyCost": 3.5
   },
@@ -13,12 +13,16 @@
     {
       "Condition": 3,
       "EffectType": 1,
-      "VisualEffect": 1
+      "VisualEffect": 4
+    },
+    {
+      "Condition": 2,
+      "EffectType": 3
     }
   ],
-  "ImpactType": 2,
   "Effects": [
     {
+      "DamageType": 2,
       "Power": 40.0
     }
   ]

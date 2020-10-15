@@ -12,6 +12,10 @@ Laser: 1003, 1003
 Heavy Laser: 1004, 1004
 Meteor: 1005
 Sidewinder: 1006
+Meteor: 1007
+Gatling Bullet: 1008
+Stock Missile Explode: 1009
+Stock Torpedo Explode: 1010
 
 Special ships:
 Kestrel 1000 10000
