@@ -4,19 +4,16 @@
   "Body": {
     "Size": 1.0,
     "Velocity": 15.0,
-    "Range": 30.0,
+    "Range": 65.0,
     "BulletPrefab": 1007,
-    "EnergyCost": 3.5
+    "EnergyCost": 1.0,
+    "CanBeDisarmed": true
   },
   "Triggers": [
     {
-      "Condition": 3,
+      "Condition": 2,
       "EffectType": 1,
       "VisualEffect": 2
-    },
-    {
-      "Condition": 2,
-      "EffectType": 3
     }
   ],
   "Effects": [

@@ -5,25 +5,24 @@
     "Type": 1,
     "Size": 1.0,
     "Velocity": 15.0,
-    "Range": 30.0,
+    "Range": 50.0,
+    "Weight": 0.1,
+    "HitPoints": 30,
     "BulletPrefab": 1006,
-    "EnergyCost": 3.5
+    "EnergyCost": 3.5,
+    "CanBeDisarmed": true
   },
   "Triggers": [
     {
-      "Condition": 3,
-      "EffectType": 1,
-      "VisualEffect": 2
-    },
-    {
       "Condition": 2,
-      "EffectType": 3
+      "EffectType": 1,
+      "VisualEffect": 4
     }
   ],
   "Effects": [
     {
       "DamageType": 2,
-      "Power": 40.0
+      "Power": 20.0
     }
   ]
 }
