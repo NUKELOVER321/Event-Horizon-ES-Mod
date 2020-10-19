@@ -16,6 +16,7 @@ Meteor: 1007
 Gatling Bullet: 1008
 Stock Missile Explode: 1009
 Stock Torpedo Explode: 1010
+Stock Laser Impact: 1011
 
 Special ships:
 Kestrel 1000 10000
