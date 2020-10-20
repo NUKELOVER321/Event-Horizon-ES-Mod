@@ -1,0 +1,53 @@
+{
+  "ItemType": 6,
+  "Id": 332,
+  "Name": "Manta",
+  "Faction": 203,
+  "IconImage": "manta icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "manta.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.4,
+        "y": -0.4
+      }
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -0.4
+      }
+    },
+    {
+      "Position": {
+        "y": -0.7
+      }
+    }
+  ],
+  "Layout": "000000020000000000000020000000000000020000000000000020000000000054424450000011154424451110011152222251110011152222251110001152222251100000152222251000000050222050000000000020000000000000555000000000000505000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.4,
+        "y": 0.3
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": -0.3
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}
