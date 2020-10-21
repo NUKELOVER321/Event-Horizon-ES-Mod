@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1031,
+  "Name": "NT200 Nucleovoltaic",
+  "Description": "Nucleivoltaics obtain energy from the decay of unstable isotopes.",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1031,
+  "Faction": 203,
+  "Level": 100,
+  "Icon": "NT200 nucleovoltaic.png",
+  "Layout": "111111111",
+  "PossibleModifications": [
+    9
+  ]
+}

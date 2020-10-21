@@ -93,3 +93,6 @@ Vanguard 334 334 1100-1102
 "Class C Freighter" 335 335 1103-1105
 Protector 336 336 1106-1108
 Barb 337 337 4001
+"RT-I Radiothermal" 1030 1030 1030
+"NT200 Nucleiovoltaic" 1031 1031 1031
+"S1 Thermionic" 1032 1032 1032

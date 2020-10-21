@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1030,
+  "Name": "RT-I Radiothermal",
+  "Description": "Radiothermals generate more power than fuel cells, but generate more heat.",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1030,
+  "Faction": 203,
+  "Level": 100,
+  "Icon": "RT-I radiothermal.png",
+  "Layout": "011111111",
+  "PossibleModifications": [
+    9
+  ]
+}

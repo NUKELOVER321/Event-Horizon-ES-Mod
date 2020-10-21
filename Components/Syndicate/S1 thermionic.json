@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1032,
+  "Name": "S1 Thermionic",
+  "Description": "Thermionics are a new development and are cooler than radiothermals.",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1032,
+  "Faction": 203,
+  "Level": 100,
+  "Icon": "S1 thermionic.png",
+  "Layout": "011111111",
+  "PossibleModifications": [
+    9
+  ]
+}
