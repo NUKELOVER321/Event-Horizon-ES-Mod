@@ -96,3 +96,4 @@ Barb 337 337 4001
 "RT-I Radiothermal" 1030 1030 1030
 "NT200 Nucleiovoltaic" 1031 1031 1031
 "S1 Thermionic" 1032 1032 1032
+"Dwarf Core" 1033 1033 1033

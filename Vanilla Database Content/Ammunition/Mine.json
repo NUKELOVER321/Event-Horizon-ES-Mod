@@ -9,8 +9,7 @@
     "HitPoints": 10,
     "Color": "#C0C0C0",
     "BulletPrefab": 9,
-    "CanBeDisarmed": true,
-    "FriendlyFire": true
+    "CanBeDisarmed": true
   },
   "Triggers": [
     {
@@ -24,6 +23,5 @@
       "Size": 10.0,
       "PowerMultiplier": 40.0
     }
-  ],
-  "Effects": []
+  ]
 }
