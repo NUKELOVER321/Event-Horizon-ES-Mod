@@ -8,7 +8,7 @@
   "IconImage": "bactrian icon.png",
   "IconScale": 1.0,
   "ModelImage": "bactrian.png",
-  "ModelScale": 5.0,
+  "ModelScale": 15.0,
   "EnginePosition": {
     "x": -0.8
   },

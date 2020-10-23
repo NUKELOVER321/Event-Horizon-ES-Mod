@@ -21,6 +21,15 @@ Stock Laser Impact: 1011
 Special ships:
 Kestrel 1000 10000
 
+Model sizes:
+0.5 for drones
+1.0 to 2.0 for frigates
+2.0 to 3.0 for destroyers
+3.0 to 4.0 for cruisers
+4.0 to 5.0 for battleships
+10.0 for caps
+15.0 to 20.0 for superbig ships (Heron, Bactrian, Kestrel Tester)
+
 Merchants
 
 Shuttle 301 301 1001-1003
@@ -92,7 +101,7 @@ Splinter 333 333 1097-1099
 Vanguard 334 334 1100-1102
 "Class C Freighter" 335 335 1103-1105
 Protector 336 336 1106-1108
-Barb 337 337 4001
+Barb 337 337 3001
 "RT-I Radiothermal" 1030 1030 1030
 "NT200 Nucleiovoltaic" 1031 1031 1031
 "S1 Thermionic" 1032 1032 1032
