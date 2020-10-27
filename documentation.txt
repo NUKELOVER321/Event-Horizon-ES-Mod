@@ -17,6 +17,9 @@ Gatling Bullet: 1008
 Stock Missile Explode: 1009
 Stock Torpedo Explode: 1010
 Stock Laser Impact: 1011
+Proton: 1012
+Torpedo: 1013
+Nuke: 1014
 
 Special ships:
 Kestrel 1000 10000
@@ -106,3 +109,6 @@ Barb 337 337 3001
 "NT200 Nucleiovoltaic" 1031 1031 1031
 "S1 Thermionic" 1032 1032 1032
 "Dwarf Core" 1033 1033 1033
+"Proton Gun" 1034 1034 1034
+Torpedo 1035 1035 1035
+"Nuclear Missile" 1036 1036 1036

@@ -1,0 +1,10 @@
+{
+  "ItemType": 27,
+  "Id": 1014,
+  "Shape": 1,
+  "Image": "nuke missile.png",
+  "Size": 1.0,
+  "Margins": 0.7,
+  "SecondColor": "#80FFFFFF",
+  "SecondColorMode": 2
+}
