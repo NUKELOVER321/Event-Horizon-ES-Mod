@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 5000,
+  "Name": "Dead Ringer",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 3,
+  "Faction": 16,
+  "Level": 175,
+  "Icon": "dead ringer.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "DeviceId": 5000,
+  "Restrictions": {
+    "UniqueComponentTag": "safeguard"
+  },
+  "PossibleModifications": [
+    2,
+    6
+  ]
+}

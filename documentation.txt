@@ -112,3 +112,6 @@ Barb 337 337 3001
 "Proton Gun" 1034 1034 1034
 Torpedo 1035 1035 1035
 "Nuclear Missile" 1036 1036 1036
+
+Special
+"Dead Ringer" 5000 5000 [N/A - no tech]
