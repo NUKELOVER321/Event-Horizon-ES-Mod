@@ -1,6 +1,7 @@
 {
   "ItemType": 10,
   "Id": 333,
+  "Type": 1,
   "ItemId": 333,
   "Faction": 203,
   "Price": 10,
