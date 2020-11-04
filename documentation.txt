@@ -22,7 +22,8 @@ Torpedo: 1013
 Nuke: 1014
 
 Special ships:
-Kestrel 1000 10000
+"Super Kestrel" 1000 10000
+"Star Fortress" 2000 20000
 
 Model sizes:
 0.5 for drones
@@ -110,7 +111,7 @@ Barb 337 337 3001
 "S1 Thermionic" 1032 1032 1032
 "Dwarf Core" 1033 1033 1033
 "Proton Gun" 1034 1034 1034
-Torpedo 1035 1035 1035
+"Torpedo Launcher" 1035 1035 1035
 "Nuclear Missile" 1036 1036 1036
 
 Special

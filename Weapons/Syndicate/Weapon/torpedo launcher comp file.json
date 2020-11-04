@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1035,
+  "Name": "Torpedo Launcher",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 203,
+  "Level": 75,
+  "Icon": "nuke.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1035,
+  "AmmunitionId": 1013,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}
