@@ -2,7 +2,7 @@
   "ItemType": 3,
   "Id": 1028,
   "FireRate": 12.0,
-  "Spread": 15.0,
+  "Spread": 8.0,
   "ActivationType": 1,
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "controls_missile"

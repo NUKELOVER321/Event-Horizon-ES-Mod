@@ -5,34 +5,38 @@ CompName ItemID StatID TechID
 WeaponName ItemID WeaponID TechID (ComponentStatsId implied to be 1)
 ...
 
-Ammunition and Bullet Prefab IDs:
-Blasters: 1001, 1001
-Mod Blaster: 1002, 1001
-Laser: 1003, 1003
-Heavy Laser: 1004, 1004
-Meteor: 1005
-Sidewinder: 1006
-Javelin: 1007
-Gatling Bullet: 1008
-Stock Missile Explode: 1009
-Stock Torpedo Explode: 1010
-Stock Laser Impact: 1011
-Proton: 1012
-Torpedo: 1013
-Nuke: 1014
+Ammunition, Bullet Prefab, and Impact Effect IDs (same for all):
+Blasters: 1001 1001 1001
+Mod Blaster: 1002 1001 1002
+Laser: 1003 1003 1003
+Heavy Laser: 1004 1004 1004
+Meteor: 1005 1005 1005
+Sidewinder: 1006 1006 1006
+Javelin: 1007 1007 1007
+Gatling Bullet: 1008 1008 1008
+Proton: 1009 1009 1009
+Torpedo: 1010 1010 1010
+Nuke: 1011 1011 1011
 
 Special ships:
 "Super Kestrel" 1000 10000
 "Star Fortress" 2000 20000
+Heron 3000 30000
+"Emerald Sword" 4000 40000
+
+Stock effects:
+Laser: 100
+Missile: 200
+Torpedo: 300
 
 Model sizes:
 0.5 for drones
-1.0 to 2.0 for frigates
-2.0 to 3.0 for destroyers
-3.0 to 4.0 for cruisers
-4.0 to 5.0 for battleships
-10.0 for caps
-15.0 to 20.0 for superbig ships (Heron, Bactrian, Kestrel Tester)
+1.0 for frigates
+2.0 for destroyers
+3.0  for cruisers
+4.0 for battleships
+5.0 for caps
+10.0+ for superbig ships (Heron, Bactrian, Kestrel Tester)
 
 Merchants
 

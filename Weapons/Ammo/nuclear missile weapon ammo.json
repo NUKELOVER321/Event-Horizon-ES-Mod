@@ -8,8 +8,8 @@
     "Range": 150.0,
     "Weight": 0.2,
     "HitPoints": 10,
-    "BulletPrefab": 1014,
-    "EnergyCost": 40.0,
+    "BulletPrefab": 1011,
+    "EnergyCost": 100.0,
     "CanBeDisarmed": true
   },
   "Triggers": [
@@ -22,7 +22,7 @@
   "Effects": [
     {
       "DamageType": 2,
-      "Power": 250.0
+      "Power": 1500.0
     }
   ]
 }

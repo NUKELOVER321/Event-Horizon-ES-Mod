@@ -4,10 +4,10 @@
   "Body": {
     "Type": 3,
     "Size": 1.0,
-    "Range": 20.0,
+    "Range": 40.0,
     "Lifetime": 0.1,
     "BulletPrefab": 1003,
-    "EnergyCost": 3.0
+    "EnergyCost": 6.0
   },
   "Triggers": [
     {
@@ -19,7 +19,7 @@
   "ImpactType": 2,
   "Effects": [
     {
-      "Power": 30.0
+      "Power": 27.0
     }
   ]
 }

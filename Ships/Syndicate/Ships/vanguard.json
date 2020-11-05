@@ -7,7 +7,7 @@
   "IconImage": "vanguard icon.png",
   "IconScale": 1.0,
   "ModelImage": "vanguard.png",
-  "ModelScale": 1.0,
+  "ModelScale": 3.0,
   "EnginePosition": {
     "x": -0.8
   },

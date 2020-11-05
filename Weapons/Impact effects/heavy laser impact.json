@@ -1,0 +1,12 @@
+{
+  "ItemType": 26,
+  "Id": 1004,
+  "Elements": [
+    {
+      "Type": 1,
+      "Image": "heavy laser impact.json",
+      "Size": 1.0,
+      "Lifetime": 0.2
+    }
+  ]
+}

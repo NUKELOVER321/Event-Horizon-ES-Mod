@@ -1,7 +1,7 @@
 {
   "ItemType": 8,
   "Id": 10000,
-  "ShipId": 1001,
+  "ShipId": 1000,
   "NotAvailableInGame": true,
   "Components": [
     {

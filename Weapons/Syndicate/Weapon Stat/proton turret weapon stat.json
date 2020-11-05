@@ -2,7 +2,7 @@
   "ItemType": 3,
   "Id": 1034,
   "WeaponClass": 4,
-  "FireRate": 10.0,
+  "FireRate": 7.5,
   "Spread": 20.0,
   "Magazine": 2,
   "ActivationType": 1,

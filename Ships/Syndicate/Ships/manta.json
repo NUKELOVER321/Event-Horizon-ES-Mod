@@ -6,7 +6,7 @@
   "IconImage": "manta icon.png",
   "IconScale": 1.0,
   "ModelImage": "manta.png",
-  "ModelScale": 1.0,
+  "ModelScale": 2.0,
   "EnginePosition": {
     "x": -0.8
   },

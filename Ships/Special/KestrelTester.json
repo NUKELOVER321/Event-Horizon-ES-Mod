@@ -1,8 +1,8 @@
 {
   "ItemType": 6,
-  "Id": 1001,
+  "Id": 1000,
   "ShipCategory": 3,
-  "Name": "Kestrel",
+  "Name": "Super Kestrel",
   "IconImage": "kestrel_icon.png",
   "IconScale": 1.2,
   "ModelImage": "kestrel.png",
