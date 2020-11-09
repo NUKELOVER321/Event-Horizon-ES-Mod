@@ -1,0 +1,48 @@
+{
+  "ItemType": 6,
+  "Id": 338,
+  "Name": "Aerie",
+  "Faction": 204,
+  "IconImage": "aerie icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "aerie.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.9
+      }
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": -0.9
+      }
+    }
+  ],
+  "Layout": "000000101000000000001101100000000001404100000000004404400000000014404410000000011404110000000012222210000000012222210000000012222210000000012222210000000112222211000001112222211100001112222211100000055505550000000055505550000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8,
+        "y": 0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

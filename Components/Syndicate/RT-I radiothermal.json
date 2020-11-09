@@ -10,6 +10,7 @@
   "Level": 100,
   "Icon": "RT-I radiothermal.png",
   "Layout": "011111111",
+  "CellType": "2",
   "PossibleModifications": [
     9
   ]

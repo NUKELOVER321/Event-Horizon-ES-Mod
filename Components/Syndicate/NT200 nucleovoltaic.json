@@ -10,6 +10,7 @@
   "Level": 100,
   "Icon": "NT200 nucleovoltaic.png",
   "Layout": "111111111",
+  "CellType": "2",
   "PossibleModifications": [
     9
   ]

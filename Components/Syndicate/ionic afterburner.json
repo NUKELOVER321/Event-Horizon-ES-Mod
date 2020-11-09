@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 1037,
+  "Name": "Ionic Afterburner",
+  "Description": "For when the standard afterburner isn't fast enough.",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 203,
+  "Level": 100,
+  "Icon": "ionic afterburner.png",
+  "Layout": "1111",
+  "CellType": "5",
+  "DeviceId": 1037,
+  "Restrictions": {
+    "UniqueComponentTag": "afterburner"
+  },
+  "PossibleModifications": [
+    2,
+    1,
+    6
+  ]
+}

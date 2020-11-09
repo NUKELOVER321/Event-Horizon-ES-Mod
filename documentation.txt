@@ -3,6 +3,7 @@
 ShipName ItemID TechID BuildIDRange (0vet, 1vet, 2vet)
 CompName ItemID StatID TechID
 WeaponName ItemID WeaponID TechID (ComponentStatsId implied to be 1)
+DroneName DronebayID CompID ShipID TechID
 ...
 
 Ammunition, Bullet Prefab, and Impact Effect IDs (same for all):
@@ -109,7 +110,7 @@ Splinter 333 333 1097-1099
 Vanguard 334 334 1100-1102
 "Class C Freighter" 335 335 1103-1105
 Protector 336 336 1106-1108
-Barb 337 337 3001
+Barb 3001 3001 3001 3001
 "RT-I Radiothermal" 1030 1030 1030
 "NT200 Nucleiovoltaic" 1031 1031 1031
 "S1 Thermionic" 1032 1032 1032
@@ -117,6 +118,15 @@ Barb 337 337 3001
 "Proton Gun" 1034 1034 1034
 "Torpedo Launcher" 1035 1035 1035
 "Nuclear Missile" 1036 1036 1036
+"Ionic Afterburner" 1037 1037 1037
+"S270 Regenerator" 1038 1038 1038
+"S970 Regenerator" 1039 1039 1039
 
 Special
 "Dead Ringer" 5000 5000 [N/A - no tech]
+
+FW
+Firebird 337 337 337 1109-1111
+Aeria 338 338 338 1112-1114
+Bastion 339 339 339 1115-1117
+Mule 340 340 340 1118-1120

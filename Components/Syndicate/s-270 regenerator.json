@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1038,
+  "Name": "S-270 Regenerator",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1038,
+  "Faction": 203,
+  "Level": 100,
+  "Icon": "s270 regenerator.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    15
+  ]
+}
