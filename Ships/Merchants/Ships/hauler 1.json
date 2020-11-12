@@ -3,9 +3,9 @@
   "Id": 313,
   "Name": "Hauler 1",
   "Faction": 201,
-  "SizeClass": 2,
+  "SizeClass": 1,
   "IconImage": "hauler 1 icon.png",
-  "IconScale": 0.75,
+  "IconScale": 1.0,
   "ModelImage": "hauler 1.png",
   "ModelScale": 2.0,
   "EnginePosition": {
@@ -34,28 +34,32 @@
         "x": 0.3,
         "y": 0.15
       },
-      "PlatformType": 2
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": 0.3,
         "y": -0.15
       },
-      "PlatformType": 2
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": -0.5,
         "y": 0.3
       },
-      "PlatformType": 2
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": -0.5,
         "y": -0.3
       },
-      "PlatformType": 2
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
     }
   ]
 }

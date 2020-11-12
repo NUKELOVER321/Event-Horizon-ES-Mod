@@ -3,9 +3,9 @@
   "Id": 335,
   "Type": 1,
   "ItemId": 335,
-  "Faction": 203,
   "Price": 40,
   "Dependencies": [
-    334
+    334,
+    333
   ]
 }

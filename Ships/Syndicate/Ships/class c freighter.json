@@ -4,6 +4,7 @@
   "ShipCategory": 2,
   "Name": "Class C freighter",
   "Faction": 203,
+  "SizeClass": 4,
   "IconImage": "bulk freighter icon.png",
   "IconScale": 1.0,
   "ModelImage": "bulk freighter.png",

@@ -130,3 +130,25 @@ Firebird 337 337 337 1109-1111
 Aeria 338 338 338 1112-1114
 Bastion 339 339 339 1115-1117
 Mule 340 340 340 1118-1120
+Osprey 341 341 341 1121-1123
+Nest 342 342 342 1124-1126
+Roost 343 343 343 1127-1129
+Skein 344 344 344 1130-1132
+Dreadnought 345 345 345 1133-1135
+Dagger 3002 3002 3002 3002
+Finch 3003 3003 3003 3003  [progress]
+"Chipmunk Plasma Thruster" 1040 1040 1040
+"Chipmunk Plasma Steering" 1041 1041 1041
+"Greyhound Plasma Thruster" 1042 1042 1042
+"Greyhound Plasma Steering" 1043 1043 1043
+"Impala Plasma Thruster" 1044 1044 1044
+"Impala Plasma Steering" 1045 1045 1045
+"Orca Plasma Thruster" 1046 1046 1046
+"Orca Plasma Steering" 1047 1047 1047
+"Tyrant Plasma Thruster" 1048 1048 1048
+"Tyrant Plasma Steering" 1049 1049 1049
+"Heavy Rocket" 1050 1050 1050
+"Plasma Cannon" 1051 1051 1051
+"Fission Reactor" 1052 1052 1052
+"Breeder Reactor" 1053 1053 1053
+"Stack Core" 1054 1054 1054

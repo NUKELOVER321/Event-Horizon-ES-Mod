@@ -1,0 +1,65 @@
+{
+  "ItemType": 6,
+  "Id": 343,
+  "Name": "Roost",
+  "Faction": 204,
+  "SizeClass": 2,
+  "IconImage": "roost icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "roost.png",
+  "ModelScale": 3.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.9
+      }
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": -0.9
+      }
+    }
+  ],
+  "Layout": "0000000001000000000000000000100000000000000000111000000000000000022200000000000000042224000000000000004111400000000000000422240000000000000002220000000000000000222000000000000000011100000000000000001110000000000000000222000000000000004422244000000000000442224400000000000044010440000000000001111111000000000000551115500000000000155111551000000000110000000110000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.5,
+        "y": 0.2
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.5,
+        "y": -0.2
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": 0.2
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": -0.2
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

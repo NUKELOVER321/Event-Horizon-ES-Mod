@@ -3,6 +3,7 @@
   "Id": 311,
   "Name": "Argosy",
   "Faction": 201,
+  "SizeClass": 1,
   "IconImage": "argosy icon.png",
   "IconScale": 0.75,
   "ModelImage": "argosy.png",

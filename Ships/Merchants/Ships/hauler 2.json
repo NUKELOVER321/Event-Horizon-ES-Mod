@@ -5,9 +5,9 @@
   "Faction": 201,
   "SizeClass": 2,
   "IconImage": "hauler 2 icon.png",
-  "IconScale": 0.75,
+  "IconScale": 1.0,
   "ModelImage": "hauler 2.png",
-  "ModelScale": 2.0,
+  "ModelScale": 3.0,
   "EnginePosition": {
     "x": -0.8
   },
@@ -34,28 +34,32 @@
         "x": 0.5,
         "y": 0.2
       },
-      "PlatformType": 2
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": 0.5,
         "y": -0.2
       },
-      "PlatformType": 2
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": -0.5,
         "y": 0.2
       },
-      "PlatformType": 2
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": -0.5,
         "y": -0.2
       },
-      "PlatformType": 2
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
     }
   ]
 }

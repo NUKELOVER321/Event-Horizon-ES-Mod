@@ -1,0 +1,63 @@
+{
+  "ItemType": 6,
+  "Id": 341,
+  "Name": "Osprey",
+  "Faction": 204,
+  "SizeClass": 2,
+  "IconImage": "osprey icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "osprey.png",
+  "ModelScale": 3.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.9
+      }
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": -0.9
+      }
+    }
+  ],
+  "Layout": "0000000000000000000000000000022000000000000000000220000000000000004422224400000000000044222244000000000000442222440000000000001122221100000000000011222211000000000000112222110000000000441122221144000000004411222211440000000044112222114400000000111122221111000000001111222211110000000011112222111100000000111122221111000000001111222211110000000015555555555100000000155550055551000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.7,
+        "y": 0.3
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": -0.3
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "y": 0.5
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "y": -0.5
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

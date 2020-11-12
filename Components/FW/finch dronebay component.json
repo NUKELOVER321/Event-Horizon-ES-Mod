@@ -1,0 +1,20 @@
+{
+  "ItemType": 1,
+  "Id": 3003,
+  "Name": "Finch",
+  "DisplayCategory": 5,
+  "ComponentStatsId": 3003,
+  "Faction": 204,
+  "Icon": "finch icon.png",
+  "Layout": "111111111",
+  "CellType": "1",
+  "DroneBayId": 3003,
+  "DroneId": 3003,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    2
+  ]
+}

@@ -3,6 +3,7 @@
   "Id": 328,
   "Name": "Marauder Raven",
   "Faction": 202,
+  "SizeClass": 1,
   "IconImage": "marauder raven icon.png",
   "IconScale": 0.75,
   "ModelImage": "marauder raven.png",

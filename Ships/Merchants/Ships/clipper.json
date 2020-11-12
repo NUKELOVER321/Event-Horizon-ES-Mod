@@ -3,6 +3,7 @@
   "Id": 310,
   "Name": "Clipper",
   "Faction": 201,
+  "SizeClass": 1,
   "IconImage": "clipper icon.png",
   "IconScale": 0.75,
   "ModelImage": "clipper.png",
