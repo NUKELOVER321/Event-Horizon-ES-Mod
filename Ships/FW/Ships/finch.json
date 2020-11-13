@@ -16,25 +16,27 @@
   "Engines": [
     {
       "Position": {
-        "x": 0.3,
-        "y": -0.8
-      }
-    },
-    {
-      "Position": {
-        "x": -0.3,
-        "y": -0.8
+        "y": -0.9
       }
     }
   ],
-  "Layout": "4410044100122101221005050",
+  "Layout": "0001100000011000004224000142241000422400000220000015510000055000",
   "Barrels": [
     {
       "Position": {
-        "x": 0.9,
-        "y": 0.5
+        "x": 0.5,
+        "y": 0.4
       },
-      "PlatformType": 3
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.5,
+        "y": -0.4
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
     }
   ]
 }

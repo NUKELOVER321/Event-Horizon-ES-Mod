@@ -7,7 +7,7 @@
   "IconImage": "corvette icon.png",
   "IconScale": 1.0,
   "ModelImage": "corvette.png",
-  "ModelScale": 2.0,
+  "ModelScale": 3.0,
   "EnginePosition": {
     "x": -0.8
   },

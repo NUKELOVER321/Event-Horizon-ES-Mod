@@ -34,7 +34,7 @@ Model sizes:
 0.5 for drones
 1.0 for frigates
 2.0 for destroyers
-3.0  for cruisers
+3.0 for cruisers
 4.0 for battleships
 5.0 for caps
 10.0+ for superbig ships (Heron, Bactrian, Kestrel Tester)
@@ -84,6 +84,7 @@ Bactrian 323 323 1067-1069
 "X4200 Ion Steering" 1018 1018 1018
 "X5700 Ion Thruster" 1019 1019 1019
 "X5200 Ion Steering" 1020 1020 1020
+Boxwing 3004 3004 3004 3004
 
 Pirates
 "Marauder Arrow" 324 324 1070-1072

@@ -7,7 +7,7 @@
   "IconImage": "firebird icon.png",
   "IconScale": 1.0,
   "ModelImage": "firebird.png",
-  "ModelScale": 1.0,
+  "ModelScale": 2.0,
   "EnginePosition": {
     "x": -0.8
   },
@@ -16,13 +16,25 @@
   "Engines": [
     {
       "Position": {
-        "x": 0.3,
+        "x": 0.4,
+        "y": -0.8
+      }
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -0.8
+      }
+    },
+    {
+      "Position": {
+        "x": 0.1,
         "y": -0.9
       }
     },
     {
       "Position": {
-        "x": -0.3,
+        "x": -0.1,
         "y": -0.9
       }
     }
@@ -31,16 +43,16 @@
   "Barrels": [
     {
       "Position": {
-        "x": 0.8,
-        "y": 0.1
+        "x": 0.4,
+        "y": 0.4
       },
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     },
     {
       "Position": {
-        "x": 0.8,
-        "y": -0.1
+        "x": 0.4,
+        "y": -0.4
       },
       "PlatformType": 3,
       "WeaponClass": "CLTM"

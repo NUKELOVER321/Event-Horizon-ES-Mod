@@ -8,12 +8,12 @@
   "IconImage": "protector icon.png",
   "IconScale": 1.0,
   "ModelImage": "protector.png",
-  "ModelScale": 4.0,
+  "ModelScale": 5.0,
   "EnginePosition": {
     "x": -0.8
   },
   "EngineColor": "#24D8DA",
-  "EngineSize": 0.1,
+  "EngineSize": 1.0,
   "Engines": [
     {
       "Position": {

@@ -1,0 +1,43 @@
+{
+  "ItemType": 6,
+  "Id": 3004,
+  "ShipCategory": 6,
+  "Name": "Boxwing",
+  "Faction": 201,
+  "IconImage": "boxwing icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "boxwing.png",
+  "ModelScale": 0.5,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.6,
+        "y": 0.3
+      }
+    },
+    {
+      "Position": {
+        "x": 0.6,
+        "y": -0.6
+      }
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": 0.3
+      }
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": -0.6
+      }
+    }
+  ],
+  "Layout": "0011100001110005111500033300002220005222500022200"
+}

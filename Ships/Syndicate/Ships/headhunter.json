@@ -2,9 +2,9 @@
   "ItemType": 6,
   "Id": 325,
   "Name": "Headhunter",
-  "Faction": 202,
+  "Faction": 203,
   "IconImage": "headhunter icon.png",
-  "IconScale": 0.75,
+  "IconScale": 1.0,
   "ModelImage": "headhunter.png",
   "ModelScale": 1.0,
   "EnginePosition": {

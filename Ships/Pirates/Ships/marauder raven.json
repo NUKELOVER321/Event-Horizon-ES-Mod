@@ -5,9 +5,9 @@
   "Faction": 202,
   "SizeClass": 1,
   "IconImage": "marauder raven icon.png",
-  "IconScale": 0.75,
+  "IconScale": 1.0,
   "ModelImage": "marauder raven.png",
-  "ModelScale": 1.0,
+  "ModelScale": 1.5,
   "EnginePosition": {
     "x": -0.8
   },
