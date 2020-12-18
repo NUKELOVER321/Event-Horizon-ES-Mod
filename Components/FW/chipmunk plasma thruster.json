@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1040,
+  "Name": "Chipmunk Plasma Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1040,
+  "Level": 100,
+  "Icon": "chipmunk thruster.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

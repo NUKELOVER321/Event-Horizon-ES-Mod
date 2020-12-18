@@ -137,7 +137,7 @@ Roost 343 343 343 1127-1129
 Skein 344 344 344 1130-1132
 Dreadnought 345 345 345 1133-1135
 Dagger 3002 3002 3002 3002
-Finch 3003 3003 3003 3003  [progress]
+Finch 3003 3003 3003 3003
 "Chipmunk Plasma Thruster" 1040 1040 1040
 "Chipmunk Plasma Steering" 1041 1041 1041
 "Greyhound Plasma Thruster" 1042 1042 1042
@@ -147,7 +147,7 @@ Finch 3003 3003 3003 3003  [progress]
 "Orca Plasma Thruster" 1046 1046 1046
 "Orca Plasma Steering" 1047 1047 1047
 "Tyrant Plasma Thruster" 1048 1048 1048
-"Tyrant Plasma Steering" 1049 1049 1049
+"Tyrant Plasma Steering" 1049 1049 1049 [progress]
 "Heavy Rocket" 1050 1050 1050
 "Plasma Cannon" 1051 1051 1051
 "Fission Reactor" 1052 1052 1052

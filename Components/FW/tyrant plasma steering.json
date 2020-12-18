@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1049,
+  "Name": "Tyrant Plasma Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1049,
+  "Level": 175,
+  "Icon": "tyrant steering.png",
+  "Layout": "0111011111111111111101110",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1046,
+  "Name": "Orca Plasma Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1046,
+  "Level": 150,
+  "Icon": "orca thruster.png",
+  "Layout": "1111111111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1042,
+  "Name": "Greyhound Plasma Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1042,
+  "Level": 110,
+  "Icon": "greyhound thruster.png",
+  "Layout": "1111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

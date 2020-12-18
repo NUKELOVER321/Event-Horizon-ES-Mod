@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1044,
+  "Name": "Impala Plasma Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1044,
+  "Level": 125,
+  "Icon": "impala thruster.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

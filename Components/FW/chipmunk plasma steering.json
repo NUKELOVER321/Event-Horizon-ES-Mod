@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1041,
+  "Name": "Chipmunk Plasma Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1041,
+  "Level": 100,
+  "Icon": "chipmunk steering.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

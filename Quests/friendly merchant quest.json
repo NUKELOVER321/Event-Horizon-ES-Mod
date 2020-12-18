@@ -1,0 +1,33 @@
+{
+  "ItemType": 15,
+  "Id": 10002,
+  "Name": "Friendly merchants",
+  "QuestType": 2,
+  "StartCondition": 2,
+  "Weight": 1.0,
+  "Origin": {
+    "Type": 1,
+    "Factions": {
+      "Type": 1,
+      "List": [
+        201
+      ]
+    },
+    "MaxDistance": 9999
+  },
+  "Requirement": {
+    "Type": 16
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 51,
+      "DefaultTransition": 2,
+      "Value": 100
+    },
+    {
+      "Id": 2,
+      "Type": 40
+    }
+  ]
+}
