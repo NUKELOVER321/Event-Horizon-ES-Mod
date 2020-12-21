@@ -8,7 +8,7 @@
   "ComponentStatsId": 1017,
   "Level": 50,
   "Icon": "X4700 ion thruster.png",
-  "Layout": "1111111111111111",
+  "Layout": "0110111111111100",
   "CellType": "5",
   "PossibleModifications": [
     11
