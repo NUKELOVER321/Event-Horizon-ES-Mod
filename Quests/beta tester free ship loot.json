@@ -26,15 +26,6 @@
           "MinAmount": 1000,
           "MaxAmount": 1000
         }
-      },
-      {
-        "Weight": 1.0,
-        "Loot": {
-          "Type": 35,
-          "ItemId": 5000,
-          "MinAmount": 1,
-          "MaxAmount": 1
-        }
       }
     ]
   }

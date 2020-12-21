@@ -1,0 +1,40 @@
+{
+  "ItemType": 26,
+  "Id": 400,
+  "Elements": [
+    {
+      "Type": 2,
+      "Image": "wave",
+      "ColorMode": 2,
+      "Size": 50.0,
+      "Lifetime": 5.0
+    },
+    {
+      "Type": 1,
+      "Image": "star",
+      "ColorMode": 2,
+      "Size": 15.0,
+      "Lifetime": 5.0
+    },
+    {
+      "Type": 4,
+      "Image": "CloudWhite",
+      "ColorMode": 2,
+      "Size": 12.5,
+      "Lifetime": 5.0
+    },
+    {
+      "Type": 3,
+      "Image": "CloudWhite",
+      "ColorMode": 1,
+      "Color": "#FFFF00",
+      "Size": 10.0,
+      "Lifetime": 5.0
+    },
+    {
+      "Type": 5,
+      "Size": 20.0,
+      "Lifetime": 5.0
+    }
+  ]
+}

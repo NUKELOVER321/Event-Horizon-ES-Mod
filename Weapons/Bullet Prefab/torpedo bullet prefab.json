@@ -2,5 +2,8 @@
   "ItemType": 27,
   "Id": 1010,
   "Image": "torpedo.png",
-  "Size": 1.0
+  "Size": 1.0,
+  "Margins": 0.7,
+  "SecondColor": "#80FFFFFF",
+  "SecondColorMode": 2
 }

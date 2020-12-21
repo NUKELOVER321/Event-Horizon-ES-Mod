@@ -25,10 +25,11 @@ Special ships:
 Heron 3000 30000
 "Emerald Sword" 4000 40000
 
-Stock effects:
-Laser: 100
-Missile: 200
-Torpedo: 300
+Effects:
+Stock Laser: 100
+Stock Missile: 200
+Stock Torpedo: 300
+Nuke: 400
 
 Model sizes:
 0.5 for drones
