@@ -8,7 +8,7 @@
     "Range": 150.0,
     "Weight": 0.2,
     "HitPoints": 10,
-    "BulletPrefab": 1011,
+    "BulletPrefab": 10114,
     "EnergyCost": 100.0,
     "CanBeDisarmed": true
   },
