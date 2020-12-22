@@ -1,17 +1,14 @@
 {
   "ItemType": 15,
   "Id": 10003,
-  "Name": "Friendly human factions",
+  "Name": "Friendly Merchant nodes",
   "StartCondition": 2,
   "Weight": 1.0,
   "Origin": {
     "Factions": {
       "Type": 1,
       "List": [
-        201,
-        204,
-        205,
-        203
+        201
       ]
     },
     "MaxDistance": 9999,
@@ -21,7 +18,7 @@
   "Requirement": {
     "Type": 8
   },
-  "Level": 1000,
+  "Level": 1,
   "Nodes": [
     {
       "Id": 1,

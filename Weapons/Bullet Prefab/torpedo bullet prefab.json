@@ -1,9 +1,11 @@
 {
   "ItemType": 27,
   "Id": 1010,
+  "Shape": 1,
   "Image": "torpedo.png",
   "Size": 1.0,
   "Margins": 0.7,
-  "SecondColor": "#80FFFFFF",
+  "MainColor": "#00FFFFFF",
+  "SecondColor": "#00FFFFFF",
   "SecondColorMode": 2
 }

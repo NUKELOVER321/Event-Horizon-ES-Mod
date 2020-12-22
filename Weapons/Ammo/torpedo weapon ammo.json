@@ -7,7 +7,7 @@
     "Velocity": 10.0,
     "Range": 60.0,
     "Weight": 0.2,
-    "HitPoints": 20,
+    "HitPoints": 25,
     "BulletPrefab": 1010,
     "EnergyCost": 6.0,
     "CanBeDisarmed": true
@@ -16,7 +16,7 @@
     {
       "Condition": 2,
       "EffectType": 1,
-      "VisualEffect": 4
+      "VisualEffect": 500
     }
   ],
   "Effects": [

@@ -30,6 +30,7 @@ Stock Laser: 100
 Stock Missile: 200
 Stock Torpedo: 300
 Nuke: 400
+Big Torpedo: 500
 
 Model sizes:
 0.5 for drones
