@@ -1,7 +1,7 @@
 {
   "ItemType": 1,
-  "Id": 1026,
-  "Name": "Meteor Missile Launcher",
+  "Id": 1027,
+  "Name": "Sidewinder Missile Launcher",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,
@@ -10,8 +10,8 @@
   "Icon": "meteor missile launcher.png",
   "Layout": "1111",
   "CellType": "4",
-  "WeaponId": 1026,
-  "AmmunitionId": 1005,
+  "WeaponId": 1027,
+  "AmmunitionId": 1027,
   "WeaponSlotType": "M",
   "PossibleModifications": [
     16,

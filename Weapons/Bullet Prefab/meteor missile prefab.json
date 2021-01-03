@@ -1,9 +1,9 @@
 {
   "ItemType": 27,
-  "Id": 1005,
+  "Id": 1026,
   "Shape": 1,
   "Image": "meteor missile.png",
-  "Size": 1.0,
+  "Size": 0.75,
   "Margins": 0.7,
   "SecondColor": "#80FFFFFF",
   "SecondColorMode": 2

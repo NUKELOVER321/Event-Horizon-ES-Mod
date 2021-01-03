@@ -1,11 +1,11 @@
 {
   "ItemType": 25,
-  "Id": 1019,
+  "Id": 1034,
   "Body": {
     "Size": 1.0,
     "Velocity": 20.0,
     "Range": 25.0,
-    "BulletPrefab": 1009,
+    "BulletPrefab": 1034,
     "EnergyCost": 3.0
   },
   "Triggers": [
@@ -17,7 +17,7 @@
   ],
   "Effects": [
     {
-      "Power": 15.0
+      "Power": 23.1
     }
   ]
 }

@@ -1,11 +1,8 @@
 {
   "ItemType": 8,
   "Id": 1009,
-  "Disabled": false,
   "ShipId": 303,
-  "NotAvailableInGame": false,
   "DifficultyClass": 2,
-  "BuildFaction": 0,
   "Components": [
     {
       "ComponentId": 11,
@@ -15,7 +12,6 @@
       "X": 6,
       "Y": 5,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -26,7 +22,6 @@
       "X": 5,
       "Y": 7,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -37,7 +32,6 @@
       "X": 3,
       "Y": 7,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -48,7 +42,6 @@
       "X": 6,
       "Y": 7,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -59,7 +52,6 @@
       "X": 2,
       "Y": 7,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -70,7 +62,6 @@
       "X": 3,
       "Y": 5,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -81,7 +72,6 @@
       "X": 4,
       "Y": 8,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": -1
     },
     {
@@ -92,7 +82,6 @@
       "X": 5,
       "Y": 5,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": -1
     },
     {
@@ -103,7 +92,6 @@
       "X": 3,
       "Y": 5,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": -1
     },
     {
@@ -114,7 +102,6 @@
       "X": 6,
       "Y": 3,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -125,7 +112,6 @@
       "X": 6,
       "Y": 4,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -136,7 +122,6 @@
       "X": 2,
       "Y": 3,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -147,18 +132,14 @@
       "X": 2,
       "Y": 4,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
       "ComponentId": 78,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 5,
       "Y": 2,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -169,7 +150,6 @@
       "X": 3,
       "Y": 2,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -180,7 +160,6 @@
       "X": 5,
       "Y": 3,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -191,7 +170,6 @@
       "X": 3,
       "Y": 3,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -202,7 +180,6 @@
       "X": 3,
       "Y": 4,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -213,19 +190,13 @@
       "X": 5,
       "Y": 4,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
       "ComponentId": 113,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 3,
-      "Y": 2,
-      "BarrelId": 0,
-      "Behaviour": 0,
-      "KeyBinding": 0
+      "Y": 2
     },
     {
       "ComponentId": 11,
@@ -235,29 +206,22 @@
       "X": 1,
       "Y": 5,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1006,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 6,
       "Y": 8,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1006,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 2,
       "Y": 8,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -266,9 +230,7 @@
       "Quality": 5,
       "Locked": true,
       "X": 4,
-      "Y": 0,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -279,7 +241,6 @@
       "X": 4,
       "Y": 1,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -290,7 +251,6 @@
       "X": 5,
       "Y": 1,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
@@ -301,7 +261,6 @@
       "X": 3,
       "Y": 1,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 1
     }
   ]

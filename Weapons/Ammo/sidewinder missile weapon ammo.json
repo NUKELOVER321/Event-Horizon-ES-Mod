@@ -1,6 +1,6 @@
 {
   "ItemType": 25,
-  "Id": 1006,
+  "Id": 1027,
   "Body": {
     "Type": 1,
     "Size": 1.0,
@@ -8,7 +8,7 @@
     "Range": 50.0,
     "Weight": 0.1,
     "HitPoints": 30,
-    "BulletPrefab": 1006,
+    "BulletPrefab": 1027,
     "EnergyCost": 3.5,
     "CanBeDisarmed": true
   },

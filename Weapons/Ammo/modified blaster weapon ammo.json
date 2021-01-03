@@ -1,11 +1,11 @@
 {
   "ItemType": 25,
-  "Id": 1002,
+  "Id": 1023,
   "Body": {
     "Size": 1.0,
     "Velocity": 20.0,
     "Range": 20.0,
-    "BulletPrefab": 1001,
+    "BulletPrefab": 1022,
     "EnergyCost": 2.5,
     "CanBeDisarmed": true
   },

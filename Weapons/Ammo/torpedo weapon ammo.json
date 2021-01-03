@@ -1,6 +1,6 @@
 {
   "ItemType": 25,
-  "Id": 1013,
+  "Id": 1035,
   "Body": {
     "Type": 1,
     "Size": 1.0,
@@ -8,7 +8,7 @@
     "Range": 60.0,
     "Weight": 0.2,
     "HitPoints": 25,
-    "BulletPrefab": 1010,
+    "BulletPrefab": 1035,
     "EnergyCost": 6.0,
     "CanBeDisarmed": true
   },
@@ -16,7 +16,7 @@
     {
       "Condition": 2,
       "EffectType": 1,
-      "VisualEffect": 500
+      "VisualEffect": 1035
     }
   ],
   "Effects": [

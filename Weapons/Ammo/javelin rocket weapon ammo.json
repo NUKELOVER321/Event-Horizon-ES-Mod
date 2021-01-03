@@ -1,12 +1,12 @@
 {
   "ItemType": 25,
-  "Id": 1007,
+  "Id": 1028,
   "Body": {
     "Type": 1,
     "Size": 1.0,
     "Velocity": 20.0,
     "Range": 65.0,
-    "BulletPrefab": 1007,
+    "BulletPrefab": 1028,
     "EnergyCost": 1.0,
     "CanBeDisarmed": true
   },
@@ -20,7 +20,7 @@
   "Effects": [
     {
       "DamageType": 2,
-      "Power": 15.0
+      "Power": 18.5
     }
   ]
 }

@@ -6,18 +6,8 @@ WeaponName ItemID WeaponID TechID (ComponentStatsId implied to be 1)
 DroneName DronebayID CompID ShipID TechID
 ...
 
-Ammunition, Bullet Prefab, and Impact Effect IDs (same for all):
-Blasters: 1001 1001 1001
-Mod Blaster: 1002 1001 1002
-Laser: 1003 1003 1003
-Heavy Laser: 1004 1004 1004
-Meteor: 1005 1005 1005
-Sidewinder: 1006 1006 1006
-Javelin: 1007 1007 1007
-Gatling Bullet: 1008 1008 1008
-Proton: 1009 1009 1009
-Torpedo: 1010 1010 1010
-Nuke: 1011 1011 1011
+UPDATE:
+Ammunition, Bullet Prefab, and Impact Effect IDs will take the IDs of the weapon.
 
 Special ships:
 "Super Kestrel" 1000 10000
@@ -25,12 +15,7 @@ Special ships:
 Heron 3000 30000
 "Emerald Sword" 4000 40000
 
-Effects:
-Stock Laser: 100
-Stock Missile: 200
-Stock Torpedo: 300
-Nuke: 400
-Big Torpedo: 500
+Effects also take the ID of their weapon.
 
 Model sizes:
 0.5 for drones
@@ -149,9 +134,10 @@ Finch 3003 3003 3003 3003
 "Orca Plasma Thruster" 1046 1046 1046
 "Orca Plasma Steering" 1047 1047 1047
 "Tyrant Plasma Thruster" 1048 1048 1048
-"Tyrant Plasma Steering" 1049 1049 1049 [progress]
+"Tyrant Plasma Steering" 1049 1049 1049
 "Heavy Rocket" 1050 1050 1050
-"Plasma Cannon" 1051 1051 1051
+"Plasma Cannon" 1051 1051 1051 [progress]
 "Fission Reactor" 1052 1052 1052
 "Breeder Reactor" 1053 1053 1053
 "Stack Core" 1054 1054 1054
+Flamethrower 1055 1055 1055
