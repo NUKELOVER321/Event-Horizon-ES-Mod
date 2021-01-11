@@ -7,7 +7,7 @@
   "ComponentStatsId": 1,
   "Faction": 204,
   "Level": 80,
-  "Icon": "plasma cannon.png",
+  "Icon": "plasma turret.png",
   "Layout": "111111111",
   "CellType": "4",
   "WeaponId": 1051,

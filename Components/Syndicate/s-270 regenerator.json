@@ -8,7 +8,7 @@
   "Faction": 203,
   "Level": 100,
   "Icon": "s270 regenerator.png",
-  "Layout": "111111111",
+  "Layout": "1111",
   "CellType": "2",
   "PossibleModifications": [
     15

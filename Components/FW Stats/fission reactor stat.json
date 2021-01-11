@@ -1,7 +1,7 @@
 {
   "ItemType": 11,
-  "Id": 1009,
+  "Id": 1052,
   "Type": 1,
-  "EnergyPoints": 13.0,
+  "EnergyRechargeRate": 8.67,
   "Weight": 20.0
 }

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1054,
+  "Name": "Stack Core",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1054,
+  "Faction": 204,
+  "Level": 100,
+  "Icon": "stack core.png",
+  "Layout": "0111011111111111111101110",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

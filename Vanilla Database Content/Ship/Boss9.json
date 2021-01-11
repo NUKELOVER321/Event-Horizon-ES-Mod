@@ -42,7 +42,7 @@
       },
       "Rotation": -70.0,
       "PlatformType": 3,
-      "WeaponClass": "C"
+      "WeaponClass": "CH"
     },
     {
       "Position": {
@@ -51,7 +51,7 @@
       },
       "Rotation": 70.0,
       "PlatformType": 3,
-      "WeaponClass": "C"
+      "WeaponClass": "CH"
     },
     {
       "Position": {
@@ -60,7 +60,7 @@
       },
       "Rotation": -90.0,
       "PlatformType": 3,
-      "WeaponClass": "C"
+      "WeaponClass": "CH"
     },
     {
       "Position": {
@@ -69,7 +69,7 @@
       },
       "Rotation": 90.0,
       "PlatformType": 3,
-      "WeaponClass": "C"
+      "WeaponClass": "CH"
     },
     {
       "Position": {
@@ -78,7 +78,7 @@
       },
       "Rotation": -110.0,
       "PlatformType": 3,
-      "WeaponClass": "C"
+      "WeaponClass": "CH"
     },
     {
       "Position": {
@@ -87,7 +87,7 @@
       },
       "Rotation": 110.0,
       "PlatformType": 3,
-      "WeaponClass": "C"
+      "WeaponClass": "CH"
     }
   ]
 }

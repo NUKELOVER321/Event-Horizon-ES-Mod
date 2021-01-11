@@ -15,6 +15,11 @@ Special ships:
 Heron 3000 30000
 "Emerald Sword" 4000 40000
 
+Vanilla-ish items:
+"4x4 Titanium" 2100 2100 2100
+"Heavy Vamp Ray tech" 2101
+"AI Heavy Vamp Ray tech" 2102
+
 Effects also take the ID of their weapon.
 
 Model sizes:
@@ -25,6 +30,19 @@ Model sizes:
 4.0 for battleships
 5.0 for caps
 10.0+ for superbig ships (Heron, Bactrian, Kestrel Tester)
+
+Determining stats:
+== Weapons ==
+Add shield and hull damage then divide by a power of 10.
+For projectile weapons, use damage per shot. For beams, use damage per second.
+== Reactors ==
+Divide power output by size.
+== Engines ==
+Use Ion Engines as a reference.
+== Power Packs ==
+Divide energy storage by size, then divide by a power of 10.
+
+Ship IDs start at 300. Component IDs start at 1000.
 
 Merchants
 

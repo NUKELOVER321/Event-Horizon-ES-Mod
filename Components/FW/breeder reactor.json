@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1053,
+  "Name": "Breeder Reactor",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1053,
+  "Faction": 204,
+  "Level": 100,
+  "Icon": "breeder core.png",
+  "Layout": "1111111111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}
