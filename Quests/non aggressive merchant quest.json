@@ -2,7 +2,7 @@
   "ItemType": 15,
   "Id": 10003,
   "Name": "Friendly Merchant nodes",
-  "StartCondition": 2,
+  "StartCondition": 6,
   "Weight": 1.0,
   "Origin": {
     "Factions": {

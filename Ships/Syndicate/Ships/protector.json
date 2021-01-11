@@ -34,7 +34,7 @@
       "Position": {
         "x": 0.7
       },
-      "PlatformType": 2,
+      "PlatformType": 1,
       "WeaponClass": "CLTM"
     },
     {
@@ -43,7 +43,7 @@
         "y": 0.4
       },
       "Rotation": 45.0,
-      "PlatformType": 2,
+      "PlatformType": 1,
       "WeaponClass": "CLTM"
     },
     {
@@ -52,7 +52,7 @@
         "y": -0.4
       },
       "Rotation": -45.0,
-      "PlatformType": 2,
+      "PlatformType": 1,
       "WeaponClass": "CLTM"
     },
     {
@@ -60,7 +60,7 @@
         "y": 0.6
       },
       "Rotation": 90.0,
-      "PlatformType": 2,
+      "PlatformType": 1,
       "WeaponClass": "CLTM"
     },
     {
@@ -68,7 +68,7 @@
         "y": -0.6
       },
       "Rotation": -90.0,
-      "PlatformType": 2,
+      "PlatformType": 1,
       "WeaponClass": "CLTM"
     },
     {
@@ -77,7 +77,7 @@
         "y": 0.4
       },
       "Rotation": 135.0,
-      "PlatformType": 2,
+      "PlatformType": 1,
       "WeaponClass": "CLTM"
     },
     {
@@ -86,7 +86,7 @@
         "y": -0.4
       },
       "Rotation": -135.0,
-      "PlatformType": 2,
+      "PlatformType": 1,
       "WeaponClass": "CLTM"
     }
   ]

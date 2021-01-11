@@ -33,7 +33,7 @@ Model sizes:
 
 Determining stats:
 == Weapons ==
-Add shield and hull damage then divide by a power of 10.
+Add shield and hull damage then divide fire rate or shot count or both.
 For projectile weapons, use damage per shot. For beams, use damage per second.
 == Reactors ==
 Divide power output by size.
@@ -45,7 +45,6 @@ Divide energy storage by size, then divide by a power of 10.
 Ship IDs start at 300. Component IDs start at 1000.
 
 Merchants
-
 Shuttle 301 301 1001-1003
 Sparrow 302 302 1004-1006
 Star Barge 303 303 1007-1007
