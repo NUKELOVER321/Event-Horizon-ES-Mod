@@ -154,8 +154,8 @@ Finch 3003 3003 3003 3003
 "Tyrant Plasma Thruster" 1048 1048 1048
 "Tyrant Plasma Steering" 1049 1049 1049
 "Heavy Rocket" 1050 1050 1050
-"Plasma Cannon" 1051 1051 1051 [progress]
+"Plasma Cannon" 1051 1051 1051
 "Fission Reactor" 1052 1052 1052
 "Breeder Reactor" 1053 1053 1053
-"Stack Core" 1054 1054 1054
+"Stack Core" 1054 1054 1054 [progress]
 Flamethrower 1055 1055 1055
