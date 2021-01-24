@@ -41,6 +41,8 @@ Divide power output by size.
 Use Ion Engines as a reference.
 == Power Packs ==
 Divide energy storage by size, then divide by a power of 10.
+== Heat ==
+Take heat per module and divide by size. Divide said value by 1000 and make it the nrg cooldown.
 
 Ship IDs start at 300. Component IDs start at 1000.
 
@@ -158,3 +160,6 @@ Finch 3003 3003 3003 3003
 "Breeder Reactor" 1053 1053 1053
 "Stack Core" 1054 1054 1054 [progress]
 Flamethrower 1055 1055 1055
+D14-RN 1056 1056 1056
+D23-QP 1057 1057 1057
+D41-HY 1058 1058 1058

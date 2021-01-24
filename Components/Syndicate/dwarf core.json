@@ -9,7 +9,7 @@
   "Faction": 203,
   "Level": 60,
   "Icon": "dwarf core.png",
-  "Layout": "111111111",
+  "Layout": "1111",
   "CellType": "2",
   "PossibleModifications": [
     12

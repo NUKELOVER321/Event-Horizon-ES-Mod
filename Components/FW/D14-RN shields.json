@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1056,
+  "Name": "D14-RN Shield Generator",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1056,
+  "Faction": 204,
+  "Level": 100,
+  "Icon": "D14-RN.png",
+  "Layout": "1",
+  "CellType": "1",
+  "PossibleModifications": [
+    15
+  ]
+}

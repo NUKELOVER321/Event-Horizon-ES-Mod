@@ -3,5 +3,6 @@
   "Id": 1031,
   "Type": 1,
   "EnergyRechargeRate": 6.65,
+  "EnergyRechargeCooldownModifier": 0.0138,
   "Weight": 20.0
 }
