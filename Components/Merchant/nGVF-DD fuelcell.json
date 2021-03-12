@@ -9,7 +9,7 @@
   "Faction": 201,
   "Level": 50,
   "Icon": "nGVF-DD fuelcell.png",
-  "Layout": "1111111111111111",
+  "Layout": "1110111011110111",
   "CellType": "2",
   "PossibleModifications": [
     12

@@ -3,5 +3,6 @@
   "Id": 2105,
   "Type": 1,
   "ArmorPoints": 35.0,
+  "EnergyRechargeRate": -5.5,
   "Weight": 100.0
 }

@@ -9,7 +9,7 @@
   "Faction": 201,
   "Level": 75,
   "Icon": "LP576a batterypack.png",
-  "Layout": "0111011111111111111101110",
+  "Layout": "0010011111111111111101110",
   "PossibleModifications": [
     9
   ]
