@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1055,
+  "Name": "Flamethrower",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 204,
+  "Level": 150,
+  "Icon": "flamethrower.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1055,
+  "AmmunitionId": 1055,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

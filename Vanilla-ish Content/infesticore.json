@@ -1,0 +1,42 @@
+{
+  "ItemType": 6,
+  "Id": 2103,
+  "Name": "Infesticore",
+  "Faction": 6,
+  "SizeClass": 2,
+  "IconImage": "infesticore.png",
+  "IconScale": 1.0,
+  "ModelImage": "infesticore.png",
+  "ModelScale": 3.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#E4D91A",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "y": -0.9
+      }
+    }
+  ],
+  "Layout": "0000000110000000000000111100000000000122221000000000012222100000000001222210000000000122221000000000012222100000000001222210000000000012210000000000001221000000000000122100000000004433334400000011143333411100001114555541110000111455554111000000005555000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": -0.4,
+        "y": 0.3
+      },
+      "PlatformType": 3,
+      "WeaponClass": "S"
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -0.3
+      },
+      "PlatformType": 3,
+      "WeaponClass": "S"
+    }
+  ]
+}

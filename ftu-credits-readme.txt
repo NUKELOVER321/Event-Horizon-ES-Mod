@@ -6,4 +6,5 @@ Gauss Beam is from SourEyeSaur.
 Dragonflame, Super Damper, and Torpedo Barrage are from JVDP.
 Small Super Damper is from Mayez.
 Star Fortress is from Marklanchvar32.
-4x4 Titanium and Infesticore are from SES aka "Event Horizon Premium".
+4x4 Titanium, Urchin, and Infesticore are from Mirage Spirit#3400.
+4x4 Shield and 4x4 Reactive are from Crdball#1855.

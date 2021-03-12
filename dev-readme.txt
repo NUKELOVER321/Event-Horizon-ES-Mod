@@ -11,13 +11,11 @@ Modules start at 1001.
 Select ships from Remnant, Coalition, Wanderer, Korath, and all Quarg and Pug ships are to be made unavailable in smugglers.
 Quarg and Pug are intended as "gatekeeper" factions with super caps (Archon and Arfecta respectively) until the mod is fully balanced.
 Use existing images for reactors, batteries, weapons, and engines.
-Cooling is obsolete in EH - perhaps make them reduce energy consumption while have reactors increase consumption.
-To balance this, all vanilla reactors would also need energy consumption.
 Interference plating to be made as all-type resist armor.
 Jump Drive as improved teleport device.
 Scanners as mix of rangemasters, reloaders, and damage boosters.
 
-Add quests for Emerald Sword, Arfecta (end game), and tributing planets.
+Add quests for Emerald Sword, Arfecta (end game), and other rare ships.
 
 ---------------
 

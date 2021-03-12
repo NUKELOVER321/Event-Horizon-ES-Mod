@@ -19,6 +19,9 @@ Vanilla-ish items:
 "4x4 Titanium" 2100 2100 2100
 "Heavy Vamp Ray tech" 2101
 "AI Heavy Vamp Ray tech" 2102
+Infesticore 2103 2103-2105 2103
+"4x4 Shield" 2104 2104 2104
+"4x4 Reactive" 2105 2105 2105
 
 Effects also take the ID of their weapon.
 
@@ -158,8 +161,8 @@ Finch 3003 3003 3003 3003
 "Plasma Cannon" 1051 1051 1051
 "Fission Reactor" 1052 1052 1052
 "Breeder Reactor" 1053 1053 1053
-"Stack Core" 1054 1054 1054 [progress]
-Flamethrower 1055 1055 1055
+"Stack Core" 1054 1054 1054
+Flamethrower 1055 1055 1055 [NOT DONE]
 D14-RN 1056 1056 1056
 D23-QP 1057 1057 1057
 D41-HY 1058 1058 1058
