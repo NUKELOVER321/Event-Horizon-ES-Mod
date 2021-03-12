@@ -1,7 +1,7 @@
 {
   "ItemType": 11,
-  "Id": 2104,
+  "Id": 2105,
   "Type": 1,
-  "ShieldPoints": 7.0,
+  "ArmorPoints": 35.0,
   "Weight": 100.0
 }

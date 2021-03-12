@@ -1,12 +1,13 @@
 {
   "ItemType": 1,
-  "Id": 2104,
-  "Name": "Extra Large Shield Capacitor",
+  "Id": 2105,
+  "Name": "Extra Large Reactive Armor",
   "DisplayCategory": 2,
   "Availability": 1,
-  "ComponentStatsId": 2104,
-  "Level": 100,
-  "Icon": "4x4 shield.png",
+  "ComponentStatsId": 2105,
+  "Faction": 15,
+  "Level": 200,
+  "Icon": "4x4 reactive.png",
   "Layout": "1111111111111111",
   "CellType": "1",
   "PossibleModifications": [
