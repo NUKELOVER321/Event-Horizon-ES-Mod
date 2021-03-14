@@ -4,20 +4,6 @@
   "ShipId": 338,
   "Components": [
     {
-      "ComponentId": 3001,
-      "Locked": true,
-      "X": 12,
-      "Y": 9,
-      "BarrelId": -1
-    },
-    {
-      "ComponentId": 3001,
-      "Locked": true,
-      "X": 3,
-      "Y": 9,
-      "BarrelId": -1
-    },
-    {
       "ComponentId": 1012,
       "Locked": true,
       "X": 8,
@@ -132,6 +118,20 @@
       "Y": 3,
       "BarrelId": -1,
       "KeyBinding": 2
+    },
+    {
+      "ComponentId": 3002,
+      "Locked": true,
+      "X": 11,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 3002,
+      "Locked": true,
+      "X": 4,
+      "Y": 9,
+      "BarrelId": -1
     }
   ]
 }

@@ -38,22 +38,6 @@
       "ComponentId": 56,
       "Locked": true,
       "X": 11,
-      "Y": 12,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 56,
-      "Locked": true,
-      "X": 5,
-      "Y": 12,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 56,
-      "Locked": true,
-      "X": 11,
       "Y": 15,
       "BarrelId": -1,
       "KeyBinding": 1
