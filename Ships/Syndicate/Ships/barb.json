@@ -1,40 +1,57 @@
 {
-  "ItemType": 6,
-  "Id": 3001,
-  "ShipCategory": 6,
-  "Name": "Barb",
-  "Faction": 203,
-  "IconImage": "barb icon.png",
-  "IconScale": 1.0,
-  "ModelImage": "barb.png",
-  "ModelScale": 0.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "EngineColor": "#24D8DA",
-  "EngineSize": 0.1,
-  "Engines": [
-    {
-      "Position": {
-        "x": 0.3,
-        "y": -0.8
-      }
-    },
-    {
-      "Position": {
-        "x": -0.3,
-        "y": -0.8
-      }
-    }
-  ],
-  "Layout": "4410044100122101221005050",
-  "Barrels": [
-    {
-      "Position": {
-        "x": 0.9,
-        "y": 0.5
-      },
-      "PlatformType": 3
-    }
-  ]
+	"ItemType": 6,
+	"Id": 3001,
+	"ShipCategory": 6,
+	"Name": "Barb",
+	"Faction": 203,
+	"SizeClass": -1,
+	"IconImage": "barb icon.png",
+	"IconScale": 1,
+	"ModelImage": "barb.png",
+	"ModelScale": 0.5,
+	"EnginePosition": {
+		"x": -0.8,
+		"y": 0
+	},
+	"EngineColor": "#24D8DA",
+	"EngineSize": 0.1,
+	"Engines": [
+		{
+			"Position": {
+				"x": 0.3,
+				"y": -0.8
+			},
+			"Size": 0
+		},
+		{
+			"Position": {
+				"x": -0.3,
+				"y": -0.8
+			},
+			"Size": 0
+		}
+	],
+	"EnergyResistance": 0,
+	"KineticResistance": 0,
+	"HeatResistance": 0,
+	"Regeneration": false,
+	"BaseWeightModifier": 0,
+	"BuiltinDevices": [],
+	"Layout": "4410044100122101221005050",
+	"Barrels": [
+		{
+			"Position": {
+				"x": 0.9,
+				"y": 0.5
+			},
+			"Rotation": 0,
+			"Offset": 0,
+			"PlatformType": 3,
+			"AutoAimingArc": 0,
+			"RotationSpeed": 0,
+			"WeaponClass": "",
+			"Image": "",
+			"Size": 0
+		}
+	]
 }
