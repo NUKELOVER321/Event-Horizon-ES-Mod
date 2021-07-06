@@ -1,13 +1,13 @@
 {
   "ItemType": 6,
-  "Id": 3006,
+  "Id": 3007,
   "ShipCategory": 6,
-  "Name": "Lance",
-  "Faction": 203,
+  "Name": "Dropship",
+  "Faction": 205,
   "SizeClass": -1,
-  "IconImage": "lance icon.png",
+  "IconImage": "dropship icon.png",
   "IconScale": 1.0,
-  "ModelImage": "lance.png",
+  "ModelImage": "dropship.png",
   "ModelScale": 0.5,
   "EnginePosition": {
     "x": -0.8
@@ -28,13 +28,19 @@
       }
     }
   ],
-  "BuiltinDevices": [],
-  "Layout": "4410044100122101221005050",
+  "Layout": "001100001100042240042240152251052250",
   "Barrels": [
     {
       "Position": {
-        "x": 0.9,
-        "y": 0.5
+        "x": 0.2,
+        "y": 0.4
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": -0.4
       },
       "PlatformType": 3
     }

@@ -28,11 +28,11 @@
     {
       "Id": 2,
       "Type": 10,
-      "Message": "Script kiddie moment",
+      "Message": "Using third party clients to cheat in this mod is not permitted.",
       "Actions": [
         {
           "TargetNode": 2,
-          "ButtonText": "[button text]"
+          "ButtonText": "Uninstall the game"
         }
       ]
     }

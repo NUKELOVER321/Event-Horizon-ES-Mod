@@ -1,13 +1,13 @@
 {
   "ItemType": 6,
-  "Id": 3005,
+  "Id": 3006,
   "ShipCategory": 6,
-  "Name": "Lance",
-  "Faction": 203,
+  "Name": "Combat Drone",
+  "Faction": 205,
   "SizeClass": -1,
-  "IconImage": "lance icon.png",
+  "IconImage": "combat drone icon.png",
   "IconScale": 1.0,
-  "ModelImage": "lance.png",
+  "ModelImage": "combat drone.png",
   "ModelScale": 0.5,
   "EnginePosition": {
     "x": -0.8
@@ -28,8 +28,7 @@
       }
     }
   ],
-  "BuiltinDevices": [],
-  "Layout": "4410044100122101221005050",
+  "Layout": "0040001410012100222005250",
   "Barrels": [
     {
       "Position": {
