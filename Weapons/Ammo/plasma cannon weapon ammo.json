@@ -4,9 +4,9 @@
   "Body": {
     "Size": 1.0,
     "Velocity": 20.0,
-    "Range": 24.0,
+    "Range": 48.0,
     "BulletPrefab": 1051,
-    "EnergyCost": 2.5
+    "EnergyCost": 3.0
   },
   "Triggers": [
     {
@@ -17,7 +17,7 @@
   ],
   "Effects": [
     {
-      "Power": 6.56
+      "Power": 13.2
     }
   ]
 }

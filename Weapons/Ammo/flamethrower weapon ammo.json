@@ -3,7 +3,7 @@
   "Id": 1055,
   "Body": {
     "Size": 1.0,
-    "Velocity": 50.0,
+    "Velocity": 20.0,
     "Range": 15.0,
     "BulletPrefab": 1055,
     "EnergyCost": 1.0
@@ -17,7 +17,7 @@
   ],
   "Effects": [
     {
-      "Power": 5.0
+      "Power": 4.5
     }
   ]
 }

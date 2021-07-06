@@ -4,9 +4,9 @@
   "Body": {
     "Size": 1.0,
     "Velocity": 10.0,
-    "Range": 60.0,
-    "Weight": 0.2,
-    "HitPoints": 25,
+    "Range": 100.0,
+    "Weight": 0.25,
+    "HitPoints": 20,
     "BulletPrefab": 1050,
     "EnergyCost": 6.0,
     "CanBeDisarmed": true
@@ -21,7 +21,7 @@
   "Effects": [
     {
       "DamageType": 2,
-      "Power": 78.5
+      "Power": 157.0
     }
   ]
 }

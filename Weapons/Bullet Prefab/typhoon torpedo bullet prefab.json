@@ -1,0 +1,11 @@
+{
+  "ItemType": 27,
+  "Id": 1074,
+  "Shape": 1,
+  "Image": "typhoon torpedo.png",
+  "Size": 1.0,
+  "Margins": 0.7,
+  "MainColor": "#00FFFFFF",
+  "SecondColor": "#00FFFFFF",
+  "SecondColorMode": 2
+}

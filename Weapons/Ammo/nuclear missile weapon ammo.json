@@ -5,8 +5,8 @@
     "Type": 1,
     "Size": 1.0,
     "Velocity": 10.0,
-    "Range": 150.0,
-    "Weight": 0.2,
+    "Range": 480.0,
+    "Weight": 0.25,
     "HitPoints": 100,
     "BulletPrefab": 1036,
     "EnergyCost": 100.0,
@@ -22,7 +22,7 @@
   "Effects": [
     {
       "DamageType": 2,
-      "Power": 1000.0
+      "Power": 1600.0
     }
   ]
 }

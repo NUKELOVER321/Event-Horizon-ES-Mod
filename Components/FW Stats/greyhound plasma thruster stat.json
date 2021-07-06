@@ -4,6 +4,6 @@
   "Type": 1,
   "EnergyRechargeRate": -0.12,
   "Weight": 30.0,
-  "EnginePower": 4.0,
-  "TurnRate": 2.0
+  "EnginePower": 3.12,
+  "TurnRate": 1.56
 }

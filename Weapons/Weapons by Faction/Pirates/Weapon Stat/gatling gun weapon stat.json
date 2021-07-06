@@ -7,5 +7,5 @@
   "Magazine": 200,
   "ActivationType": 1,
   "ShotEffectPrefab": "OrbAdditive",
-  "ControlButtonIcon": "controls_shot"
+  "ControlButtonIcon": "gatling.png"
 }

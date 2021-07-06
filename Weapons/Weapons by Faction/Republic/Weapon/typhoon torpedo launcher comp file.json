@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1074,
+  "Name": "Typhoon Torpedo Launcher",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 205,
+  "Level": 75,
+  "Icon": "typhoon torpedo launcher.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1074,
+  "AmmunitionId": 1074,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

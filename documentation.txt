@@ -37,11 +37,17 @@ Model sizes:
 Determining stats:
 == Weapons ==
 Add shield and hull damage then divide fire rate or shot count or both.
-For projectile weapons, use damage per shot. For beams, use damage per second.
+For projectile weapons, use damage per shot.
+For beam weapons, divide shield + hull damage by 10.
+For missiles, divide shield + hull damage by 10.
+Energy usage and range is 1/10 that of its ES equivalent.
 == Reactors ==
 Divide power output by size.
 == Engines ==
-Use Ion Engines as a reference.
+Ion Engines serve as a baseline.
+For every engine other than Ionics, divide its thrust/steering power by its size.
+Then divide this value by the corresponding value on the corresponding Ionic engine.
+This new value determines the multiplier for that specific engine.
 == Power Packs ==
 Divide energy storage by size, then divide by a power of 10.
 == Heat ==
@@ -186,10 +192,12 @@ Dropship 3006 3006 3006 3006
 "A375 Atomic Steering" 1065 1065 1065
 "A520 Atomic Thruster" 1066 1066 1066
 "A525 Atomic Steering" 1067 1067 1067
-D67-TM 1068 1068 1068
-D94-YV 1069 1069 1069
-"Particle Cannon" 1070 1070 1070
-"Electron Beam" 1071 1071 1071
-"Typhoon Torpedo" 1072 1072 1072
-"Fusion Reactor" 1073 1073 1073
-"Armageddon Core" 1074 1074 1074
+"A860 Atomic Thruster" 1068 1068 1068
+"A865 Atomic Steering" 1069 1069 1069
+D67-TM 1070 1070 1070
+D94-YV 1071 1071 1071 [Up to here]
+"Particle Cannon" 1072 1072 1072
+"Electron Beam" 1073 1073 1073
+"Typhoon Torpedo" 1074 1074 1074
+"Fusion Reactor" 1075 1075 1075
+"Armageddon Core" 1076 1076 1076
