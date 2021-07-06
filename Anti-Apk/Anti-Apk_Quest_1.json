@@ -1,0 +1,75 @@
+{
+  "ItemType": 15,
+  "Id": 84019482,
+  "Name": "Anti-Apk_Quest_1",
+  "QuestType": 1,
+  "StartCondition": 6,
+  "Weight": 1.0,
+  "Origin": {
+    "Factions": {
+      "Type": 3
+    }
+  },
+  "Requirement": {
+    "Type": 3
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 15,
+      "DefaultTransition": 2,
+      "Transitions": [
+        {
+          "TargetNode": 5,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 3,
+              "MinAmount": 100663297,
+              "MaxAmount": 100663297
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 15,
+      "DefaultTransition": 5,
+      "Transitions": [
+        {
+          "TargetNode": 3,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 3,
+              "MinAmount": 100663296,
+              "MaxAmount": 100663296
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 35,
+      "DefaultTransition": 4,
+      "Loot": 1696969
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "Script kiddie moment",
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": "[button text]"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 40
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ItemType": 15,
+  "Id": 86916352,
+  "Name": "Anti-Apk_AfterCheck_Quest",
+  "QuestType": 1,
+  "StartCondition": 6,
+  "Weight": 1.0,
+  "Origin": {
+    "Factions": {
+      "Type": 3
+    }
+  },
+  "Requirement": {
+    "Type": 26,
+    "Loot": {
+      "Type": 25,
+      "ItemId": 1696969,
+      "MinAmount": 1,
+      "MaxAmount": 1
+    }
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "Your game ends here.",
+      "Actions": [
+        {
+          "TargetNode": 1,
+          "ButtonText": "Suffer"
+        }
+      ]
+    }
+  ]
+}
