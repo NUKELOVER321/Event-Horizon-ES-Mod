@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1059,
+  "Name": "AR120 Atomic Engines",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1059,
+  "Faction": 205,
+  "Icon": "AR120 engine.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

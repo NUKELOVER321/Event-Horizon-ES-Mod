@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1064,
+  "Name": "A370 Atomic Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1064,
+  "Faction": 205,
+  "Level": 25,
+  "Icon": "A370 thruster.png",
+  "Layout": "011111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

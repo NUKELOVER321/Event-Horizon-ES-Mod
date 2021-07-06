@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1062,
+  "Name": "A250 Atomic Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1062,
+  "Faction": 205,
+  "Level": 10,
+  "Icon": "A250 thruster.png",
+  "Layout": "1111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

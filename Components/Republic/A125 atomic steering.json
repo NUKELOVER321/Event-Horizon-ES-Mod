@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1061,
+  "Name": "A125 Atomic Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1061,
+  "Faction": 205,
+  "Icon": "A125 steering.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

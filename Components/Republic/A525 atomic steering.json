@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1067,
+  "Name": "A525 Atomic Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1067,
+  "Faction": 205,
+  "Level": 50,
+  "Icon": "A525 steering.png",
+  "Layout": "1111111111111100",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

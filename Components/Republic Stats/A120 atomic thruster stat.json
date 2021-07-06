@@ -1,0 +1,9 @@
+{
+  "ItemType": 11,
+  "Id": 1060,
+  "Type": 1,
+  "EnergyRechargeRate": -0.01,
+  "Weight": 20.0,
+  "EnginePower": 1.85,
+  "TurnRate": 3.7
+}

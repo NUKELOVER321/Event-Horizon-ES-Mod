@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1066,
+  "Name": "A520 Atomic Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1066,
+  "Faction": 205,
+  "Level": 50,
+  "Icon": "A520 thruster.png",
+  "Layout": "1111111111111100",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

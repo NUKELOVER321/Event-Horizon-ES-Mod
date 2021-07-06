@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1065,
+  "Name": "A375 Atomic Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1065,
+  "Faction": 205,
+  "Level": 25,
+  "Icon": "A375 steering.png",
+  "Layout": "011111110",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}
