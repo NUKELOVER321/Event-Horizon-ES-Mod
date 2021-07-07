@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 5050,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 0.5,
+    "Color": "#BFBFBF",
+    "EnergyCost": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1035,
+      "AudioClip": "explosion medium",
+      "Size": 3.0,
+      "Lifetime": 2.0
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 157.0
+    }
+  ]
+}
