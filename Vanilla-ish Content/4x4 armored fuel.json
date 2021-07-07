@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 2107,
+  "Name": "Extra Large Armored Fuel Cell",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 2107,
+  "Level": 60,
+  "Icon": "4x4 armored fuel.png",
+  "Layout": "1111111111111111",
+  "PossibleModifications": [
+    9,
+    3
+  ]
+}

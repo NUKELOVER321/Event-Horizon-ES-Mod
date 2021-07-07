@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 2106,
+  "Name": "Extra Large Fuel Cell",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 2106,
+  "Level": 60,
+  "Icon": "4x4 fuel.png",
+  "Layout": "1111111111111111",
+  "PossibleModifications": [
+    9
+  ]
+}
