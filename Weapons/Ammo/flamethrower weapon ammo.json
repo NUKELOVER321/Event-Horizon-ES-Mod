@@ -2,9 +2,9 @@
   "ItemType": 25,
   "Id": 1055,
   "Body": {
-    "Size": 1.0,
-    "Velocity": 20.0,
-    "Range": 15.0,
+    "Size": 7.5,
+    "Velocity": 10.0,
+    "Range": 20.0,
     "BulletPrefab": 1055,
     "EnergyCost": 1.0
   },
@@ -17,7 +17,8 @@
   ],
   "Effects": [
     {
-      "Power": 4.5
+      "DamageType": 2,
+      "Power": 2.5
     }
   ]
 }

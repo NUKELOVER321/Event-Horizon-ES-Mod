@@ -2,7 +2,6 @@
   "ItemType": 25,
   "Id": 1028,
   "Body": {
-    "Type": 1,
     "Size": 1.0,
     "Velocity": 20.0,
     "Range": 65.0,
@@ -14,7 +13,8 @@
     {
       "Condition": 2,
       "EffectType": 1,
-      "VisualEffect": 2
+      "VisualEffect": 200,
+      "Size": 0.3
     }
   ],
   "Effects": [

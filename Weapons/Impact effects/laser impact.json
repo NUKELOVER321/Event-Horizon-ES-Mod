@@ -3,8 +3,7 @@
   "Id": 1024,
   "Elements": [
     {
-      "Type": 1,
-      "Image": "laser impact.json",
+      "Image": "laser impact.png",
       "Size": 1.0,
       "Lifetime": 0.2
     }

@@ -4,7 +4,7 @@
   "Elements": [
     {
       "Type": 2,
-      "Image": "wave",
+      "Image": "nuke impact.png",
       "ColorMode": 2,
       "Size": 50.0,
       "Lifetime": 5.0
@@ -18,7 +18,7 @@
     },
     {
       "Type": 4,
-      "Image": "nuke impact.json",
+      "Image": "nuke impact.png",
       "Size": 12.5,
       "Lifetime": 5.0
     },

@@ -1,9 +1,9 @@
 {
   "ItemType": 26,
-  "Id": 1025,
+  "Id": 1022,
   "Elements": [
     {
-      "Image": "heavy laser impact.png",
+      "Image": "blaster impact.png",
       "Size": 1.0,
       "Lifetime": 0.2
     }

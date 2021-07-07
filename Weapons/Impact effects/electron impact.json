@@ -4,7 +4,7 @@
   "Elements": [
     {
       "Type": 1,
-      "Image": "electron beam impact.json",
+      "Image": "electron beam impact.png",
       "Size": 1.0,
       "Lifetime": 0.2
     }

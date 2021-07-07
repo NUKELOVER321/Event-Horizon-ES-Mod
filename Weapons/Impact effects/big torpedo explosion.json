@@ -4,7 +4,7 @@
   "Elements": [
     {
       "Type": 2,
-      "Image": "wave",
+      "Image": "torpedo impact.png",
       "ColorMode": 2,
       "Size": 10.0,
       "Lifetime": 2.0

@@ -1,197 +1,137 @@
 {
   "ItemType": 8,
   "Id": 1068,
-  "Disabled": false,
   "ShipId": 323,
-  "NotAvailableInGame": false,
   "DifficultyClass": 1,
-  "BuildFaction": 0,
   "Components": [
     {
       "ComponentId": 1017,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 25,
       "Y": 46,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
+      "BarrelId": -1
     },
     {
       "ComponentId": 1018,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 21,
       "Y": 46,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
+      "BarrelId": -1
     },
     {
       "ComponentId": 1050,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 28,
       "Y": 4,
-      "BarrelId": 1,
-      "Behaviour": 0,
-      "KeyBinding": 0
+      "BarrelId": 1
     },
     {
       "ComponentId": 1050,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 19,
-      "Y": 4,
-      "BarrelId": 0,
-      "Behaviour": 0,
-      "KeyBinding": 0
+      "Y": 4
     },
     {
       "ComponentId": 1022,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 25,
       "Y": 8,
       "BarrelId": 2,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1022,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 23,
       "Y": 25,
       "BarrelId": 4,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1022,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 27,
       "Y": 30,
       "BarrelId": 5,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1022,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 20,
       "Y": 38,
       "BarrelId": 7,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1022,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 26,
       "Y": 39,
       "BarrelId": 8,
-      "Behaviour": 0,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1004,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 21,
       "Y": 7,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 1030,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 20,
       "Y": 23,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 1032,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 20,
       "Y": 20,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 1031,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 20,
       "Y": 17,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 1010,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 22,
       "Y": 2,
-      "BarrelId": -1,
-      "Behaviour": 0,
-      "KeyBinding": 0
+      "BarrelId": -1
     },
     {
       "ComponentId": 1010,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 17,
       "Y": 32,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 70,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 21,
       "Y": 35,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 70,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 25,
       "Y": 27,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
@@ -202,7 +142,6 @@
       "X": 26,
       "Y": 37,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
@@ -213,7 +152,6 @@
       "X": 28,
       "Y": 37,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
@@ -224,7 +162,6 @@
       "X": 26,
       "Y": 35,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
@@ -235,95 +172,70 @@
       "X": 28,
       "Y": 35,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 160,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 26,
       "Y": 18,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 160,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 20,
       "Y": 10,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 10,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 30,
       "Y": 15,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 10,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 16,
       "Y": 27,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 10,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 19,
       "Y": 27,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 10,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 28,
       "Y": 27,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 10,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 30,
       "Y": 39,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     },
     {
       "ComponentId": 1003,
-      "Modification": 0,
-      "Quality": 0,
       "Locked": true,
       "X": 20,
       "Y": 14,
       "BarrelId": -1,
-      "Behaviour": 0,
       "KeyBinding": 2
     }
   ]

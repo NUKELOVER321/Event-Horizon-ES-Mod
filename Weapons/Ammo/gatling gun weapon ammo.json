@@ -2,18 +2,17 @@
   "ItemType": 25,
   "Id": 1029,
   "Body": {
-    "Size": 1.0,
+    "Size": 1.5,
     "Velocity": 50.0,
     "Range": 33.6,
     "BulletPrefab": 1029,
-    "EnergyCost": 1.0,
-    "FriendlyFire": true
+    "EnergyCost": 1.0
   },
   "Triggers": [
     {
       "Condition": 3,
       "EffectType": 1,
-      "VisualEffect": 1
+      "VisualEffect": 1029
     }
   ],
   "Effects": [
