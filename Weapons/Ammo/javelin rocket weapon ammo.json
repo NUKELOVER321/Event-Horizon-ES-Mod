@@ -5,6 +5,7 @@
     "Size": 1.0,
     "Velocity": 20.0,
     "Range": 65.0,
+    "Weight": 0.1,
     "BulletPrefab": 1028,
     "EnergyCost": 1.0,
     "CanBeDisarmed": true
@@ -14,6 +15,7 @@
       "Condition": 2,
       "EffectType": 1,
       "VisualEffect": 200,
+      "AudioClip": "explosion small",
       "Size": 0.3
     }
   ],

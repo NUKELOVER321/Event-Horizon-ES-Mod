@@ -1,9 +1,10 @@
 {
   "ItemType": 3,
   "Id": 1036,
-  "FireRate": 0.05,
+  "FireRate": 0.01,
   "Spread": 1.0,
   "ActivationType": 1,
+  "ShotSound": "nuke",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "nuke.png"
 }

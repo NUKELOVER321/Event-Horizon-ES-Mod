@@ -6,7 +6,7 @@
     "Size": 1.0,
     "Velocity": 12.0,
     "Range": 480.0,
-    "Weight": 0.75,
+    "Weight": 1.0,
     "HitPoints": 100,
     "BulletPrefab": 1036,
     "EnergyCost": 100.0,
@@ -15,14 +15,16 @@
   "Triggers": [
     {
       "Condition": 2,
-      "EffectType": 1,
-      "VisualEffect": 1036
+      "EffectType": 2,
+      "Ammunition": 5036,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0
     }
   ],
   "Effects": [
     {
-      "DamageType": 2,
-      "Power": 1600.0
+      "DamageType": 2
     }
   ]
 }

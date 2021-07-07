@@ -56,6 +56,7 @@ Divide energy storage by size, then divide by a power of 10.
 Take heat per module and divide by size. Divide said value by 1000 and make it the nrg cooldown.
 
 Ship IDs start at 300. Component IDs start at 1000.
+For all explosion ammo, their ID is the ID of their parent missile/torpedo +4000.
 
 Merchants
 Shuttle 301 301 1001-1003

@@ -6,20 +6,20 @@
       "Type": 2,
       "Image": "nuke impact.png",
       "ColorMode": 2,
-      "Size": 50.0,
+      "Size": 20.0,
       "Lifetime": 5.0
     },
     {
       "Type": 1,
       "Image": "star",
       "ColorMode": 2,
-      "Size": 15.0,
+      "Size": 10.0,
       "Lifetime": 5.0
     },
     {
       "Type": 4,
       "Image": "nuke impact.png",
-      "Size": 12.5,
+      "Size": 10.0,
       "Lifetime": 5.0
     },
     {

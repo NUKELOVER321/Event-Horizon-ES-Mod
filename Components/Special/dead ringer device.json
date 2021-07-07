@@ -10,5 +10,5 @@
   "Color": "#807F7F7F",
   "Sound": "deadringer.wav",
   "EffectPrefab": "Wave",
-  "ControlButtonIcon": "controls_shield"
+  "ControlButtonIcon": "dead ringer.png"
 }

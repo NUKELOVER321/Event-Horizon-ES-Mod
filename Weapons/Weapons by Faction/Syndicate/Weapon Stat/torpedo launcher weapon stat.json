@@ -1,9 +1,10 @@
 {
   "ItemType": 3,
   "Id": 1035,
-  "FireRate": 0.5,
+  "FireRate": 0.4,
   "Spread": 1.0,
   "ActivationType": 1,
+  "ShotSound": "torpedo.",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "torpedo icon.png"
 }

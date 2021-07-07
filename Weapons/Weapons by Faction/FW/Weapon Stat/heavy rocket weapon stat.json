@@ -1,9 +1,10 @@
 {
   "ItemType": 3,
   "Id": 1050,
-  "FireRate": 0.1,
+  "FireRate": 0.3,
   "Spread": 1.0,
   "ActivationType": 1,
+  "ShotSound": "rocket",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "rocket.png"
 }

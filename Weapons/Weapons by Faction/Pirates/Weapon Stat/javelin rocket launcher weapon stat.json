@@ -4,6 +4,7 @@
   "FireRate": 12.0,
   "Spread": 8.0,
   "ActivationType": 1,
+  "ShotSound": "javelin",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "javelin.png"
 }

@@ -15,8 +15,10 @@
   "Triggers": [
     {
       "Condition": 2,
-      "EffectType": 1,
-      "VisualEffect": 200,
+      "EffectType": 2,
+      "Ammunition": 5027,
+      "Color": "#00000000",
+      "Quantity": 1,
       "Size": 0.4
     }
   ],
