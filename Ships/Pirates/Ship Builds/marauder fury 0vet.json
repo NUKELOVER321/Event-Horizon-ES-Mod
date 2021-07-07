@@ -1,6 +1,10 @@
 {
   "ItemType": 8,
   "Id": 1085,
+  "Disabled": false,
   "ShipId": 329,
+  "NotAvailableInGame": false,
+  "DifficultyClass": 0,
+  "BuildFaction": 0,
   "Components": []
 }

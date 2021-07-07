@@ -2,7 +2,7 @@
   "ItemType": 25,
   "Id": 1072,
   "Body": {
-    "Size": 1.0,
+    "Size": 5.0,
     "Velocity": 75.0,
     "Range": 75.0,
     "Weight": 0.1,
@@ -18,7 +18,7 @@
   ],
   "Effects": [
     {
-      "Power": 35.4
+      "Power": 17.7
     }
   ]
 }

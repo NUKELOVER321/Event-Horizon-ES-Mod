@@ -22,6 +22,8 @@ Vanilla-ish items:
 Infesticore 2103 2103-2105 2103
 "4x4 Shield" 2104 2104 2104
 "4x4 Reactive" 2105 2105 2105
+"4x4 Fuel" 2106 2106 2106
+"4x4 Armored Fuel" 2107 2107 2107
 
 Effects also take the ID of their weapon.
 
@@ -33,13 +35,13 @@ Model sizes:
 4.0 for battleships
 5.0 for caps
 10.0+ for super-capital ships (Heron, Bactrian, Kestrel Tester)
+Add (tier-1) to the model size for appropriate factions.
 
 Determining stats:
 == Weapons ==
 Add shield and hull damage then divide fire rate or shot count or both.
 For projectile weapons, use damage per shot.
-For beam weapons, divide shield + hull damage by 10.
-For missiles, divide shield + hull damage by 10.
+For beam weapons and missiles, divide shield + hull damage by 25.
 Energy usage and range is 1/10 that of its ES equivalent.
 == Reactors ==
 Divide power output by size.

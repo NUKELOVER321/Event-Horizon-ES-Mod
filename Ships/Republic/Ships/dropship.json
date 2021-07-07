@@ -4,11 +4,10 @@
   "ShipCategory": 6,
   "Name": "Dropship",
   "Faction": 205,
-  "SizeClass": -1,
   "IconImage": "dropship icon.png",
   "IconScale": 1.0,
   "ModelImage": "dropship.png",
-  "ModelScale": 0.5,
+  "ModelScale": 0.8,
   "EnginePosition": {
     "x": -0.8
   },
@@ -28,7 +27,7 @@
       }
     }
   ],
-  "Layout": "001100001100042240042240152251052250",
+  "Layout": "0001100000011000044224400442244000122100011221100152251000500500",
   "Barrels": [
     {
       "Position": {

@@ -4,11 +4,10 @@
   "ShipCategory": 6,
   "Name": "Lance",
   "Faction": 205,
-  "SizeClass": -1,
   "IconImage": "lance icon.png",
   "IconScale": 1.0,
   "ModelImage": "lance.png",
-  "ModelScale": 0.5,
+  "ModelScale": 0.7,
   "EnginePosition": {
     "x": -0.8
   },
@@ -28,7 +27,7 @@
       }
     }
   ],
-  "Layout": "001100001100042240042240052250050050",
+  "Layout": "0001000044144004414400022200012221001525100050500",
   "Barrels": [
     {
       "Position": {

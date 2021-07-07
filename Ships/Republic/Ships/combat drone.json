@@ -4,11 +4,10 @@
   "ShipCategory": 6,
   "Name": "Combat Drone",
   "Faction": 205,
-  "SizeClass": -1,
   "IconImage": "combat drone icon.png",
   "IconScale": 1.0,
   "ModelImage": "combat drone.png",
-  "ModelScale": 0.5,
+  "ModelScale": 0.6,
   "EnginePosition": {
     "x": -0.8
   },
@@ -28,12 +27,11 @@
       }
     }
   ],
-  "Layout": "0040001410012100222005250",
+  "Layout": "0004000001410000141000022200002220000525000050500",
   "Barrels": [
     {
       "Position": {
-        "x": 0.9,
-        "y": 0.5
+        "x": 0.9
       },
       "PlatformType": 3
     }

@@ -7,7 +7,7 @@
   "IconImage": "Finch icon.png",
   "IconScale": 1.0,
   "ModelImage": "finch.png",
-  "ModelScale": 0.5,
+  "ModelScale": 0.8,
   "EnginePosition": {
     "x": -0.8
   },
@@ -20,7 +20,7 @@
       }
     }
   ],
-  "Layout": "0001100000011000004224000142241000422400000220000015510000055000",
+  "Layout": "0001100000011000001221000442244004422440000220000015510000055000",
   "Barrels": [
     {
       "Position": {

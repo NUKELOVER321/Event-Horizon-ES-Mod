@@ -102,26 +102,6 @@
       "Modification": 3,
       "Quality": 5,
       "Locked": true,
-      "X": 6,
-      "Y": 7,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 64,
-      "Modification": 3,
-      "Quality": 5,
-      "Locked": true,
-      "X": 2,
-      "Y": 7,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 64,
-      "Modification": 3,
-      "Quality": 5,
-      "Locked": true,
       "X": 4,
       "BarrelId": -1,
       "KeyBinding": 1

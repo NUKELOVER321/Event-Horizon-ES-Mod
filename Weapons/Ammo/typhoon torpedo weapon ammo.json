@@ -4,9 +4,9 @@
   "Body": {
     "Type": 1,
     "Size": 1.0,
-    "Velocity": 8.0,
+    "Velocity": 12.0,
     "Range": 66.0,
-    "Weight": 0.21,
+    "Weight": 0.6,
     "HitPoints": 25,
     "BulletPrefab": 1074,
     "EnergyCost": 6.0,
@@ -15,7 +15,8 @@
   "Triggers": [
     {
       "Condition": 2,
-      "EffectType": 1
+      "EffectType": 1,
+      "VisualEffect": 1035
     }
   ],
   "Effects": [

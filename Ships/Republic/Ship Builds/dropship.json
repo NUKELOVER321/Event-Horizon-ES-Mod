@@ -2,5 +2,15 @@
   "ItemType": 8,
   "Id": 3006,
   "ShipId": 3006,
-  "Components": []
+  "Components": [
+    {
+      "ComponentId": 1006,
+      "Modification": 9,
+      "Quality": 5,
+      "Locked": true,
+      "X": 3,
+      "Y": 2,
+      "KeyBinding": 1
+    }
+  ]
 }

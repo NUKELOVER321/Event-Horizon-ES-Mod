@@ -4,11 +4,10 @@
   "ShipCategory": 6,
   "Name": "Barb",
   "Faction": 203,
-  "SizeClass": -1,
   "IconImage": "barb icon.png",
   "IconScale": 1.0,
   "ModelImage": "barb.png",
-  "ModelScale": 0.5,
+  "ModelScale": 0.8,
   "EnginePosition": {
     "x": -0.8
   },
@@ -26,9 +25,9 @@
         "x": -0.3,
         "y": -0.8
       }
-    }
+    },
+    {}
   ],
-  "BuiltinDevices": [],
   "Layout": "4410044100122101221005050",
   "Barrels": [
     {

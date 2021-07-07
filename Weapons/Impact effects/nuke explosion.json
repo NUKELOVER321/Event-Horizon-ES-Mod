@@ -18,8 +18,7 @@
     },
     {
       "Type": 4,
-      "Image": "CloudWhite",
-      "ColorMode": 2,
+      "Image": "nuke impact.json",
       "Size": 12.5,
       "Lifetime": 5.0
     },
@@ -33,6 +32,7 @@
     },
     {
       "Type": 5,
+      "Color": "#D7FF00",
       "Size": 20.0,
       "Lifetime": 5.0
     }
