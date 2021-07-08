@@ -4,9 +4,9 @@
   "Name": "Marauder Fury",
   "Faction": 202,
   "IconImage": "marauder fury icon.png",
-  "IconScale": 0.75,
+  "IconScale": 1.0,
   "ModelImage": "marauder fury.png",
-  "ModelScale": 2.0,
+  "ModelScale": 1.5,
   "EnginePosition": {
     "x": -0.8
   },

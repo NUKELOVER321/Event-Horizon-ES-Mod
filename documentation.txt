@@ -51,7 +51,7 @@ For beam weapons and missiles, divide shield + hull damage by 25.
 Energy usage and range is 1/10 that of its ES equivalent.
 
 For energy cost of missile type weapons, multiple initial energy cost by heat then divide by outfit space.
-Torpedoes and heavy rockets require double the normal time to reload.
+Torpedoes and heavy rockets require 10x and 5x the normal time to reload.
 == Reactors ==
 Divide power output by size.
 == Engines ==
@@ -128,6 +128,8 @@ Pirates
 "Sidewinder Missile Launcher" 1027 1027 1027
 "Javelin Rocket Launcher" 1028 1028 1028
 "Gatling Gun" 1029 1029 1029
+Falcon 352 352 352 1154-1156
+Leviathan 353 353 353 1157-1159
 
 Syndicate
 Headhunter 325 325 1073-1075
@@ -207,9 +209,13 @@ Dropship 3006 3006 3006 3006
 "A860 Atomic Thruster" 1068 1068 1068
 "A865 Atomic Steering" 1069 1069 1069
 D67-TM 1070 1070 1070
-D94-YV 1071 1071 1071 [Up to here]
+D94-YV 1071 1071 1071
 "Particle Cannon" 1072 1072 1072
 "Electron Beam" 1073 1073 1073
 "Typhoon Torpedo" 1074 1074 1074
 "Fusion Reactor" 1075 1075 1075
 "Armageddon Core" 1076 1076 1076
+
+Notes:
+Due to the addition of the Falcon and the Leviathan
+The next ship should have a value of [ship] 354 354 354 1160-1162

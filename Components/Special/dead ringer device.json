@@ -8,7 +8,7 @@
   "Lifetime": 7.0,
   "ActivationType": 1,
   "Color": "#807F7F7F",
-  "Sound": "deadringer.wav",
+  "Sound": "deadringer",
   "EffectPrefab": "Wave",
   "ControlButtonIcon": "dead ringer.png"
 }
