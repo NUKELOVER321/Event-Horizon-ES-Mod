@@ -1,8 +1,10 @@
 {
   "ItemType": 3,
   "Id": 1055,
-  "FireRate": 20.0,
+  "WeaponClass": 3,
+  "FireRate": 0.5,
   "Spread": 10.0,
+  "Magazine": 100,
   "ActivationType": 1,
   "ShotSound": "flamethrower~",
   "ControlButtonIcon": "flame icon.png"

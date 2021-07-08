@@ -37,12 +37,21 @@ Model sizes:
 10.0+ for super-capital ships (Heron, Bactrian, Kestrel Tester)
 Add (tier-1) to the model size for appropriate factions.
 
+ALTERNATIVELY
+2.0 for everything small
+3.0 for light warships
+4.0 for medium warships
+5.0 for heavy warships
+
 Determining stats:
 == Weapons ==
 Add shield and hull damage then divide fire rate or shot count or both.
-For projectile weapons, use damage per shot.
+For projectile weapons, divide shield + hull damage per shot by 10.
 For beam weapons and missiles, divide shield + hull damage by 25.
 Energy usage and range is 1/10 that of its ES equivalent.
+
+For energy cost of missile type weapons, multiple initial energy cost by heat then divide by outfit space.
+Torpedoes and heavy rockets require double the normal time to reload.
 == Reactors ==
 Divide power output by size.
 == Engines ==

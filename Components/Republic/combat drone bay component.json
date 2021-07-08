@@ -6,7 +6,7 @@
   "ComponentStatsId": 3007,
   "Faction": 205,
   "Icon": "combat drone icon.png",
-  "Layout": "111111111",
+  "Layout": "1111",
   "CellType": "1",
   "DroneBayId": 3007,
   "DroneId": 3007,

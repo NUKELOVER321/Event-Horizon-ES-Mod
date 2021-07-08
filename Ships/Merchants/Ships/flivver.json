@@ -6,7 +6,7 @@
   "IconImage": "flivver icon.png",
   "IconScale": 0.5,
   "ModelImage": "flivver.png",
-  "ModelScale": 1.0,
+  "ModelScale": 1.5,
   "EnginePosition": {
     "x": -0.8
   },

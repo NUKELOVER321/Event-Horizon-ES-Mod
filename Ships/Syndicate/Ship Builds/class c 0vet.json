@@ -2,5 +2,19 @@
   "ItemType": 8,
   "Id": 1103,
   "ShipId": 335,
-  "Components": []
+  "Components": [
+    {
+      "ComponentId": 130,
+      "Locked": true,
+      "X": 15,
+      "Y": 2,
+      "BarrelId": 1
+    },
+    {
+      "ComponentId": 130,
+      "Locked": true,
+      "X": 8,
+      "Y": 2
+    }
+  ]
 }

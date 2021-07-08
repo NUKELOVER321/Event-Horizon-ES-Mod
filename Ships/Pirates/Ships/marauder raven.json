@@ -7,7 +7,7 @@
   "IconImage": "marauder raven icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder raven.png",
-  "ModelScale": 1.5,
+  "ModelScale": 2.5,
   "EnginePosition": {
     "x": -0.8
   },

@@ -4,25 +4,25 @@
   "Body": {
     "Size": 1.0,
     "Velocity": 20.0,
-    "Range": 65.0,
+    "Range": 60.0,
     "Weight": 0.1,
     "BulletPrefab": 1028,
-    "EnergyCost": 1.0,
+    "EnergyCost": 0.2,
     "CanBeDisarmed": true
   },
   "Triggers": [
     {
       "Condition": 2,
-      "EffectType": 1,
-      "VisualEffect": 200,
-      "AudioClip": "explosion small",
-      "Size": 0.3
+      "EffectType": 2,
+      "Ammunition": 5028,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 0.5
     }
   ],
   "Effects": [
     {
-      "DamageType": 2,
-      "Power": 7.4
+      "DamageType": 2
     }
   ]
 }

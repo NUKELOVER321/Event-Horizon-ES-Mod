@@ -67,7 +67,7 @@
         "x": 0.4,
         "y": 0.2
       },
-      "PlatformType": 3,
+      "PlatformType": 2,
       "WeaponClass": "CLTM"
     },
     {
@@ -75,7 +75,7 @@
         "x": 0.4,
         "y": -0.2
       },
-      "PlatformType": 3,
+      "PlatformType": 2,
       "WeaponClass": "CLTM"
     },
     {

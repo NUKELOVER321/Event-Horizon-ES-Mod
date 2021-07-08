@@ -1,7 +1,7 @@
 {
   "ItemType": 3,
   "Id": 1035,
-  "FireRate": 0.4,
+  "FireRate": 0.04,
   "Spread": 1.0,
   "ActivationType": 1,
   "ShotSound": "torpedo.",

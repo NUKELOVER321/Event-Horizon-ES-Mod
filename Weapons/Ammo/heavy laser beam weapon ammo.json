@@ -4,7 +4,7 @@
   "Body": {
     "Type": 3,
     "Size": 1.0,
-    "Range": 30.0,
+    "Range": 40.0,
     "Lifetime": 0.1,
     "BulletPrefab": 1025,
     "EnergyCost": 12.0

@@ -8,7 +8,7 @@
   "Faction": 205,
   "Level": 50,
   "Icon": "A520 thruster.png",
-  "Layout": "1111111111111100",
+  "Layout": "1111111111111111",
   "CellType": "5",
   "PossibleModifications": [
     11

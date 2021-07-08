@@ -7,7 +7,7 @@
   "IconImage": "bounder icon.png",
   "IconScale": 0.75,
   "ModelImage": "bounder.png",
-  "ModelScale": 1.5,
+  "ModelScale": 2.0,
   "EnginePosition": {
     "x": -0.8
   },

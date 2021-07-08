@@ -4,12 +4,12 @@
   "Body": {
     "Type": 1,
     "Size": 1.0,
-    "Velocity": 15.0,
-    "Range": 50.0,
+    "Velocity": 20.0,
+    "Range": 658.0,
     "Weight": 0.1,
     "HitPoints": 30,
     "BulletPrefab": 1027,
-    "EnergyCost": 3.5,
+    "EnergyCost": 3.0,
     "CanBeDisarmed": true
   },
   "Triggers": [
@@ -19,7 +19,7 @@
       "Ammunition": 5027,
       "Color": "#00000000",
       "Quantity": 1,
-      "Size": 0.4
+      "Size": 0.5
     }
   ],
   "Effects": [

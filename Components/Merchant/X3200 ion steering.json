@@ -8,7 +8,7 @@
   "ComponentStatsId": 1016,
   "Level": 25,
   "Icon": "X3200 ion steering.png",
-  "Layout": "011111110",
+  "Layout": "111111111",
   "CellType": "5",
   "PossibleModifications": [
     11

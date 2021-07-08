@@ -1,28 +1,27 @@
 {
   "ItemType": 25,
-  "Id": 5050,
+  "Id": 5028,
   "Body": {
     "Type": 2,
     "Size": 1.0,
     "Lifetime": 0.5,
-    "Color": "#BFBFBF",
-    "EnergyCost": 1.0
+    "Color": "#DBDBDB"
   },
   "Triggers": [
     {
       "Condition": 1,
       "EffectType": 1,
-      "VisualEffect": 1035,
-      "AudioClip": "explosion medium",
-      "Size": 3.0,
-      "Lifetime": 2.0
+      "VisualEffect": 200,
+      "AudioClip": "explosion small",
+      "Size": 1.0,
+      "Lifetime": 1.0
     }
   ],
   "ImpactType": 1,
   "Effects": [
     {
-      "DamageType": 2,
-      "Power": 62.8
+      "DamageType": 1,
+      "Power": 2.96
     }
   ]
 }

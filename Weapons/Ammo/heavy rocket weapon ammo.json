@@ -3,12 +3,12 @@
   "Id": 1050,
   "Body": {
     "Size": 1.0,
-    "Velocity": 10.0,
+    "Velocity": 20.0,
     "Range": 100.0,
     "Weight": 0.1,
     "HitPoints": 20,
     "BulletPrefab": 1050,
-    "EnergyCost": 6.0,
+    "EnergyCost": 12.5,
     "CanBeDisarmed": true
   },
   "Triggers": [

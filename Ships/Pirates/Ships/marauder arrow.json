@@ -6,7 +6,7 @@
   "IconImage": "marauder arrow icon.png",
   "IconScale": 0.75,
   "ModelImage": "marauder arrow.png",
-  "ModelScale": 1.0,
+  "ModelScale": 2.0,
   "EnginePosition": {
     "x": -0.8
   },

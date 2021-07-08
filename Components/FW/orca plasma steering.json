@@ -7,7 +7,7 @@
   "ComponentStatsId": 1047,
   "Level": 150,
   "Icon": "orca steering.png",
-  "Layout": "0011111111111100",
+  "Layout": "1111111111111111",
   "CellType": "5",
   "PossibleModifications": [
     11

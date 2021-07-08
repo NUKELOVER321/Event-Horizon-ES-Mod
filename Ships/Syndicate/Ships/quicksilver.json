@@ -3,10 +3,11 @@
   "Id": 330,
   "Name": "Quicksilver",
   "Faction": 203,
+  "SizeClass": 1,
   "IconImage": "quicksilver icon.png",
   "IconScale": 1.0,
   "ModelImage": "quicksilver.png",
-  "ModelScale": 1.0,
+  "ModelScale": 2.0,
   "EnginePosition": {
     "x": -0.8
   },

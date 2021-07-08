@@ -6,7 +6,7 @@
   "IconImage": "gunboat icon.png",
   "IconScale": 1.0,
   "ModelImage": "gunboat.png",
-  "ModelScale": 1.0,
+  "ModelScale": 2.0,
   "EnginePosition": {
     "x": -0.8
   },

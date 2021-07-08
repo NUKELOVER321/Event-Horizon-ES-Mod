@@ -7,7 +7,7 @@
   "ComponentStatsId": 1046,
   "Level": 150,
   "Icon": "orca thruster.png",
-  "Layout": "0011111111111100",
+  "Layout": "1111111111111111",
   "CellType": "5",
   "PossibleModifications": [
     11

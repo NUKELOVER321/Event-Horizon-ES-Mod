@@ -26,13 +26,6 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 1012,
-      "Locked": true,
-      "X": 6,
-      "Y": 12,
-      "BarrelId": -1
-    },
-    {
       "ComponentId": 1005,
       "Modification": 12,
       "Quality": 5,

@@ -5,8 +5,7 @@
     "Type": 2,
     "Size": 1.0,
     "Lifetime": 0.5,
-    "Color": "#BFBFBF",
-    "EnergyCost": 1.0
+    "Color": "#BFBFBF"
   },
   "Triggers": [
     {
@@ -22,7 +21,7 @@
   "Effects": [
     {
       "DamageType": 1,
-      "Power": 42.0
+      "Power": 16.8
     }
   ]
 }
