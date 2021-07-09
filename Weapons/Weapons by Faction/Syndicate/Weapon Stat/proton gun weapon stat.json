@@ -1,10 +1,12 @@
 {
   "ItemType": 3,
-  "Id": 2072,
-  "FireRate": 1.5,
-  "Spread": 5.0,
+  "Id": 2034,
+  "WeaponClass": 4,
+  "FireRate": 3.75,
+  "Spread": 10.0,
+  "Magazine": 2,
   "ActivationType": 1,
-  "ShotSound": "particle",
+  "ShotSound": "proton",
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "controls_shot"
 }

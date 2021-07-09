@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 1073,
+  "WeaponClass": 2,
+  "ActivationType": 1,
+  "ShotSound": "*electron beam~",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "controls_laser"
+}

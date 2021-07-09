@@ -51,7 +51,7 @@ For beam weapons and missiles, divide shield + hull damage by 25.
 Energy usage and range is 1/10 that of its ES equivalent.
 
 For energy cost of missile type weapons, multiple initial energy cost by heat then divide by outfit space.
-Torpedoes and heavy rockets require 10x and 5x the normal time to reload.
+Torpedoes and missiles require 10x and 5x the normal time to reload.
 == Reactors ==
 Divide power output by size.
 == Engines ==
@@ -65,7 +65,8 @@ Divide energy storage by size, then divide by a power of 10.
 Take heat per module and divide by size. Divide said value by 1000 and make it the nrg cooldown.
 
 Ship IDs start at 300. Component IDs start at 1000.
-For all explosion ammo, their ID is the ID of their parent missile/torpedo +4000.
+Explosion ammo starts at 5000 and correspond to their parent munition in IDs.
+Gun version of turret weapons start at 2000 and correspond to their turret variant.
 
 Merchants
 Shuttle 301 301 1001-1003
@@ -130,6 +131,8 @@ Pirates
 "Gatling Gun" 1029 1029 1029
 Falcon 352 352 352 1154-1156
 Leviathan 353 353 353 1157-1159
+"Laser Beam" 2024 2024 2024
+"Heavy Laser" 2025 2025 2025
 
 Syndicate
 Headhunter 325 325 1073-1075
@@ -145,12 +148,13 @@ Barb 3001 3001 3001 3001
 "NT200 Nucleiovoltaic" 1031 1031 1031
 "S1 Thermionic" 1032 1032 1032
 "Dwarf Core" 1033 1033 1033
-"Proton Gun" 1034 1034 1034
+"Proton Turret" 1034 1034 1034
 "Torpedo Launcher" 1035 1035 1035
 "Nuclear Missile" 1036 1036 1036
 "Ionic Afterburner" 1037 1037 1037
 "S270 Regenerator" 1038 1038 1038
 "S970 Regenerator" 1039 1039 1039
+"Proton Gun" 2034 2034 2034
 
 Special
 "Dead Ringer" 5000 5000 [N/A - no tech]
@@ -178,7 +182,7 @@ Finch 3003 3003 3003 3003
 "Tyrant Plasma Thruster" 1048 1048 1048
 "Tyrant Plasma Steering" 1049 1049 1049
 "Heavy Rocket" 1050 1050 1050
-"Plasma Cannon" 1051 1051 1051
+"Plasma Turret" 1051 1051 1051
 "Fission Reactor" 1052 1052 1052
 "Breeder Reactor" 1053 1053 1053
 "Stack Core" 1054 1054 1054
@@ -186,6 +190,7 @@ Flamethrower 1055 1055 1055 [NOT DONE]
 D14-RN 1056 1056 1056
 D23-QP 1057 1057 1057
 D41-HY 1058 1058 1058
+"Plasma Cannon" 2051 2051 2051
 
 Republic
 Rainmaker 346 346 346 1136-1138
@@ -210,12 +215,15 @@ Dropship 3006 3006 3006 3006
 "A865 Atomic Steering" 1069 1069 1069
 D67-TM 1070 1070 1070
 D94-YV 1071 1071 1071
-"Particle Cannon" 1072 1072 1072
-"Electron Beam" 1073 1073 1073
+"Particle Turret" 1072 1072 1072
+"Electron Beam Turret" 1073 1073 1073
 "Typhoon Torpedo" 1074 1074 1074
 "Fusion Reactor" 1075 1075 1075
 "Armageddon Core" 1076 1076 1076
+"Particle Cannon" 2072 2072 2072
+"Electron Beam" 2073 2073 2073
 
 Notes:
-Due to the addition of the Falcon and the Leviathan
-The next ship should have a value of [ship] 354 354 354 1160-1162
+Due to the addition of new items:
+The next ship should have a value of [ship] 354 354 354 1160-1162.
+The next item should have a value of 1077.

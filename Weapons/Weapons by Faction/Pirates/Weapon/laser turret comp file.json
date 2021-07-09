@@ -8,7 +8,7 @@
   "Faction": 202,
   "Level": 50,
   "Icon": "laser turret.png",
-  "Layout": "1111",
+  "Layout": "111111111",
   "CellType": "4",
   "WeaponId": 1024,
   "AmmunitionId": 1024,

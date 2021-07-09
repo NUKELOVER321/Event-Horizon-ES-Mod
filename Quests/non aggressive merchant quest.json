@@ -4,6 +4,16 @@
   "Name": "Friendly Merchant nodes",
   "StartCondition": 2,
   "Weight": 1.0,
+  "Origin": {
+    "Factions": {
+      "Type": 1,
+      "List": [
+        201
+      ]
+    },
+    "MaxDistance": 1000,
+    "MaxRelations": 1
+  },
   "Requirement": {
     "Type": 8
   },

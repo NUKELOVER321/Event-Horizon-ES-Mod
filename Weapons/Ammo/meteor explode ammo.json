@@ -13,7 +13,7 @@
       "EffectType": 1,
       "VisualEffect": 200,
       "AudioClip": "explosion small",
-      "Size": 1.0,
+      "Size": 1.5,
       "Lifetime": 1.0
     }
   ],
