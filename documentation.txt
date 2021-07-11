@@ -64,7 +64,8 @@ Divide energy storage by size, then divide by a power of 10.
 == Shields ==
 Divide shield gen and energy by size. Multiply the resulting values by 5.
 == Heat ==
-Take heat per module and divide by size. Divide said value by 1000 and make it the nrg cooldown.
+Take heat per module and divide by size. Divide said value by 25 and make it the nrg cooldown.
+For cooling modules, divide heat per module by size then by 100.
 
 Ship IDs start at 300. Component IDs start at 1000.
 Explosion ammo starts at 5000 and correspond to their parent munition in IDs.
