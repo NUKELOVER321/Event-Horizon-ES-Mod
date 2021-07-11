@@ -1,9 +1,9 @@
 {
   "ItemType": 10,
-  "Id": 1051,
-  "ItemId": 1051,
-  "Price": 15,
+  "Id": 2051,
+  "ItemId": 2051,
+  "Price": 8,
   "Dependencies": [
-    339
+    337
   ]
 }

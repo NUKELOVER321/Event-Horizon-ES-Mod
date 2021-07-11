@@ -6,7 +6,7 @@
   "Spread": 20.0,
   "Magazine": 200,
   "ActivationType": 1,
-  "ShotSound": "*gatling",
+  "ShotSound": "gatling",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "gatling.png"
 }

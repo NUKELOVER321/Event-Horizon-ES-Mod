@@ -36,7 +36,7 @@
         "y": 0.2
       },
       "PlatformType": 3,
-      "WeaponClass": "CLMT"
+      "WeaponClass": "MT"
     },
     {
       "Position": {
@@ -44,7 +44,7 @@
         "y": -0.2
       },
       "PlatformType": 3,
-      "WeaponClass": "CLMT"
+      "WeaponClass": "MT"
     },
     {
       "Position": {
@@ -52,7 +52,7 @@
         "y": 0.2
       },
       "PlatformType": 2,
-      "WeaponClass": "CLMT"
+      "WeaponClass": "CL"
     },
     {
       "Position": {
@@ -60,7 +60,7 @@
         "y": -0.2
       },
       "PlatformType": 2,
-      "WeaponClass": "CLMT"
+      "WeaponClass": "CL"
     },
     {
       "Position": {

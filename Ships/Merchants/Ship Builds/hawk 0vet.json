@@ -106,26 +106,14 @@
       "Locked": true,
       "X": 7,
       "Y": 6,
-      "BarrelId": 1
-    },
-    {
-      "ComponentId": 123,
-      "Locked": true,
-      "X": 7,
-      "Y": 4,
-      "BarrelId": 1
+      "BarrelId": 3
     },
     {
       "ComponentId": 123,
       "Locked": true,
       "X": 5,
-      "Y": 4
-    },
-    {
-      "ComponentId": 123,
-      "Locked": true,
-      "X": 5,
-      "Y": 6
+      "Y": 6,
+      "BarrelId": 2
     },
     {
       "ComponentId": 12,

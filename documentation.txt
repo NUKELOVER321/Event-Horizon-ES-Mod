@@ -47,7 +47,7 @@ Determining stats:
 == Weapons ==
 Add shield and hull damage then divide fire rate or shot count or both.
 For projectile weapons, divide shield + hull damage per shot by 10.
-For beam weapons and missiles, divide shield + hull damage by 25.
+For beam weapons and missiles, divide shield + hull damage by 20 and 25 respectively.
 Energy usage and range is 1/10 that of its ES equivalent.
 
 For energy cost of missile type weapons, multiple initial energy cost by heat then divide by outfit space.
@@ -61,12 +61,15 @@ Then divide this value by the corresponding value on the corresponding Ionic eng
 This new value determines the multiplier for that specific engine.
 == Power Packs ==
 Divide energy storage by size, then divide by a power of 10.
+== Shields ==
+Divide shield gen and energy by size. Multiply the resulting values by 5.
 == Heat ==
 Take heat per module and divide by size. Divide said value by 1000 and make it the nrg cooldown.
 
 Ship IDs start at 300. Component IDs start at 1000.
 Explosion ammo starts at 5000 and correspond to their parent munition in IDs.
 Gun version of turret weapons start at 2000 and correspond to their turret variant.
+Submunitions for weapons start at 3000 and correspond to their weapon.
 
 Merchants
 Shuttle 301 301 1001-1003
@@ -131,6 +134,7 @@ Pirates
 "Gatling Gun" 1029 1029 1029
 Falcon 352 352 352 1154-1156
 Leviathan 353 353 353 1157-1159
+Blaster 2022 2022 2022
 "Laser Beam" 2024 2024 2024
 "Heavy Laser" 2025 2025 2025
 

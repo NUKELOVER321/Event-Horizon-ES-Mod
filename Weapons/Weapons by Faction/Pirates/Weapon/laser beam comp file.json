@@ -11,7 +11,7 @@
   "Layout": "1111",
   "CellType": "4",
   "WeaponId": 2024,
-  "AmmunitionId": 1024,
+  "AmmunitionId": 2024,
   "WeaponSlotType": "L",
   "PossibleModifications": [
     16,

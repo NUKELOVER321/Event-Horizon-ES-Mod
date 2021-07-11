@@ -2,7 +2,7 @@
   "ItemType": 11,
   "Id": 1042,
   "Type": 1,
-  "EnergyRechargeRate": -0.12,
+  "EnergyRechargeRate": -0.25,
   "Weight": 30.0,
   "EnginePower": 3.12,
   "TurnRate": 1.56

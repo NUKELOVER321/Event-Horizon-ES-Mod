@@ -1,6 +1,6 @@
 {
   "ItemType": 25,
-  "Id": 1024,
+  "Id": 2024,
   "Body": {
     "Type": 3,
     "Size": 1.0,
@@ -20,7 +20,7 @@
   "Effects": [
     {
       "DamageType": 1,
-      "Power": 13.8
+      "Power": 6.9
     }
   ]
 }

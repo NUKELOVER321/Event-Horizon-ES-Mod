@@ -7,11 +7,11 @@
   "ComponentStatsId": 1,
   "Faction": 202,
   "Level": 80,
-  "Icon": "heavy laser beam.png",
+  "Icon": "heavy laser.png",
   "Layout": "1111",
   "CellType": "4",
   "WeaponId": 2025,
-  "AmmunitionId": 1025,
+  "AmmunitionId": 2025,
   "WeaponSlotType": "L",
   "PossibleModifications": [
     16,

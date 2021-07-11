@@ -2,7 +2,8 @@
   "ItemType": 11,
   "Id": 1071,
   "Type": 1,
-  "ShieldPoints": 1.31,
-  "ShieldRechargeRate": 1.31,
+  "EnergyRechargeRate": -1.31,
+  "ShieldPoints": 6.55,
+  "ShieldRechargeRate": 6.55,
   "Weight": 50.0
 }
