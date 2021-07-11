@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 1077,
+  "Name": "Cooling Ducts",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1077,
+  "Faction": 201,
+  "Icon": "cooling vent.png",
+  "Layout": "1",
+  "PossibleModifications": [
+    9
+  ]
+}

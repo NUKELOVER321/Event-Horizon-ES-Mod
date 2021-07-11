@@ -64,8 +64,8 @@ Divide energy storage by size, then divide by a power of 10.
 == Shields ==
 Divide shield gen and energy by size. Multiply the resulting values by 5.
 == Heat ==
-Take heat per module and divide by size. Divide said value by 25 and make it the nrg cooldown.
-For cooling modules, divide heat per module by size then by 100.
+Take heat per module and divide by size. Divide said value by 250.
+For cooling modules, divide heat per module by size then by 500.
 
 Ship IDs start at 300. Component IDs start at 1000.
 Explosion ammo starts at 5000 and correspond to their parent munition in IDs.
@@ -106,6 +106,7 @@ Bactrian 323 323 1067-1069
 "LP144a Battery Pack" 1008 1008 1008
 "LP288a Battery Pack" 1009 1009 1009
 "LP576a Battery Pack" 1010 1010 1010
+"X1050 Ion Engines" 1021 1021 1021
 "X1700 Ion Thruster" 1011 1011 1011
 "X1200 Ion Steering" 1012 1012 1012
 "X2700 Ion Thruster" 1013 1013 1013
@@ -117,11 +118,11 @@ Bactrian 323 323 1067-1069
 "X5700 Ion Thruster" 1019 1019 1019
 "X5200 Ion Steering" 1020 1020 1020
 Boxwing 3004 3004 3004 3004
+"Cooling Vent" 1077 1077 1077
 
 Pirates
 "Marauder Arrow" 324 324 1070-1072
 "Marauder Bounder" 326 326 1076-1078
-(1021 is broken, idk why)
 "Quad Blaster" 1022 1022 1022
 "Modified Blaster" 1023 1023 1023
 "Laser Turret" 1024 1024 1024
@@ -160,6 +161,8 @@ Barb 3001 3001 3001 3001
 "S270 Regenerator" 1038 1038 1038
 "S970 Regenerator" 1039 1039 1039
 "Proton Gun" 2034 2034 2034
+"Water Cooling System" 1078 1078 1078
+"Anti-Missile Turret" 1081 1081 1081
 
 Special
 "Dead Ringer" 5000 5000 [N/A - no tech]
@@ -196,6 +199,7 @@ D14-RN 1056 1056 1056
 D23-QP 1057 1057 1057
 D41-HY 1058 1058 1058
 "Plasma Cannon" 2051 2051 2051
+"Liquid Nitrogen Cooling" 1079 1079 1079
 
 Republic
 Rainmaker 346 346 346 1136-1138
@@ -227,8 +231,10 @@ D94-YV 1071 1071 1071
 "Armageddon Core" 1076 1076 1076
 "Particle Cannon" 2072 2072 2072
 "Electron Beam" 2073 2073 2073
+"Liquid Helium Cooling" 1080 1080 1080
+"Heavy Anti-Missile Turret" 1082 1082 1082
 
 Notes:
 Due to the addition of new items:
 The next ship should have a value of [ship] 354 354 354 1160-1162.
-The next item should have a value of 1077.
+The next item should have a value of 1083

@@ -1,0 +1,14 @@
+{
+  "ItemType": 1,
+  "Id": 1078,
+  "Name": "Water Cooling System",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1078,
+  "Faction": 203,
+  "Icon": "water cooling.png",
+  "Layout": "1111",
+  "PossibleModifications": [
+    9
+  ]
+}

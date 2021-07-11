@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1082,
+  "Name": "Heavy Anti-Missile Turret",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 205,
+  "Level": 150,
+  "Icon": "heavy antimissile turret.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "DeviceId": 1082,
+  "Restrictions": {
+    "UniqueComponentTag": "pointdefense"
+  },
+  "PossibleModifications": [
+    2,
+    6
+  ]
+}

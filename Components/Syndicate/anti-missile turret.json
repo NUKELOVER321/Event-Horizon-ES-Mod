@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1081,
+  "Name": "Anti-Missile Turret",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 203,
+  "Level": 100,
+  "Icon": "anti missile turret.png",
+  "Layout": "1111",
+  "CellType": "2",
+  "DeviceId": 1081,
+  "Restrictions": {
+    "UniqueComponentTag": "pointdefense"
+  },
+  "PossibleModifications": [
+    2,
+    6
+  ]
+}

@@ -3,8 +3,9 @@
   "Id": 1038,
   "Type": 1,
   "EnergyRechargeRate": -1.5,
-  "EnergyRechargeCooldownModifier": 0.1,
+  "EnergyRechargeCooldownModifier": 0.04,
   "ShieldPoints": 3.0,
   "ShieldRechargeRate": 3.0,
+  "ShieldRechargeCooldownModifier": 0.1,
   "Weight": 50.0
 }

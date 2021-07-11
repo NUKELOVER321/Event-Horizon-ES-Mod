@@ -3,6 +3,7 @@
   "Id": 1065,
   "Type": 1,
   "EnergyRechargeRate": -0.663,
+  "EnergyRechargeCooldownModifier": 0.043,
   "Weight": 20.0,
   "EnginePower": 2.8,
   "TurnRate": 5.6
