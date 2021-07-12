@@ -4,7 +4,7 @@
   "Body": {
     "Type": 1,
     "Size": 1.0,
-    "Velocity": 15.0,
+    "Velocity": 11.0,
     "Range": 539.0,
     "Weight": 0.15,
     "HitPoints": 10,
@@ -14,7 +14,7 @@
   },
   "Triggers": [
     {
-      "Condition": 2,
+      "Condition": 5,
       "EffectType": 2,
       "Ammunition": 5026,
       "Color": "#00000000",

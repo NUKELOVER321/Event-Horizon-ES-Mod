@@ -279,15 +279,6 @@
       "Modification": 9,
       "Quality": 5,
       "Locked": true,
-      "X": 8,
-      "Y": 4,
-      "BarrelId": -1
-    },
-    {
-      "ComponentId": 1006,
-      "Modification": 9,
-      "Quality": 5,
-      "Locked": true,
       "X": 4,
       "Y": 4,
       "BarrelId": -1
@@ -328,14 +319,14 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 2024,
+      "ComponentId": 2022,
       "Locked": true,
       "X": 9,
       "Y": 7,
       "BarrelId": 1
     },
     {
-      "ComponentId": 2024,
+      "ComponentId": 2022,
       "Locked": true,
       "X": 2,
       "Y": 7

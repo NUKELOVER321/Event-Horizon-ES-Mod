@@ -5,20 +5,6 @@
   "DifficultyClass": 1,
   "Components": [
     {
-      "ComponentId": 167,
-      "Locked": true,
-      "X": 11,
-      "Y": 8,
-      "BarrelId": 2
-    },
-    {
-      "ComponentId": 167,
-      "Locked": true,
-      "X": 6,
-      "Y": 8,
-      "BarrelId": 1
-    },
-    {
       "ComponentId": 120,
       "Locked": true,
       "X": 8,
@@ -300,6 +286,20 @@
       "Y": 7,
       "BarrelId": -1,
       "KeyBinding": 2
+    },
+    {
+      "ComponentId": 121,
+      "Locked": true,
+      "X": 11,
+      "Y": 9,
+      "BarrelId": 2
+    },
+    {
+      "ComponentId": 121,
+      "Locked": true,
+      "X": 6,
+      "Y": 9,
+      "BarrelId": 1
     }
   ]
 }

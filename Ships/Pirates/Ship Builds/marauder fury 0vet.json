@@ -25,48 +25,6 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 112,
-      "Locked": true,
-      "X": 9,
-      "Y": 3,
-      "BarrelId": 1
-    },
-    {
-      "ComponentId": 112,
-      "Locked": true,
-      "X": 8,
-      "Y": 2,
-      "BarrelId": 1
-    },
-    {
-      "ComponentId": 112,
-      "Locked": true,
-      "X": 13,
-      "Y": 9,
-      "BarrelId": 3
-    },
-    {
-      "ComponentId": 112,
-      "Locked": true,
-      "X": 3,
-      "Y": 3
-    },
-    {
-      "ComponentId": 112,
-      "Locked": true,
-      "X": 4,
-      "Y": 2,
-      "Behaviour": -1
-    },
-    {
-      "ComponentId": 112,
-      "Locked": true,
-      "X": -1,
-      "Y": 9,
-      "BarrelId": 2,
-      "Behaviour": -1
-    },
-    {
       "ComponentId": 10,
       "Locked": true,
       "X": 6,

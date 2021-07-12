@@ -9,7 +9,7 @@
   "Level": 75,
   "Icon": "anti missile turret.png",
   "Layout": "1111",
-  "CellType": "2",
+  "CellType": "4",
   "DeviceId": 1081,
   "Restrictions": {
     "UniqueComponentTag": "pointdefense"

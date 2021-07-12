@@ -49,6 +49,7 @@ Add shield and hull damage then divide fire rate or shot count or both.
 For projectile weapons, divide shield + hull damage per shot by 10.
 For beam weapons and missiles, divide shield + hull damage by 20 and 25 respectively.
 Energy usage and range is 1/10 that of its ES equivalent.
+Divide range by 10.
 
 For energy cost of missile type weapons, multiple initial energy cost by heat then divide by outfit space.
 Torpedoes and missiles require 10x and 5x the normal time to reload.

@@ -13,7 +13,7 @@
   },
   "Triggers": [
     {
-      "Condition": 2,
+      "Condition": 5,
       "EffectType": 2,
       "Ammunition": 5050,
       "Color": "#00000000",

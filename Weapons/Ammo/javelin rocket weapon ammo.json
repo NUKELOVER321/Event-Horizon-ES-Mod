@@ -3,7 +3,7 @@
   "Id": 1028,
   "Body": {
     "Size": 1.0,
-    "Velocity": 20.0,
+    "Velocity": 10.0,
     "Range": 60.0,
     "Weight": 0.1,
     "BulletPrefab": 1028,
@@ -12,7 +12,7 @@
   },
   "Triggers": [
     {
-      "Condition": 2,
+      "Condition": 5,
       "EffectType": 2,
       "Ammunition": 5028,
       "Color": "#00000000",

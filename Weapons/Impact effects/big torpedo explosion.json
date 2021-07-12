@@ -7,21 +7,21 @@
       "Image": "torpedo impact.png",
       "ColorMode": 2,
       "Size": 10.0,
-      "Lifetime": 2.0
+      "Lifetime": 3.0
     },
     {
       "Type": 1,
       "Image": "star",
       "ColorMode": 2,
       "Size": 6.0,
-      "Lifetime": 2.0
+      "Lifetime": 3.0
     },
     {
       "Type": 4,
       "Image": "CloudWhite",
       "ColorMode": 2,
       "Size": 3.0,
-      "Lifetime": 2.0
+      "Lifetime": 3.0
     },
     {
       "Type": 3,
@@ -34,7 +34,7 @@
     {
       "Type": 5,
       "Size": 6.0,
-      "Lifetime": 2.0
+      "Lifetime": 3.0
     }
   ]
 }

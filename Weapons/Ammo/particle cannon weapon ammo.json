@@ -3,7 +3,7 @@
   "Id": 1072,
   "Body": {
     "Size": 3.0,
-    "Velocity": 75.0,
+    "Velocity": 72.0,
     "Range": 75.0,
     "Weight": 0.1,
     "BulletPrefab": 1072,

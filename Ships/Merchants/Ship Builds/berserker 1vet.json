@@ -5,32 +5,6 @@
   "DifficultyClass": 1,
   "Components": [
     {
-      "ComponentId": 1029,
-      "Locked": true,
-      "X": 10,
-      "Y": 7,
-      "BarrelId": 3
-    },
-    {
-      "ComponentId": 1029,
-      "Locked": true,
-      "X": 7,
-      "Y": 7,
-      "BarrelId": 2
-    },
-    {
-      "ComponentId": 1029,
-      "Locked": true,
-      "X": 3,
-      "Y": 7,
-      "BarrelId": 1
-    },
-    {
-      "ComponentId": 1029,
-      "Locked": true,
-      "Y": 7
-    },
-    {
       "ComponentId": 58,
       "Modification": 11,
       "Quality": 5,
@@ -51,106 +25,12 @@
       "KeyBinding": 1
     },
     {
-      "ComponentId": 1002,
-      "Locked": true,
-      "X": 5,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 1002,
-      "Locked": true,
-      "X": 5,
-      "Y": 2,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 12,
-      "Modification": 3,
-      "Quality": 5,
-      "Locked": true,
-      "X": 11,
-      "Y": 9,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 12,
-      "Modification": 3,
-      "Quality": 5,
-      "Locked": true,
-      "X": 10,
-      "Y": 9,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 12,
-      "Modification": 3,
-      "Quality": 5,
-      "Locked": true,
-      "Y": 9,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 12,
-      "Modification": 3,
-      "Quality": 5,
-      "Locked": true,
-      "X": 1,
-      "Y": 9,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 67,
-      "Modification": 9,
-      "Quality": 5,
-      "Locked": true,
-      "X": 9,
-      "Y": 8,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
       "ComponentId": 67,
       "Modification": 9,
       "Quality": 5,
       "Locked": true,
       "X": 8,
-      "Y": 9,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 67,
-      "Modification": 9,
-      "Quality": 5,
-      "Locked": true,
-      "X": 9,
-      "Y": 9,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 67,
-      "Modification": 9,
-      "Quality": 5,
-      "Locked": true,
-      "X": 2,
-      "Y": 8,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 67,
-      "Modification": 9,
-      "Quality": 5,
-      "Locked": true,
-      "X": 2,
-      "Y": 9,
+      "Y": 7,
       "BarrelId": -1,
       "KeyBinding": 1
     },
@@ -160,7 +40,7 @@
       "Quality": 5,
       "Locked": true,
       "X": 3,
-      "Y": 9,
+      "Y": 7,
       "BarrelId": -1,
       "KeyBinding": 1
     },
@@ -168,9 +48,84 @@
       "ComponentId": 1002,
       "Locked": true,
       "X": 5,
+      "Y": 5,
+      "BarrelId": -1,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 1002,
+      "Locked": true,
+      "X": 4,
       "Y": 7,
       "BarrelId": -1,
       "KeyBinding": 1
+    },
+    {
+      "ComponentId": 1002,
+      "Locked": true,
+      "X": 6,
+      "Y": 7,
+      "BarrelId": -1,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 66,
+      "Locked": true,
+      "X": 5,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 67,
+      "Locked": true,
+      "X": 11,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 67,
+      "Locked": true,
+      "X": 10,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 67,
+      "Locked": true,
+      "X": 1,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 67,
+      "Locked": true,
+      "Y": 9,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 11,
+      "Locked": true,
+      "X": 8,
+      "Y": 8,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 11,
+      "Locked": true,
+      "X": 2,
+      "Y": 8,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 2022,
+      "Locked": true,
+      "X": 10,
+      "Y": 7,
+      "BarrelId": 1
+    },
+    {
+      "ComponentId": 2022,
+      "Locked": true,
+      "Y": 7
     }
   ]
 }
