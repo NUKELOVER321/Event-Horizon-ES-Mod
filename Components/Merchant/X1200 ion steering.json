@@ -6,6 +6,7 @@
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1012,
+  "Faction": 201,
   "Icon": "X1200 ion steering.png",
   "Layout": "1",
   "CellType": "5",

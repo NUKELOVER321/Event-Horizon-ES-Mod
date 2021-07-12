@@ -6,6 +6,7 @@
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1011,
+  "Faction": 201,
   "Icon": "X1700 ion thruster.png",
   "Layout": "1",
   "CellType": "5",

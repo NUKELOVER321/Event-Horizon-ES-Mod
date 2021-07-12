@@ -6,6 +6,7 @@
   "Availability": 1,
   "ComponentStatsId": 1060,
   "Faction": 205,
+  "Level": 200,
   "Icon": "A120 thruster.png",
   "Layout": "1",
   "CellType": "5",

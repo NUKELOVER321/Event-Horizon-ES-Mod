@@ -7,6 +7,7 @@
   "Availability": 1,
   "ComponentStatsId": 1002,
   "Faction": 201,
+  "Level": 10,
   "Icon": "nGVF-BB fuelcell.png",
   "Layout": "1111",
   "CellType": "2",

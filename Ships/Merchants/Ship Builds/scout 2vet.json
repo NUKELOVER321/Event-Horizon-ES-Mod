@@ -328,17 +328,17 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 166,
+      "ComponentId": 2024,
       "Locked": true,
-      "X": 8,
-      "Y": 6,
+      "X": 9,
+      "Y": 7,
       "BarrelId": 1
     },
     {
-      "ComponentId": 166,
+      "ComponentId": 2024,
       "Locked": true,
       "X": 2,
-      "Y": 6
+      "Y": 7
     }
   ]
 }
