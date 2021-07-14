@@ -2,7 +2,8 @@
   "ItemType": 15,
   "Id": 10002,
   "Name": "Friendly merchants",
-  "StartCondition": 2,
+  "QuestType": 3,
+  "StartCondition": 6,
   "Weight": 1.0,
   "Origin": {
     "Type": 1,

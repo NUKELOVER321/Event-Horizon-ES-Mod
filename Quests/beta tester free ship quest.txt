@@ -3,7 +3,6 @@
   "Id": 10001,
   "QuestType": 2,
   "StartCondition": 4,
-  "Weight": 1.0,
   "Origin": {
     "Type": 3
   },
