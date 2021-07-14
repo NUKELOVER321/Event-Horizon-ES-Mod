@@ -6,21 +6,21 @@
       "Type": 2,
       "Image": "torpedo impact.png",
       "ColorMode": 2,
-      "Size": 10.0,
+      "Size": 4.0,
       "Lifetime": 3.0
     },
     {
       "Type": 1,
       "Image": "star",
       "ColorMode": 2,
-      "Size": 6.0,
+      "Size": 2.0,
       "Lifetime": 3.0
     },
     {
       "Type": 4,
       "Image": "CloudWhite",
       "ColorMode": 2,
-      "Size": 3.0,
+      "Size": 2.0,
       "Lifetime": 3.0
     },
     {
@@ -28,12 +28,12 @@
       "Image": "CloudWhite",
       "ColorMode": 1,
       "Color": "#80202020",
-      "Size": 4.0,
+      "Size": 2.0,
       "Lifetime": 5.0
     },
     {
       "Type": 5,
-      "Size": 6.0,
+      "Size": 2.0,
       "Lifetime": 3.0
     }
   ]

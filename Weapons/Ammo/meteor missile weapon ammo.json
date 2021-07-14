@@ -7,7 +7,7 @@
     "Velocity": 11.0,
     "Range": 539.0,
     "Weight": 0.15,
-    "HitPoints": 10,
+    "HitPoints": 6,
     "BulletPrefab": 1026,
     "EnergyCost": 0.6,
     "CanBeDisarmed": true
@@ -19,7 +19,15 @@
       "Ammunition": 5026,
       "Color": "#00000000",
       "Quantity": 1,
-      "Size": 0.5
+      "Size": 2.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 5026,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 2.0
     }
   ],
   "Effects": [

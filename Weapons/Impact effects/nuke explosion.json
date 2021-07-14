@@ -6,20 +6,20 @@
       "Type": 2,
       "Image": "nuke impact.png",
       "ColorMode": 2,
-      "Size": 20.0,
+      "Size": 10.0,
       "Lifetime": 5.0
     },
     {
       "Type": 1,
       "Image": "star",
       "ColorMode": 2,
-      "Size": 10.0,
+      "Size": 5.0,
       "Lifetime": 5.0
     },
     {
       "Type": 4,
       "Image": "nuke impact.png",
-      "Size": 10.0,
+      "Size": 5.0,
       "Lifetime": 5.0
     },
     {
@@ -27,13 +27,13 @@
       "Image": "CloudWhite",
       "ColorMode": 1,
       "Color": "#FFFF00",
-      "Size": 10.0,
+      "Size": 5.0,
       "Lifetime": 5.0
     },
     {
       "Type": 5,
       "Color": "#D7FF00",
-      "Size": 20.0,
+      "Size": 10.0,
       "Lifetime": 5.0
     }
   ]

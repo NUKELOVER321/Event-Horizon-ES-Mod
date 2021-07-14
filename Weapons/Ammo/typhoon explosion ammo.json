@@ -13,7 +13,7 @@
       "EffectType": 1,
       "VisualEffect": 1035,
       "AudioClip": "explosion medium",
-      "Size": 3.0,
+      "Size": 1.0,
       "Lifetime": 2.0
     }
   ],
@@ -21,7 +21,7 @@
   "Effects": [
     {
       "DamageType": 2,
-      "Power": 70.4
+      "Power": 92.0
     }
   ]
 }

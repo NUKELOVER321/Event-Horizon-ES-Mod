@@ -14,7 +14,7 @@
       "EffectType": 1,
       "VisualEffect": 1036,
       "AudioClip": "explosion nuke",
-      "Size": 3.0,
+      "Size": 1.0,
       "Lifetime": 5.0
     }
   ],
