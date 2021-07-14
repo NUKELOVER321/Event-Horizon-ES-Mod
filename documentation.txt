@@ -48,6 +48,7 @@ Determining stats:
 Add shield and hull damage then divide fire rate or shot count or both.
 For projectile weapons, divide shield + hull damage per shot by 10.
 For beam weapons and missiles, divide shield + hull damage by 20 and 25 respectively.
+For torpedos, divide shield + hull damage by 20.
 Energy usage and range is 1/10 that of its ES equivalent.
 Divide range by 10.
 
@@ -195,12 +196,13 @@ Finch 3003 3003 3003 3003
 "Fission Reactor" 1052 1052 1052
 "Breeder Reactor" 1053 1053 1053
 "Stack Core" 1054 1054 1054
-Flamethrower 1055 1055 1055 [NOT DONE]
+Flamethrower 1055 1055 1055
 D14-RN 1056 1056 1056
 D23-QP 1057 1057 1057
 D41-HY 1058 1058 1058
 "Plasma Cannon" 2051 2051 2051
 "Liquid Nitrogen Cooling" 1079 1079 1079
+"Plasma Repeater" 1084 1084 1084
 
 Republic
 Rainmaker 346 346 346 1136-1138
@@ -238,4 +240,4 @@ D94-YV 1071 1071 1071
 Notes:
 Due to the addition of new items:
 The next ship should have a value of [ship] 354 354 354 1160-1162.
-The next item should have a value of 1083
+The next item should have a value of 1084
