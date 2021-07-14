@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 318,
+  "ShipCategory": 1,
   "Name": "Star Queen",
   "Faction": 201,
   "SizeClass": 3,

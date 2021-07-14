@@ -31,7 +31,8 @@
     {
       "Position": {
         "x": -0.1
-      }
+      },
+      "PlatformType": 3
     }
   ]
 }

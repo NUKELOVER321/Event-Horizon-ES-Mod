@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 344,
+  "ShipCategory": 1,
   "Name": "Skein",
   "Faction": 204,
   "SizeClass": 3,

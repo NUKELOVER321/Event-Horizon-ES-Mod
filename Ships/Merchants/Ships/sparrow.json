@@ -25,13 +25,15 @@
       "Position": {
         "x": 0.3,
         "y": 0.65
-      }
+      },
+      "PlatformType": 3
     },
     {
       "Position": {
         "x": 0.3,
         "y": -0.65
-      }
+      },
+      "PlatformType": 3
     }
   ]
 }

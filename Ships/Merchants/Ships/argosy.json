@@ -34,28 +34,32 @@
         "x": 0.8,
         "y": 0.15
       },
-      "PlatformType": 3
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
     },
     {
       "Position": {
         "x": 0.8,
         "y": -0.15
       },
-      "PlatformType": 3
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
     },
     {
       "Position": {
         "x": 0.4,
         "y": 0.25
       },
-      "PlatformType": 3
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
     },
     {
       "Position": {
         "x": 0.4,
         "y": -0.25
       },
-      "PlatformType": 3
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
     }
   ]
 }

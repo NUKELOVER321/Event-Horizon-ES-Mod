@@ -3,7 +3,7 @@
   "Id": 337,
   "Name": "Firebird",
   "Faction": 204,
-  "SizeClass": 1,
+  "SizeClass": 2,
   "IconImage": "firebird icon.png",
   "IconScale": 1.0,
   "ModelImage": "firebird.png",
