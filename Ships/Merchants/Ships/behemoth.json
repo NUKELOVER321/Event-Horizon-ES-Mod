@@ -8,7 +8,7 @@
   "IconImage": "behemoth icon.png",
   "IconScale": 1.0,
   "ModelImage": "behemoth.png",
-  "ModelScale": 5.0,
+  "ModelScale": 6.0,
   "EnginePosition": {
     "x": -0.8
   },
@@ -52,7 +52,7 @@
         "y": 0.58
       },
       "PlatformType": 2,
-      "WeaponClass": "LCM"
+      "WeaponClass": "LC"
     },
     {
       "Position": {
@@ -60,7 +60,7 @@
         "y": -0.58
       },
       "PlatformType": 2,
-      "WeaponClass": "LCM"
+      "WeaponClass": "LC"
     }
   ]
 }

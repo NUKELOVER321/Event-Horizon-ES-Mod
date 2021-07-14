@@ -5,33 +5,6 @@
   "DifficultyClass": 2,
   "Components": [
     {
-      "ComponentId": 1051,
-      "Locked": true,
-      "X": 15,
-      "Y": 14,
-      "BarrelId": 3
-    },
-    {
-      "ComponentId": 1051,
-      "Locked": true,
-      "X": 5,
-      "Y": 14,
-      "BarrelId": 2
-    },
-    {
-      "ComponentId": 1051,
-      "Locked": true,
-      "X": 8,
-      "Y": 4
-    },
-    {
-      "ComponentId": 1051,
-      "Locked": true,
-      "X": 12,
-      "Y": 4,
-      "BarrelId": 1
-    },
-    {
       "ComponentId": 1044,
       "Locked": true,
       "X": 10,
@@ -166,6 +139,43 @@
       "Y": 9,
       "BarrelId": -1,
       "KeyBinding": 1
+    },
+    {
+      "ComponentId": 1034,
+      "Locked": true,
+      "X": 15,
+      "Y": 14,
+      "BarrelId": 3
+    },
+    {
+      "ComponentId": 1034,
+      "Locked": true,
+      "X": 5,
+      "Y": 14,
+      "BarrelId": 2
+    },
+    {
+      "ComponentId": 1072,
+      "Locked": true,
+      "X": 12,
+      "Y": 4,
+      "BarrelId": 1,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 1072,
+      "Locked": true,
+      "X": 8,
+      "Y": 4,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 1078,
+      "Locked": true,
+      "X": 11,
+      "Y": 7,
+      "BarrelId": -1,
+      "KeyBinding": 2
     }
   ]
 }
