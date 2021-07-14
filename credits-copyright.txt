@@ -1,5 +1,8 @@
-All images used in this mod, with the exception of Free to Use images, originate from the game Endless Sky.
-Visit their Github page at https://github.com/endless-sky/endless-sky/ for a list of contributors who have worked on Endless Sky (and thus indirectly contributed to this mod).
+All images used in this mod, with the exception of images designated "Free To Use", originate from the game Endless Sky.
+Images are licensed under CC-BY-SA 4.0 and have not been modified from their original state.
+Visit their Github page at https://github.com/endless-sky/endless-sky/ for a list of contributors.
+
 For Free to Use images, please refer to ftu-credits-readme.txt.
+
 Credits to Pavel Zinchenko for creating Event Horizon and providing the database files necessary for the production for this mod.
 Credits to various members of the Event Horizon discord server for various assistance with developing this mod through advice, suggestions, and criticism.
