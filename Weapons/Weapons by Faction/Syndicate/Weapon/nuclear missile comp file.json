@@ -3,7 +3,7 @@
   "Id": 1036,
   "Name": "Nuclear Missile",
   "DisplayCategory": 1,
-  "Availability": 1,
+  "Availability": 3,
   "ComponentStatsId": 1,
   "Faction": 203,
   "Level": 1000,

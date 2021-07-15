@@ -1,10 +1,10 @@
 {
   "ItemType": 3,
   "Id": 1029,
-  "WeaponClass": 4,
-  "FireRate": 20.0,
+  "WeaponClass": 3,
+  "FireRate": 0.4,
   "Spread": 10.0,
-  "Magazine": 3,
+  "Magazine": 40,
   "ActivationType": 1,
   "ShotSound": "gatling",
   "ShotEffectPrefab": "OrbAdditive",
