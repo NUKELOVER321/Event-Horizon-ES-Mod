@@ -28,13 +28,13 @@ Infesticore 2103 2103-2105 2103
 Effects also take the ID of their weapon.
 
 Model sizes:
-0.5 for drones
-1.0 for frigates
-2.0 for destroyers
-3.0 for cruisers
-4.0 for battleships
-5.0 for caps
-10.0+ for super-capital ships (Heron, Bactrian, Kestrel Tester)
+1 for drones
+2 for frigates
+3 for destroyers
+4 for cruisers
+5 for battleships
+6 for caps
+12+ for super-capital ships (Heron, Bactrian, Kestrel Tester)
 Add (tier-1) to the model size for appropriate factions.
 
 ALTERNATIVELY
