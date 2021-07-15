@@ -9,8 +9,5 @@
   "Level": 150,
   "Icon": "liquid nitrogen cooling.png",
   "Layout": "111111111",
-  "CellType": "2",
-  "PossibleModifications": [
-    9
-  ]
+  "CellType": "2"
 }

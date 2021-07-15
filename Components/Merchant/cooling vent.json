@@ -8,8 +8,5 @@
   "Faction": 201,
   "Icon": "air vent.png",
   "Layout": "1",
-  "CellType": "2",
-  "PossibleModifications": [
-    9
-  ]
+  "CellType": "2"
 }

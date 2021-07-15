@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 5001,
+  "Name": "NT200 Nucleovoltaic",
+  "DisplayCategory": 3,
+  "Availability": 3,
+  "ComponentStatsId": 5001,
+  "Faction": 215,
+  "Level": 1000,
+  "Icon": "troll.png",
+  "Layout": "111111111",
+  "CellType": "2"
+}

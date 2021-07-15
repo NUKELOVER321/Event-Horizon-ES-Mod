@@ -9,8 +9,5 @@
   "Level": 50,
   "Icon": "water cooling.png",
   "Layout": "1111",
-  "CellType": "2",
-  "PossibleModifications": [
-    9
-  ]
+  "CellType": "2"
 }
