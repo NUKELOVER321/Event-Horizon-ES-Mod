@@ -1,0 +1,33 @@
+0.1.1 "Sol" update
+
+Changelog:
+- Endless Sky related content
+- - Added Merchants, Pirates, Syndicate, Free Worlds, and Republic, alongside appropriate ships, weapons, and outfits
+- - - Flamethrower not included as it did not reach sufficient quality standards
+- - Added heat mechanic
+- - - Modded outfits increase energy regen cooldown, while special "cooling" outfits reduce energy regen cooldown
+- - - Reduced energy regen cooldown globally (to 0.5s)
+- - Merchant starbases are friendly to the player
+
+- Other content
+- - Added 1 additional yellow cell to Colossus and changed engine setup
+- - Nerfed the HLC, HC, and DR
+- - Added a few 4x4 modules
+- - Added Infesticore
+- - Changed tech tree requirements for some vanilla items
+- - Made Santa research-able
+
+0.1.2 "Foundry" update
+
+Changelog:
+- Endless Sky related content
+- - Added missing tech for Falcon and Leviathan
+- - Reduced tech costs for various Merchant items
+- - Removed Nuclear Missile from Syndicate tech tree
+- - Buffed Haulers and FW carriers
+(Buff bactrian -> more cooling?)
+- - Fixed plasma repeater image
+
+- Other content
+- - Added energy cooldown to vanilla generators
+- - Added regeneration to Infesticore
