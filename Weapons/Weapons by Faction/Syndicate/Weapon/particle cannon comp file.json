@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2072,
+  "Name": "Particle Cannon",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 203,
+  "Level": 225,
+  "Icon": "particle cannon.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2072,
+  "AmmunitionId": 1072,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

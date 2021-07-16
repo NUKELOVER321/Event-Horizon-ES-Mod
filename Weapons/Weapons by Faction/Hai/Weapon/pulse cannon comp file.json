@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2098,
+  "Name": "Pulse Cannon",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 206,
+  "Level": 250,
+  "Icon": "pulse cannon.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2098,
+  "AmmunitionId": 1098,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

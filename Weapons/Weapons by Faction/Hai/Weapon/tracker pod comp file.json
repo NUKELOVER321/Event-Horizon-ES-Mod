@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1100,
+  "Name": "Tracker Pod",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 206,
+  "Level": 275,
+  "Icon": "tracker pod.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1100,
+  "AmmunitionId": 1100,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

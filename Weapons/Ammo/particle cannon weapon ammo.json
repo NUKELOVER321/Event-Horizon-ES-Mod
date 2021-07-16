@@ -7,7 +7,7 @@
     "Range": 75.0,
     "Weight": 0.1,
     "BulletPrefab": 1072,
-    "EnergyCost": 1.5
+    "EnergyCost": 3.5
   },
   "Triggers": [
     {
