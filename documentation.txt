@@ -145,11 +145,11 @@ Blaster 2022 2022 2022
 
 Syndicate
 Headhunter 325 325 1073-1075
-Quicksilver 330 330 1088-1090
-Corvette 331 331 1091-1093
-Manta 332 332 1093-1096
-Splinter 333 333 1097-1099
-Vanguard 334 334 1100-1102
+Quicksilver 330 330 1089-1091
+Corvette 331 331 1092-1094
+Manta 332 332 1094-1097
+Splinter 333 333 1098-1100
+Vanguard 334 334 1101-1103
 "Class C Freighter" 335 335 1103-1105
 Protector 336 336 1106-1108
 Barb 3001 3001 3001 3001
@@ -238,7 +238,38 @@ D94-YV 1071 1071 1071
 "Liquid Helium Cooling" 1080 1080 1080
 "Heavy Anti-Missile Turret" 1082 1082 1082
 
+Hai
+Aphid 354 354 1160-1162
+Grasshopper 355 355 355 1163-1165
+"Lightning Bug" 356 356 356 1166-1168
+"Water Bug" 357 357 357 1169-1171
+Centipede 358 358 358 1172-1174
+Geocoris 359 359 359 1175-1177
+"Shield Beetle" 360 360 360 1178-1180
+Solifuge 361 361 361 1181-1183
+"Pond Strider" 362 362 362 1184-1186
+Flea 3008 3008 3008
+"Violin Spider" 3009 3009 3009
+"Chasm Battery" 1083 1083 1083
+"Fissure Battery" 1085 1085 1085
+"Gorge Battery" 1086 1086 1086
+"Ravine Battery" 1087 1087 1087
+"Valley Battery" 1088 1088 1088
+"Sand Cell" 1089 1089 1089
+"Pebble Core" 1090 1090 1090
+"Geode Reactor" 1091 1091 1091
+"Boulder Reactor" 1092 1092 1092
+"Corundum Regenerator" 1093 1093 1093
+"Diamond Regenerator" 1094 1094 1094
+"Williwaw Cooling" 1095 1095 1095
+"Bullfrog Anti-missile" 1096 1096 1096
+"Chameleon Anti-missile" 1097 1097 1097
+"Pulse Cannon" 2098 2098 2098
+"Pulse Turret" 1098 1098 1098
+"Ion Cannon" 1099 1099 1099
+"Tracker Pod" 1100 1100 1100
+Railgun 1101 1101 1101
+
 Notes:
 Due to the addition of new items:
-The next ship should have a value of [ship] 354 354 354 1160-1162.
-The next item should have a value of 1084
+The next item should have a value of

@@ -32,3 +32,16 @@ Changelog:
 - Other content
 - - Added energy cooldown to vanilla generators
 - - Added health regeneration to Infesticore
+
+0.1.3 "Alcyone" update
+
+Changelog:
+- Endless Sky related content
+- - Moved Particle Cannon to Syndicate tree
+- - Reorganized engine placement in various techtrees
+- - Nerfed range on various missiles
+- - Increased rarity of certain ships to Special
+- - New content work in progress
+
+- Other content
+- - Compressed most images and reduced size of mod
