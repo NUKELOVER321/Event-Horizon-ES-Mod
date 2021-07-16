@@ -1,0 +1,9 @@
+{
+  "ItemType": 14,
+  "Id": 206,
+  "Name": "Hai",
+  "Color": "#BD00FF",
+  "HomeStarDistance": 250,
+  "WanderingShipsDistance": 125,
+  "Hidden": true
+}
