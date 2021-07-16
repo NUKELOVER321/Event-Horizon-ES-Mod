@@ -1,0 +1,12 @@
+{
+  "ItemType": 1,
+  "Id": 1095,
+  "Name": "Williwaw Cooling",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 1094,
+  "Faction": 206,
+  "Icon": "williwaw cooling.png",
+  "Layout": "1",
+  "CellType": "2"
+}

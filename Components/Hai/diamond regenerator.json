@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1094,
+  "Name": "Diamond Regenerator",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1093,
+  "Faction": 206,
+  "Level": 300,
+  "Icon": "diamond regenerator.png",
+  "Layout": "1111111111111111",
+  "CellType": "1",
+  "PossibleModifications": [
+    15
+  ]
+}

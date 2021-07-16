@@ -1,0 +1,57 @@
+{
+  "ItemType": 6,
+  "Id": 357,
+  "Name": "Water Bug",
+  "Faction": 206,
+  "SizeClass": 2,
+  "IconImage": "water bug icon.png",
+  "IconScale": 0.5,
+  "ModelImage": "water bug.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#009BFF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.1
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.1
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000000000000000000044000000000000034430000000011133223311100011113322331111011111332233111111144433223344411114443322334441111444332233444110111133223311110001113322331110000000332233000000000015555100000000001555510000000000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.1,
+        "y": 0.5
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.1,
+        "y": -0.5
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    }
+  ]
+}

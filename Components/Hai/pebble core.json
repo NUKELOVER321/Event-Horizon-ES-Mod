@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1090,
+  "Name": "Pebble Core",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1089,
+  "Faction": 206,
+  "Level": 275,
+  "Icon": "pebble core.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

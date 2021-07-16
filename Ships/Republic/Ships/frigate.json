@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 348,
+  "ShipCategory": 3,
   "Name": "Frigate",
   "Faction": 205,
   "SizeClass": 2,

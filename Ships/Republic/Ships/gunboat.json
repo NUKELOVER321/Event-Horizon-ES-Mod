@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 347,
+  "ShipCategory": 3,
   "Name": "Gunboat",
   "Faction": 205,
   "IconImage": "gunboat icon.png",

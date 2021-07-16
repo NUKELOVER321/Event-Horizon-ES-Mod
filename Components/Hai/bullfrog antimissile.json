@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1096,
+  "Name": "Bullfrog Anti-Missile",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 206,
+  "Level": 275,
+  "Icon": "bullfrog antimissile.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "DeviceId": 1095,
+  "Restrictions": {
+    "UniqueComponentTag": "pointdefense"
+  },
+  "PossibleModifications": [
+    2,
+    6
+  ]
+}

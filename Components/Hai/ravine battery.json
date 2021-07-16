@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1087,
+  "Name": "Ravine Battery Pack",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1086,
+  "Faction": 206,
+  "Level": 285,
+  "Icon": "ravine battery.png",
+  "Layout": "1",
+  "PossibleModifications": [
+    9
+  ]
+}

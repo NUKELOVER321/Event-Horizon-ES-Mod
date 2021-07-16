@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1091,
+  "Name": "Geode Reactor",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1090,
+  "Faction": 206,
+  "Level": 285,
+  "Icon": "geode reactor.png",
+  "Layout": "1111111111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "ItemType": 6,
+  "Id": 355,
+  "Name": "Grasshopper",
+  "Faction": 206,
+  "SizeClass": 1,
+  "IconImage": "grasshopper icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "grasshopper.png",
+  "ModelScale": 2.25,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#009BFF",
+  "EngineSize": 0.1,
+  "Layout": "000000000000000000004404400000000004424400000000113222311000001113222311100001113222311100001113222311100000113222311000000011222110000000011222110000000001222100000000001555100000000000555000000000000555000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8,
+        "y": 0.15
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.15
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    }
+  ]
+}

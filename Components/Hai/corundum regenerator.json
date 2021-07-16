@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1093,
+  "Name": "Corundum Regenerator",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1092,
+  "Faction": 206,
+  "Level": 300,
+  "Icon": "corundum regenerator.png",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    15
+  ]
+}

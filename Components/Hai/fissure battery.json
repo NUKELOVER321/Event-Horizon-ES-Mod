@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1085,
+  "Name": "Fissure Battery Pack",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1084,
+  "Faction": 206,
+  "Level": 260,
+  "Icon": "fissure battery.png",
+  "Layout": "1",
+  "PossibleModifications": [
+    9
+  ]
+}

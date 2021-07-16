@@ -1,0 +1,73 @@
+{
+  "ItemType": 6,
+  "Id": 358,
+  "Name": "Centipede",
+  "Faction": 206,
+  "SizeClass": 2,
+  "IconImage": "centipede icon.png",
+  "IconScale": 0.5,
+  "ModelImage": "centipede.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#009BFF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.1
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.1
+      },
+      "Size": 0.2
+    }
+  ],
+  "Layout": "0000000442244000000000000004422440000000000000002222000000000000000122221000000000000001222210000000000000002222000000000000001122221100000000000011244211000000000000112442110000000000001122221100000000000011222211000000000001112222111000000000011122221110000000000111222211100000000014442222444100000000144422224441000000001444222244410000000011115555111100000000000055550000000000000000555500000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.2
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": 0.3
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": -0.3
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    }
+  ]
+}
