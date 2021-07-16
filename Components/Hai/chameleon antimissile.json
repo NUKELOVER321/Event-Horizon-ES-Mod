@@ -7,7 +7,7 @@
   "ComponentStatsId": 3,
   "Faction": 206,
   "Level": 300,
-  "Icon": "chameleon antimissile.png",
+  "Icon": "chameleon anti-missile.png",
   "Layout": "111111111",
   "CellType": "4",
   "DeviceId": 1096,

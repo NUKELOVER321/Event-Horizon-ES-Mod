@@ -10,7 +10,7 @@
   "Icon": "ion cannon.png",
   "Layout": "111111111",
   "CellType": "4",
-  "WeaponId": 2099,
+  "WeaponId": 1099,
   "AmmunitionId": 1099,
   "WeaponSlotType": "C",
   "PossibleModifications": [
