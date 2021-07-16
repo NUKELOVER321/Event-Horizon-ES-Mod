@@ -23,11 +23,12 @@ Changelog:
 - Endless Sky related content
 - - Added missing tech for Falcon and Leviathan
 - - Reduced tech costs for various Merchant items
-- - Removed Nuclear Missile from Syndicate tech tree
 - - Buffed Haulers and FW carriers
-(Buff bactrian -> more cooling?)
 - - Fixed plasma repeater image
+- - Buffed modded laser damage output
+- - Increased gatling gun cooldown period
+- - Changed damage types of several weapons
 
 - Other content
 - - Added energy cooldown to vanilla generators
-- - Added regeneration to Infesticore
+- - Added health regeneration to Infesticore
