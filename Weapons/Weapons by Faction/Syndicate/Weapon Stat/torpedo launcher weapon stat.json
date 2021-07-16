@@ -4,7 +4,7 @@
   "FireRate": 0.04,
   "Spread": 1.0,
   "ActivationType": 1,
-  "ShotSound": "torpedo.",
-  "ShotEffectPrefab": "OrbAdditive",
+  "ShotSound": "torpedo",
+  "ShotEffectPrefab": "torpedo fire.png",
   "ControlButtonIcon": "torpedo icon.png"
 }

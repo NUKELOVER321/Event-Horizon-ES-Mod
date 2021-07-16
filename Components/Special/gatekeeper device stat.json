@@ -3,8 +3,9 @@
   "Id": 5001,
   "Type": 1,
   "ArmorPoints": 10000.0,
-  "ArmorRepairRate": 100.0,
-  "ShieldPoints": 50000.0,
-  "ShieldRechargeRate": 500.0,
-  "Weight": 20.0
+  "ArmorRepairRate": 500.0,
+  "ArmorRepairCooldownModifier": -1.0,
+  "EnergyRechargeRate": 500.0,
+  "ShieldRechargeCooldownModifier": -5.0,
+  "Weight": 1000.0
 }
