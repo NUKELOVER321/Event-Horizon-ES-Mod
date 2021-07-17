@@ -46,7 +46,6 @@ ALTERNATIVELY
 
 Determining stats:
 == Weapons ==
-Add shield and hull damage then divide fire rate or shot count or both.
 For projectile weapons, divide shield + hull damage per shot by 10.
 For beam weapons and missiles, divide shield + hull damage by 20 and 25 respectively.
 For torpedos, divide shield + hull damage by 20.
@@ -269,6 +268,17 @@ Flea 3008 3008 3008
 "Ion Cannon" 1099 1099 1099
 "Tracker Pod" 1100 1100 1100
 Railgun 1101 1101 1101
+"Baellie Atomic Engines"
+"Basrem Atomic Thruster"
+"Basrem Atomic Steering"
+"Benga Atomic Thruster"
+"Benga Atomic Steering"
+"Biroo Atomic Thruster"
+"Biroo Atomic Steering"
+"Bondir Atomic Thruster"
+"Bondir Atomic Steering"
+"Bufaer Atomic Thruster"
+"Bufaer Atomic Steering"
 
 Notes:
 Due to the addition of new items:

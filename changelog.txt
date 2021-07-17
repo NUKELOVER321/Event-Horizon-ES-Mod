@@ -38,12 +38,16 @@ Changelog:
 Changelog:
 - Endless Sky related content
 - - Moved Particle Cannon to Syndicate tree
-- - Reorganized engine placement in various techtrees
-- - Nerfed range on various missiles
+- - Resized Protector to allow for larger weapons
+- - Reorganized engine placement in various techtrees to allow for easier unlocking
+- - Nerfed range for various missiles
 - - Increased rarity of certain ships to Special
-- - Halved push force of particle cannon
+- - Halved push force of Particle Cannon ammo (0.02 -> 0.01)
 - - Nerfed certain 1vet and 2vet builds to reduce early game difficulty
-- - New content work in progress
+- - - Reduced speed of Freighter and Manta 2vet
+- - - Allocated weaker weapons to Berserker
+- - - Replaced heavy lasers with beam lasers for most Pirate ships
+- - New content in progress - expect new faction in a few days
 
 - Other content
-- - Compressed most images and reduced size of mod
+- - Compressed most images and reduced size of mod by ~33%
