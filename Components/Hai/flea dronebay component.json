@@ -3,7 +3,7 @@
   "Id": 3008,
   "Name": "Flea",
   "DisplayCategory": 5,
-  "Availability": 2,
+  "Availability": 3,
   "ComponentStatsId": 3008,
   "Faction": 206,
   "Level": 275,
@@ -11,7 +11,6 @@
   "Layout": "1111",
   "CellType": "1",
   "DroneBayId": 3008,
-  "DroneId": 3008,
   "PossibleModifications": [
     17,
     18,

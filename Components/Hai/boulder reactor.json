@@ -3,7 +3,7 @@
   "Id": 1092,
   "Name": "Boulder Reactor",
   "DisplayCategory": 3,
-  "Availability": 1,
+  "Availability": 3,
   "ComponentStatsId": 1091,
   "Faction": 206,
   "Level": 300,

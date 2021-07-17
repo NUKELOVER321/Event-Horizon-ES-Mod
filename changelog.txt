@@ -41,6 +41,8 @@ Changelog:
 - - Reorganized engine placement in various techtrees
 - - Nerfed range on various missiles
 - - Increased rarity of certain ships to Special
+- - Halved push force of particle cannon
+- - Nerfed certain 1vet and 2vet builds to reduce early game difficulty
 - - New content work in progress
 
 - Other content

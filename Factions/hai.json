@@ -4,6 +4,6 @@
   "Name": "Hai",
   "Color": "#BD00FF",
   "HomeStarDistance": 250,
-  "WanderingShipsDistance": 125,
+  "WanderingShipsDistance": 250,
   "Hidden": true
 }

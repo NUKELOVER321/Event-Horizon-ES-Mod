@@ -116,14 +116,14 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 2022,
+      "ComponentId": 129,
       "Locked": true,
       "X": 10,
       "Y": 7,
       "BarrelId": 1
     },
     {
-      "ComponentId": 2022,
+      "ComponentId": 129,
       "Locked": true,
       "Y": 7
     }

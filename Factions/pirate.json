@@ -4,6 +4,6 @@
   "Name": "Pirates",
   "Color": "#C80000",
   "HomeStarDistance": 50,
-  "WanderingShipsDistance": 25,
+  "WanderingShipsDistance": 50,
   "Hostile": true
 }
