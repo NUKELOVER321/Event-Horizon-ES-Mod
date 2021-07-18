@@ -54,6 +54,8 @@ Divide range by 10.
 
 For energy cost of missile type weapons, multiple initial energy cost by heat then divide by outfit space.
 Torpedoes and missiles require 10x and 5x the normal time to reload.
+== Battery Packs ==
+Divide energy per space by 10.
 == Reactors ==
 Divide power output by size.
 == Engines ==
@@ -268,17 +270,17 @@ Flea 3008 3008 3008
 "Ion Cannon" 1099 1099 1099
 "Tracker Pod" 1100 1100 1100
 Railgun 1101 1101 1101
-"Baellie Atomic Engines"
-"Basrem Atomic Thruster"
-"Basrem Atomic Steering"
-"Benga Atomic Thruster"
-"Benga Atomic Steering"
-"Biroo Atomic Thruster"
-"Biroo Atomic Steering"
-"Bondir Atomic Thruster"
-"Bondir Atomic Steering"
-"Bufaer Atomic Thruster"
-"Bufaer Atomic Steering"
+"Baellie Atomic Engines" 1102 1102 1102
+"Basrem Atomic Thruster" 1103 1103 1103
+"Basrem Atomic Steering" 1104 1104 1104
+"Benga Atomic Thruster" 1105 1105 1105
+"Benga Atomic Steering" 1106 1106 1106
+"Biroo Atomic Thruster" 1107 1107 1107
+"Biroo Atomic Steering" 1108 1108 1108
+"Bondir Atomic Thruster" 1109 1109 1109
+"Bondir Atomic Steering" 1110 1110 1110
+"Bufaer Atomic Thruster" 1111 1111 1111
+"Bufaer Atomic Steering" 1112 1112 1112
 
 Notes:
 Due to the addition of new items:

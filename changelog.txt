@@ -51,3 +51,14 @@ Changelog:
 
 - Other content
 - - Compressed most images and reduced size of mod by ~33%
+
+0.2.1 "Ultima Thule" update
+
+Changelog:
+- Endless Sky related content
+- - Added Hai as a faction, alongside appropriate ships, weapons, and outfits
+- - Fixed asymmetrical cell layout for Protector
+- - Fixed incorrect name for Nest and Auxiliary
+- - Fixed incorrect faction allocation for Plasma Repeater
+- - Fixed incorrect thrust/turn ratio for A120 and A125 atomic engines
+- - Replaced heavy laser with beam laser on Combat Drone
