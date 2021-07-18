@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1111,
+  "Name": "Bufaer Atomic Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1111,
+  "Faction": 206,
+  "Level": 300,
+  "Icon": "bufaer atomic thruster.png",
+  "Layout": "1111111111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

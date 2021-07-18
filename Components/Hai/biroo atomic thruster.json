@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1107,
+  "Name": "Biroo Atomic Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1107,
+  "Faction": 206,
+  "Level": 275,
+  "Icon": "biroo atomic thruster.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

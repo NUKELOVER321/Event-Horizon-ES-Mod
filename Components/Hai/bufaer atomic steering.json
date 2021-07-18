@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1112,
+  "Name": "Bufaer Atomic Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1112,
+  "Faction": 206,
+  "Level": 300,
+  "Icon": "bufaer atomic steering.png",
+  "Layout": "1111111111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

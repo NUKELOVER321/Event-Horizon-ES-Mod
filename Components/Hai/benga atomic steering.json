@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1106,
+  "Name": "Benga Atomic Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1106,
+  "Faction": 206,
+  "Level": 260,
+  "Icon": "benga atomic steering.png",
+  "Layout": "1111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

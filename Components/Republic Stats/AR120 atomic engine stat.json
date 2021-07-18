@@ -1,6 +1,7 @@
 {
   "ItemType": 11,
   "Id": 1059,
+  "EnergyPoints": -0.1,
   "Weight": 20.0,
   "EnginePower": 2.7,
   "TurnRate": 2.7

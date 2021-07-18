@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1108,
+  "Name": "Biroo Atomic steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1108,
+  "Faction": 206,
+  "Level": 275,
+  "Icon": "biroo atomic steering.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

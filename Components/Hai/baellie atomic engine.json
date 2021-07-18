@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1102,
+  "Name": "Baellie Atomic Engines",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1102,
+  "Faction": 206,
+  "Level": 250,
+  "Icon": "baellie atomic engine.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

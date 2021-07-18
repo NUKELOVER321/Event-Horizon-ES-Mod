@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1103,
+  "Name": "Basrem Atomic Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1103,
+  "Faction": 206,
+  "Level": 250,
+  "Icon": "basrem atomic thruster.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}
