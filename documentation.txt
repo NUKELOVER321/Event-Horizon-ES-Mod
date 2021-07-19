@@ -77,211 +77,242 @@ Gun version of turret weapons start at 2000 and correspond to their turret varia
 Submunitions for weapons start at 3000 and correspond to their weapon.
 
 Merchants
-Shuttle 301 301 1001-1003
-Sparrow 302 302 1004-1006
-Star Barge 303 303 1007-1007
-Heavy Shuttle 304 304 1010-1012
-Berserker 305 305 1013-1015
-Flivver 306 306 1016-1018
-Fury 307 307 1019-1021
-Hawk 308 308 1022-1024
-Wasp 309 309 1025-1027
-Clipper 310 310 1028-1030
-Argosy 311 311 1031-1033
-Freighter 312 312 1034-1036
-"Hauler 1" 313 313 1037-1039
-Arrow 314 314 1040-1042
-Blackbird 315 315 1043-1045
-Bounder 316 316 1046-1048
-Scout 317 317 1049-1051
-"Star Queen" 318 318 1052-1054
-"Hauler 2" 319 319 1055-1057
-"Hauler 3" 320 320 1058-1060
-Behemoth 321 321 1061-1063
-"Bulk Freighter" 322 322 1064-1066
-"nGVF-AA Fuel Cell" 1001 1001 1001
-"nGVF-BB Fuel Cell" 1002 1002 1002
-"nGVF-CC Fuel Cell" 1003 1003 1003
-"nGVF-DD Fuel Cell" 1004 1004 1004
-"nGVF-EE Fuel Cell" 1005 1005 1005
-Bactrian 323 323 1067-1069
-"LP036a Battery Pack" 1006 1006 1006
-"LP072a Battery Pack" 1007 1007 1007
-"LP144a Battery Pack" 1008 1008 1008
-"LP288a Battery Pack" 1009 1009 1009
-"LP576a Battery Pack" 1010 1010 1010
-"X1050 Ion Engines" 1021 1021 1021
-"X1700 Ion Thruster" 1011 1011 1011
-"X1200 Ion Steering" 1012 1012 1012
-"X2700 Ion Thruster" 1013 1013 1013
-"X2200 Ion Steering" 1014 1014 1014
-"X3700 Ion Thruster" 1015 1015 1015
-"X3200 Ion Steering" 1016 1016 1016
-"X4700 Ion Thruster" 1017 1017 1017
-"X4200 Ion Steering" 1018 1018 1018
-"X5700 Ion Thruster" 1019 1019 1019
-"X5200 Ion Steering" 1020 1020 1020
-Boxwing 3004 3004 3004 3004
-"Cooling Vent" 1077 1077 1077
+Shuttle 301 1001-1003
+Sparrow 302 1004-1006
+Star Barge 303 1007-1007
+Heavy Shuttle 304 1010-1012
+Berserker 305 1013-1015
+Flivver 306 1016-1018
+Fury 307 1019-1021
+Hawk 308 1022-1024
+Wasp 309 1025-1027
+Clipper 310 1028-1030
+Argosy 311 1031-1033
+Freighter 312 1034-1036
+"Hauler 1" 313 1037-1039
+Arrow 314 1040-1042
+Blackbird 315 1043-1045
+Bounder 316 1046-1048
+Scout 317 1049-1051
+"Star Queen" 318 1052-1054
+"Hauler 2" 319 1055-1057
+"Hauler 3" 320 1058-1060
+Behemoth 321 1061-1063
+"Bulk Freighter" 322 1064-1066
+"nGVF-AA Fuel Cell" 1001
+"nGVF-BB Fuel Cell" 1002
+"nGVF-CC Fuel Cell" 1003
+"nGVF-DD Fuel Cell" 1004
+"nGVF-EE Fuel Cell" 1005
+Bactrian 323 1067-1069
+"LP036a Battery Pack" 1006
+"LP072a Battery Pack" 1007
+"LP144a Battery Pack" 1008
+"LP288a Battery Pack" 1009
+"LP576a Battery Pack" 1010
+"X1050 Ion Engines" 1021
+"X1700 Ion Thruster" 1011
+"X1200 Ion Steering" 1012
+"X2700 Ion Thruster" 1013
+"X2200 Ion Steering" 1014
+"X3700 Ion Thruster" 1015
+"X3200 Ion Steering" 1016
+"X4700 Ion Thruster" 1017
+"X4200 Ion Steering" 1018
+"X5700 Ion Thruster" 1019
+"X5200 Ion Steering" 1020
+Boxwing 3004
+"Cooling Vent" 1077
 
 Pirates
-"Marauder Arrow" 324 324 1070-1072
-"Marauder Bounder" 326 326 1076-1078
-"Quad Blaster" 1022 1022 1022
-"Modified Blaster" 1023 1023 1023
-"Laser Turret" 1024 1024 1024
-"Heavy Laser Turret" 1025 1025 1025
-"Modified Argosy" 327 327 327 1079-1081
-"Marauder Raven" 328 328 328 1082-1084
-"Marauder Fury" 329 329 329 1085-1087
-"Meteor Missile Launcher" 1026 1026 1026
-"Sidewinder Missile Launcher" 1027 1027 1027
-"Javelin Rocket Launcher" 1028 1028 1028
-"Gatling Gun" 1029 1029 1029
-Falcon 352 352 352 1154-1156
-Leviathan 353 353 353 1157-1159
-Blaster 2022 2022 2022
-"Laser Beam" 2024 2024 2024
-"Heavy Laser" 2025 2025 2025
+"Marauder Arrow" 324 1070-1072
+"Marauder Bounder" 326 1076-1078
+"Quad Blaster" 1022
+"Modified Blaster" 1023
+"Laser Turret" 1024
+"Heavy Laser Turret" 1025
+"Modified Argosy" 327 1079-1081
+"Marauder Raven" 328 1082-1084
+"Marauder Fury" 329 1085-1087
+"Meteor Missile Launcher" 1026
+"Sidewinder Missile Launcher" 1027
+"Javelin Rocket Launcher" 1028
+"Gatling Gun" 1029
+Falcon 3521154-1156
+Leviathan 353 1157-1159
+Blaster 2022
+"Laser Beam" 2024
+"Heavy Laser" 2025
 
 Syndicate
-Headhunter 325 325 1073-1075
-Quicksilver 330 330 1089-1091
-Corvette 331 331 1092-1094
-Manta 332 332 1094-1096
-Splinter 333 333 1097-1099
-Vanguard 334 334 1101-1103
-"Class C Freighter" 335 335 1103-1105
-Protector 336 336 1106-1108
-Barb 3001 3001 3001 3001
-"RT-I Radiothermal" 1030 1030 1030
-"NT200 Nucleiovoltaic" 1031 1031 1031
-"S1 Thermionic" 1032 1032 1032
-"Dwarf Core" 1033 1033 1033
-"Proton Turret" 1034 1034 1034
-"Torpedo Launcher" 1035 1035 1035
-"Nuclear Missile" 1036 1036 1036
-"Ionic Afterburner" 1037 1037 1037
-"S270 Regenerator" 1038 1038 1038
-"S970 Regenerator" 1039 1039 1039
-"Proton Gun" 2034 2034 2034
-"Water Cooling System" 1078 1078 1078
-"Anti-Missile Turret" 1081 1081 1081
+Headhunter 325 1073-1075
+Quicksilver 330 1089-1091
+Corvette 331 1092-1094
+Manta 332 1094-1096
+Splinter 333 1097-1099
+Vanguard 334 1101-1103
+"Class C Freighter" 335 1103-1105
+Protector 336 1106-1108
+Barb 3001
+"RT-I Radiothermal" 1030
+"NT200 Nucleiovoltaic" 103
+"S1 Thermionic" 1032
+"Dwarf Core" 1033
+"Proton Turret" 1034
+"Torpedo Launcher" 1035
+"Nuclear Missile" 1036
+"Ionic Afterburner" 1037
+"S270 Regenerator" 1038
+"S970 Regenerator" 1039
+"Proton Gun" 2034
+"Water Cooling System" 1078
+"Anti-Missile Turret" 1081
 
 Special
-"Dead Ringer" 5000 5000 [N/A - no tech]
+"Dead Ringer" 5000 [N/A - no tech]
 
 FW
-Firebird 337 337 337 1109-1111
-Aerie 338 338 338 1112-1114
-Bastion 339 339 339 1115-1117
-Mule 340 340 340 1118-1120
-Osprey 341 341 341 1121-1123
-Nest 342 342 342 1124-1126
-Roost 343 343 343 1127-1129
-Skein 344 344 344 1130-1132
-Dreadnought 345 345 345 1133-1135
-Dagger 3002 3002 3002 3002
-Finch 3003 3003 3003 3003
-"Chipmunk Plasma Thruster" 1040 1040 1040
-"Chipmunk Plasma Steering" 1041 1041 1041
-"Greyhound Plasma Thruster" 1042 1042 1042
-"Greyhound Plasma Steering" 1043 1043 1043
-"Impala Plasma Thruster" 1044 1044 1044
-"Impala Plasma Steering" 1045 1045 1045
-"Orca Plasma Thruster" 1046 1046 1046
-"Orca Plasma Steering" 1047 1047 1047
-"Tyrant Plasma Thruster" 1048 1048 1048
-"Tyrant Plasma Steering" 1049 1049 1049
-"Heavy Rocket" 1050 1050 1050
-"Plasma Turret" 1051 1051 1051
-"Fission Reactor" 1052 1052 1052
-"Breeder Reactor" 1053 1053 1053
-"Stack Core" 1054 1054 1054
-Flamethrower 1055 1055 1055
-D14-RN 1056 1056 1056
-D23-QP 1057 1057 1057
-D41-HY 1058 1058 1058
-"Plasma Cannon" 2051 2051 2051
-"Liquid Nitrogen Cooling" 1079 1079 1079
-"Plasma Repeater" 1084 1084 1084
+Firebird 337 1109-1111
+Aerie 338 1112-1114
+Bastion 339 1115-1117
+Mule 340 1118-1120
+Osprey 341 1121-1123
+Nest 342 1124-1126
+Roost 343 1127-1129
+Skein 344 1130-1132
+Dreadnought 345 1133-1135
+Dagger 3002
+Finch 3003
+"Chipmunk Plasma Thruster" 1040
+"Chipmunk Plasma Steering" 1041
+"Greyhound Plasma Thruster" 1042
+"Greyhound Plasma Steering" 1043
+"Impala Plasma Thruster" 1044
+"Impala Plasma Steering" 1045
+"Orca Plasma Thruster" 1046
+"Orca Plasma Steering" 1047
+"Tyrant Plasma Thruster" 1048
+"Tyrant Plasma Steering" 1049
+"Heavy Rocket" 1050
+"Plasma Turret" 1051
+"Fission Reactor" 1052
+"Breeder Reactor" 1053
+"Stack Core" 1054
+Flamethrower 1055
+D14-RN 1056
+D23-QP 1057
+D41-HY 1058
+"Plasma Cannon" 2051
+"Liquid Nitrogen Cooling" 1079
+"Plasma Repeater" 1084
 
 Republic
-Rainmaker 346 346 346 1136-1138
-Gunboat 347 347 347 1139-1141
-Frigate 348 348 348 1142-1144
-Cruiser 349 349 349 1145-1147
-Carrier 350 350 350 1148-1150
-Auxiliary 351 351 351 1151-1153
-Lance 3005 3005 3005 3005
-Dropship 3006 3006 3006 3006
-"Combat Drone" 3007 3007 3007
-"AR120 Atomic Engines" 1059 1059 1059
-"A120 Atomic Thruster" 1060 1060 1060
-"A125 Atomic Steering" 1061 1061 1061
-"A250 Atomic Thruster" 1062 1062 1062
-"A255 Atomic Steering" 1063 1063 1063
-"A370 Atomic Thruster" 1064 1064 1064
-"A375 Atomic Steering" 1065 1065 1065
-"A520 Atomic Thruster" 1066 1066 1066
-"A525 Atomic Steering" 1067 1067 1067
-"A860 Atomic Thruster" 1068 1068 1068
-"A865 Atomic Steering" 1069 1069 1069
-D67-TM 1070 1070 1070
-D94-YV 1071 1071 1071
-"Particle Turret" 1072 1072 1072
-"Electron Beam Turret" 1073 1073 1073
-"Typhoon Torpedo" 1074 1074 1074
-"Fusion Reactor" 1075 1075 1075
-"Armageddon Core" 1076 1076 1076
-"Particle Cannon" 2072 2072 2072
-"Electron Beam" 2073 2073 2073
-"Liquid Helium Cooling" 1080 1080 1080
-"Heavy Anti-Missile Turret" 1082 1082 1082
+Rainmaker 346 1136-1138
+Gunboat 347 1139-1141
+Frigate 348 1142-1144
+Cruiser 349 1145-1147
+Carrier 350 1148-1150
+Auxiliary 351 1151-1153
+Lance 3005
+Dropship 3006
+"Combat Drone" 3007
+"AR120 Atomic Engines" 1059
+"A120 Atomic Thruster" 1060
+"A125 Atomic Steering" 1061
+"A250 Atomic Thruster" 1062
+"A255 Atomic Steering" 1063
+"A370 Atomic Thruster" 1064
+"A375 Atomic Steering" 1065
+"A520 Atomic Thruster" 1066
+"A525 Atomic Steering" 1067
+"A860 Atomic Thruster" 1068
+"A865 Atomic Steering" 1069
+D67-TM 1070
+D94-YV 1071
+"Particle Turret" 1072
+"Electron Beam Turret" 1073
+"Typhoon Torpedo" 1074
+"Fusion Reactor" 1075
+"Armageddon Core" 1076
+"Particle Cannon" 2072
+"Electron Beam" 2073
+"Liquid Helium Cooling" 1080
+"Heavy Anti-Missile Turret" 1082
 
 Hai
-Aphid 354 354 1160-1162
-Grasshopper 355 355 355 1163-1165
-"Lightning Bug" 356 356 356 1166-1168
-"Water Bug" 357 357 357 1169-1171
-Centipede 358 358 358 1172-1174
-Geocoris 359 359 359 1175-1177
-"Shield Beetle" 360 360 360 1178-1180
-Solifuge 361 361 361 1181-1183
-"Pond Strider" 362 362 362 1184-1186
-Flea 3008 3008 3008
-"Violin Spider" 3009 3009 3009
-"Chasm Battery" 1083 1083 1083
-"Fissure Battery" 1085 1085 1085
-"Gorge Battery" 1086 1086 1086
-"Ravine Battery" 1087 1087 1087
-"Valley Battery" 1088 1088 1088
-"Sand Cell" 1089 1089 1089
-"Pebble Core" 1090 1090 1090
-"Geode Reactor" 1091 1091 1091
-"Boulder Reactor" 1092 1092 1092
-"Corundum Regenerator" 1093 1093 1093
-"Diamond Regenerator" 1094 1094 1094
-"Williwaw Cooling" 1095 1095 1095
-"Bullfrog Anti-missile" 1096 1096 1096
-"Chameleon Anti-missile" 1097 1097 1097
-"Pulse Cannon" 2098 2098 2098
-"Pulse Turret" 1098 1098 1098
-"Ion Cannon" 1099 1099 1099
-"Tracker Pod" 1100 1100 1100
-Railgun 1101 1101 1101
-"Baellie Atomic Engines" 1102 1102 1102
-"Basrem Atomic Thruster" 1103 1103 1103
-"Basrem Atomic Steering" 1104 1104 1104
-"Benga Atomic Thruster" 1105 1105 1105
-"Benga Atomic Steering" 1106 1106 1106
-"Biroo Atomic Thruster" 1107 1107 1107
-"Biroo Atomic Steering" 1108 1108 1108
-"Bondir Atomic Thruster" 1109 1109 1109
-"Bondir Atomic Steering" 1110 1110 1110
-"Bufaer Atomic Thruster" 1111 1111 1111
-"Bufaer Atomic Steering" 1112 1112 1112
+Aphid 354 1160-1162
+Grasshopper 355 1163-1165
+"Lightning Bug" 356 1166-1168
+"Water Bug" 357 1169-1171
+Centipede 358 1172-1174
+Geocoris 359 1175-1177
+"Shield Beetle" 360 1178-1180
+Solifuge 361 1181-1183
+"Pond Strider" 362 1184-1186
+Flea 3008
+"Violin Spider" 3009
+"Chasm Battery" 1083
+"Fissure Battery" 1085
+"Gorge Battery" 1086
+"Ravine Battery" 1087
+"Valley Battery" 1088
+"Sand Cell" 1089
+"Pebble Core" 1090
+"Geode Reactor" 1091
+"Boulder Reactor" 1092
+"Corundum Regenerator" 1093
+"Diamond Regenerator" 1094
+"Williwaw Cooling" 1095
+"Bullfrog Anti-missile" 1096
+"Chameleon Anti-missile" 1097
+"Pulse Cannon" 2098
+"Pulse Turret" 1098
+"Ion Cannon" 1099
+"Tracker Pod" 1100
+Railgun 1101
+"Baellie Atomic Engines" 1102
+"Basrem Atomic Thruster" 1103
+"Basrem Atomic Steering" 1104
+"Benga Atomic Thruster" 1105
+"Benga Atomic Steering" 1106
+"Biroo Atomic Thruster" 1107
+"Biroo Atomic Steering" 1108
+"Bondir Atomic Thruster" 1109
+"Bondir Atomic Steering" 1110
+"Bufaer Atomic Thruster" 1111
+"Bufaer Atomic Steering" 1112
+
+Remnant
+Starling 363 1187-1189
+Gull 364 1190-1192
+Ibis 365 1193-1195
+Peregrine 366 1196-1198
+Pelican 367 1199-1201
+Albatross 368 1202-1204
+Petrel 3010
+Tern 3011
+"Crystal Capacitor" 1114
+"Point Defense Turret" 1115
+"Thermoelectric Cooler" 1116
+"Bellows Afterburner" 1117
+"Millennium Cell" 1118
+"Epoch Cell" 1119
+"Aeon Cell" 1120
+"Anvil Engines" 1121
+"Crucible Thruster" 1122
+"Crucible Steering" 1123
+"Forge Thruster" 1124
+"Forge Steering" 1125
+"Smelter Thruster" 1126
+"Smelter Steering" 1127
+"Thrasher Cannon" 2128
+"Thrasher Turret" 1128
+"Inhibitor Cannon" 2129
+"Inhibitor Turret" 1129
+"EMP Torpedo Bay" 1130
+
 
 Notes:
 Due to the addition of new items:
-The next item should have a value of
+The next item should have a value of 1133
+1113 has been skipped through an error
