@@ -59,7 +59,10 @@ Changelog:
 - - Added Hai as a faction, alongside appropriate ships, weapons, and outfits
 - - Fixed asymmetrical cell layout for Protector
 - - Fixed incorrect name for Nest and Auxiliary
-- - Fixed incorrect faction allocation for Plasma Repeater
+- - Fixed incorrect faction allocation for Plasma Repeater and Plasma Turret
 - - Fixed incorrect thrust/turn ratio for A120 and A125 atomic engines
 - - Replaced heavy laser with beam laser on Combat Drone
 - - Fixed tech for plasma weapons and proton turret
+- - Halved cooling duct effectiveness
+- - Increased energy cost for modded dronebays
+- - Reduced drone count and increased shield + hp on the Auxiliary
