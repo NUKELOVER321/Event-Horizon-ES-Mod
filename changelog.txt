@@ -62,3 +62,4 @@ Changelog:
 - - Fixed incorrect faction allocation for Plasma Repeater
 - - Fixed incorrect thrust/turn ratio for A120 and A125 atomic engines
 - - Replaced heavy laser with beam laser on Combat Drone
+- - Fixed tech for plasma weapons and proton turret

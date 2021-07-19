@@ -310,7 +310,7 @@ Tern 3011
 "Inhibitor Cannon" 2129
 "Inhibitor Turret" 1129
 "EMP Torpedo Bay" 1130
-
+Penguin 369 1205-1207
 
 Notes:
 Due to the addition of new items:
