@@ -11,9 +11,10 @@
   "EnginePosition": {
     "x": -0.8
   },
-  "EngineColor": "#24D8DA",
+  "EngineColor": "#7F34CA",
   "EngineSize": 0.1,
-  "Layout": "0004400000144100013223100132231001322310011551100015510000000000",
+  "Regeneration": true,
+  "Layout": "0004400000144100001221000012210000122100001221000015510000055000",
   "Barrels": [
     {
       "Position": {

@@ -3,38 +3,72 @@
   "Id": 363,
   "Name": "Starling",
   "Faction": 207,
+  "SizeClass": 1,
   "IconImage": "starling icon.png",
   "IconScale": 1.0,
   "ModelImage": "starling.png",
   "ModelScale": 2.5,
   "EnginePosition": {
-    "x": -0.8
+    "x": -0.9
   },
-  "EngineColor": "#009BFF",
+  "EngineColor": "#7F34CA",
+  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
         "x": -0.9,
         "y": -0.2
-      },
-      "Size": 0.1
+      }
     },
     {
       "Position": {
         "x": -0.9,
         "y": 0.2
-      },
-      "Size": 0.1
+      }
     }
   ],
-  "Layout": "0004444000000444400000122221000012222100011222211001122221100112222110011122111000112211000055555500",
+  "Regeneration": true,
+  "BuiltinDevices": [
+    14
+  ],
+  "Layout": "0000000220000000000004422440000000000442244000000000000220000000000004422440000000000442244000000000001221000000000000122100000000000012210000000000013223100000000011322311000000001132231100000000113223110000000001322310000000000155551000000000005555000000",
   "Barrels": [
     {
       "Position": {
-        "x": 0.8
+        "x": 0.8,
+        "y": 0.1
       },
       "PlatformType": 3,
       "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.5,
+        "y": 0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.5,
+        "y": -0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": -0.9
+      }
     }
   ]
 }
