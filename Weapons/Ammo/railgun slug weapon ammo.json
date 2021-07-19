@@ -6,7 +6,7 @@
     "Velocity": 52.8,
     "Range": 220.0,
     "Weight": 0.1,
-    "BulletPrefab": 1072,
+    "BulletPrefab": 1101,
     "EnergyCost": 0.35
   },
   "Triggers": [
@@ -23,7 +23,7 @@
     {
       "Type": 3,
       "DamageType": 1,
-      "Power": 0.03
+      "Power": 0.1
     },
     {
       "Type": 1,

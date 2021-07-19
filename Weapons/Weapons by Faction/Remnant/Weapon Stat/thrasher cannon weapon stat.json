@@ -2,7 +2,7 @@
   "ItemType": 3,
   "Id": 2128,
   "FireRate": 3.0,
-  "Spread": 5.0,
+  "Spread": 15.0,
   "ActivationType": 1,
   "ShotSound": "pulse",
   "ShotEffectPrefab": "FlashAdditive",
