@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1128,
+  "Name": "Thrasher Turret",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 207,
+  "Level": 320,
+  "Icon": "thrasher turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1128,
+  "AmmunitionId": 1128,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

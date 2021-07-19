@@ -1,0 +1,42 @@
+{
+  "ItemType": 25,
+  "Id": 1130,
+  "Body": {
+    "Type": 1,
+    "Size": 1.0,
+    "Velocity": 14.0,
+    "Range": 84.0,
+    "Weight": 0.25,
+    "HitPoints": 16,
+    "BulletPrefab": 1100,
+    "EnergyCost": 4.5,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "Ammunition": 5130,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 2.0
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 5130,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 2.0
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 2
+    },
+    {
+      "Type": 1,
+      "Power": 0.35
+    }
+  ]
+}

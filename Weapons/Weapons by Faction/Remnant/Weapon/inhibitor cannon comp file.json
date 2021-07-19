@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2129,
+  "Name": "Inhibitor Cannon",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 207,
+  "Level": 330,
+  "Icon": "inhibitor cannon.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2129,
+  "AmmunitionId": 1129,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

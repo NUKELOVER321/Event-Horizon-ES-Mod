@@ -1,0 +1,11 @@
+{
+  "ItemType": 27,
+  "Id": 1130,
+  "Shape": 1,
+  "Image": "emp torpedo.png",
+  "Size": 0.8,
+  "Margins": 0.7,
+  "MainColor": "#00FFFFFF",
+  "SecondColor": "#80FFFFFF",
+  "SecondColorMode": 2
+}

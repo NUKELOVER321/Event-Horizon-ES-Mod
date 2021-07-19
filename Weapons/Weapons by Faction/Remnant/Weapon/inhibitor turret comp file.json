@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1129,
+  "Name": "Inhibitor Turret",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 207,
+  "Level": 350,
+  "Icon": "inhibitor turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1129,
+  "AmmunitionId": 1129,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

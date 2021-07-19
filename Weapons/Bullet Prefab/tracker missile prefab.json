@@ -5,6 +5,7 @@
   "Image": "tracker missile.png",
   "Size": 0.75,
   "Margins": 0.7,
+  "MainColor": "#00FFFFFF",
   "SecondColor": "#80FFFFFF",
   "SecondColorMode": 2
 }
