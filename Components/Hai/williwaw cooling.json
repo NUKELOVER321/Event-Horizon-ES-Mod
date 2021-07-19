@@ -4,10 +4,10 @@
   "Name": "Williwaw Cooling",
   "DisplayCategory": 6,
   "Availability": 3,
-  "ComponentStatsId": 1094,
+  "ComponentStatsId": 1095,
   "Faction": 206,
   "Level": 250,
   "Icon": "williwaw cooling.png",
-  "Layout": "1",
+  "Layout": "1111",
   "CellType": "2"
 }

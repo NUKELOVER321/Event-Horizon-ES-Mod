@@ -4,11 +4,11 @@
   "Name": "Valley Battery Pack",
   "DisplayCategory": 3,
   "Availability": 3,
-  "ComponentStatsId": 1087,
+  "ComponentStatsId": 1088,
   "Faction": 206,
   "Level": 300,
   "Icon": "valley battery.png",
-  "Layout": "1111111111111111",
+  "Layout": "0111011111111111111101110",
   "PossibleModifications": [
     9
   ]
