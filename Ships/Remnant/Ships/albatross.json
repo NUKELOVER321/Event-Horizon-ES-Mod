@@ -1,12 +1,12 @@
 {
   "ItemType": 6,
-  "Id": 354,
-  "Name": "Aphid",
-  "Faction": 206,
-  "IconImage": "aphid icon.png",
+  "Id": 368,
+  "Name": "Albatross",
+  "Faction": 207,
+  "IconImage": "albatross icon.png",
   "IconScale": 1.0,
-  "ModelImage": "aphid.png",
-  "ModelScale": 1.25,
+  "ModelImage": "albatross.png",
+  "ModelScale": 5.5,
   "EnginePosition": {
     "x": -0.8
   },

@@ -1,12 +1,12 @@
 {
   "ItemType": 6,
-  "Id": 354,
-  "Name": "Aphid",
-  "Faction": 206,
-  "IconImage": "aphid icon.png",
+  "Id": 363,
+  "Name": "Starling",
+  "Faction": 207,
+  "IconImage": "starling icon.png",
   "IconScale": 1.0,
-  "ModelImage": "aphid.png",
-  "ModelScale": 1.25,
+  "ModelImage": "starling.png",
+  "ModelScale": 2.5,
   "EnginePosition": {
     "x": -0.8
   },

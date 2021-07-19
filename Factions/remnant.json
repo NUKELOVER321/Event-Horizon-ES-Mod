@@ -1,0 +1,9 @@
+{
+  "ItemType": 14,
+  "Id": 207,
+  "Name": "Remnant",
+  "Color": "#BD00FF",
+  "HomeStarDistance": 300,
+  "WanderingShipsDistance": 300,
+  "Hidden": true
+}

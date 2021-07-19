@@ -5,9 +5,9 @@
   "Faction": 206,
   "SizeClass": 2,
   "IconImage": "centipede icon.png",
-  "IconScale": 0.5,
+  "IconScale": 1.0,
   "ModelImage": "centipede.png",
-  "ModelScale": 1.0,
+  "ModelScale": 3.25,
   "EnginePosition": {
     "x": -0.8
   },

@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1116,
+  "Name": "Thermoelectric Cooler",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 1116,
+  "Faction": 207,
+  "Level": 300,
+  "Icon": "thermoelectric cooler.png",
+  "Layout": "1",
+  "CellType": "2"
+}

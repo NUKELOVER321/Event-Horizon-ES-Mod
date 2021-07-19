@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1126,
+  "Name": "Smelter Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1126,
+  "Faction": 207,
+  "Level": 360,
+  "Icon": "smelter thruster.png",
+  "Layout": "1111111111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

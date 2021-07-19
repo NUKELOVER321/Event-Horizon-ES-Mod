@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1127,
+  "Name": "Smelter Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1127,
+  "Faction": 207,
+  "Level": 360,
+  "Icon": "smelter steering.png",
+  "Layout": "1111111111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1119,
+  "Name": "Epoch Cell",
+  "DisplayCategory": 3,
+  "Availability": 3,
+  "ComponentStatsId": 1120,
+  "Faction": 207,
+  "Level": 350,
+  "Icon": "epoch cell.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

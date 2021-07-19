@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1123,
+  "Name": "Crucible Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1123,
+  "Faction": 207,
+  "Level": 320,
+  "Icon": "crucible steering.png",
+  "Layout": "1111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

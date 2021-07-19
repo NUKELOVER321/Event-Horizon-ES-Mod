@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1114,
+  "Name": "Crystal Capacitor",
+  "DisplayCategory": 3,
+  "Availability": 3,
+  "ComponentStatsId": 1114,
+  "Faction": 207,
+  "Level": 300,
+  "Icon": "crystal capacitor.png",
+  "Layout": "1111",
+  "PossibleModifications": [
+    9
+  ]
+}

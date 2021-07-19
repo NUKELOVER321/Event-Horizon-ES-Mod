@@ -1,0 +1,14 @@
+{
+  "ItemType": 2,
+  "Id": 1117,
+  "EnergyConsumption": 10.0,
+  "PassiveEnergyConsumption": 10.0,
+  "Power": 58.0,
+  "Size": 1.0,
+  "Cooldown": 1.0,
+  "ActivationType": 1,
+  "Color": "#C00000FF",
+  "Sound": "explosion_08",
+  "EffectPrefab": "Flicker",
+  "ControlButtonIcon": "controls_boost"
+}

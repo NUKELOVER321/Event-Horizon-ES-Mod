@@ -1,12 +1,12 @@
 {
   "ItemType": 6,
-  "Id": 354,
-  "Name": "Aphid",
-  "Faction": 206,
-  "IconImage": "aphid icon.png",
+  "Id": 367,
+  "Name": "Pelican",
+  "Faction": 207,
+  "IconImage": "pelican icon.png",
   "IconScale": 1.0,
-  "ModelImage": "aphid.png",
-  "ModelScale": 1.25,
+  "ModelImage": "pelican.png",
+  "ModelScale": 4.5,
   "EnginePosition": {
     "x": -0.8
   },

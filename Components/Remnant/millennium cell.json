@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1118,
+  "Name": "Millennium Cell",
+  "DisplayCategory": 3,
+  "Availability": 3,
+  "ComponentStatsId": 1119,
+  "Faction": 207,
+  "Level": 325,
+  "Icon": "millennium cell.png",
+  "Layout": "1111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

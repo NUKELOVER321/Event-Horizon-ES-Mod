@@ -1,0 +1,26 @@
+{
+  "ItemType": 6,
+  "Id": 3011,
+  "ShipCategory": 6,
+  "Name": "Tern",
+  "Faction": 207,
+  "IconImage": "tern icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "tern.png",
+  "ModelScale": 0.7,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#24D8DA",
+  "EngineSize": 0.1,
+  "Layout": "0004400000144100013223100132231001322310011551100015510000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

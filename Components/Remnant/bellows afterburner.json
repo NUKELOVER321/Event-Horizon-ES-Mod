@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1117,
+  "Name": "Bellows Afterburner",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 207,
+  "Level": 350,
+  "Icon": "bellows afterburner.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "DeviceId": 1117,
+  "Restrictions": {
+    "UniqueComponentTag": "afterburner"
+  },
+  "PossibleModifications": [
+    2,
+    1,
+    6
+  ]
+}

@@ -1,12 +1,12 @@
 {
   "ItemType": 6,
-  "Id": 354,
-  "Name": "Aphid",
-  "Faction": 206,
-  "IconImage": "aphid icon.png",
+  "Id": 365,
+  "Name": "Ibis",
+  "Faction": 207,
+  "IconImage": "ibis icon.png",
   "IconScale": 1.0,
-  "ModelImage": "aphid.png",
-  "ModelScale": 1.25,
+  "ModelImage": "ibis.png",
+  "ModelScale": 3.5,
   "EnginePosition": {
     "x": -0.8
   },
