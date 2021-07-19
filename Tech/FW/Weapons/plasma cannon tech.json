@@ -2,6 +2,7 @@
   "ItemType": 10,
   "Id": 2051,
   "ItemId": 2051,
+  "Faction": 204,
   "Price": 8,
   "Dependencies": [
     337
