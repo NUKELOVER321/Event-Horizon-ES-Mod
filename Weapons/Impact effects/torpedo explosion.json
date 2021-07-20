@@ -1,9 +1,9 @@
 {
   "ItemType": 26,
-  "Id": 1100,
+  "Id": 1035,
   "Elements": [
     {
-      "Image": "tracker impact.png",
+      "Image": "torpedo impact.png",
       "Size": 1.0,
       "Lifetime": 1.0
     },
@@ -11,14 +11,14 @@
       "Type": 1,
       "Image": "star",
       "ColorMode": 2,
-      "Color": "#D800FF",
-      "Size": 1.0,
-      "Lifetime": 1.0
+      "Color": "#94B200",
+      "Size": 2.0,
+      "Lifetime": 3.0
     },
     {
       "Type": 5,
       "Size": 2.0,
-      "Lifetime": 1.0
+      "Lifetime": 3.0
     }
   ]
 }

@@ -6,35 +6,31 @@
       "Type": 2,
       "Image": "nuke impact.png",
       "ColorMode": 2,
+      "Color": "#ECFF00",
       "Size": 2.0,
       "Lifetime": 5.0
     },
     {
       "Type": 1,
       "Image": "star",
-      "ColorMode": 2,
-      "Size": 1.0,
-      "Lifetime": 5.0
-    },
-    {
-      "Type": 4,
-      "Image": "nuke impact.png",
-      "Size": 1.0,
-      "Lifetime": 5.0
-    },
-    {
-      "Type": 3,
-      "Image": "CloudWhite",
       "ColorMode": 1,
-      "Color": "#FFFF00",
-      "Size": 1.0,
-      "Lifetime": 6.5
+      "Color": "#FFF400",
+      "Size": 2.0,
+      "Lifetime": 5.0
     },
     {
       "Type": 5,
       "Color": "#D7FF00",
       "Size": 2.0,
       "Lifetime": 5.5
+    },
+    {
+      "Type": 3,
+      "Image": "CloudWhite",
+      "ColorMode": 1,
+      "Color": "#EEFF00",
+      "Size": 1.0,
+      "Lifetime": 4.0
     }
   ]
 }

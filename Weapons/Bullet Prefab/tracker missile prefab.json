@@ -3,7 +3,7 @@
   "Id": 1100,
   "Shape": 1,
   "Image": "tracker missile.png",
-  "Size": 0.75,
+  "Size": 1.25,
   "Margins": 0.7,
   "MainColor": "#00FFFFFF",
   "SecondColor": "#80FFFFFF",

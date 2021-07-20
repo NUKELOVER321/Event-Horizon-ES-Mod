@@ -19,7 +19,7 @@
       "Ammunition": 5130,
       "Color": "#00000000",
       "Quantity": 1,
-      "Size": 2.0
+      "Size": 4.0
     },
     {
       "Condition": 3,
@@ -27,7 +27,15 @@
       "Ammunition": 5130,
       "Color": "#00000000",
       "Quantity": 1,
-      "Size": 2.0
+      "Size": 4.0
+    },
+    {
+      "Condition": 4,
+      "EffectType": 1,
+      "VisualEffect": 10000,
+      "Color": "#00000000",
+      "Size": 4.0,
+      "Lifetime": 1.0
     }
   ],
   "Effects": [

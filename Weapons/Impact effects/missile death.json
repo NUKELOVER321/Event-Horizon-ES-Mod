@@ -1,0 +1,26 @@
+{
+  "ItemType": 26,
+  "Id": 10000,
+  "Elements": [
+    {
+      "Image": "missile death~0.png",
+      "Size": 1.0,
+      "Lifetime": 0.25
+    },
+    {
+      "Image": "missile death~1.png",
+      "Size": 1.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Image": "missile death~2.png",
+      "Size": 1.0,
+      "Lifetime": 0.75
+    },
+    {
+      "Image": "missile death~3.png",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ]
+}
