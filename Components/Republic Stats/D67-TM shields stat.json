@@ -4,6 +4,6 @@
   "Type": 1,
   "EnergyRechargeRate": -1.09,
   "ShieldPoints": 5.45,
-  "ShieldRechargeRate": 5.45,
+  "ShieldRechargeRate": 2.725,
   "Weight": 50.0
 }
