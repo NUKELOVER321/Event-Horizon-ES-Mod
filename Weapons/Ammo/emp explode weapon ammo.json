@@ -11,7 +11,7 @@
     {
       "Condition": 1,
       "EffectType": 1,
-      "VisualEffect": 1300,
+      "VisualEffect": 1130,
       "AudioClip": "explosion small",
       "Size": 1.0,
       "Lifetime": 1.0

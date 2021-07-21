@@ -4,8 +4,8 @@
   "Elements": [
     {
       "Image": "typhoon impact.png",
-      "Size": 1.0,
-      "Lifetime": 1.0
+      "Size": 2.0,
+      "Lifetime": 3.0
     },
     {
       "Type": 1,
