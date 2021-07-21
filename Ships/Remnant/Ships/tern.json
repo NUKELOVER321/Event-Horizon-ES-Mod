@@ -7,27 +7,18 @@
   "IconImage": "tern icon.png",
   "IconScale": 1.0,
   "ModelImage": "tern.png",
-  "ModelScale": 0.8,
+  "ModelScale": 0.7,
   "EnginePosition": {
     "x": -0.8
   },
   "EngineColor": "#7F34CA",
   "EngineSize": 0.1,
   "Regeneration": true,
-  "Layout": "0000000000004422440000442244000011221100001122110000112211000011221100001155110000005500000000000000",
+  "Layout": "0000440000000044000000012210000001221000000122100000012210000001221000000155100000000000000000000000",
   "Barrels": [
     {
       "Position": {
-        "x": 0.8,
-        "y": 0.2
-      },
-      "PlatformType": 3,
-      "WeaponClass": "CLTM"
-    },
-    {
-      "Position": {
-        "x": 0.8,
-        "y": -0.2
+        "x": 0.8
       },
       "PlatformType": 3,
       "WeaponClass": "CLTM"

@@ -14,11 +14,20 @@
   "EngineColor": "#7F34CA",
   "EngineSize": 0.1,
   "Regeneration": true,
-  "Layout": "0004400000144100001221000012210000122100001221000015510000055000",
+  "Layout": "0044004400004422440000012210000011221100001122110000112211000011221100000122100000005500000000000000",
   "Barrels": [
     {
       "Position": {
-        "x": 0.8
+        "x": 0.8,
+        "y": 0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.1
       },
       "PlatformType": 3,
       "WeaponClass": "CLTM"
