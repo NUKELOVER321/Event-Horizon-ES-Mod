@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 367,
+  "ShipCategory": 1,
   "Name": "Pelican",
   "Faction": 207,
   "SizeClass": 3,
