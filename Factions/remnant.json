@@ -4,6 +4,5 @@
   "Name": "Remnant",
   "Color": "#BD00FF",
   "HomeStarDistance": 300,
-  "WanderingShipsDistance": 300,
-  "Hidden": true
+  "WanderingShipsDistance": 300
 }

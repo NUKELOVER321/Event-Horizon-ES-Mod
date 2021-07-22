@@ -3,7 +3,7 @@
   "Id": 1115,
   "Name": "Point Defense Turret",
   "DisplayCategory": 6,
-  "Availability": 3,
+  "Availability": 1,
   "ComponentStatsId": 3,
   "Faction": 207,
   "Level": 325,
