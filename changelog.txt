@@ -75,10 +75,15 @@ Changelog:
 
 Changelog:
 - Endless Sky related content
-- - Added Remnant as a faction, alongside appropriate ships, weapons, and outfits
+- - **Added Remnant as a faction, alongside appropriate ships, weapons, and outfits**
 - - Reduced speed for Hawk 2vet and 1vet
-- - Fixed modifier for modded shields
+- - Fixed bad modifier for modded shields
 - - Fixed engine placement for Manta
-- - Fixed shield values for Hai and Syndicate regenerators
-- - Added shield cooldown value to Hai and Syndicate regenerators
+- - Remade values for shields
+- - - Applied multiplier to regenerator shield and regen that has been previously applied to human shields
+- - - Increased energy consumption for regenerators
+- - - Added shield cooldown value to Hai and Syndicate regenerators
+- - - Halved shield regen for all modded shield generators
 - - Added custom sounds for modded anti-missile devices
+- - Reduced the EMP value of the Hai Railgun by 80%
+- - Reverted damage nerf (25%) to Plasma Cannon and Plasma Turret
