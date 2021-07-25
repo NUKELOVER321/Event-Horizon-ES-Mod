@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1145,
+  "Name": "Large Repair Module",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1145,
+  "Faction": 208,
+  "Level": 325,
+  "Icon": "large repair module.png",
+  "Layout": "111111111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3
+  ]
+}

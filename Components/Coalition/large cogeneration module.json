@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1134,
+  "Name": "Large Cogeneration Module",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1134,
+  "Faction": 208,
+  "Level": 325,
+  "Icon": "large cogeneration module.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

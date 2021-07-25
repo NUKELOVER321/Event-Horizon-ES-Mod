@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1141,
+  "Name": "Large Steering Module",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1141,
+  "Faction": 208,
+  "Level": 275,
+  "Icon": "large steering module.png",
+  "Layout": "1111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

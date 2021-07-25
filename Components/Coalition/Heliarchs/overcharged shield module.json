@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1147,
+  "Name": "Overcharged Shield Module",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1147,
+  "Faction": 208,
+  "Level": 350,
+  "Icon": "overcharged shield module.png",
+  "Layout": "1111111111111111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3
+  ]
+}

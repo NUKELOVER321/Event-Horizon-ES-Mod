@@ -1,0 +1,40 @@
+{
+  "ItemType": 6,
+  "Id": 378,
+  "Name": "Kimek Spire",
+  "Faction": 208,
+  "IconImage": "kimek spire icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "kimek spire.png",
+  "ModelScale": 1.25,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#9999FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0001441000000144100000122221000012222100011222211001122221100112222110011122111000112211000055555500",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    }
+  ]
+}

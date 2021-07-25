@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1144,
+  "Name": "Small Repair Module",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1144,
+  "Faction": 208,
+  "Level": 275,
+  "Icon": "small repair module.png",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3
+  ]
+}

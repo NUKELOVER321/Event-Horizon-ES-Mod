@@ -141,7 +141,7 @@ Pirates
 "Sidewinder Missile Launcher" 1027
 "Javelin Rocket Launcher" 1028
 "Gatling Gun" 1029
-Falcon 3521154-1156
+Falcon 352 1154-1156
 Leviathan 353 1157-1159
 Blaster 2022
 "Laser Beam" 2024
@@ -315,7 +315,52 @@ Tern 3011
 "EMP Torpedo Bay" 1130
 Penguin 369 1205-1207
 
-Notes:
-Due to the addition of new items:
-The next item should have a value of 1133
-1113 has been skipped through an error
+Coalition
+Arach Courier 370 1208-1210
+Arach Transport 371 1211-1213
+Arach Freighter 372 1214-1216
+Arach Spindle 373 1217-1219
+Arach Hulk 374 1220-1222
+Kimek Thorn 375 1223-1225
+Kimek Briar 376 1226-1228
+Kimek Thistle 377 1229-1231
+Kimek Spire 378 1232-1234
+Saryd Runabout 379 1235-1237
+Saryd Visitor 380 1238-1240
+Saryd Traveler 381 1241-1243
+Saryd Sojourner 382 1244-1246
+Small Collector Module 1131
+Large Collector Module 1132
+Small Cogeneration Module 1133
+Large Cogeneration Module 1134
+Cooling Module 1135
+Small Battery Module 1136
+Large Battery Module 1137
+Small Thruster Module 1138
+Small Steering Module 1139
+Large Thruster Module 1140
+Large Steering Module 1141
+Small Shield Module 1142
+Large Shield Module 1143
+Small Repair Module 1144
+Large Repair Module 1145
+Breacher 383 1247-1249
+Neutralizer 384 1250-1252
+Hunter 385 1253-1255
+Interdictor 386 1256-1258
+Judicator 387 1259-1261
+Punisher 388 1262-1264
+Pursuer 3012
+Rover 3013
+Stalker 3014
+Overclocked Repair Module 1146
+Overcharged Shield Module 1147
+Attractor 1148
+Repulsor 1149
+Small Reactor Module 1150
+Large Reactor Module 1151
+Finisher Pod 1152
+Bombardment Cannon 2153
+Bombardment Turret 1153
+Ion Rain Gun 2154
+Ion Hail Turret 1154

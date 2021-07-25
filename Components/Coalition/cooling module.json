@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1135,
+  "Name": "Cooling Module",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 1135,
+  "Faction": 208,
+  "Level": 300,
+  "Icon": "cooling module.png",
+  "Layout": "1",
+  "CellType": "2"
+}

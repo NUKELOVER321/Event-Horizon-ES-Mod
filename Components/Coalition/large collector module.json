@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1132,
+  "Name": "Large Collector Module",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1132,
+  "Faction": 208,
+  "Level": 300,
+  "Icon": "large collector module.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

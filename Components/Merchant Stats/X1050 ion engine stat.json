@@ -4,6 +4,6 @@
   "EnergyPoints": -0.05,
   "EnergyRechargeRate": -0.05,
   "Weight": 20.0,
-  "EnginePower": 1.5,
-  "TurnRate": 1.5
+  "EnginePower": 1.45,
+  "TurnRate": 1.45
 }

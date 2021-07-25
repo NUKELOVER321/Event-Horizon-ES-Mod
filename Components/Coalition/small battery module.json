@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1136,
+  "Name": "Small Battery Module",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1136,
+  "Faction": 208,
+  "Level": 250,
+  "Icon": "small battery module.png",
+  "Layout": "1",
+  "PossibleModifications": [
+    9
+  ]
+}

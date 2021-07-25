@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1139,
+  "Name": "Small Steering Module",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1139,
+  "Faction": 208,
+  "Level": 250,
+  "Icon": "small steering module.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

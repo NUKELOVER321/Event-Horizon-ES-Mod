@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1138,
+  "Name": "Small Thrust Module",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1138,
+  "Faction": 208,
+  "Level": 250,
+  "Icon": "small thrust module.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1131,
+  "Name": "Small Collector Module",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1131,
+  "Faction": 208,
+  "Level": 250,
+  "Icon": "small collector module.png",
+  "Layout": "1",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

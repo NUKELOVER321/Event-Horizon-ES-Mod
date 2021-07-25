@@ -1,0 +1,26 @@
+{
+  "ItemType": 6,
+  "Id": 3012,
+  "ShipCategory": 6,
+  "Name": "Heliarch Pursuer",
+  "Faction": 208,
+  "IconImage": "pursuer icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "pursuer.png",
+  "ModelScale": 0.7,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#9999FF",
+  "EngineSize": 0.1,
+  "Layout": "0004400000144100013223100132231001322310011551100015510000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}
