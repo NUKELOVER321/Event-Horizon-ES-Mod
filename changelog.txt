@@ -87,3 +87,12 @@ Changelog:
 - - Added custom sounds for modded anti-missile devices
 - - Reduced the EMP value of the Hai Railgun by 80%
 - - Reverted damage nerf (25%) to Plasma Cannon and Plasma Turret
+
+
+0.4.1 "Ring of Power" update
+
+Changelog:
+- **Added Coalition as a faction, alongside appropriate ships, weapons, and outfits
+- Increased energy consumption for Thermoelectric Cooler
+- Nerfed the X1050 engines to make them not direct upgrades to the X1200/X1700 series
+- Reduced certain Remnant ship tech costs by 5
