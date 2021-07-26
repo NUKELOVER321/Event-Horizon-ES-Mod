@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1152,
+  "Name": "Finisher Pod",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 208,
+  "Level": 325,
+  "Icon": "finisher pod.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1152,
+  "AmmunitionId": 1152,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

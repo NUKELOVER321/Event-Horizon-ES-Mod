@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1148,
+  "Name": "Heliarch Attractor",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 208,
+  "Level": 375,
+  "Icon": "attractor.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1148,
+  "AmmunitionId": 1148,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

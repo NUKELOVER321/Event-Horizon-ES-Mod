@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2154,
+  "Name": "Ion Rain Gun",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 208,
+  "Level": 350,
+  "Icon": "ion rain gun.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2154,
+  "AmmunitionId": 2154,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

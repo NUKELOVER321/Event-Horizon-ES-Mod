@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1149,
+  "Name": "Heliarch Repulsor",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 208,
+  "Level": 375,
+  "Icon": "repulsor.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1149,
+  "AmmunitionId": 1149,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

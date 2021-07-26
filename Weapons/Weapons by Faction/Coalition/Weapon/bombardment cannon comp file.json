@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2153,
+  "Name": "Bombardment Cannon",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 208,
+  "Level": 350,
+  "Icon": "bombardment cannon.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2153,
+  "AmmunitionId": 1153,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

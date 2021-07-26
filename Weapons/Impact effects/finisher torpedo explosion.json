@@ -1,0 +1,24 @@
+{
+  "ItemType": 26,
+  "Id": 1152,
+  "Elements": [
+    {
+      "Image": "finisher impact.png",
+      "Size": 2.0,
+      "Lifetime": 3.0
+    },
+    {
+      "Type": 1,
+      "Image": "star",
+      "ColorMode": 2,
+      "Color": "#1CD600",
+      "Size": 2.0,
+      "Lifetime": 3.0
+    },
+    {
+      "Type": 5,
+      "Size": 2.0,
+      "Lifetime": 3.0
+    }
+  ]
+}
