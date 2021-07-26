@@ -3,6 +3,6 @@
   "Id": 208,
   "Name": "Trisolar Coalition",
   "Color": "#BD00FF",
-  "HomeStarDistance": 250,
-  "WanderingShipsDistance": 250
+  "HomeStarDistance": 400,
+  "WanderingShipsDistance": 400
 }
