@@ -3,35 +3,62 @@
   "Id": 381,
   "Name": "Saryd Traveler",
   "Faction": 208,
+  "SizeClass": 2,
   "IconImage": "saryd traveler icon.png",
   "IconScale": 1.0,
   "ModelImage": "saryd traveler.png",
-  "ModelScale": 1.25,
+  "ModelScale": 5.5,
   "EnginePosition": {
-    "x": -0.8
+    "x": -1.0
   },
   "EngineColor": "#9999FF",
+  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
         "x": -0.9,
-        "y": -0.2
+        "y": -0.4
       },
       "Size": 0.1
     },
     {
       "Position": {
         "x": -0.9,
-        "y": 0.2
+        "y": 0.4
       },
       "Size": 0.1
     }
   ],
-  "Layout": "0001441000000144100000122221000012222100011222211001122221100112222110011122111000112211000055555500",
+  "Layout": "000000442244000000000000442244000000000000002200000000000000002200000000000000022220000000000004422224400000000004422224400000000000132231000000000001132231100000000001132231100000000011132231110000000011132231110000000001132231100000000111132231111000000111132231111000001155132231551100000155115511551000000000005500000000",
   "Barrels": [
     {
       "Position": {
-        "x": 0.8
+        "x": 0.9,
+        "y": 0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": 0.3
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": -0.3
       },
       "PlatformType": 3,
       "WeaponClass": "CLMT"

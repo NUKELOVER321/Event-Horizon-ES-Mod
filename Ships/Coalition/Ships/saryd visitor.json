@@ -3,35 +3,46 @@
   "Id": 380,
   "Name": "Saryd Visitor",
   "Faction": 208,
+  "SizeClass": 1,
   "IconImage": "saryd visitor icon.png",
   "IconScale": 1.0,
   "ModelImage": "saryd visitor.png",
-  "ModelScale": 1.25,
+  "ModelScale": 3.5,
   "EnginePosition": {
-    "x": -0.8
+    "x": -0.9
   },
   "EngineColor": "#9999FF",
+  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
         "x": -0.9,
-        "y": -0.2
+        "y": -0.6
       },
       "Size": 0.1
     },
     {
       "Position": {
         "x": -0.9,
-        "y": 0.2
+        "y": 0.6
       },
       "Size": 0.1
     }
   ],
-  "Layout": "0001441000000144100000122221000012222100011222211001122221100112222110011122111000112211000055555500",
+  "Layout": "0000442244000000004422440000000000220000000000022220000000000222200000000002222000000000022220000000000222200000001112222111000011122221110000111222211100011112222111100155125521551000550255205500",
   "Barrels": [
     {
       "Position": {
-        "x": 0.8
+        "x": 0.9,
+        "y": 0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.1
       },
       "PlatformType": 3,
       "WeaponClass": "CLMT"

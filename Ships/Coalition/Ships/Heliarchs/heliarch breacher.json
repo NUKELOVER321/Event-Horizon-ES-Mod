@@ -1,40 +1,54 @@
 {
   "ItemType": 6,
   "Id": 383,
-  "Name": "Breacher",
+  "Name": "Heliarch Breacher",
   "Faction": 208,
   "IconImage": "breacher icon.png",
   "IconScale": 1.0,
   "ModelImage": "breacher.png",
-  "ModelScale": 1.25,
+  "ModelScale": 2.5,
   "EnginePosition": {
-    "x": -0.8
+    "x": -0.9
   },
   "EngineColor": "#9999FF",
+  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
-        "x": -0.9,
+        "x": -1.0,
         "y": -0.2
       },
       "Size": 0.1
     },
     {
       "Position": {
-        "x": -0.9,
+        "x": -1.0,
         "y": 0.2
       },
       "Size": 0.1
     }
   ],
-  "Layout": "0001441000000144100000122221000012222100011222211001122221100112222110011122111000112211000055555500",
+  "Layout": "0000044424440000000000444244400000000004442444000000000000222000000000000002220000000000000132310000000000001323100000000000014441000000000000144410000000000001444100000000000013231000000000000132310000000000011323110000000000112221100000000005522255000000000055252550000000000000500000000",
   "Barrels": [
     {
       "Position": {
-        "x": 0.8
+        "x": 0.8,
+        "y": 0.1
       },
       "PlatformType": 3,
       "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "PlatformType": 2,
+      "WeaponClass": "CL"
     }
   ]
 }

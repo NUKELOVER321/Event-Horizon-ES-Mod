@@ -3,35 +3,44 @@
   "Id": 376,
   "Name": "Kimek Briar",
   "Faction": 208,
+  "SizeClass": 1,
   "IconImage": "kimek briar icon.png",
   "IconScale": 1.0,
   "ModelImage": "kimek briar.png",
-  "ModelScale": 1.25,
+  "ModelScale": 3.5,
   "EnginePosition": {
-    "x": -0.8
+    "x": -1.0
   },
   "EngineColor": "#9999FF",
+  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
         "x": -0.9,
         "y": -0.2
-      },
-      "Size": 0.1
+      }
     },
     {
       "Position": {
         "x": -0.9,
         "y": 0.2
-      },
-      "Size": 0.1
+      }
     }
   ],
-  "Layout": "0001441000000144100000122221000012222100011222211001122221100112222110011122111000112211000055555500",
+  "Layout": "0000044224400000000004422440000000000002200000000000000220000000000000022000000000000002200000000000000220000000000000122100000000000112211000000000011221100000000001122110000000000012210000000000001221000000000000122100000000000055550000000000005555000000",
   "Barrels": [
     {
       "Position": {
-        "x": 0.8
+        "x": 0.8,
+        "y": 0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.1
       },
       "PlatformType": 3,
       "WeaponClass": "CLMT"

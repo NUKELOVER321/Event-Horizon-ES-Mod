@@ -6,32 +6,42 @@
   "IconImage": "arach courier icon.png",
   "IconScale": 1.0,
   "ModelImage": "arach courier.png",
-  "ModelScale": 1.25,
+  "ModelScale": 2.5,
   "EnginePosition": {
-    "x": -0.8
+    "x": -0.4
   },
   "EngineColor": "#9999FF",
+  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
         "x": -0.9,
-        "y": -0.2
+        "y": -0.3
       },
       "Size": 0.1
     },
     {
       "Position": {
         "x": -0.9,
-        "y": 0.2
+        "y": 0.3
       },
       "Size": 0.1
     }
   ],
-  "Layout": "0001441000000144100000122221000012222100011222211001122221100112222110011122111000112211000055555500",
+  "Layout": "000441144000000442244000000012210000000012210000000002200000000112211000001112211100001222222100001222222100001220022100001550055100000550055000",
   "Barrels": [
     {
       "Position": {
-        "x": 0.8
+        "x": 0.9,
+        "y": 0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.2
       },
       "PlatformType": 3,
       "WeaponClass": "CLMT"

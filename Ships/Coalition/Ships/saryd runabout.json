@@ -6,7 +6,7 @@
   "IconImage": "saryd runabout icon.png",
   "IconScale": 1.0,
   "ModelImage": "saryd runabout.png",
-  "ModelScale": 1.25,
+  "ModelScale": 2.5,
   "EnginePosition": {
     "x": -0.8
   },
@@ -27,11 +27,20 @@
       "Size": 0.1
     }
   ],
-  "Layout": "0001441000000144100000122221000012222100011222211001122221100112222110011122111000112211000055555500",
+  "Layout": "0044224400004422440000002200000000220000000222200000122221000012222100011222211001155551100005555000",
   "Barrels": [
     {
       "Position": {
-        "x": 0.8
+        "x": 0.8,
+        "y": 0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.2
       },
       "PlatformType": 3,
       "WeaponClass": "CLMT"
