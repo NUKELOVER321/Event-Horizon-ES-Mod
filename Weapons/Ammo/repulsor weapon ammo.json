@@ -25,8 +25,7 @@
     {
       "Type": 1,
       "DamageType": 1,
-      "Power": 0.6,
-      "Factor": 0.6
+      "Power": 0.06
     }
   ]
 }

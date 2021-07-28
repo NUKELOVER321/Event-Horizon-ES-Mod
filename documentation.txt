@@ -28,6 +28,8 @@ Infesticore 2103 2103-2105 2103
 "4x4 Reactive" 2105 2105 2105
 "4x4 Fuel" 2106 2106 2106
 "4x4 Armored Fuel" 2107 2107 2107
+"High Energy Focus m3" 2108
+"Automated Reloader m3" 2109
 
 Effects also take the ID of their weapon.
 
@@ -173,6 +175,7 @@ Barb 3001
 
 Special
 "Dead Ringer" 5000 [N/A - no tech]
+"Nuke on a Cart" 6000
 
 FW
 Firebird 337 1109-1111
@@ -364,3 +367,24 @@ Bombardment Cannon 2153
 Bombardment Turret 1153
 Ion Rain Gun 2154
 Ion Hail Turret 1154
+
+Korath Exiles
+Raider 389
+Dredger 390
+World-ship 391
+Chaser 3015
+Fire-lance 1155
+Small Heat Shunt 1156
+Large Heat Shunt 1157
+Candle-class 1158
+Furnace-class 1159
+Inferno-class 1160
+Plasma Core 1161
+Double Plasma Core 1162
+Triple Plasma Core 1163
+Small Systems Core 1164
+Medium Systems Core 1165
+Large Systems Core 1166
+Grab-strike 1167
+Warder 1168
+Banisher 1169

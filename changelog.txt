@@ -96,3 +96,4 @@ Changelog:
 - Increased energy consumption for Thermoelectric Cooler
 - Nerfed the X1050 engines to make them not direct upgrades to the X1200/X1700 series
 - Reduced certain Remnant ship tech costs by 5
+- Added m3 versions of foci and reloader
