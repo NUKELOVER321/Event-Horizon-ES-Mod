@@ -1,0 +1,17 @@
+{
+  "ItemType": 2,
+  "Id": 6000,
+  "DeviceClass": 8,
+  "EnergyConsumption": 1.0,
+  "PassiveEnergyConsumption": 1.0,
+  "Power": 10.0,
+  "Range": 25.0,
+  "Size": 5.0,
+  "Cooldown": 20.0,
+  "Lifetime": 1.5,
+  "ActivationType": 1,
+  "Color": "#FF8040",
+  "Sound": "launch_03",
+  "EffectPrefab": "Flash",
+  "ControlButtonIcon": "bomb cart.png"
+}

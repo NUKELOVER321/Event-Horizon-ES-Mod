@@ -1,0 +1,20 @@
+{
+  "ItemType": 1,
+  "Id": 6000,
+  "Name": "Nuke on a Cart",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 3,
+  "Level": 1000,
+  "Icon": "bomb cart.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "DeviceId": 6000,
+  "Restrictions": {
+    "UniqueComponentTag": "detonator"
+  },
+  "PossibleModifications": [
+    2,
+    6
+  ]
+}

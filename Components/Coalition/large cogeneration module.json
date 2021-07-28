@@ -8,7 +8,7 @@
   "Faction": 208,
   "Level": 325,
   "Icon": "large cogeneration module.png",
-  "Layout": "1111111111111111",
+  "Layout": "1100111011111111",
   "CellType": "2",
   "PossibleModifications": [
     12
