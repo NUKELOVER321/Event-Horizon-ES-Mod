@@ -6,12 +6,12 @@
   "IconImage": "saryd sojourner icon.png",
   "IconScale": 1.0,
   "ModelImage": "saryd sojourner.png",
-  "ModelScale": 1.25,
+  "ModelScale": 6.5,
   "EnginePosition": {
     "x": -1.0
   },
   "EngineColor": "#9999FF",
-  "EngineSize": 0.02,
+  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {

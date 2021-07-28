@@ -1,0 +1,41 @@
+{
+  "ItemType": 6,
+  "Id": 3015,
+  "ShipCategory": 6,
+  "Name": "Chaser",
+  "Faction": 209,
+  "IconImage": "chaser icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "chaser.png",
+  "ModelScale": 0.7,
+  "EnginePosition": {
+    "x": -1.0
+  },
+  "EngineColor": "#9999FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.6,
+        "y": 0.4
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": -0.4
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0004400000144100011221100112211001122110005225000052250000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}
