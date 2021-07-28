@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 2109,
+  "Name": "Automated Reloader m3",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 2109,
+  "Faction": 3,
+  "Level": 80,
+  "Icon": "foci m3.png",
+  "Color": "#A0A0FF",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    1,
+    2
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 2108,
+  "Name": "High Energy Focus m3",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 2108,
+  "Faction": 3,
+  "Level": 80,
+  "Icon": "foci m3.png",
+  "Color": "#FFFFA0",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    1,
+    2
+  ]
+}
