@@ -61,6 +61,7 @@ For energy cost of missile type weapons, multiple initial energy cost by heat th
 Torpedoes and missiles require 10x and 5x the normal time to reload.
 == Battery Packs ==
 Divide energy per space by 10.
+Systems Cores and Wanderer Reactors receive a x2 boost to storage.
 == Reactors ==
 Divide power output by size.
 == Engines ==
@@ -369,9 +370,9 @@ Ion Rain Gun 2154
 Ion Hail Turret 1154
 
 Korath Exiles
-Raider 389
-Dredger 390
-World-ship 391
+Raider 389 1265-1267
+Dredger 390 1268-1270
+World-ship 391 1271-1273
 Chaser 3015
 Fire-lance 1155
 Small Heat Shunt 1156
@@ -388,3 +389,37 @@ Large Systems Core 1166
 Grab-strike 1167
 Warder 1168
 Banisher 1169
+Asteroid Thruster 1186
+Asteroid Steering 1187
+Comet Thruster 1188
+Comet Steering 1189
+Lunar Thruster 1190
+Lunar Steering 1191
+Planetary Thruster 1192
+Planetary Steering 1193
+Stellar Thruster 1194
+Stellar Steering 1195
+Reality Vector Engine 1196
+
+Ka'het
+Maeri' 392
+Telis' 393
+Vareti' 394
+Faes' 3016
+Selii' 3017
+MHD Generator 1170
+Reserve Accumulator 1171
+Shield Restorer 1172
+Grand Restorer 1173
+Compact Engine 1174
+Sustainer Nacelles 1175
+Maeri Engine Nacelles 1176
+Telis Engine Nacelles 1177
+Vareti Engine Block 1178
+Support Cooling 1179
+Primary Cooling 1180
+Annihilator Turret 1181 (Gun 2181)
+Ravager Turret 1182 (Gun 2182)
+EMP Deployer 1183
+MHD Deployer 1184
+Nullifier 1185
