@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1156,
+  "Name": "Small Heat Shunt",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 1156,
+  "Faction": 209,
+  "Level": 300,
+  "Icon": "small heat shunt.png",
+  "Layout": "1111",
+  "CellType": "2"
+}

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1158,
+  "Name": "Candle-class Generator",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1158,
+  "Faction": 209,
+  "Level": 300,
+  "Icon": "candle class.png",
+  "Layout": "1",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

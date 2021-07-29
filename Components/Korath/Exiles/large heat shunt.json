@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1157,
+  "Name": "Large Heat Shunt",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 1157,
+  "Faction": 209,
+  "Level": 325,
+  "Icon": "large heat shunt.png",
+  "Layout": "111111111",
+  "CellType": "2"
+}

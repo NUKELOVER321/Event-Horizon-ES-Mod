@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1195,
+  "Name": "Stellar-class Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1195,
+  "Faction": 209,
+  "Level": 400,
+  "Icon": "stellar class steering.png",
+  "Layout": "0000011111111111111100000",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

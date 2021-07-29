@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1160,
+  "Name": "Inferno-class Generator",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1160,
+  "Faction": 209,
+  "Level": 350,
+  "Icon": "inferno class.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

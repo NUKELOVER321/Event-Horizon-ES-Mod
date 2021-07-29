@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1186,
+  "Name": "Asteroid-class Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1186,
+  "Faction": 209,
+  "Level": 300,
+  "Icon": "asteroid class thruster.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

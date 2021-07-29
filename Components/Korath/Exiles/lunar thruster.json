@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1190,
+  "Name": "Lunar-class Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1190,
+  "Faction": 209,
+  "Level": 350,
+  "Icon": "lunar class thruster.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1194,
+  "Name": "Stellar-class Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1194,
+  "Faction": 209,
+  "Level": 400,
+  "Icon": "stellar class thruster.png",
+  "Layout": "0000011111111111111100000",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

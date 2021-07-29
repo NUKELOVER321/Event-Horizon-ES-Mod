@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1161,
+  "Name": "Plasma Core",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1161,
+  "Faction": 209,
+  "Level": 375,
+  "Icon": "plasma core.png",
+  "Layout": "1111111111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

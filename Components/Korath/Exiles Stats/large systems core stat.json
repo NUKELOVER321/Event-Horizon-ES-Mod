@@ -1,0 +1,11 @@
+{
+  "ItemType": 11,
+  "Id": 1166,
+  "Type": 1,
+  "ArmorRepairRate": 0.53,
+  "EnergyPoints": 11.4,
+  "EnergyRechargeRate": -6.33,
+  "ShieldPoints": 19.78,
+  "ShieldRechargeRate": 9.89,
+  "Weight": 50.0
+}

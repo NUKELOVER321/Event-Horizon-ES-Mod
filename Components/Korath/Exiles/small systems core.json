@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1164,
+  "Name": "Small Systems Core",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 1164,
+  "Faction": 209,
+  "Level": 325,
+  "Icon": "systems core small.png",
+  "Layout": "1111",
+  "CellType": "3",
+  "PossibleModifications": [
+    2
+  ]
+}

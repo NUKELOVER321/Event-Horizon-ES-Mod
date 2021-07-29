@@ -1,0 +1,31 @@
+{
+  "ItemType": 25,
+  "Id": 1169,
+  "Body": {
+    "Type": 3,
+    "Size": 1.0,
+    "Range": 59.0,
+    "Lifetime": 0.1,
+    "BulletPrefab": 1149,
+    "EnergyCost": 19.8
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1149
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 11.1
+    },
+    {
+      "Type": 1,
+      "DamageType": 1,
+      "Power": 40.0
+    }
+  ]
+}

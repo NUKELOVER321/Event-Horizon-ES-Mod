@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1163,
+  "Name": "Triple Plasma Core",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1163,
+  "Faction": 209,
+  "Level": 425,
+  "Icon": "triple plasma core.png",
+  "Layout": "011110111111111111111111111111011110",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

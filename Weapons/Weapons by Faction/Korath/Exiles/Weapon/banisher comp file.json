@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1169,
+  "Name": "Banisher",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 209,
+  "Level": 350,
+  "Icon": "banisher.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1169,
+  "AmmunitionId": 1169,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

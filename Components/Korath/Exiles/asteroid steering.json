@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1187,
+  "Name": "Asteroid-class Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1187,
+  "Faction": 209,
+  "Level": 300,
+  "Icon": "asteroid class steering.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

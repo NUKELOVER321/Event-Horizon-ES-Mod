@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1155,
+  "Name": "Fire-Lance",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 209,
+  "Level": 325,
+  "Icon": "fire-lance.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1155,
+  "AmmunitionId": 1155,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

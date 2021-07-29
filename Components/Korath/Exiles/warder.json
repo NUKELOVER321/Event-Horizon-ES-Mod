@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1168,
+  "Name": "Warder",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 209,
+  "Level": 325,
+  "Icon": "warder.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "DeviceId": 1168,
+  "Restrictions": {
+    "UniqueComponentTag": "pointdefense"
+  },
+  "PossibleModifications": [
+    2,
+    6
+  ]
+}

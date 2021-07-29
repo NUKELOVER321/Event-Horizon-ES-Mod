@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1192,
+  "Name": "Planetary-class Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1192,
+  "Faction": 209,
+  "Level": 375,
+  "Icon": "planetary class thruster.png",
+  "Layout": "1111111111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

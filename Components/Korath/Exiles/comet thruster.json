@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1188,
+  "Name": "Comet-class Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1188,
+  "Faction": 209,
+  "Level": 325,
+  "Icon": "comet class thruster.png",
+  "Layout": "1111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

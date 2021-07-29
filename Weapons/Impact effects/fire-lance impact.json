@@ -1,0 +1,11 @@
+{
+  "ItemType": 26,
+  "Id": 1155,
+  "Elements": [
+    {
+      "Image": "fire-lance impact.png",
+      "Size": 1.0,
+      "Lifetime": 0.2
+    }
+  ]
+}
