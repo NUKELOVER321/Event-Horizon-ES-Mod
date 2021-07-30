@@ -89,12 +89,14 @@ Changelog:
 - - Reverted damage nerf (25%) to Plasma Cannon and Plasma Turret
 
 
-0.4.1 "Ring of Power" update
+0.4.1 "Far'en Lai" update
 
 Changelog:
-- **Added Coalition as a faction, alongside appropriate ships, weapons, and outfits
+- **Added Exiles as a faction, alongside appropriate ships, weapons, and outfits**
+- Coalition implemented in the background and will be added in a later update.
 - Increased energy consumption for Thermoelectric Cooler
 - Nerfed the X1050 engines to make them not direct upgrades to the X1200/X1700 series
 - Reduced certain Remnant ship tech costs by 5
 - Added m3 versions of foci and reloader
 - Fixed incorrect drones for Combat Drone and Dropship
+- Reduced energy/shot for antimissile turrets by 90%

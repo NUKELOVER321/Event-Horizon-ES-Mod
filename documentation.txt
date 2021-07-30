@@ -400,11 +400,12 @@ Planetary Steering 1193
 Stellar Thruster 1194
 Stellar Steering 1195
 Reality Vector Engine 1196
+Pillager 395 1283-1285
 
 Ka'het
-Maeri' 392
-Telis' 393
-Vareti' 394
+Maeri' 392 1274-1276
+Telis' 393 1277-1279
+Vareti' 394 1280-1282
 Faes' 3016
 Selii' 3017
 MHD Generator 1170
