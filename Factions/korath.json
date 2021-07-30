@@ -2,8 +2,7 @@
   "ItemType": 14,
   "Id": 209,
   "Name": "Korath Exiles",
-  "Color": "#BD00FF",
+  "Color": "#FF4B00",
   "HomeStarDistance": 300,
-  "WanderingShipsDistance": 300,
-  "Hidden": true
+  "WanderingShipsDistance": 300
 }
