@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 385,
+  "ShipCategory": 3,
   "Name": "Heliarch Hunter",
   "Faction": 208,
   "SizeClass": 1,

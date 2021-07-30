@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 376,
+  "ShipCategory": 3,
   "Name": "Kimek Briar",
   "Faction": 208,
   "SizeClass": 1,

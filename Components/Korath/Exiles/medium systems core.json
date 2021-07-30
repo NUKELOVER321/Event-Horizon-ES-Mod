@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1165,
   "Name": "Medium Systems Core",
-  "DisplayCategory": 6,
+  "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1165,
   "Faction": 209,
@@ -11,6 +11,8 @@
   "Layout": "111111111",
   "CellType": "3",
   "PossibleModifications": [
-    2
+    2,
+    3,
+    9
   ]
 }

@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 386,
+  "ShipCategory": 3,
   "Name": "Heliarch Interdictor",
   "Faction": 208,
   "SizeClass": 2,

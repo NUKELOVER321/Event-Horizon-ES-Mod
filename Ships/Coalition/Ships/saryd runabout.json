@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 379,
+  "ShipCategory": 3,
   "Name": "Saryd Runabout",
   "Faction": 208,
   "IconImage": "saryd runabout icon.png",

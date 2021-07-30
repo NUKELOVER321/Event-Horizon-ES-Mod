@@ -2,7 +2,7 @@
   "ItemType": 2,
   "Id": 1081,
   "DeviceClass": 6,
-  "EnergyConsumption": 0.05,
+  "EnergyConsumption": 0.005,
   "Power": 5.0,
   "Range": 15.0,
   "Size": 3.0,

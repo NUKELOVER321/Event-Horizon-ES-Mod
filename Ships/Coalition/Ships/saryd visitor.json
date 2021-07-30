@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 380,
+  "ShipCategory": 3,
   "Name": "Saryd Visitor",
   "Faction": 208,
   "SizeClass": 1,

@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 371,
+  "ShipCategory": 3,
   "Name": "Arach Transport",
   "Faction": 208,
   "SizeClass": 1,

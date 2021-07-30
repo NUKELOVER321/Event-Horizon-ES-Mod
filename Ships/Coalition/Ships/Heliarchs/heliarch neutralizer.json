@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 384,
+  "ShipCategory": 3,
   "Name": "Neutralizer",
   "Faction": 208,
   "IconImage": "neutralizer icon.png",

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1196,
+  "Name": "Reality-class Vector Engine",
+  "DisplayCategory": 4,
+  "Availability": 3,
+  "ComponentStatsId": 1196,
+  "Faction": 209,
+  "Level": 1000,
+  "Icon": "reality class vector engine.png",
+  "Layout": "000000111111111111111111111111000000",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

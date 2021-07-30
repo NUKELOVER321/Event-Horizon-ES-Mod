@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1166,
   "Name": "Large Systems Core",
-  "DisplayCategory": 6,
+  "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1166,
   "Faction": 209,
@@ -11,6 +11,8 @@
   "Layout": "1111111111111111",
   "CellType": "3",
   "PossibleModifications": [
-    2
+    2,
+    3,
+    9
   ]
 }

@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 377,
+  "ShipCategory": 3,
   "Name": "Kimek Thistle",
   "Faction": 208,
   "SizeClass": 2,
