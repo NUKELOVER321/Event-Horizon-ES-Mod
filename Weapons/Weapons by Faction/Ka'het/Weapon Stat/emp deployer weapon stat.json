@@ -1,0 +1,10 @@
+{
+  "ItemType": 3,
+  "Id": 1183,
+  "FireRate": 0.05,
+  "Spread": 1.0,
+  "ActivationType": 1,
+  "ShotSound": "typhoon",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "emp.png"
+}

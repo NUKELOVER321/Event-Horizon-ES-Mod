@@ -5,6 +5,6 @@
   "Spread": 1.0,
   "ActivationType": 1,
   "ShotSound": "typhoon",
-  "ShotEffectPrefab": "typhoon fire.png",
+  "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "typhoon.png"
 }

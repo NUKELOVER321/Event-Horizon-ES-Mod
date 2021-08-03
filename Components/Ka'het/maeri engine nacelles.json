@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1176,
+  "Name": "Maeri Engine Nacelles",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1176,
+  "Faction": 210,
+  "Level": 400,
+  "Icon": "maeri engine nacelles.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "ItemType": 11,
   "Id": 1021,
-  "EnergyPoints": -0.05,
   "EnergyRechargeRate": -0.05,
+  "EnergyRechargeCooldownModifier": 0.005,
   "Weight": 20.0,
   "EnginePower": 1.45,
   "TurnRate": 1.45

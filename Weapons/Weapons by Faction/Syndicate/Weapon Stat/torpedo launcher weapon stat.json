@@ -5,6 +5,6 @@
   "Spread": 1.0,
   "ActivationType": 1,
   "ShotSound": "torpedo",
-  "ShotEffectPrefab": "torpedo fire.png",
+  "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "torpedo icon.png"
 }

@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2181,
+  "Name": "Annihilator",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 210,
+  "Level": 350,
+  "Icon": "annihilator gun.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2181,
+  "AmmunitionId": 1181,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

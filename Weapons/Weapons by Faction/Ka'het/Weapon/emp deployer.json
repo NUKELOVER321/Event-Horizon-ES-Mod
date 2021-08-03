@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1183,
+  "Name": "EMP Deployer",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 210,
+  "Level": 375,
+  "Icon": "emp deployer.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1183,
+  "AmmunitionId": 1183,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1177,
+  "Name": "Telis Engine Nacelles",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1177,
+  "Faction": 210,
+  "Level": 400,
+  "Icon": "Telis engine nacelles.png",
+  "Layout": "1111111111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

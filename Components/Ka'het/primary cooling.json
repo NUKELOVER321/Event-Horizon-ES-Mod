@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1180,
+  "Name": "Primary Cooling",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 1180,
+  "Faction": 210,
+  "Level": 400,
+  "Icon": "primary cooling.png",
+  "Layout": "1111111111111111",
+  "CellType": "2"
+}

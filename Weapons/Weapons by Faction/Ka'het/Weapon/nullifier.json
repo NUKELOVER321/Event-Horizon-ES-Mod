@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1185,
+  "Name": "Nullifier",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 210,
+  "Level": 450,
+  "Icon": "nullifier.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1185,
+  "AmmunitionId": 1185,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

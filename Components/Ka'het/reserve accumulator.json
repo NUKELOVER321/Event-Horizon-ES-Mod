@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1171,
+  "Name": "Reserve Accumulator",
+  "DisplayCategory": 3,
+  "Availability": 3,
+  "ComponentStatsId": 1171,
+  "Faction": 210,
+  "Level": 350,
+  "Icon": "reserve accumulator.png",
+  "Layout": "1",
+  "PossibleModifications": [
+    12
+  ]
+}

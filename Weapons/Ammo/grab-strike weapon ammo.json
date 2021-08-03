@@ -6,9 +6,10 @@
     "Size": 1.0,
     "Velocity": 10.0,
     "Range": 100.0,
-    "Weight": 0.1,
+    "Weight": 1.0,
     "BulletPrefab": 1167,
-    "EnergyCost": 6.0
+    "EnergyCost": 6.0,
+    "CanBeDisarmed": true
   },
   "Triggers": [
     {
@@ -24,7 +25,8 @@
     },
     {
       "Type": 2,
-      "Power": 0.16
+      "DamageType": 1,
+      "Power": 0.0064
     }
   ]
 }

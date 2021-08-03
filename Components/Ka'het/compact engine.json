@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1174,
+  "Name": "Compact Engines",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1174,
+  "Faction": 210,
+  "Level": 375,
+  "Icon": "compact engine.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

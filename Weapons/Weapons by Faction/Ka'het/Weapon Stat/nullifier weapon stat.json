@@ -1,0 +1,10 @@
+{
+  "ItemType": 3,
+  "Id": 1185,
+  "FireRate": 0.2,
+  "Spread": 1.0,
+  "ActivationType": 1,
+  "ShotSound": "ionball",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "flame icon.png"
+}

@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1182,
+  "Name": "Ravager Turret",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 210,
+  "Level": 375,
+  "Icon": "ravager turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1182,
+  "AmmunitionId": 1182,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

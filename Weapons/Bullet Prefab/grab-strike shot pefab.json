@@ -4,7 +4,7 @@
   "Shape": 1,
   "Image": "grab-strike shot.png",
   "Size": 0.5,
-  "MainColor": "#00FFFFFF",
-  "SecondColor": "#00FFFFFF",
-  "SecondColorMode": 2
+  "MainColor": "#000000",
+  "SecondColor": "#000000",
+  "SecondColorMode": 1
 }

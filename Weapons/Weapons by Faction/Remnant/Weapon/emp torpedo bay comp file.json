@@ -10,7 +10,7 @@
   "Icon": "emp torpedo bay.png",
   "Layout": "111111111",
   "CellType": "4",
-  "WeaponId": 1074130,
+  "WeaponId": 1130,
   "AmmunitionId": 1130,
   "WeaponSlotType": "T",
   "PossibleModifications": [

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1175,
+  "Name": "Sustainer Nacelles",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1175,
+  "Faction": 210,
+  "Level": 375,
+  "Icon": "sustainer nacelles.png",
+  "Layout": "1111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

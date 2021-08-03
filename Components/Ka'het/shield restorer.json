@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1172,
+  "Name": "Shield Restorer",
+  "DisplayCategory": 2,
+  "Availability": 3,
+  "ComponentStatsId": 1172,
+  "Faction": 210,
+  "Level": 375,
+  "Icon": "shield restorer.png",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3
+  ]
+}

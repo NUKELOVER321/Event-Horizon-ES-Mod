@@ -1,0 +1,31 @@
+{
+  "ItemType": 26,
+  "Id": 1185,
+  "Elements": [
+    {
+      "Image": "ion explode.png",
+      "Size": 3.0,
+      "Lifetime": 5.0
+    },
+    {
+      "Type": 1,
+      "Image": "star",
+      "ColorMode": 2,
+      "Color": "#00B9FF",
+      "Size": 3.0,
+      "Lifetime": 5.0
+    },
+    {
+      "Type": 5,
+      "Size": 3.0,
+      "Lifetime": 5.0
+    },
+    {
+      "Type": 2,
+      "Image": "emp ring.png",
+      "Color": "#00000000",
+      "Size": 5.0,
+      "Lifetime": 8.0
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2182,
+  "Name": "Ravager",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 210,
+  "Level": 375,
+  "Icon": "ravager beam.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2182,
+  "AmmunitionId": 2182,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}
