@@ -1,8 +1,13 @@
-All images used in this mod, with the exception of images designated "Free To Use", originate from the game Endless Sky.
-Images are licensed under CC-BY-SA 4.0 and have not been modified from their original state.
-Visit their Github page at https://github.com/endless-sky/endless-sky/ for a list of contributors.
+I, the person making this mod, did not create any of the images used in this mod.
 
-For Free to Use images, please refer to ftu-credits-readme.txt.
+Most images used in this mod, with the exception of images designated "Free To Use", originate from the game Endless Sky.
+These images are licensed under CC-BY-SA 4.0 and have not been modified from their original state.
+Visit their Github page at https://github.com/endless-sky/endless-sky/ for a list of contributors.
 
 Credits to Pavel Zinchenko for creating Event Horizon and providing the database files necessary for the production for this mod.
 Credits to various members of the Event Horizon discord server for various assistance with developing this mod through advice, suggestions, and criticism.
+
+Certain images used in this mod have been released as Free to Use by their creators. A list of such images and their authors are included below.
+
+Crdball#1855 | 4x4 Shield Generator, 4x4 Reactive Armor
+Mirage Spirit#3400 | 4x4 Titanium, Infesticore

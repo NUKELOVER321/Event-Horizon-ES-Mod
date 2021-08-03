@@ -100,3 +100,30 @@ Changelog:
 - Added m3 versions of foci and reloader
 - Fixed incorrect drones for Combat Drone and Dropship
 - Reduced energy/shot for antimissile turrets by 90%
+
+0.4.2 "Nenia" update
+
+Changelog:
+- Reduced push and pull force of Banisher and Grab-Strike by 80% and 50% respectively
+- Reduced systems core count on Exile ships
+- Fixed broken tech for Foci and Reloader m3
+- Added slight tracking to Grab-Strike ammunition
+
+0.4.3 "Far Monad" update
+
+Changelog:
+- Reduced push and pull forces of Banisher and Grab-Strike further
+- Made Grab-Strike targetable by antimissile
+- Reduced tech costs for various components across multiple factions
+
+0.5.1 "Aki'il" update
+
+Changelog:
+- **Added Ka'het as a faction, alongside appropriate ships, weapons, and outfits**
+- Reduced EC of systems cores by 20%
+- Increased accuracy of thrashers
+- Fixed broken Stack Core tech
+- Added tech for Remnant engines
+- Buffed energy storage of Chasm Battery by 10%
+- Moved blaster and beam laser to Merchants
+- Removed "hostile" attribute from Pirates

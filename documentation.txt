@@ -52,10 +52,11 @@ ALTERNATIVELY
 Determining stats:
 == Weapons ==
 For projectile weapons, divide shield + hull damage per shot by 10.
-For beam weapons and missiles, divide shield + hull damage by 20 and 25 respectively.
+For beam weapons and missiles, divide shield + hull damage by 15 and 20 respectively.
 For torpedos, divide shield + hull damage by 20.
 Energy usage and range is 1/10 that of its ES equivalent.
 Divide range by 10.
+Divide push force by 2.5 then scale by a power of 10.
 
 For energy cost of missile type weapons, multiple initial energy cost by heat then divide by outfit space.
 Torpedoes and missiles require 10x and 5x the normal time to reload.
@@ -76,6 +77,8 @@ Divide shield gen and energy by size. Multiply the resulting values by 5.
 == Heat ==
 Take heat per module and divide by size. Divide said value by 250.
 For cooling modules, divide heat per module by size then by 500.
+For active cooling, divide energy consumed by size then by 5.
+For some active cooling, the division factor is 250.
 
 Ship IDs start at 300. Component IDs start at 1000.
 Explosion ammo starts at 5000 and correspond to their parent munition in IDs.
