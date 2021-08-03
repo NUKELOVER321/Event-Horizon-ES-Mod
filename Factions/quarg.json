@@ -1,0 +1,9 @@
+{
+  "ItemType": 14,
+  "Id": 214,
+  "Name": "Quarg",
+  "Color": "#E1C500",
+  "HomeStarDistance": 500,
+  "WanderingShipsDistance": 500,
+  "Hidden": true
+}

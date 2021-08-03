@@ -1,0 +1,9 @@
+{
+  "ItemType": 14,
+  "Id": 216,
+  "Name": "Pug",
+  "Color": "#FDE4B3",
+  "HomeStarDistance": 500,
+  "WanderingShipsDistance": 500,
+  "Hidden": true
+}

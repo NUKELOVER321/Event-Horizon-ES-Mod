@@ -1,0 +1,9 @@
+{
+  "ItemType": 14,
+  "Id": 211,
+  "Name": "Wanderers",
+  "Color": "#B3E91F",
+  "HomeStarDistance": 350,
+  "WanderingShipsDistance": 350,
+  "Hidden": true
+}

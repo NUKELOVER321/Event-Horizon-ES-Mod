@@ -1,0 +1,9 @@
+{
+  "ItemType": 14,
+  "Id": 210,
+  "Name": "Ka'het",
+  "Color": "#E921D2",
+  "HomeStarDistance": 350,
+  "WanderingShipsDistance": 350,
+  "Hostile": true
+}
