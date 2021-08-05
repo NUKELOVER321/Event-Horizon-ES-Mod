@@ -2,7 +2,7 @@
   "ItemType": 3,
   "Id": 1181,
   "FireRate": 12.0,
-  "Spread": 2.5,
+  "Spread": 1.0,
   "ActivationType": 1,
   "ShotSound": "inhibitor",
   "ShotEffectPrefab": "FlashAdditive",

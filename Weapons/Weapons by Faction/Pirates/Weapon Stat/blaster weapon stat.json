@@ -2,7 +2,7 @@
   "ItemType": 3,
   "Id": 2022,
   "FireRate": 5.0,
-  "Spread": 20.0,
+  "Spread": 3.0,
   "ActivationType": 1,
   "ShotSound": "blaster",
   "ShotEffectPrefab": "FlashAdditive",

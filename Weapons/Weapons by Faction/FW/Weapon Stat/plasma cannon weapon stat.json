@@ -2,7 +2,7 @@
   "ItemType": 3,
   "Id": 2051,
   "FireRate": 3.3,
-  "Spread": 10.0,
+  "Spread": 2.0,
   "ActivationType": 1,
   "ShotSound": "plasma",
   "ShotEffectPrefab": "FlashAdditive",
