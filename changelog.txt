@@ -127,3 +127,13 @@ Changelog:
 - Buffed energy storage of Chasm Battery by 10%
 - Moved blaster and beam laser to Merchants
 - Removed "hostile" attribute from Pirates
+
+0.5.2 ??? update
+
+Changelog:
+- Increased blaster projectile speed by 13%
+- Renamed Nest again
+- Set Skein to Rare
+- Doubled energy consumption and heat value for Crystal Capacitor
+- Reduced inaccuracy of various weapons
+- Removed multishot feature from all turrets

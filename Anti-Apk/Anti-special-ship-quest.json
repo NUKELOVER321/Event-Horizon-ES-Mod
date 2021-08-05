@@ -1,0 +1,73 @@
+{
+  "ItemType": 15,
+  "Id": 84019485,
+  "Name": "Anti-special-ship-quest",
+  "QuestType": 1,
+  "StartCondition": 6,
+  "Weight": 1.0,
+  "Origin": {
+    "Factions": {
+      "Type": 3
+    }
+  },
+  "Requirement": {
+    "Type": 3
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 15,
+      "DefaultTransition": 2,
+      "Transitions": [
+        {
+          "TargetNode": 5,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 30,
+              "ItemId": 10000
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 15,
+      "DefaultTransition": 5,
+      "Transitions": [
+        {
+          "TargetNode": 3,
+          "Requirement": {
+            "Type": 26,
+            "Loot": {
+              "Type": 30,
+              "ItemId": 50000
+            }
+          }
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 35,
+      "DefaultTransition": 4,
+      "Loot": 1696969
+    },
+    {
+      "Id": 4,
+      "Type": 10,
+      "Message": "Using third party clients to cheat in this mod is not permitted.",
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": "Uninstall the game"
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 40
+    }
+  ]
+}

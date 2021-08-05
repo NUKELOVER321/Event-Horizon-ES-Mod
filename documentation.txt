@@ -427,3 +427,53 @@ Ravager Turret 1182 (Gun 2182)
 EMP Deployer 1183
 MHD Deployer 1184
 Nullifier 1185
+
+Wanderers
+Earth Shaper 396 1286-1288
+Deep River 397 1289-1291
+Riptide 398 1292-1294
+Summer Leaf 399 1295-1297
+Autumn Leaf 400 1298-1300
+Winter Gale 401 1301-1303
+Strong Wind 402 1304-1306
+Tempest 403 1307-1309
+Derecho 404 1310-1312
+Hurricane 405 1313-1315
+Flycatcher 3018
+Cool Breeze 3019
+Small Biochemical Cell 1197
+Large Biochemical Cell 1198
+Bright Cloud 1199
+Dark Storm 1200
+Red Sun 1201
+Yellow Sun 1202
+White Sun 1203
+Blue Sun 1204
+Wanderer Heat Sink 1205
+Wanderer Large Heat Sink 1206
+Sunbeam Turret 1207 (gun 2207)
+Thunderhead Launcher 1208
+Wanderer AM 1209
+Wanderer Heavy AM 1210
+Type 0 Radiant Engine
+Type 1 Radiant Thruster
+Type 1 Radiant Steering
+Type 2 Radiant Thruster
+Type 2 Radiant Steering
+Type 3 Radiant Thruster
+Type 3 Radiant Steering
+Type 4 Radiant Thruster
+Type 4 Radiant Steering
+Type 5 Radiant Thruster
+Type 5 Radiant Steering
+
+Kor Sestor
+MPT 53 406 1316-1318
+TF 71-L 407 1319-1321
+TF 78-O 408 1322-1324
+TF 109 409 1325-1327
+KIV 349 410 1328-1330
+FL 14 3020
+FO 27 3021
+
+Kor Mereti
