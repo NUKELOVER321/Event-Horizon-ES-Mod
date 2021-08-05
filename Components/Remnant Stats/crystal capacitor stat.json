@@ -3,7 +3,7 @@
   "Id": 1114,
   "Type": 1,
   "EnergyPoints": 28.3,
-  "EnergyRechargeRate": -0.5,
-  "EnergyRechargeCooldownModifier": 0.008,
+  "EnergyRechargeRate": -1.0,
+  "EnergyRechargeCooldownModifier": 0.016,
   "Weight": 20.0
 }

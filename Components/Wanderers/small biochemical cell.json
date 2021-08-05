@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1197,
+  "Name": "Small Biochemical Cell",
+  "DisplayCategory": 3,
+  "Availability": 3,
+  "ComponentStatsId": 1197,
+  "Faction": 211,
+  "Level": 350,
+  "Icon": "small biochemical cell.png",
+  "Layout": "1",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "ItemType": 6,
+  "Id": 399,
+  "Name": "Summer Leaf",
+  "Faction": 211,
+  "SizeClass": 1,
+  "IconImage": "summer leaf icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "summer leaf.png",
+  "ModelScale": 3.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#FFE100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "000000020000000000000020000000000000020000000000000222000000000000222000000000002222200000004442222244400004442222244400004442222244400000111222111000000111222111000000111222111000000155525551000000055525550000000055525550000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.2,
+        "y": 0.4
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": -0.4
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    }
+  ]
+}

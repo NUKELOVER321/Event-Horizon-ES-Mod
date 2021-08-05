@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1203,
+  "Name": "White Sun Reactor",
+  "DisplayCategory": 3,
+  "Availability": 3,
+  "ComponentStatsId": 1203,
+  "Faction": 211,
+  "Level": 450,
+  "Icon": "white sun reactor.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

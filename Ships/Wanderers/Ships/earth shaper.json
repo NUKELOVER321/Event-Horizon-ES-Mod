@@ -1,0 +1,40 @@
+{
+  "ItemType": 6,
+  "Id": 396,
+  "Name": "Earth Shaper",
+  "Faction": 211,
+  "IconImage": "earth shaper icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "earth shaper.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#FFE100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "000004400000000004400000000022220000000122221000000122221000001122221100011122221110011122221110011122221110011155551110001155551100000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    }
+  ]
+}

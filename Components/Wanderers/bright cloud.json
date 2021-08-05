@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1199,
+  "Name": "Bright Cloud",
+  "DisplayCategory": 2,
+  "Availability": 3,
+  "ComponentStatsId": 1199,
+  "Faction": 211,
+  "Level": 400,
+  "Icon": "bright cloud.png",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3
+  ]
+}

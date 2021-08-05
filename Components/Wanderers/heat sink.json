@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1205,
+  "Name": "Wanderer Heat Sink",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 1205,
+  "Faction": 211,
+  "Level": 350,
+  "Icon": "wanderer heat sink.png",
+  "Layout": "1111",
+  "CellType": "2"
+}

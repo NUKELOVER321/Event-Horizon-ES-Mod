@@ -1,0 +1,82 @@
+{
+  "ItemType": 6,
+  "Id": 402,
+  "Name": "Strong Wind",
+  "Faction": 211,
+  "SizeClass": 2,
+  "IconImage": "strong wind icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "strong wind.png",
+  "ModelScale": 4.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#FFE100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000442244000000000000004422440000000000000000220000000000000000002200000000000000000022000000000000000000220000000000000000002200000000000000000022000000000000000000220000000000000000002200000000000000000022000000000000441440220441440000004414402204414400000000110222201100000000001112222111000000000011122221110000000000115522551100000000001155225511000000000000552255000000000000005522550000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8,
+        "y": 0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": 0.5
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": 0.4
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": -0.4
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": -0.5
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    }
+  ]
+}

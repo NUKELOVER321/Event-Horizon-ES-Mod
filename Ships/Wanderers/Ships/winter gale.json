@@ -1,0 +1,66 @@
+{
+  "ItemType": 6,
+  "Id": 401,
+  "Name": "Winter Gale",
+  "Faction": 211,
+  "SizeClass": 2,
+  "IconImage": "winter gale icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "winter gale.png",
+  "ModelScale": 4.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#FFE100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.1
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.1
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000002200000000000000000022000000000000000044224400000000000000442244000000000000000222200000000000000442222440000000000004422224400000000000000222200000000000000002222000000000000011112211110000000000111122111100000000001112222111000000000011122221110000000000111222211100000000001112222111000000000011122221110000000000111222211100000000001155555511000000000001555555100000000000015555551000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.6,
+        "y": 0.15
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.6,
+        "y": -0.15
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.5,
+        "y": 0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.5,
+        "y": -0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    }
+  ]
+}
