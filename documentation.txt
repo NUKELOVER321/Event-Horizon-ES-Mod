@@ -441,6 +441,7 @@ Derecho 404 1310-1312
 Hurricane 405 1313-1315
 Flycatcher 3018
 Cool Breeze 3019
+Scud 3020
 Small Biochemical Cell 1197
 Large Biochemical Cell 1198
 Bright Cloud 1199
@@ -452,20 +453,21 @@ Blue Sun 1204
 Wanderer Heat Sink 1205
 Wanderer Large Heat Sink 1206
 Sunbeam Turret 1207 (gun 2207)
-Thunderhead Launcher 1208
+Thunderhead Launcher 1208 (fragment 3208)
 Wanderer AM 1209
 Wanderer Heavy AM 1210
-Type 0 Radiant Engine
-Type 1 Radiant Thruster
-Type 1 Radiant Steering
-Type 2 Radiant Thruster
-Type 2 Radiant Steering
-Type 3 Radiant Thruster
-Type 3 Radiant Steering
-Type 4 Radiant Thruster
-Type 4 Radiant Steering
-Type 5 Radiant Thruster
-Type 5 Radiant Steering
+Type 0 Radiant Engines 1211
+Type 1 Radiant Thruster 1212
+Type 1 Radiant Steering 1213
+Type 2 Radiant Thruster 1214
+Type 2 Radiant Steering 1215
+Type 3 Radiant Thruster 1216
+Type 3 Radiant Steering 1217
+Type 4 Radiant Thruster 1218
+Type 4 Radiant Steering 1219
+Type 5 Radiant Thruster 1220
+Type 5 Radiant Steering 1221
+Moonbeam 1222 (Gun 2222)
 
 Kor Sestor
 MPT 53 406 1316-1318
@@ -473,7 +475,7 @@ TF 71-L 407 1319-1321
 TF 78-O 408 1322-1324
 TF 109 409 1325-1327
 KIV 349 410 1328-1330
-FL 14 3020
-FO 27 3021
+FL 14 3021
+FO 27 3022
 
 Kor Mereti

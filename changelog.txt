@@ -131,9 +131,16 @@ Changelog:
 0.5.2 ??? update
 
 Changelog:
+- **Added Wanderers as a faction, alongside appropriate ships, weapons, and outfits**
+- Doubled energy storage of Wanderer reactors
 - Increased blaster projectile speed by 13%
 - Renamed Nest again
 - Set Skein to Rare
-- Doubled energy consumption and heat value for Crystal Capacitor
+- Quadrupled energy consumption and heat value for Crystal Capacitor
+- Reduced Crystal Capacitor energy storage by 20%
 - Reduced inaccuracy of various weapons
 - Removed multishot feature from all turrets
+- Added trail color to torpedoes and missiles
+- Reverted damage nerf to human missiles
+- Implemented additional anti-cheat systems**
+** You are very much recommended to make a backup of your save before updating.
