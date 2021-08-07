@@ -5,6 +5,6 @@
   "Image": "nuke missile.png",
   "Size": 1.0,
   "Margins": 0.7,
-  "SecondColor": "#80FFFFFF",
-  "SecondColorMode": 2
+  "SecondColor": "#7FC7FF",
+  "SecondColorMode": 1
 }

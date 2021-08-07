@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1222,
+  "Name": "Moonbeam Turret",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 211,
+  "Level": 400,
+  "Icon": "moonbeam turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 2222,
+  "AmmunitionId": 1222,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

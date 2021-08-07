@@ -1,0 +1,41 @@
+{
+  "ItemType": 6,
+  "Id": 3020,
+  "ShipCategory": 6,
+  "Name": "Scud",
+  "Faction": 211,
+  "IconImage": "scud icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "scud.png",
+  "ModelScale": 0.8,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#FFE100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000444000000004440000000044400000000222000000002220000000022200000001121100000011211000001111111000011111110000550505500",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

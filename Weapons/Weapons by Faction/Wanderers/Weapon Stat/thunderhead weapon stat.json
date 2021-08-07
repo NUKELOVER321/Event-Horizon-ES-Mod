@@ -1,0 +1,10 @@
+{
+  "ItemType": 3,
+  "Id": 1208,
+  "FireRate": 0.16,
+  "Spread": 10.0,
+  "ActivationType": 1,
+  "ShotSound": "thunderhead",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "thunderhead.png"
+}

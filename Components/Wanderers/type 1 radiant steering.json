@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1213,
+  "Name": "Type 1 Radiant Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1213,
+  "Faction": 211,
+  "Level": 475,
+  "Icon": "type 1 radiant steering.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

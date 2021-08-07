@@ -33,10 +33,67 @@
   "Barrels": [
     {
       "Position": {
-        "x": 0.8
+        "x": 0.9,
+        "y": 0.05
       },
       "PlatformType": 3,
       "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.05
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": 0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": -0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": 0.1
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.2,
+        "y": -0.1
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": 0.2
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": -0.5,
+        "y": -0.2
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
     }
   ]
 }

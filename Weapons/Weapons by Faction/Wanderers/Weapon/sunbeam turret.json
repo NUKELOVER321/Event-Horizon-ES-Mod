@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1207,
+  "Name": "Sunbeam Turret",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 211,
+  "Level": 400,
+  "Icon": "dual sunbeam turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 2207,
+  "AmmunitionId": 1207,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

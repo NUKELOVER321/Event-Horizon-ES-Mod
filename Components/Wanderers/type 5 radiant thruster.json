@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1220,
+  "Name": "Type 5 Radiant Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1220,
+  "Faction": 211,
+  "Level": 475,
+  "Icon": "type 5 radiant thruster.png",
+  "Layout": "0000011111111111111100000",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

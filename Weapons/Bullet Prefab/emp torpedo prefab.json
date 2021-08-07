@@ -6,6 +6,6 @@
   "Size": 0.8,
   "Margins": 0.7,
   "MainColor": "#00FFFFFF",
-  "SecondColor": "#80FFFFFF",
-  "SecondColorMode": 2
+  "SecondColor": "#00C7FF",
+  "SecondColorMode": 1
 }

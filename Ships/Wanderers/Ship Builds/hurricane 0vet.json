@@ -2,7 +2,5 @@
   "ItemType": 8,
   "Id": 1313,
   "ShipId": 405,
-  "DifficultyClass": 0,
-  "Components": [
-  ]
+  "Components": []
 }

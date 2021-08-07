@@ -2,7 +2,54 @@
   "ItemType": 8,
   "Id": 1301,
   "ShipId": 401,
-  "DifficultyClass": 0,
   "Components": [
+    {
+      "ComponentId": 1216,
+      "Locked": true,
+      "X": 10,
+      "Y": 17,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1217,
+      "Locked": true,
+      "X": 7,
+      "Y": 17,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1202,
+      "Locked": true,
+      "X": 8,
+      "Y": 13,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 2222,
+      "Locked": true,
+      "X": 11,
+      "Y": 2,
+      "BarrelId": 1
+    },
+    {
+      "ComponentId": 2222,
+      "Locked": true,
+      "X": 12,
+      "Y": 5,
+      "BarrelId": 3
+    },
+    {
+      "ComponentId": 2222,
+      "Locked": true,
+      "X": 6,
+      "Y": 5,
+      "BarrelId": 2
+    },
+    {
+      "ComponentId": 2222,
+      "Locked": true,
+      "X": 7,
+      "Y": 2
+    }
   ]
 }

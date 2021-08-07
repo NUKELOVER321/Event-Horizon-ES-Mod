@@ -2,9 +2,8 @@
   "ItemType": 11,
   "Id": 1199,
   "Type": 1,
-  "EnergyRechargeRate": -6.55,
-  "ShieldPoints": 21.85,
-  "ShieldRechargeRate": 10.95,
-  "ShieldRechargeCooldownModifier": 0.1,
+  "EnergyRechargeRate": -9.47,
+  "ShieldPoints": 23.68,
+  "ShieldRechargeRate": 11.84,
   "Weight": 50.0
 }

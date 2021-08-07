@@ -1,0 +1,10 @@
+{
+  "ItemType": 11,
+  "Id": 1213,
+  "Type": 1,
+  "EnergyRechargeRate": -0.122,
+  "EnergyRechargeCooldownModifier": -0.028,
+  "Weight": 20.0,
+  "EnginePower": 1.42,
+  "TurnRate": 2.84
+}

@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 2207,
+  "WeaponClass": 2,
+  "ActivationType": 1,
+  "ShotSound": "*sunbeam~",
+  "ShotEffectPrefab": "FlashAdditive",
+  "ControlButtonIcon": "controls_shot"
+}

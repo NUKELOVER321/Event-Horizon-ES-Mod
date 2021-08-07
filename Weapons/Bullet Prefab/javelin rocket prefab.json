@@ -5,6 +5,6 @@
   "Image": "javelin rocket.png",
   "Size": 1.0,
   "Margins": 0.7,
-  "SecondColor": "#80FFFFFF",
-  "SecondColorMode": 2
+  "SecondColor": "#FF9C32",
+  "SecondColorMode": 1
 }

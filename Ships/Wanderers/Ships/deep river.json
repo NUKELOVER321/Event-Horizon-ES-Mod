@@ -75,7 +75,9 @@
       "Position": {
         "x": 0.6,
         "y": -0.15
-      }
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
     }
   ]
 }

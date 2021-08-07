@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1211,
+  "Name": "Type 0 Radiant Engines",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1211,
+  "Faction": 211,
+  "Level": 475,
+  "Icon": "type 0 radiant engines.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

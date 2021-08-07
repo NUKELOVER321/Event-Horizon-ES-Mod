@@ -5,6 +5,6 @@
   "Image": "meteor missile.png",
   "Size": 0.75,
   "Margins": 0.7,
-  "SecondColor": "#80FFFFFF",
-  "SecondColorMode": 2
+  "SecondColor": "#FFCF32",
+  "SecondColorMode": 1
 }
