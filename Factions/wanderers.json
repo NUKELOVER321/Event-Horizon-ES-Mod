@@ -4,6 +4,5 @@
   "Name": "Wanderers",
   "Color": "#B3E91F",
   "HomeStarDistance": 350,
-  "WanderingShipsDistance": 350,
-  "Hidden": true
+  "WanderingShipsDistance": 350
 }
