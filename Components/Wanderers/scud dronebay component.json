@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 3020,
+  "Name": "Scud",
+  "DisplayCategory": 5,
+  "Availability": 2,
+  "ComponentStatsId": 3020,
+  "Faction": 211,
+  "Level": 375,
+  "Icon": "scud icon.png",
+  "Layout": "111111111",
+  "CellType": "1",
+  "DroneBayId": 3020,
+  "DroneId": 3020,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    2
+  ]
+}

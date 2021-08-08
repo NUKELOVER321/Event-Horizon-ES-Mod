@@ -8,7 +8,7 @@
   "Faction": 205,
   "Level": 280,
   "Icon": "A865 steering.png",
-  "Layout": "0000011111111111111100000",
+  "Layout": "1111111111111111111100000",
   "CellType": "5",
   "PossibleModifications": [
     11

@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1210,
+  "Name": "Wanderer Heavy Anti-Missile",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 211,
+  "Level": 400,
+  "Icon": "wanderer heavy antimissile.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "DeviceId": 1210,
+  "Restrictions": {
+    "UniqueComponentTag": "pointdefense"
+  },
+  "PossibleModifications": [
+    2,
+    6
+  ]
+}

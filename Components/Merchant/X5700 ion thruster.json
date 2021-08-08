@@ -9,7 +9,7 @@
   "Faction": 201,
   "Level": 40,
   "Icon": "X5700 ion thruster.png",
-  "Layout": "0000011111111111111100000",
+  "Layout": "1111111111111111111100000",
   "CellType": "5",
   "PossibleModifications": [
     11

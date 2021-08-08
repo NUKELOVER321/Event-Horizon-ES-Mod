@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1209,
+  "Name": "Wanderer Anti-Missile",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 211,
+  "Level": 375,
+  "Icon": "wanderer antimissile.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "DeviceId": 1209,
+  "Restrictions": {
+    "UniqueComponentTag": "pointdefense"
+  },
+  "PossibleModifications": [
+    2,
+    6
+  ]
+}
