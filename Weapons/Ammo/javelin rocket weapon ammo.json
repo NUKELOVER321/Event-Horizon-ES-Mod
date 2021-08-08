@@ -4,7 +4,7 @@
   "Body": {
     "Size": 1.0,
     "Velocity": 10.0,
-    "Range": 60.0,
+    "Range": 120.0,
     "Weight": 0.1,
     "BulletPrefab": 1028,
     "EnergyCost": 0.2,

@@ -5,5 +5,5 @@
   "ActivationType": 1,
   "ShotSound": "*disruptor~",
   "ShotEffectPrefab": "FlashAdditive",
-  "ControlButtonIcon": "controls_shot"
+  "ControlButtonIcon": "controls_laser"
 }

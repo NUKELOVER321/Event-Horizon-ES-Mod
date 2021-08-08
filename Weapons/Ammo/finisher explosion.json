@@ -12,7 +12,7 @@
       "Condition": 1,
       "EffectType": 1,
       "VisualEffect": 1152,
-      "AudioClip": "explosion medium",
+      "AudioClip": "torpedo hit",
       "Size": 1.0,
       "Lifetime": 2.0
     }

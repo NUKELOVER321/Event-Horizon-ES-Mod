@@ -6,7 +6,7 @@
     "Size": 1.0,
     "Velocity": 6.0,
     "Range": 192.0,
-    "Weight": 1.0,
+    "Weight": 0.5,
     "HitPoints": 200,
     "BulletPrefab": 1036,
     "EnergyCost": 100.0,
