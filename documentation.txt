@@ -55,11 +55,11 @@ For projectile weapons, divide shield + hull damage per shot by 10.
 For beam weapons and missiles, divide shield + hull damage by 15 and 20 respectively.
 For torpedos, divide shield + hull damage by 20.
 Energy usage and range is 1/10 that of its ES equivalent.
-Divide range by 10.
+Divide range by 10 (50 in the case of missiles, 10 for torpedoes).
 Divide push force by 2.5 then scale by a power of 10.
 
 For energy cost of missile type weapons, multiple initial energy cost by heat then divide by outfit space.
-Torpedoes and missiles require 10x and 5x the normal time to reload.
+Torpedoes and missiles require 5x the normal time to reload.
 == Battery Packs ==
 Divide energy per space by 10.
 Systems Cores and Wanderer Reactors receive a x2 boost to storage.
@@ -474,7 +474,9 @@ MPT 53 406 1316-1318
 TF 71-L 407 1319-1321
 TF 78-O 408 1322-1324
 TF 109 409 1325-1327
-KIV 349 410 1328-1330
+FET 243 410 1328-1330
+KIV 349 411 1331-1333
+KIV 750 412 1334-1336
 FL 14 3021
 FO 27 3022
 

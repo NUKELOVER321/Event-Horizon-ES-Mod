@@ -128,19 +128,24 @@ Changelog:
 - Moved blaster and beam laser to Merchants
 - Removed "hostile" attribute from Pirates
 
-0.5.2 ??? update
+0.6.1 "Vara K'chrai" update
 
 Changelog:
 - **Added Wanderers as a faction, alongside appropriate ships, weapons, and outfits**
-- Doubled energy storage of Wanderer reactors
+- Doubled range of Sidewinder, Meteor, and Javelin missiles
+- Doubled fire rate of some torpedoes
+- Added dual beam ammo images (made by Raul39) for some lasers
 - Increased blaster projectile speed by 13%
 - Renamed Nest again
 - Set Skein to Rare
+- Remade builds and cell layouts for some capital ships
+- Increased size of all tier 5 engines to 4x5
 - Quadrupled energy consumption and heat value for Crystal Capacitor
 - Reduced Crystal Capacitor energy storage by 20%
 - Reduced inaccuracy of various weapons
 - Removed multishot feature from all turrets
 - Added trail color to torpedoes and missiles
 - Reverted damage nerf to human missiles
+- Reduced grid size of Bactrian from 50 to 43 and remade builds accordingly
 - Implemented additional anti-cheat systems**
-** You are very much recommended to make a backup of your save before updating.
+** You are very much recommended to MAKE A BACKUP of your save before updating.

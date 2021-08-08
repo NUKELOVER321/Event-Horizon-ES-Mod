@@ -7,7 +7,22 @@ Visit their Github page at https://github.com/endless-sky/endless-sky/ for a lis
 Credits to Pavel Zinchenko for creating Event Horizon and providing the database files necessary for the production for this mod.
 Credits to various members of the Event Horizon discord server for various assistance with developing this mod through advice, suggestions, and criticism.
 
-Certain images used in this mod have been released as Free to Use by their creators. A list of such images and their authors are included below.
+Certain images used in this mod have been released as Free to Use by their creators.
+A list of such images and their authors are included below.
 
-Crdball#1855 | 4x4 Shield Generator, 4x4 Reactive Armor
-Mirage Spirit#3400 | 4x4 Titanium, Infesticore
+Crdball | 4x4 Shield Generator, 4x4 Reactive Armor
+Mirage Spirit | 4x4 Titanium, Infesticore
+Raul39 | (dual) Electron, Heavy, Sunbeam, Laser
+
+=
+
+Certain images used in this mod have been sourced from Endless Sky plugins.
+These images are licensed under CC-BY-SA 4.0 from the source and are similarly licensed here.
+A list of these images and their source plugins and/or authors are listed below.
+
+plugin Quarg ships | Quarg Military Retaliation
+Type 5 Radiant Engines | Amalgamation
+KIV 750 | Korath Exiles PA
+Vector Engines, Type 0 Radiant Engines, Disruptor Gun, Model 1024 | Adde Korath Exiles Expansion (Darcy Manoel)
+(double) Detainer Turret, Double Slicer Turret, FET 243, Wanderer Heavy AM, Ionic Blaster/Turret | Becca Tomaso
+Pillager | Korath Automation Upgrade (Kriegstofu)
