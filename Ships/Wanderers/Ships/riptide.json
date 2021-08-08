@@ -7,7 +7,7 @@
   "IconImage": "riptide icon.png",
   "IconScale": 1.0,
   "ModelImage": "riptide.png",
-  "ModelScale": 4.0,
+  "ModelScale": 6.0,
   "EnginePosition": {
     "x": -0.8
   },

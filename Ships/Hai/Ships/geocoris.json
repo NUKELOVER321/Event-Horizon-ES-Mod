@@ -8,7 +8,7 @@
   "IconImage": "geocoris icon.png",
   "IconScale": 1.0,
   "ModelImage": "geocoris.png",
-  "ModelScale": 5.25,
+  "ModelScale": 8.25,
   "EnginePosition": {
     "x": -0.8
   },

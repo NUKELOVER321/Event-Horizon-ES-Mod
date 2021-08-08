@@ -8,7 +8,7 @@
   "IconImage": "bulk freighter icon.png",
   "IconScale": 1.0,
   "ModelImage": "bulk freighter.png",
-  "ModelScale": 7.0,
+  "ModelScale": 8.0,
   "EnginePosition": {
     "x": -0.8
   },
