@@ -149,3 +149,9 @@ Changelog:
 - Reduced grid size of Bactrian from 50 to 43 and remade builds accordingly
 - Implemented additional anti-cheat systems**
 ** You are very much recommended to MAKE A BACKUP of your save before updating.
+
+0.7.1 "Mesuket" update
+
+Changelog:
+- **Added the Kor Mereti and the Kor Sestor as factions, alongside appropriate ships, weapons, and outfits**
+- Partially reverted nerfs to Banisher and Grab-Strike

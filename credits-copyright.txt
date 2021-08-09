@@ -4,8 +4,11 @@ Most images used in this mod, with the exception of images designated "Free To U
 These images are licensed under CC-BY-SA 4.0 and have not been modified from their original state.
 Visit their Github page at https://github.com/endless-sky/endless-sky/ for a list of contributors.
 
-Credits to Pavel Zinchenko for creating Event Horizon and providing the database files necessary for the production for this mod.
-Credits to various members of the Event Horizon discord server for various assistance with developing this mod through advice, suggestions, and criticism.
+The development of this mod owes its success to external aid. A list of these helpers are included below.
+
+Raul39 | creating the various ship builds of the Kor Mereti
+Pavel | creating Event Horizon
+Various EH server members | play-testing
 
 Certain images used in this mod have been released as Free to Use by their creators.
 A list of such images and their authors are included below.
