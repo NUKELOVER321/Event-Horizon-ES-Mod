@@ -1,0 +1,50 @@
+{
+  "ItemType": 6,
+  "Id": 3022,
+  "ShipCategory": 6,
+  "Name": "FO 27",
+  "Faction": 213,
+  "IconImage": "fo 27 icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "fo 27.png",
+  "ModelScale": 0.8,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#FFA100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000010000000000001000000000001100000000000110000000000011440000000001144200000000132244000000013224400000011322200000001132220000000055550000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": -0.25
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

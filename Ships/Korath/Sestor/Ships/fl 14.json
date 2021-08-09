@@ -1,0 +1,34 @@
+{
+  "ItemType": 6,
+  "Id": 3021,
+  "ShipCategory": 6,
+  "Name": "FL 14",
+  "Faction": 213,
+  "IconImage": "fl 14 icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "fl 14.png",
+  "ModelScale": 0.8,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#FFA100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000444100000000044410000000004441000000000022100000000002211000000000221100000000222110000000022211000000002221100000000222110000000005555000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

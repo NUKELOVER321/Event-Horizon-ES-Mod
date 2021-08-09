@@ -1,0 +1,45 @@
+{
+  "ItemType": 6,
+  "Id": 413,
+  "ShipCategory": 1,
+  "Name": "Model 8",
+  "Faction": 212,
+  "IconImage": "model 8 icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "model 8.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.96,
+    "y": 0.24
+  },
+  "EngineColor": "#7DEF9F0F",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.96,
+        "y": -0.21
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "000000010000000000000111000000000000111100000000001114440000000044114440000000044224440000000111222110000001112222211100001222222222100000122222221100001112222211000000112222211000001111222110000000055505550000000055505550000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.7,
+        "y": -0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CTML"
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": 0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CTML"
+    }
+  ]
+}
