@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2223,
+  "Name": "Repeater",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 2223,
+  "Faction": 213,
+  "Level": 425,
+  "Icon": "repeater.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2223,
+  "AmmunitionId": 1223,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

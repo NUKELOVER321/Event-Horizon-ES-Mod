@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1226,
+  "Name": "Piercer Launcher",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1226,
+  "Faction": 213,
+  "Level": 375,
+  "Icon": "piercer launcher.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1226,
+  "AmmunitionId": 1226,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "ItemType": 26,
+  "Id": 1225,
+  "Elements": [
+    {
+      "Type": 2,
+      "Image": "detainer impact ring.png",
+      "Size": 1.0,
+      "Lifetime": 0.2
+    }
+  ]
+}

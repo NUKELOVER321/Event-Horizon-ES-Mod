@@ -1,0 +1,24 @@
+{
+  "ItemType": 25,
+  "Id": 1224,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 16.0,
+    "Range": 64.0,
+    "BulletPrefab": 1224,
+    "EnergyCost": 4.8
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1223
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 8.2
+    }
+  ]
+}

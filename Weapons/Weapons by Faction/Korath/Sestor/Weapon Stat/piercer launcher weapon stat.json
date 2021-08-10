@@ -1,0 +1,10 @@
+{
+  "ItemType": 3,
+  "Id": 1226,
+  "FireRate": 0.16,
+  "Spread": 1.0,
+  "ActivationType": 1,
+  "ShotSound": "ionball",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "piercer.png"
+}

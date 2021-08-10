@@ -1,0 +1,25 @@
+{
+  "ItemType": 26,
+  "Id": 1226,
+  "Elements": [
+    {
+      "Type": 2,
+      "Image": "piercer impact ring.png",
+      "Size": 2.0,
+      "Lifetime": 3.0
+    },
+    {
+      "Type": 1,
+      "Image": "star",
+      "ColorMode": 2,
+      "Color": "#5F959F",
+      "Size": 2.0,
+      "Lifetime": 3.0
+    },
+    {
+      "Type": 5,
+      "Size": 2.0,
+      "Lifetime": 3.0
+    }
+  ]
+}
