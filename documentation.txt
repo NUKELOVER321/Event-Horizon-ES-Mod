@@ -479,6 +479,10 @@ KIV 349 411 1331-1333
 KIV 750 412 1334-1336
 FL 14 3021
 FO 27 3022
+Repeater Turret 1223 (Gun 2223)
+Heavy Repeater Turret 1224 (Gun 2224)
+Detainer Turret 1225 (Gun 2225)
+Piercer Launcher 1226
 
 Kor Mereti
 Model 8 413 1337-1339
@@ -489,3 +493,6 @@ Model 128 417 1349-1351
 Model 256 418 1352-1354
 Model 512 419 1355-1357
 Model 1024 420 1358-1360
+Minelayer 1227
+Slicer Turret 1228 (Gun 2228)
+Disruptor Turret 1229 (Gun 2229)
