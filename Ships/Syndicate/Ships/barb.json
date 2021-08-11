@@ -9,26 +9,21 @@
   "ModelImage": "barb.png",
   "ModelScale": 0.8,
   "EnginePosition": {
-    "x": -0.8
+    "x": -0.9,
+    "y": 0.3
   },
   "EngineColor": "#009BFF",
   "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
-        "x": 0.3,
-        "y": -0.8
-      }
-    },
-    {
-      "Position": {
-        "x": -0.3,
-        "y": -0.8
-      }
-    },
-    {}
+        "x": -0.9,
+        "y": -0.3
+      },
+      "Size": 0.1
+    }
   ],
-  "Layout": "4410044100122101221005050",
+  "Layout": "4410044100122101221015050",
   "Barrels": [
     {
       "Position": {

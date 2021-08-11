@@ -12,12 +12,12 @@
     "x": -0.8
   },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
-        "y": -0.5
-      }
+        "x": -0.5
+      },
+      "Size": 0.1
     }
   ],
   "Regeneration": true,

@@ -10,21 +10,21 @@
   "ModelImage": "bulk freighter.png",
   "ModelScale": 8.0,
   "EnginePosition": {
-    "x": -0.8
+    "x": -0.9
   },
   "EngineColor": "#00BFFF",
   "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
-        "x": 0.1,
-        "y": -0.9
+        "x": -0.9,
+        "y": -0.1
       }
     },
     {
       "Position": {
-        "x": -0.1,
-        "y": -0.9
+        "x": -0.9,
+        "y": 0.1
       }
     }
   ],
