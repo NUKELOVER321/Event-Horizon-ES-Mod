@@ -4,7 +4,7 @@
   "FireRate": 1.0,
   "Spread": 1.0,
   "ActivationType": 1,
-  "ShotSound": "inhibitor",
+  "ShotSound": "detainer",
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "controls_shot"
 }

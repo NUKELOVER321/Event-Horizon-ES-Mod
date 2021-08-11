@@ -1,25 +1,17 @@
 {
   "ItemType": 26,
-  "Id": 1226,
+  "Id": 1227,
   "Elements": [
     {
-      "Type": 2,
-      "Image": "piercer impact ring.png",
+      "Image": "plasma packet explosion.png",
       "Size": 2.0,
       "Lifetime": 3.0
-    },
-    {
-      "Type": 2,
-      "Image": "piercer explosion.png",
-      "Color": "#00000000",
-      "Size": 1.0,
-      "Lifetime": 2.0
     },
     {
       "Type": 1,
       "Image": "star",
       "ColorMode": 2,
-      "Color": "#5F959F",
+      "Color": "#FFB900",
       "Size": 2.0,
       "Lifetime": 3.0
     },

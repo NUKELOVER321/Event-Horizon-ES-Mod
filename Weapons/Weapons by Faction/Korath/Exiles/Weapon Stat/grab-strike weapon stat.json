@@ -6,5 +6,5 @@
   "ActivationType": 1,
   "ShotSound": "grab-strike",
   "ShotEffectPrefab": "FlashAdditive",
-  "ControlButtonIcon": "controls_laser"
+  "ControlButtonIcon": "controls_shot"
 }

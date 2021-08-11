@@ -1,8 +1,10 @@
 {
   "ItemType": 3,
-  "Id": 1225,
-  "FireRate": 2.0,
-  "Spread": 1.0,
+  "Id": 1227,
+  "WeaponClass": 4,
+  "FireRate": 0.05,
+  "Spread": 5.0,
+  "Magazine": 20,
   "ActivationType": 1,
   "ShotSound": "detainer",
   "ShotEffectPrefab": "FlashAdditive",

@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1227,
+  "Name": "Plasma Packet Cannon",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 213,
+  "Level": 450,
+  "Icon": "plasma packet cannon.png",
+  "Layout": "0111011111111111111101110",
+  "CellType": "4",
+  "WeaponId": 1227,
+  "AmmunitionId": 1227,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

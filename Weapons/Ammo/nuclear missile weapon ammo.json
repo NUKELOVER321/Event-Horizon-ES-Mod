@@ -14,7 +14,7 @@
   },
   "Triggers": [
     {
-      "Condition": 3,
+      "Condition": 5,
       "EffectType": 2,
       "Ammunition": 5036,
       "Color": "#00000000",
@@ -22,7 +22,7 @@
       "Size": 30.0
     },
     {
-      "Condition": 5,
+      "Condition": 2,
       "EffectType": 2,
       "Ammunition": 5036,
       "Color": "#00000000",

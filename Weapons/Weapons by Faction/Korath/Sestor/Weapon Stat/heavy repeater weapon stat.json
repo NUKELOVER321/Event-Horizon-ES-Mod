@@ -1,10 +1,12 @@
 {
   "ItemType": 3,
   "Id": 2224,
-  "FireRate": 6.0,
+  "WeaponClass": 3,
+  "FireRate": 1.25,
   "Spread": 1.0,
+  "Magazine": 4,
   "ActivationType": 1,
-  "ShotSound": "inhibitor",
+  "ShotSound": "repeater",
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "controls_shot"
 }
