@@ -155,3 +155,7 @@ Changelog:
 Changelog:
 - **Added the Kor Mereti and the Kor Sestor as factions, alongside appropriate ships, weapons, and outfits**
 - Partially reverted nerfs to Banisher and Grab-Strike
+- Changed weapon autoaim on the Auxiliary
+- Fixed broken engine flares for human ships
+- Buffed ship layouts and builds for Wanderer ships
+- Fixed bug with missiles not detonating
