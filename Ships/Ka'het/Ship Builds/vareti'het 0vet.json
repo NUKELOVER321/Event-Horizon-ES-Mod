@@ -5,7 +5,7 @@
   "Components": [
     {
       "ComponentId": 1185,
-      "Locked": true,
+      "Locked": false,
       "X": 14,
       "BarrelId": 1
     },
