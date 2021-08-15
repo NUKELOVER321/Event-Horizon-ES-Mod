@@ -35,21 +35,6 @@
       "KeyBinding": 2
     },
     {
-      "ComponentId": 1072,
-      "Locked": true,
-      "X": 13,
-      "Y": 2,
-      "KeyBinding": 2
-    },
-    {
-      "ComponentId": 1072,
-      "Locked": true,
-      "X": 19,
-      "Y": 2,
-      "BarrelId": 1,
-      "KeyBinding": 2
-    },
-    {
       "ComponentId": 1008,
       "Modification": 9,
       "Quality": 5,
@@ -426,6 +411,21 @@
       "X": 19,
       "Y": 18,
       "BarrelId": -1,
+      "KeyBinding": 4
+    },
+    {
+      "ComponentId": 1074,
+      "Locked": true,
+      "X": 19,
+      "Y": 2,
+      "BarrelId": 1,
+      "KeyBinding": 4
+    },
+    {
+      "ComponentId": 1074,
+      "Locked": true,
+      "X": 13,
+      "Y": 2,
       "KeyBinding": 4
     }
   ]

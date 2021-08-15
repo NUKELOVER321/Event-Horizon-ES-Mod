@@ -2,8 +2,8 @@
   "ItemType": 8,
   "Id": 50000,
   "ShipId": 5000,
-  "NotAvailableInGame": true,
   "DifficultyClass": 1,
+  "BuildFaction": 215,
   "Components": [
     {
       "ComponentId": 5001,

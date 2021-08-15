@@ -49,16 +49,6 @@
     },
     {
       "ComponentId": 3022,
-      "Modification": 17,
-      "Quality": 5,
-      "Locked": true,
-      "X": 17,
-      "Y": 16,
-      "BarrelId": -1,
-      "KeyBinding": 2
-    },
-    {
-      "ComponentId": 3022,
       "Locked": true,
       "X": 11,
       "Y": 13,
@@ -256,6 +246,14 @@
       "Y": 15,
       "BarrelId": -1,
       "KeyBinding": 4
+    },
+    {
+      "ComponentId": 3022,
+      "Locked": true,
+      "X": 17,
+      "Y": 16,
+      "BarrelId": -1,
+      "KeyBinding": 2
     }
   ]
 }

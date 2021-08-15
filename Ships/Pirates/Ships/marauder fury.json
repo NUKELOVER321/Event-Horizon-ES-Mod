@@ -4,6 +4,7 @@
   "ShipCategory": 1,
   "Name": "Marauder Fury",
   "Faction": 202,
+  "SizeClass": 1,
   "IconImage": "marauder fury icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder fury.png",
