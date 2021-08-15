@@ -499,7 +499,8 @@ Slicer Turret 1229 (Gun 2229)
 Disruptor Turret 1230 (Gun 2230)
 Super Minelayer 1233
 
-AI Only items
+Exclusive items
 Huge Systems Core 1231
 Quad Plasma Core 1232
 Reality Vector Engines 1196
+Nullifier 1185

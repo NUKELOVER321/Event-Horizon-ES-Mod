@@ -4,7 +4,7 @@
   "WeaponClass": 4,
   "FireRate": 0.05,
   "Spread": 4.0,
-  "Magazine": 20,
+  "Magazine": 30,
   "ActivationType": 1,
   "ShotSound": "detainer",
   "ShotEffectPrefab": "FlashAdditive",

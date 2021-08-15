@@ -167,12 +167,13 @@ Changelog:
 
 Changelog:
 - **Added the Kor Mereti as a faction, alongside appropriate ships, weapons, and outfits**
+- Buffed some Kor Sestor ships
 - Removed golden FO 27 from TF109
 - Halved mass of grab-strike projectiles
 - Increased push and pull of grab-strike and some beam weapons by 50%
 - Reduced Bactrian cost by 25
 - Set Marauder Fury to Destroyer
-- Increased damage for Plasma Packet Cannon
-- Made exclusive modules on the KIV 750 unlockable
+- Increased damage and projectile count for Plasma Packet Cannon
+- Made exclusive modules on the KIV 750, Model 1024, and Vareti'het removable
 - Fixed incorrect veteran level for (modded) Scout 2vet
 - Doubled range of all antimissile devices
