@@ -5,5 +5,5 @@
   "Color": "#C0455F",
   "HomeStarDistance": 400,
   "WanderingShipsDistance": 400,
-  "Hidden": true
+  "Hostile": true
 }

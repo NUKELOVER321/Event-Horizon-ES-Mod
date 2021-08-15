@@ -150,12 +150,29 @@ Changelog:
 - Implemented additional anti-cheat systems**
 ** You are very much recommended to MAKE A BACKUP of your save before updating.
 
-0.7.1 "Mesuket" update
+0.7.1 "Asikafarnut" update
 
 Changelog:
-- **Added the Kor Mereti and the Kor Sestor as factions, alongside appropriate ships, weapons, and outfits**
+- **Added the Kor Sestor as a faction, alongside appropriate ships, weapons, and outfits**
 - Partially reverted nerfs to Banisher and Grab-Strike
-- Changed weapon autoaim on the Auxiliary
+- Changed weapon TUs on the Auxiliary
 - Fixed broken engine flares for human ships
 - Buffed ship layouts and builds for Wanderer ships
 - Fixed bug with missiles not detonating
+- Remade a few Republic and Syndicate ship builds
+- Added "-Projectile Weight" modifier to various torpedoes
+- Doubled fire rate of various missiles and torpedoes
+
+0.8.1 ??? update
+
+Changelog:
+- **Added the Kor Mereti as a faction, alongside appropriate ships, weapons, and outfits**
+- Removed golden FO 27 from TF109
+- Halved mass of grab-strike projectiles
+- Increased push and pull of grab-strike and some beam weapons by 50%
+- Reduced Bactrian cost by 25
+- Set Marauder Fury to Destroyer
+- Increased damage for Plasma Packet Cannon
+- Made exclusive modules on the KIV 750 unlockable
+- Fixed incorrect veteran level for (modded) Scout 2vet
+- Doubled range of all antimissile devices

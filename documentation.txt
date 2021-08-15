@@ -494,6 +494,12 @@ Model 128 417 1349-1351
 Model 256 418 1352-1354
 Model 512 419 1355-1357
 Model 1024 420 1358-1360
-Minelayer 1228
+Minelayer 1228 (submunition 3228)
 Slicer Turret 1229 (Gun 2229)
 Disruptor Turret 1230 (Gun 2230)
+Super Minelayer 1233
+
+AI Only items
+Huge Systems Core 1231
+Quad Plasma Core 1232
+Reality Vector Engines 1196
