@@ -1,0 +1,18 @@
+{
+  "ItemType": 1,
+  "Id": 1231,
+  "Name": "Huge Systems Core",
+  "DisplayCategory": 2,
+  "Availability": 3,
+  "ComponentStatsId": 1231,
+  "Faction": 209,
+  "Level": 1000,
+  "Icon": "huge systems core.png",
+  "Layout": "0011100011111001111100111110011111001111100011100",
+  "CellType": "2",
+  "PossibleModifications": [
+    2,
+    3,
+    9
+  ]
+}

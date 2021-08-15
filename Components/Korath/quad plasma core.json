@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1232,
+  "Name": "Quad Plasma Core",
+  "DisplayCategory": 3,
+  "Availability": 3,
+  "ComponentStatsId": 1232,
+  "Faction": 209,
+  "Level": 1000,
+  "Icon": "quad plasma core.png",
+  "Layout": "0000000111111111111111111111111111111111110000000",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}
