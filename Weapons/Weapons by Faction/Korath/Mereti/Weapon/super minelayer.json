@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 1233,
+  "Name": "Cluster Minelayer",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1228,
+  "Faction": 212,
+  "Level": 1000,
+  "Icon": "super minelayer cluster.png",
+  "Layout": "0111011111111111111101110",
+  "CellType": "4",
+  "WeaponId": 1233,
+  "AmmunitionId": 1233,
+  "WeaponSlotType": "T",
+  "PossibleModifications": [
+    6,
+    5,
+    16,
+    7,
+    14
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "ItemType": 25,
+  "Id": 1233,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 10.0,
+    "Range": 20.0,
+    "Weight": 0.1,
+    "HitPoints": 50,
+    "BulletPrefab": 1233,
+    "EnergyCost": 50.0
+  },
+  "Triggers": [
+    {
+      "Condition": 4,
+      "EffectType": 1,
+      "VisualEffect": 3,
+      "AudioClip": "mine deploy",
+      "ColorMode": 2,
+      "Size": 2.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "mine deploy",
+      "Ammunition": 3228,
+      "Quantity": 10
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "mine deploy",
+      "Ammunition": 3228,
+      "Color": "#00000000",
+      "Quantity": 10
+    }
+  ],
+  "Effects": [
+    {}
+  ]
+}

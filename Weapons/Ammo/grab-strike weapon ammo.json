@@ -6,7 +6,7 @@
     "Size": 1.0,
     "Velocity": 10.0,
     "Range": 100.0,
-    "Weight": 1.0,
+    "Weight": 0.5,
     "BulletPrefab": 1167,
     "EnergyCost": 6.0,
     "CanBeDisarmed": true
@@ -26,7 +26,7 @@
     {
       "Type": 2,
       "DamageType": 1,
-      "Power": 0.032
+      "Power": 0.01
     }
   ]
 }

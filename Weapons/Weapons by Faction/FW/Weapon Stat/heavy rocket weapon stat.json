@@ -1,7 +1,7 @@
 {
   "ItemType": 3,
   "Id": 1050,
-  "FireRate": 0.06,
+  "FireRate": 0.12,
   "Spread": 1.0,
   "ActivationType": 1,
   "ShotSound": "rocket",

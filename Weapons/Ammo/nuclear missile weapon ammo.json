@@ -4,15 +4,23 @@
   "Body": {
     "Type": 1,
     "Size": 1.0,
-    "Velocity": 6.0,
+    "Velocity": 12.0,
     "Range": 192.0,
-    "Weight": 0.5,
+    "Weight": 0.1,
     "HitPoints": 200,
     "BulletPrefab": 1036,
     "EnergyCost": 100.0,
     "CanBeDisarmed": true
   },
   "Triggers": [
+    {
+      "Condition": 4,
+      "EffectType": 1,
+      "VisualEffect": 10000,
+      "Color": "#00000000",
+      "Size": 5.0,
+      "Lifetime": 1.0
+    },
     {
       "Condition": 5,
       "EffectType": 2,

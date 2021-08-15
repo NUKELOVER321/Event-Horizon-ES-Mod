@@ -1,0 +1,10 @@
+{
+  "ItemType": 27,
+  "Id": 1228,
+  "Shape": 1,
+  "Image": "minelayer cluster active.png",
+  "Size": 0.75,
+  "Margins": 0.7,
+  "SecondColor": "#FFD000",
+  "SecondColorMode": 1
+}

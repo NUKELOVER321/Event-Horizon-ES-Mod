@@ -16,6 +16,14 @@
       "AudioClip": "explosion nuke",
       "Size": 1.0,
       "Lifetime": 5.0
+    },
+    {
+      "Condition": 4,
+      "EffectType": 1,
+      "VisualEffect": 10000,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0
     }
   ],
   "ImpactType": 1,

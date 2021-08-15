@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1229,
+  "Name": "Slicer Turret",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 212,
+  "Level": 450,
+  "Icon": "double slicer turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 2229,
+  "AmmunitionId": 1229,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

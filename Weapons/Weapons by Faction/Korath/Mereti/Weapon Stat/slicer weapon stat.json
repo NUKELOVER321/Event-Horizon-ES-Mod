@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 2229,
+  "WeaponClass": 2,
+  "ActivationType": 1,
+  "ShotSound": "*slicer~",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "controls_laser"
+}

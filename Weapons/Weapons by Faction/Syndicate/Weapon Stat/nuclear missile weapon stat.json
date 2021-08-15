@@ -1,7 +1,7 @@
 {
   "ItemType": 3,
   "Id": 1036,
-  "FireRate": 0.04,
+  "FireRate": 0.08,
   "Spread": 1.0,
   "ActivationType": 1,
   "ShotSound": "nuke",

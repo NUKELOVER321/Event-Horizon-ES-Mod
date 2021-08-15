@@ -6,7 +6,7 @@
   "Availability": 1,
   "ComponentStatsId": 1226,
   "Faction": 213,
-  "Level": 375,
+  "Level": 425,
   "Icon": "piercer launcher.png",
   "Layout": "111111111",
   "CellType": "4",
@@ -16,6 +16,7 @@
   "PossibleModifications": [
     16,
     5,
-    7
+    7,
+    21
   ]
 }

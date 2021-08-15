@@ -1,0 +1,34 @@
+{
+  "ItemType": 25,
+  "Id": 4228,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 100.0,
+    "Weight": 0.05,
+    "HitPoints": 22,
+    "BulletPrefab": 3228,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 4,
+      "EffectType": 1,
+      "VisualEffect": 10000,
+      "ColorMode": 2
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "mine deploy",
+      "Ammunition": 5228,
+      "ColorMode": 2,
+      "Quantity": 1,
+      "Size": 1.0,
+      "RandomFactor": 1.0
+    }
+  ],
+  "Effects": [
+    {}
+  ]
+}
