@@ -163,7 +163,7 @@ Changelog:
 - Added "-Projectile Weight" modifier to various torpedoes
 - Doubled fire rate of various missiles and torpedoes
 
-0.8.1 ??? update
+0.8.1 "Sepetrosk" update
 
 Changelog:
 - **Added the Kor Mereti as a faction, alongside appropriate ships, weapons, and outfits**
