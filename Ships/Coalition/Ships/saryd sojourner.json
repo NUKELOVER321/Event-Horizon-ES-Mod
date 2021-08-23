@@ -1,9 +1,10 @@
 {
   "ItemType": 6,
   "Id": 382,
-  "ShipCategory": 3,
+  "ShipCategory": 2,
   "Name": "Saryd Sojourner",
   "Faction": 208,
+  "SizeClass": 4,
   "IconImage": "saryd sojourner icon.png",
   "IconScale": 1.0,
   "ModelImage": "saryd sojourner.png",

@@ -1,6 +1,10 @@
 {
   "ItemType": 27,
   "Id": 1055,
-  "Image": "flame.png",
-  "Size": 1.0
+  "Image": "cloud",
+  "Size": 1.0,
+  "MainColor": "#FFA800",
+  "MainColorMode": 1,
+  "SecondColor": "#FFA800",
+  "SecondColorMode": 1
 }
