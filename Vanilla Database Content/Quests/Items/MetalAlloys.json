@@ -1,8 +1,7 @@
 {
   "ItemType": 20,
   "Id": 13,
-  "Name": "$Commodity_Alloys",
-  "Icon": "tubes",
-  "Color": "#9AC2CD",
-  "Price": 25
+  "Name": "Titanium",
+  "Icon": "titanium.png",
+  "Price": 250
 }

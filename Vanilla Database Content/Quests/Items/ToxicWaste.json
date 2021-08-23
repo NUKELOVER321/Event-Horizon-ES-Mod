@@ -1,8 +1,7 @@
 {
   "ItemType": 20,
   "Id": 5,
-  "Name": "$Commodity_ToxicWaste",
-  "Icon": "scull",
-  "Color": "#6FED6C",
-  "Price": 4
+  "Name": "Lead",
+  "Icon": "lead.png",
+  "Price": 9
 }
