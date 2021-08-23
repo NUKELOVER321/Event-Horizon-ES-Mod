@@ -24,8 +24,8 @@
           "Requirement": {
             "Type": 26,
             "Loot": {
-              "Type": 31,
-              "ItemId": 1000
+              "Type": 35,
+              "ItemId": 5001
             }
           }
         }
@@ -41,7 +41,7 @@
           "Requirement": {
             "Type": 26,
             "Loot": {
-              "Type": 31,
+              "Type": 35,
               "ItemId": 5000
             }
           }

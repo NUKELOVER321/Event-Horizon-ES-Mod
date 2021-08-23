@@ -4,6 +4,5 @@
   "Name": "Trisolar Coalition",
   "Color": "#FF9ABC",
   "HomeStarDistance": 450,
-  "WanderingShipsDistance": 450,
-  "Hidden": true
+  "WanderingShipsDistance": 450
 }

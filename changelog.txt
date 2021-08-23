@@ -177,3 +177,23 @@ Changelog:
 - Made exclusive modules on the KIV 750, Model 1024, and Vareti'het removable
 - Fixed incorrect veteran level for (modded) Scout 2vet
 - Doubled range of all antimissile devices
+
+0.9.1 "Ring of Power" update
+
+Changelog:
+- **Added the Coalition and Heliarchs as a faction, alongside appropriate ships, weapons, and outfits**
+- Reduced tech cost of Falcon and Leviathan
+- Reorganized tech placement of Merchant batteries and fuelcells
+- Decreased EC and heat of Crystal Capacitor by 50% and 25%
+- Modified anti-apk quest to check for a pair of AI only items on the Archon
+
+0.9.2 "Ring of Friendship" update
+
+Changelog:
+- Fixed issue with missing Coalition and Heliarch ships
+- Doubled velocity of Bombardment Cannon weapons
+- Fixed issue with locked modules on 750 and 1024
+- Fixed swapped tech for Orca plasma engines
+- Reduced cost of FW reactors
+- Renamed and resprited various commodities
+- Remade cell layout for Vanguard

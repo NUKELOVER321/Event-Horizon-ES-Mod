@@ -3,6 +3,6 @@
   "Id": 2109,
   "Type": 1,
   "EnergyRechargeRate": -0.25,
-  "Weight": 40.0,
+  "Weight": 10.0,
   "WeaponFireRateModifier": 0.15
 }

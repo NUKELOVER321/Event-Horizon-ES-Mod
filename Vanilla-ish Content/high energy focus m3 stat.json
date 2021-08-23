@@ -3,7 +3,7 @@
   "Id": 2108,
   "Type": 1,
   "EnergyRechargeRate": -0.25,
-  "Weight": 40.0,
+  "Weight": 10.0,
   "WeaponDamageModifier": 0.15,
   "WeaponEnergyCostModifier": 0.15
 }
