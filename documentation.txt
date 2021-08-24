@@ -70,6 +70,9 @@ Ion Engines serve as a baseline.
 For every engine other than Ionics, divide its thrust/steering power by its size.
 Then divide this value by the corresponding value on the corresponding Ionic engine.
 This new value determines the multiplier for that specific engine.
+
+For referencing values directly from the data files:
+Multiply turn by 60 and thrust by 3600.
 == Power Packs ==
 Divide energy storage by size, then divide by a power of 10.
 == Shields ==
@@ -498,6 +501,24 @@ Minelayer 1228 (submunition 3228)
 Slicer Turret 1229 (Gun 2229)
 Disruptor Turret 1230 (Gun 2230)
 Super Minelayer 1233
+
+Quarg
+Skylark 421 1361-1363
+Wardragon 422 1364-1366
+Empyrealdragon 423 1367-1369
+Elderdragon 424 1370-1372
+Battledrake 3023
+Nanotech Battery 1234
+Antimatter Core 1235
+Quantum Shield Generator 1236
+Small Graviton Thruster 1237
+Small Graviton Steering 1238
+Medium Graviton Thruster 1239
+Medium Graviton Steering 1240
+Large Graviton Thruster 1241
+Large Graviton Steering 1242
+Skylance 1243
+Quarg Antimissile 1244
 
 Exclusive items
 Huge Systems Core 1231
