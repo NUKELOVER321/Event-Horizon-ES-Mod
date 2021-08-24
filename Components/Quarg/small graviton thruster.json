@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1237,
+  "Name": "Small Graviton Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1237,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "small graviton thruster.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

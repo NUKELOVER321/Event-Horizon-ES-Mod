@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1238,
+  "Name": "Small Graviton Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1238,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "small graviton steering.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1240,
+  "Name": "Medium Graviton Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1240,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "medium graviton steering.png",
+  "Layout": "1111111111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

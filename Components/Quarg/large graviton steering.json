@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1242,
+  "Name": "Large Graviton Steering",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1242,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "large graviton steering.png",
+  "Layout": "0000011111111111111100000",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

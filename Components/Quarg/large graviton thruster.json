@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1241,
+  "Name": "Large Graviton Thruster",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1241,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "large graviton thruster.png",
+  "Layout": "0000011111111111111100000",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}
