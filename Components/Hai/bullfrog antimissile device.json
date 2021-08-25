@@ -10,7 +10,7 @@
   "Lifetime": 0.1,
   "ActivationType": 2,
   "Color": "#FF8080",
-  "Sound": "shot_11",
+  "Sound": "anti-missile",
   "EffectPrefab": "Lightning",
   "ControlButtonIcon": "controls_shield"
 }

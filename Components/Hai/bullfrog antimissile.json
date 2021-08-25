@@ -10,6 +10,7 @@
   "Icon": "bullfrog anti-missile.png",
   "Layout": "1111",
   "CellType": "4",
+  "DeviceId": 1096,
   "Restrictions": {
     "UniqueComponentTag": "pointdefense"
   },

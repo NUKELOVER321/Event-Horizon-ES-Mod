@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1243,
+  "Name": "Skylance",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "skylance.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1243,
+  "AmmunitionId": 1243,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

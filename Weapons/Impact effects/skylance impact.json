@@ -1,0 +1,11 @@
+{
+  "ItemType": 26,
+  "Id": 1243,
+  "Elements": [
+    {
+      "Image": "skylance impact.png",
+      "Size": 0.5,
+      "Lifetime": 0.2
+    }
+  ]
+}

@@ -1,16 +1,16 @@
 {
   "ItemType": 1,
-  "Id": 1097,
-  "Name": "Chameleon Anti-Missile",
+  "Id": 1244,
+  "Name": "Quarg Anti-Missile",
   "DisplayCategory": 6,
   "Availability": 3,
   "ComponentStatsId": 3,
-  "Faction": 206,
-  "Level": 300,
-  "Icon": "chameleon anti-missile.png",
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "quarg antimissile.png",
   "Layout": "111111111",
   "CellType": "4",
-  "DeviceId": 1097,
+  "DeviceId": 1244,
   "Restrictions": {
     "UniqueComponentTag": "pointdefense"
   },
