@@ -4,6 +4,5 @@
   "Name": "Quarg",
   "Color": "#E1C500",
   "HomeStarDistance": 500,
-  "WanderingShipsDistance": 500,
-  "Hidden": true
+  "WanderingShipsDistance": 500
 }
