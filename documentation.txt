@@ -295,7 +295,7 @@ Railgun 1101
 "Bondir Atomic Steering" 1110
 "Bufaer Atomic Thruster" 1111
 "Bufaer Atomic Steering" 1112
-Sea Scorpion 425
+Sea Scorpion 425 1373-1375
 
 Remnant
 Starling 363 1187-1189
@@ -536,5 +536,5 @@ Reality Vector Engines 1196
 Nullifier 1185
 
 Next available slot:
-Ships: 426
+Ships: 426 1376
 Outfits: 1245
