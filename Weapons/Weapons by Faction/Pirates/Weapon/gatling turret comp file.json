@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2029,
+  "Name": "Gatling Turret",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 202,
+  "Level": 75,
+  "Icon": "gatling turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 2029,
+  "AmmunitionId": 1029,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}
