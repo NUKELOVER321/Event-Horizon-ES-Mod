@@ -217,9 +217,10 @@ Changelog:
 Changelog:
 - Increased model size of 349 and 512
 - Updated model for Barb
-- Reduced fire rate of Gatling Gun
-- Added Gatling Turret
+- Reduced fire rate and increased energy cost per shot of Gatling Gun
+- Added Gatling Turret to Pirates
 - Fixed non-functional Gatling Gun tech
+- Added Sea Scorpion and Ionic weapons to Hai
 
 Remember to:
 - buff torpedoes and rockets
