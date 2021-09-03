@@ -155,6 +155,7 @@ Leviathan 353 1157-1159
 Blaster 2022
 "Laser Beam" 2024
 "Heavy Laser" 2025
+"Gatling Turret" 2029
 
 Syndicate
 Headhunter 325 1073-1075
@@ -294,6 +295,7 @@ Railgun 1101
 "Bondir Atomic Steering" 1110
 "Bufaer Atomic Thruster" 1111
 "Bufaer Atomic Steering" 1112
+Sea Scorpion 425
 
 Remnant
 Starling 363 1187-1189
@@ -520,8 +522,19 @@ Large Graviton Steering 1242
 Skylance 1243
 Quarg Antimissile 1244
 
+Starbases
+Merchant 2201
+Pirates 2202
+Syndicate 2203
+FW 2204
+Republic 2205
+
 Exclusive items
 Huge Systems Core 1231
 Quad Plasma Core 1232
 Reality Vector Engines 1196
 Nullifier 1185
+
+Next available slot:
+Ships: 426
+Outfits: 1245

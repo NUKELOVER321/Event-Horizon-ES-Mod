@@ -197,3 +197,30 @@ Changelog:
 - Reduced cost of FW reactors
 - Renamed and resprited various commodities
 - Remade cell layout for Vanguard
+
+0.9.3 "Ring of Wisdom" update
+
+Changelog:
+- Made all modules 25 weight per slot
+- Fixed incorrect modifiers for Syndicate regenerators
+- Fixed missing tech for Gorge and Valley batteries
+- Fixed missing tech for human AM turrets
+- Reverted some Gatling Gun nerfs
+
+0.10.1 "Queri" update
+
+Changelog:
+- **Added the Quarg as a faction, alongside appropriate outfits and ships**
+
+0.10.2 ??? update
+
+Changelog:
+- Increased model size of 349 and 512
+- Updated model for Barb
+- Reduced fire rate of Gatling Gun
+- Added Gatling Turret
+- Fixed non-functional Gatling Gun tech
+
+Remember to:
+- buff torpedoes and rockets
+-
