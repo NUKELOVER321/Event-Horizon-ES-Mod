@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2245,
+  "Name": "Ionic Blaster",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 206,
+  "Level": 250,
+  "Icon": "ionic blaster.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2245,
+  "AmmunitionId": 1245,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1245,
+  "Name": "Ionic Turret",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 206,
+  "Level": 250,
+  "Icon": "ionic turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1245,
+  "AmmunitionId": 1245,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

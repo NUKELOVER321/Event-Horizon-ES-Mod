@@ -7,7 +7,7 @@
   "IconImage": "centipede icon.png",
   "IconScale": 1.0,
   "ModelImage": "centipede.png",
-  "ModelScale": 3.25,
+  "ModelScale": 5.25,
   "EnginePosition": {
     "x": -0.8
   },
