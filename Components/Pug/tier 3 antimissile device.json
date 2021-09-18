@@ -1,0 +1,16 @@
+{
+  "ItemType": 2,
+  "Id": 1248,
+  "DeviceClass": 6,
+  "EnergyConsumption": 0.08,
+  "Power": 100.0,
+  "Range": 57.0,
+  "Size": 3.0,
+  "Cooldown": 0.1,
+  "Lifetime": 0.1,
+  "ActivationType": 2,
+  "Color": "#FF8080",
+  "Sound": "point defense",
+  "EffectPrefab": "Lightning",
+  "ControlButtonIcon": "controls_shield"
+}

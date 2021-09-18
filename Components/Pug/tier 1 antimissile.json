@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1251,
+  "Name": "Pug Anti-Missile",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 216,
+  "Level": 500,
+  "Icon": "pug anti-missile.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "DeviceId": 1251,
+  "Restrictions": {
+    "UniqueComponentTag": "pointdefense"
+  },
+  "PossibleModifications": [
+    2,
+    6
+  ]
+}
