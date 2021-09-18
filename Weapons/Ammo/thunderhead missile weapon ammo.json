@@ -9,7 +9,7 @@
     "Weight": 0.25,
     "HitPoints": 12,
     "BulletPrefab": 1208,
-    "EnergyCost": 1.8,
+    "EnergyCost": 18.0,
     "CanBeDisarmed": true
   },
   "Triggers": [

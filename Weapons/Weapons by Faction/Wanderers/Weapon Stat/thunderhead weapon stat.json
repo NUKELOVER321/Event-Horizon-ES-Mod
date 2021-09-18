@@ -1,7 +1,7 @@
 {
   "ItemType": 3,
   "Id": 1208,
-  "FireRate": 0.32,
+  "FireRate": 0.4,
   "Spread": 10.0,
   "ActivationType": 1,
   "ShotSound": "thunderhead",

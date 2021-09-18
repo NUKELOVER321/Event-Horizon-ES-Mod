@@ -1,32 +1,27 @@
 {
   "ItemType": 25,
-  "Id": 1167,
+  "Id": 1250,
   "Body": {
     "Type": 1,
     "Size": 1.0,
-    "Velocity": 10.0,
-    "Range": 100.0,
+    "Velocity": 13.0,
+    "Range": 130.0,
     "Weight": 0.25,
-    "BulletPrefab": 1167,
-    "EnergyCost": 6.0,
+    "BulletPrefab": 1250,
+    "EnergyCost": 2.5,
     "CanBeDisarmed": true
   },
   "Triggers": [
     {
       "Condition": 3,
       "EffectType": 1,
-      "VisualEffect": 1167
+      "VisualEffect": 1250
     }
   ],
   "Effects": [
     {
       "DamageType": 1,
-      "Power": 14.0
-    },
-    {
-      "Type": 2,
-      "DamageType": 1,
-      "Power": 0.01
+      "Power": 3.7
     }
   ]
 }

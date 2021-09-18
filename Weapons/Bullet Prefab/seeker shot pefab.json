@@ -1,0 +1,10 @@
+{
+  "ItemType": 27,
+  "Id": 1250,
+  "Shape": 1,
+  "Image": "seeker shot.png",
+  "Size": 0.5,
+  "MainColor": "#000000",
+  "SecondColor": "#000000",
+  "SecondColorMode": 1
+}

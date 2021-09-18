@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1249,
+  "Name": "Zapper",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 216,
+  "Level": 500,
+  "Icon": "zapper.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1249,
+  "AmmunitionId": 1249,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

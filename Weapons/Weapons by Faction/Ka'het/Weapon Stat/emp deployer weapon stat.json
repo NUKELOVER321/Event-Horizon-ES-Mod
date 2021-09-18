@@ -1,7 +1,7 @@
 {
   "ItemType": 3,
   "Id": 1183,
-  "FireRate": 0.12,
+  "FireRate": 0.15,
   "Spread": 1.0,
   "ActivationType": 1,
   "ShotSound": "typhoon",

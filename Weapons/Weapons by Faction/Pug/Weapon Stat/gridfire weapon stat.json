@@ -1,10 +1,10 @@
 {
   "ItemType": 3,
-  "Id": 2245,
-  "FireRate": 2.0,
+  "Id": 1247,
+  "FireRate": 3.0,
   "Spread": 1.0,
   "ActivationType": 1,
-  "ShotSound": "ion",
+  "ShotSound": "gridfire~",
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "controls_shot"
 }
