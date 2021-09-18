@@ -27,7 +27,8 @@
               "Type": 30,
               "ItemId": 10000
             }
-          }
+          },
+          "Weight": 1.0
         }
       ]
     },
@@ -41,10 +42,13 @@
           "Requirement": {
             "Type": 26,
             "Loot": {
-              "Type": 30,
-              "ItemId": 50000
+              "Type": 35,
+              "ItemId": 10036,
+              "MinAmount": 1,
+              "MaxAmount": 10000
             }
-          }
+          },
+          "Weight": 1.0
         }
       ]
     },

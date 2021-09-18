@@ -25,9 +25,12 @@
             "Type": 26,
             "Loot": {
               "Type": 35,
-              "ItemId": 5001
+              "ItemId": 5001,
+              "MinAmount": 1,
+              "MaxAmount": 10000
             }
-          }
+          },
+          "Weight": 1.0
         }
       ]
     },
@@ -42,9 +45,12 @@
             "Type": 26,
             "Loot": {
               "Type": 35,
-              "ItemId": 5000
+              "ItemId": 5000,
+              "MinAmount": 1,
+              "MaxAmount": 10000
             }
-          }
+          },
+          "Weight": 1.0
         }
       ]
     },
