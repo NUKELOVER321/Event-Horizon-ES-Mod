@@ -208,7 +208,7 @@ Finch 3003
 "Tyrant Plasma Thruster" 1048
 "Tyrant Plasma Steering" 1049
 "Heavy Rocket" 1050
-"Plasma Turret" 1051
+"Plasma Turret" 1051 (cannon 2051)
 "Fission Reactor" 1052
 "Breeder Reactor" 1053
 "Stack Core" 1054
@@ -216,9 +216,9 @@ Flamethrower 1055
 D14-RN 1056
 D23-QP 1057
 D41-HY 1058
-"Plasma Cannon" 2051
 "Liquid Nitrogen Cooling" 1079
 "Plasma Repeater" 1084
+Quad Plasma Turret 1246 (cannon 2246)
 
 Republic
 Rainmaker 346 1136-1138
@@ -537,6 +537,17 @@ Quad Plasma Core 1232
 Reality Vector Engines 1196
 Nullifier 1185
 
-Next available slot:
-Ships: 426 1376
-Outfits: 1246
+Pug
+Zibruka 426 1376-1378
+Enfolta 427 1379-1381
+Maboro 428 1382-1384
+Arfecta 429 1385-1387
+Gridfire 1247
+Tier 3 AM 1248
+Zapper 1249 (turret 2249)
+Seeker 1250
+Tier 1 AM 1251
+Zibruka Built-in Stats 4426
+Enfolta Built-in Stats 4427
+Maboro Built-in Stats 4428
+Arfecta Built-in Stats 4429

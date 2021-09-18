@@ -212,7 +212,7 @@ Changelog:
 Changelog:
 - **Added the Quarg as a faction, alongside appropriate outfits and ships**
 
-0.10.2 ??? update
+0.10.2 "Alpha Centauri" update
 
 Changelog:
 - Increased model size of 349 and 512
@@ -221,7 +221,14 @@ Changelog:
 - Added Gatling Turret to Pirates
 - Fixed non-functional Gatling Gun tech
 - Added Sea Scorpion and Ionic weapons to Hai
+- Increased torpedo and missile fire rate by 25%
+- Increased energy consumption of some missiles and torpedoes
+- Moved Javelin missiles to Merchants
+- Nerfed Bulk Freighter 1vet (heavy lasers -> laser beams)
 
-Remember to:
-- buff torpedoes and rockets
--
+0.11.1 ??? update
+
+Changelog:
+- Added the Pug
+
+To do: change IDs of nuclear missiles

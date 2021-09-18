@@ -15,7 +15,7 @@ A list of such images and their authors are included below.
 
 Crdball | 4x4 Shield Generator, 4x4 Reactive Armor
 Mirage Spirit | 4x4 Titanium, Infesticore
-Raul39 | (dual) Electron, Heavy, Sunbeam, Laser
+Raul39 | (dual) Electron, Heavy, Sunbeam, Laser beams
 
 =
 
