@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1254,
+  "Name": "Cormet Thruster",
+  "DisplayCategory": 4,
+  "Availability": 3,
+  "ComponentStatsId": 1254,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "cormet thruster.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

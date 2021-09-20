@@ -229,6 +229,14 @@ Changelog:
 0.11.1 ??? update
 
 Changelog:
-- Added the Pug
+- Added the Pug as a faction, alongside appropriate outfits and ships
+- - Arfecta accessibility will be provided in a future update
+- Added unique image and icon for the Class C Freighter
+- Changed tech placement of S270 and S970 regenerators
+- Fixed broken tech for Falcon
+- Changed shield regeneration
+- - Shield Regen cooldown is removed
+- - Shield regen values are reduced to 10% of total shield values
+- Removed many outfits from smugglers
 
 To do: change IDs of nuclear missiles

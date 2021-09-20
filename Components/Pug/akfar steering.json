@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1253,
+  "Name": "Akfar Steering",
+  "DisplayCategory": 4,
+  "Availability": 3,
+  "ComponentStatsId": 1253,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "akfar steering.png",
+  "Layout": "1111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

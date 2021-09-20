@@ -3,7 +3,7 @@
   "Id": 1225,
   "Name": "Detainer Turret",
   "DisplayCategory": 1,
-  "Availability": 1,
+  "Availability": 3,
   "ComponentStatsId": 1225,
   "Faction": 213,
   "Level": 450,

@@ -6,6 +6,6 @@
   "EnergyPoints": 12.5,
   "EnergyRechargeRate": -5.1,
   "ShieldPoints": 20.0,
-  "ShieldRechargeRate": 10.0,
+  "ShieldRechargeRate": 2.0,
   "Weight": 25.0
 }

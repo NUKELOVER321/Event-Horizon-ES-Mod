@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1256,
+  "Name": "Lohmar Thruster",
+  "DisplayCategory": 4,
+  "Availability": 3,
+  "ComponentStatsId": 1256,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "lohmar thruster.png",
+  "Layout": "1111111111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

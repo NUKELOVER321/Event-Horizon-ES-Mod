@@ -43,7 +43,7 @@
             "Type": 26,
             "Loot": {
               "Type": 35,
-              "ItemId": 10036,
+              "ItemId": 1036,
               "MinAmount": 1,
               "MaxAmount": 10000
             }

@@ -3,7 +3,7 @@
   "Id": 1229,
   "Name": "Slicer Turret",
   "DisplayCategory": 1,
-  "Availability": 1,
+  "Availability": 3,
   "ComponentStatsId": 1,
   "Faction": 212,
   "Level": 450,

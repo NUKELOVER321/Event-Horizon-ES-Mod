@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1257,
+  "Name": "Lohmar Steering",
+  "DisplayCategory": 4,
+  "Availability": 3,
+  "ComponentStatsId": 1257,
+  "Faction": 214,
+  "Level": 500,
+  "Icon": "lohmar steering.png",
+  "Layout": "1111111111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

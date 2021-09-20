@@ -5,9 +5,9 @@
   "Name": "Class C freighter",
   "Faction": 203,
   "SizeClass": 4,
-  "IconImage": "bulk freighter icon.png",
+  "IconImage": "class c freighter icon.png",
   "IconScale": 1.0,
-  "ModelImage": "bulk freighter.png",
+  "ModelImage": "class c freighter.png",
   "ModelScale": 7.0,
   "EnginePosition": {
     "x": -0.8

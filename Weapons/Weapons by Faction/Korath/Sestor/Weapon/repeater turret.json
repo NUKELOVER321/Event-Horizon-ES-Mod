@@ -3,7 +3,7 @@
   "Id": 1223,
   "Name": "Repeater Turret",
   "DisplayCategory": 1,
-  "Availability": 1,
+  "Availability": 3,
   "ComponentStatsId": 1223,
   "Faction": 213,
   "Level": 425,

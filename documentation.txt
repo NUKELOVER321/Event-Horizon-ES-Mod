@@ -551,3 +551,9 @@ Zibruka Built-in Stats 4426
 Enfolta Built-in Stats 4427
 Maboro Built-in Stats 4428
 Arfecta Built-in Stats 4429
+Akfar Thruster 1252
+Akfar Steering 1253
+Cormet Thruster 1254
+Cormet Steering 1255
+Lohmar Thruster 1256
+Lohmar Steering 1257
