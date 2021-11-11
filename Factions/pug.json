@@ -4,6 +4,5 @@
   "Name": "Pug",
   "Color": "#FDE4B3",
   "HomeStarDistance": 500,
-  "WanderingShipsDistance": 500,
-  "Hidden": true
+  "WanderingShipsDistance": 500
 }
