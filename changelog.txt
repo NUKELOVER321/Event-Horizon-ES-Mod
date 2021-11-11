@@ -226,7 +226,7 @@ Changelog:
 - Moved Javelin missiles to Merchants
 - Nerfed Bulk Freighter 1vet (heavy lasers -> laser beams)
 
-0.11.1 ??? update
+0.11.1 "Deneb" update
 
 Changelog:
 - Added the Pug as a faction, alongside appropriate outfits and ships
@@ -238,5 +238,6 @@ Changelog:
 - - Shield Regen cooldown is removed
 - - Shield regen values are reduced to 10% of total shield values
 - Removed many outfits from smugglers
+- Reduced Archon HP and Shield by 80%
 
 To do: change IDs of nuclear missiles
