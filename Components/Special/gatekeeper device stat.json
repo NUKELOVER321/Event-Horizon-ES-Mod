@@ -1,11 +1,11 @@
 {
   "ItemType": 11,
   "Id": 5001,
-  "ArmorPoints": 500000.0,
+  "ArmorPoints": 100000.0,
   "ArmorRepairRate": 1000.0,
   "ArmorRepairCooldownModifier": -1.0,
   "EnergyRechargeRate": 1000.0,
-  "ShieldPoints": 500000.0,
+  "ShieldPoints": 100000.0,
   "ShieldRechargeRate": 1000.0,
   "Weight": 1000.0
 }
