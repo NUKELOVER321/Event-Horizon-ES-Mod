@@ -1,0 +1,10 @@
+{
+  "ItemType": 11,
+  "Id": 1259,
+  "ArmorPoints": 170.0,
+  "EnergyPoints": 1000.0,
+  "EnergyRechargeRate": 100.0,
+  "ShieldPoints": 680.0,
+  "ShieldRechargeRate": 17.0,
+  "Weight": 25.0
+}

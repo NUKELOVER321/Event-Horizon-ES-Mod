@@ -2,9 +2,9 @@
   "ItemType": 11,
   "Id": 1257,
   "Type": 1,
-  "EnergyRechargeRate": -3.69,
-  "EnergyRechargeCooldownModifier": 0.037,
+  "EnergyRechargeRate": -0.535,
+  "EnergyRechargeCooldownModifier": 0.018,
   "Weight": 25.0,
-  "EnginePower": 5.2,
-  "TurnRate": 10.4
+  "EnginePower": 2.485,
+  "TurnRate": 4.97
 }
