@@ -2,9 +2,9 @@
   "ItemType": 11,
   "Id": 1259,
   "ArmorPoints": 170.0,
-  "EnergyPoints": 68.0,
-  "EnergyRechargeRate": 40.0,
-  "ShieldPoints": 272.0,
-  "ShieldRechargeRate": 13.6,
+  "EnergyPoints": 500.0,
+  "EnergyRechargeRate": 132.0,
+  "ShieldPoints": 288.0,
+  "ShieldRechargeRate": 28.8,
   "Weight": 25.0
 }

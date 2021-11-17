@@ -9,7 +9,7 @@
   "Level": 250,
   "Icon": "small collector module.png",
   "Layout": "1",
-  "CellType": "2",
+  "CellType": "3",
   "PossibleModifications": [
     12
   ]
