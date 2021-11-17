@@ -235,9 +235,11 @@ Changelog:
 - Changed tech placement of S270 and S970 regenerators
 - Fixed broken tech for Falcon
 - Changed shield regeneration
-- - Shield Regen cooldown is removed
+- - Shield Regen cooldown is reduced to 0
 - - Shield regen values are reduced to 10% of total shield values
 - Removed many outfits from smugglers
 - Reduced Archon HP and Shield by 80%
+- Added small shield cd penalty to Wanderer, Ka'het, Hai, Syndicate, and Quarg shield gens
+- Added starbases for the human factions
 
 To do: change IDs of nuclear missiles

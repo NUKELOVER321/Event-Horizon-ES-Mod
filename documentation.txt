@@ -525,11 +525,20 @@ Skylance 1243
 Quarg Antimissile 1244
 
 Starbases
-Merchant 2201
+Merchant 2201 (size 30)
 Pirates 2202
 Syndicate 2203
 FW 2204
 Republic 2205
+Hai 2206 (size 32)
+Remnant 2207 (size 35)
+Coalition 2208 (size 42)
+Korath Exiles 2209 (size 35)
+Ka'het 2210
+Wanderers 2211 (size 40)
+Sestor 2212
+Mereti 2213
+Quarg 2214 (size 45)
 
 Exclusive items
 Huge Systems Core 1231
