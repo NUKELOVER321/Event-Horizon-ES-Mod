@@ -3,5 +3,65 @@
   "Id": 1377,
   "ShipId": 426,
   "DifficultyClass": 1,
-  "Components": []
+  "Components": [
+    {
+      "ComponentId": 1253,
+      "Locked": true,
+      "X": 9,
+      "Y": 12,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1252,
+      "Locked": true,
+      "X": 7,
+      "Y": 12,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 2100,
+      "Locked": true,
+      "X": 11,
+      "Y": 11,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 2100,
+      "Locked": true,
+      "X": 3,
+      "Y": 11,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1250,
+      "Locked": true,
+      "X": 10,
+      "Y": 4,
+      "BarrelId": 1,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 1250,
+      "Locked": true,
+      "X": 6,
+      "Y": 4,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 71,
+      "Locked": true,
+      "X": 8,
+      "Y": 3,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1258,
+      "Modification": 12,
+      "Quality": 5,
+      "Locked": true,
+      "X": 8,
+      "Y": 1,
+      "BarrelId": -1
+    }
+  ]
 }
