@@ -8,7 +8,7 @@
   "Faction": 216,
   "Level": 500,
   "Icon": "seeker.png",
-  "Layout": "111111111",
+  "Layout": "1111",
   "CellType": "4",
   "WeaponId": 1250,
   "AmmunitionId": 1250,
