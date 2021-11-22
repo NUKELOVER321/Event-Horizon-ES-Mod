@@ -218,7 +218,7 @@ D23-QP 1057
 D41-HY 1058
 "Liquid Nitrogen Cooling" 1079
 "Plasma Repeater" 1084
-Quad Plasma Turret 1246 (cannon 2246)
+Quad Plasma Turret 1246
 
 Republic
 Rainmaker 346 1136-1138
@@ -525,6 +525,7 @@ Skylance 1243
 Quarg Antimissile 1244
 
 Starbases
+For all starbases: arrange laser weapons on the apparent axis of rotation and projectiles elsewhere
 Merchant 2201 (size 30)
 Pirates 2202
 Syndicate 2203

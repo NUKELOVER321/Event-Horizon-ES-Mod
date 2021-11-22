@@ -241,5 +241,6 @@ Changelog:
 - Reduced Archon HP and Shield by 80%
 - Added small shield cd penalty to Wanderer, Ka'het, Hai, Syndicate, and Quarg shield gens
 - Added starbases for the human factions
+- Added quad plasma turret to FW tree (above normal plasma turret)
 
 To do: change IDs of nuclear missiles
