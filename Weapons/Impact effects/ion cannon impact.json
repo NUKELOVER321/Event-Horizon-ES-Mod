@@ -5,7 +5,31 @@
     {
       "Image": "ion impact.png",
       "Size": 1.0,
-      "Lifetime": 0.2
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "ion impact~1.png",
+      "Size": 1.0,
+      "StartTime": 0.1,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "ion impact~2.png",
+      "Size": 1.0,
+      "StartTime": 0.2,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "ion impact~3.png",
+      "Size": 1.0,
+      "StartTime": 0.3,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "ion impact~4.png",
+      "Size": 1.0,
+      "StartTime": 0.4,
+      "Lifetime": 0.1
     }
   ]
 }

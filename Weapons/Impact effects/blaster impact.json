@@ -3,9 +3,21 @@
   "Id": 1022,
   "Elements": [
     {
-      "Image": "blaster impact.png",
+      "Image": "blaster impact+1.png",
       "Size": 1.0,
-      "Lifetime": 0.2
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "blaster impact+2.png",
+      "Size": 1.0,
+      "StartTime": 0.1,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "blaster impact+3.png",
+      "Size": 1.0,
+      "StartTime": 0.2,
+      "Lifetime": 0.1
     }
   ]
 }

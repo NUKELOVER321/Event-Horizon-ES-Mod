@@ -1,8 +1,10 @@
 {
   "ItemType": 3,
   "Id": 1129,
-  "FireRate": 9.2,
+  "WeaponClass": 4,
+  "FireRate": 4.6,
   "Spread": 1.0,
+  "Magazine": 2,
   "ActivationType": 1,
   "ShotSound": "inhibitor",
   "ShotEffectPrefab": "FlashAdditive",
