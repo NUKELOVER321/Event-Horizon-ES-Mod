@@ -1,10 +1,10 @@
 {
   "ItemType": 3,
-  "Id": 1050,
-  "FireRate": 0.3,
+  "Id": 2028,
+  "FireRate": 1.6,
   "Spread": 1.0,
   "ActivationType": 1,
-  "ShotSound": "rocket",
+  "ShotSound": "javelin",
   "ShotEffectPrefab": "OrbAdditive",
-  "ControlButtonIcon": "rocket.png"
+  "ControlButtonIcon": "javelin.png"
 }

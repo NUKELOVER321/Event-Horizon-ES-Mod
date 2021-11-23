@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2050,
+  "Name": "Heavy Rocket Pod",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 204,
+  "Level": 175,
+  "Icon": "heavy rocket pod.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2050,
+  "AmmunitionId": 1050,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}
