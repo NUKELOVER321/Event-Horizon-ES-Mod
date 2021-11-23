@@ -244,3 +244,14 @@ Changelog:
 - Added quad plasma turret to FW tree (above normal plasma turret)
 
 To do: change IDs of nuclear missiles
+
+0.11.2 "Pugglemut" update
+
+Changelog:
+- Fixed missing starbases
+- Added more impact effects
+- Added (mini) pod versions of some secondary weapons
+- Doubled fire rate of secondary weapons with mini pod variants
+- Resized full size missile launchers to 3x3
+- Nerfed strength of Quarg Skylance and Quantum Shield by 25% and 20% respectively
+- Added range modifier to anti missile turrets

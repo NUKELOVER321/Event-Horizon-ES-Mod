@@ -146,9 +146,9 @@ Pirates
 "Modified Argosy" 327 1079-1081
 "Marauder Raven" 328 1082-1084
 "Marauder Fury" 329 1085-1087
-"Meteor Missile Launcher" 1026
-"Sidewinder Missile Launcher" 1027
-"Javelin Rocket Launcher" 1028
+"Meteor Missile Launcher" 1026 (Pod 2026)
+"Sidewinder Missile Launcher" 1027 (Pod 2027)
+"Javelin Rocket Launcher" 1028 (Pod 2028)
 "Gatling Gun" 1029
 Falcon 352 1154-1156
 Leviathan 353 1157-1159
@@ -172,7 +172,7 @@ Barb 3001
 "S1 Thermionic" 1032
 "Dwarf Core" 1033
 "Proton Turret" 1034
-"Torpedo Launcher" 1035
+"Torpedo Launcher" 1035 (Pod 2035)
 "Nuclear Missile" 1036
 "Ionic Afterburner" 1037
 "S270 Regenerator" 1038
@@ -207,7 +207,7 @@ Finch 3003
 "Orca Plasma Steering" 1047
 "Tyrant Plasma Thruster" 1048
 "Tyrant Plasma Steering" 1049
-"Heavy Rocket" 1050
+"Heavy Rocket" 1050 (Pod 2050)
 "Plasma Turret" 1051 (cannon 2051)
 "Fission Reactor" 1052
 "Breeder Reactor" 1053
@@ -245,7 +245,7 @@ D67-TM 1070
 D94-YV 1071
 "Particle Turret" 1072
 "Electron Beam Turret" 1073
-"Typhoon Torpedo" 1074
+"Typhoon Torpedo" 1074 (Pod 2074)
 "Fusion Reactor" 1075
 "Armageddon Core" 1076
 "Particle Cannon" 2072
