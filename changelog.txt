@@ -256,7 +256,7 @@ Changelog:
 - Nerfed strength of Quarg Skylance and Quantum Shield by 25% and 20% respectively
 - Added range modifier to anti missile turrets
 
-0.11.3 ??? update
+0.11.3 "Tarazed" update
 
 Changelog:
 - Reverted nerf to Quarg weapons and shields
