@@ -255,3 +255,21 @@ Changelog:
 - Resized full size missile launchers to 3x3
 - Nerfed strength of Quarg Skylance and Quantum Shield by 25% and 20% respectively
 - Added range modifier to anti missile turrets
+
+0.11.3 ??? update
+
+Changelog:
+- Reverted nerf to Quarg weapons and shields
+- Buffed the Plasma Packet Cannon (again)
+- - Submunition damage raised from 62.5 to 75
+- Nerfed the Super Minelayer
+- - Primary submunition count dropped from 20 to 15
+- - Secondary submunition count dropped from 11 to 10
+- - Secondary submunition mass increased to 0.2
+- Nerfed problematic Republic, Exile, Sestor, Mereti, and Quarg ships
+- - Removed and replaced some weapons, drones, and components from 1vet and 2vet builds
+- Nerfed the Arfecta
+- - Removed half of its Gridfire count on 1vet and 2vet versions
+- - Halved its shield regen and energy storage
+- Nerfed the Archon
+- - Reduced its shield and armor regen by 90%
