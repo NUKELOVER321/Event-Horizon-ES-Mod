@@ -2,6 +2,6 @@
   "ItemType": 11,
   "Id": 1095,
   "Type": 1,
-  "EnergyRechargeCooldownModifier": -0.14,
+  "EnergyRechargeCooldownModifier": -0.09,
   "Weight": 25.0
 }
