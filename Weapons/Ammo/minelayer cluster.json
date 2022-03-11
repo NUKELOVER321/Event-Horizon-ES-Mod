@@ -6,7 +6,7 @@
     "Size": 1.0,
     "Velocity": 10.0,
     "Range": 30.0,
-    "Weight": 0.1,
+    "Weight": 0.2,
     "HitPoints": 35,
     "BulletPrefab": 1228,
     "EnergyCost": 3.6
@@ -34,7 +34,7 @@
       "AudioClip": "mine deploy",
       "Ammunition": 3228,
       "Color": "#00000000",
-      "Quantity": 11,
+      "Quantity": 10,
       "RandomFactor": 1.0
     }
   ],
