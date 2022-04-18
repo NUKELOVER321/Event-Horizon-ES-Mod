@@ -277,3 +277,10 @@ Changelog:
 - - Size reduced to 1x1, cooling value reduced to -0.09 per square
 - Resized nGVF-DD power cells to full 4x4 size
 - Added list of heat values to documentation
+
+0.12.1 ??? update
+
+Changelog:
+- Added Emerald Sword and Black Diamond
+- Applied 3x multiplier for Sheragi reactor/engine thrust and steering
+- Applied 1.5x multiplier for fission drive power gen
