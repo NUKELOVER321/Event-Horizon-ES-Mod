@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1267,
+  "Name": "Fusion Drive",
+  "DisplayCategory": 4,
+  "Availability": 3,
+  "ComponentStatsId": 1267,
+  "Faction": 217,
+  "Level": 425,
+  "Icon": "fusion drive.png",
+  "Layout": "0000000111111111111111111111111111111111110000000",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

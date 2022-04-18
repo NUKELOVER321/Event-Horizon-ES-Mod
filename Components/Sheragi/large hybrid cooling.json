@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1262,
+  "Name": "Large Hybrid Cooling",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 1262,
+  "Faction": 217,
+  "Level": 350,
+  "Icon": "large hybrid cooling.png",
+  "Layout": "1111111111111111",
+  "CellType": "2"
+}

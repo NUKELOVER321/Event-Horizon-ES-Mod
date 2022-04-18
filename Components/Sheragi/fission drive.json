@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1266,
+  "Name": "Fission Drive",
+  "DisplayCategory": 4,
+  "Availability": 3,
+  "ComponentStatsId": 1266,
+  "Faction": 217,
+  "Level": 400,
+  "Icon": "fission drive.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

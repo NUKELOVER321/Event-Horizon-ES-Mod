@@ -1,0 +1,52 @@
+{
+  "ItemType": 6,
+  "Id": 3024,
+  "ShipCategory": 6,
+  "Name": "Black Diamond",
+  "Faction": 217,
+  "IconImage": "black diamond icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "black diamond.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.9,
+    "y": 0.1
+  },
+  "EngineColor": "#00B2FF",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.1
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000044400000000014441000000001444100000000122210000000012221000000444222444000044422244400004442224440000111222111000011122211100001115551110000011555110000000155510000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 1.0
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": 0.6
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": -0.6
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "ItemType": 11,
+  "Id": 1265,
+  "Type": 1,
+  "EnergyPoints": 6.43,
+  "EnergyRechargeCooldownModifier": 0.0024,
+  "ShieldRechargeRate": 3.0,
+  "ShieldRechargeCooldownModifier": 0.3,
+  "Weight": 25.0
+}

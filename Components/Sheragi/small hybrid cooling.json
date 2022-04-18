@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1263,
+  "Name": "Small Hybrid Cooling",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 1263,
+  "Faction": 217,
+  "Level": 350,
+  "Icon": "small hybrid cooling.png",
+  "Layout": "1111",
+  "CellType": "2"
+}
