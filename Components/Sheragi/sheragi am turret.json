@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1273,
+  "Name": "Sheragi Anti-Missile",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 3,
+  "Faction": 203,
+  "Level": 75,
+  "Icon": "sheragi antimissile.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "DeviceId": 1273,
+  "Restrictions": {
+    "UniqueComponentTag": "pointdefense"
+  },
+  "PossibleModifications": [
+    2,
+    6,
+    7
+  ]
+}

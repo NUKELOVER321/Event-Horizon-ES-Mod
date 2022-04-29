@@ -587,3 +587,4 @@ Particle Waveform 1269
 Heavy Ion Cyclotron 1270
 Shard Fabricator 1271
 Dragonflame Cannon 1272
+Sheragi AM 1273
