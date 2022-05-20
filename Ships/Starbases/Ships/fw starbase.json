@@ -18,7 +18,7 @@
         "y": 0.3
       },
       "Rotation": 30.0,
-      "PlatformType": 1,
+      "PlatformType": 2,
       "Image": "plasma turret sprite.png",
       "Size": 0.12
     },
@@ -28,7 +28,7 @@
         "y": -0.85
       },
       "Rotation": 300.0,
-      "PlatformType": 1,
+      "PlatformType": 2,
       "Image": "heavy laser turret sprite.png",
       "Size": 0.12
     },
@@ -38,7 +38,7 @@
         "y": 0.85
       },
       "Rotation": 120.0,
-      "PlatformType": 1,
+      "PlatformType": 2,
       "Image": "heavy laser turret sprite.png",
       "Size": 0.12
     },
@@ -48,7 +48,7 @@
         "y": -0.45
       },
       "Rotation": 210.0,
-      "PlatformType": 1,
+      "PlatformType": 2,
       "Image": "plasma turret sprite.png",
       "Size": 0.12
     }
