@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 3024,
+  "Name": "Black Diamond",
+  "DisplayCategory": 5,
+  "Availability": 3,
+  "ComponentStatsId": 3024,
+  "Faction": 217,
+  "Level": 500,
+  "Icon": "black diamond icon.png",
+  "Layout": "111111111",
+  "CellType": "1",
+  "DroneBayId": 3024,
+  "DroneId": 3024,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    2
+  ]
+}
