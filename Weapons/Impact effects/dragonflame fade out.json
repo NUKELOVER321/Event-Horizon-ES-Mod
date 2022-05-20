@@ -1,0 +1,35 @@
+{
+  "ItemType": 26,
+  "Id": 1272,
+  "Elements": [
+    {
+      "Image": "dragonflame bolt big 1.png",
+      "Size": 5.0,
+      "Lifetime": 0.15
+    },
+    {
+      "Image": "dragonflame bolt big 2.png",
+      "Size": 5.0,
+      "StartTime": 0.1,
+      "Lifetime": 0.125
+    },
+    {
+      "Image": "dragonflame bolt big 3.png",
+      "Size": 5.0,
+      "StartTime": 0.2,
+      "Lifetime": 0.125
+    },
+    {
+      "Image": "dragonflame bolt big 4.png",
+      "Size": 5.0,
+      "StartTime": 0.3,
+      "Lifetime": 0.125
+    },
+    {
+      "Image": "dragonflame bolt big 5.png",
+      "Size": 5.0,
+      "StartTime": 0.4,
+      "Lifetime": 0.125
+    }
+  ]
+}

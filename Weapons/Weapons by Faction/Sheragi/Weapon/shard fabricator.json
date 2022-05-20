@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1271,
+  "Name": "Shard Fabricator",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 217,
+  "Level": 575,
+  "Icon": "shard fabricator.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1271,
+  "AmmunitionId": 1271,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

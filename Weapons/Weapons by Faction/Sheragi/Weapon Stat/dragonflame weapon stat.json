@@ -1,0 +1,10 @@
+{
+  "ItemType": 3,
+  "Id": 1272,
+  "FireRate": 0.33,
+  "Spread": 1.0,
+  "ActivationType": 1,
+  "ShotSound": "dragonflame",
+  "ShotEffectPrefab": "FlashAdditive",
+  "ControlButtonIcon": "dragonflame.png"
+}

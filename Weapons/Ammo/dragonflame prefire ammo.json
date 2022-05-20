@@ -1,0 +1,39 @@
+{
+  "ItemType": 25,
+  "Id": 3272,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Velocity": 300.0,
+    "Range": 30.0,
+    "Weight": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 1272,
+      "Color": "#00000000",
+      "Size": 12.5,
+      "Lifetime": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1272,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Power": 0.1
+    },
+    {
+      "Type": 1,
+      "Power": 0.1
+    }
+  ]
+}
