@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1274,
+  "Name": "Javelin Turret",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 202,
+  "Level": 50,
+  "Icon": "javelin turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1274,
+  "AmmunitionId": 1028,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

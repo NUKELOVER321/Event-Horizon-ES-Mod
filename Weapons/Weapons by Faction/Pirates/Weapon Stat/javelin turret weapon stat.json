@@ -1,7 +1,7 @@
 {
   "ItemType": 3,
-  "Id": 2028,
-  "FireRate": 2.0,
+  "Id": 1274,
+  "FireRate": 4.0,
   "Spread": 1.0,
   "ActivationType": 1,
   "ShotSound": "javelin",
