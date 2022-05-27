@@ -278,9 +278,22 @@ Changelog:
 - Resized nGVF-DD power cells to full 4x4 size
 - Added list of heat values to documentation
 
-0.12.1 ??? update
+0.12.1 "Valley of the Damned" update
 
 Changelog:
 - Added Emerald Sword and Black Diamond
+- Added Kestrel
 - Applied 3x multiplier for Sheragi reactor/engine thrust and steering
 - Applied 1.5x multiplier for fission drive power gen
+- Added starbases for Hai, Ka'het, and Coalition
+- Slightly increased fire rate of pod weapons
+- Added turrets to starbases
+- Added new sprites for Bright Cloud and Dark Storm
+- Added new sprites for Republic ships
+- Added quests for acquiring Emerald Sword, Arfecta, and Kestrel (one-time)
+- Reduced cost of existing Merchant weapons from 5 to 3 or 2
+- Moved Javelin Launcher to Merchants
+- Added Javelin Turret and Barrage Turret
+- Fixed some early game builds
+- Gave Rainmaker C, L, and T on top of its M slots
+- Fixed a couple of ammo effects

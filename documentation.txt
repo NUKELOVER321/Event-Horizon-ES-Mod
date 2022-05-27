@@ -165,8 +165,8 @@ Blaster 2022
 
 Syndicate
 Headhunter 325 1073-1075
-Quicksilver 330 1089-1091
-Corvette 331 1092-1094
+Quicksilver 330 1088-1090
+Corvette 331 1091-1093
 Manta 332 1094-1096
 Splinter 333 1097-1099
 Vanguard 334 1101-1103
@@ -588,3 +588,7 @@ Heavy Ion Cyclotron 1270
 Shard Fabricator 1271
 Dragonflame Cannon 1272
 Sheragi AM 1273
+
+More Pirates
+Javelin Turret 1274
+Barrage Turret 1275
