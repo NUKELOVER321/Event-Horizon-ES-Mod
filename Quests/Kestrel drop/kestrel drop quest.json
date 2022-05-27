@@ -1,0 +1,77 @@
+{
+  "ItemType": 15,
+  "Id": 10011,
+  "Name": "Arfecta encounter",
+  "QuestType": 2,
+  "StartCondition": 6,
+  "Weight": 0.1,
+  "Origin": {
+    "Factions": {
+      "Type": 1
+    },
+    "MinDistance": 100,
+    "MaxDistance": 250
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "You encounter a strange ship bearing no faction markings.",
+      "Enemy": 10013,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "Attack and capture the ship"
+        },
+        {
+          "TargetNode": 7,
+          "ButtonText": "Leave it be"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 20,
+      "DefaultTransition": 3,
+      "FailureTransition": 6,
+      "Enemy": 10013
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "The ship has been subdued and boarded.",
+      "Loot": 10012,
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": "Acquire the ship"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 35,
+      "DefaultTransition": 5,
+      "Loot": 10012
+    },
+    {
+      "Id": 5,
+      "Type": 40
+    },
+    {
+      "Id": 7,
+      "Type": 42
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "The strange ship fought off your attempt at boarding and escaped.",
+      "Actions": [
+        {
+          "TargetNode": 7,
+          "ButtonText": "That is unfortunate"
+        }
+      ]
+    }
+  ]
+}
