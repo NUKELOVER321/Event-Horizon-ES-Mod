@@ -14,10 +14,16 @@ Ammunition, Bullet Prefab, and Impact Effect IDs will take the IDs of the weapon
 
 Special ships:
 "Super Kestrel" 1000 10000
+Kestrel 1001 10001
 "Star Fortress" 2000 20000
 Heron 3000 30000
 "Emerald Sword" 4000 40000
 "Gatekeeper Archon" 5000 50000
+"Modified Boxwing" 5001 5001
+"Shooting Star" 5002 5002
+"Modified Vanguard" 5003 5003
+"Marauder Bactrian" 5004 5004
+"Ursa Polaris" 5005 5005
 "Black Diamond" 3024
 
 Vanilla-ish items:

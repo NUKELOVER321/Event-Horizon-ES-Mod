@@ -297,3 +297,11 @@ Changelog:
 - Fixed some early game builds
 - Gave Rainmaker C, L, and T on top of its M slots
 - Fixed a couple of ammo effects
+
+0.12.2 "Zub" update
+
+Changelog:
+- Unlocked all components on Arfecta 0vet and Emerald Sword (except arfecta stats block)
+- Fixed issue with Dragonflame Cannon not hitting due to improper ammo type
+- Implemented new images for Bactrian
+- Added Modified Boxwing, Marauder Bactrian, Modified Vanguard, Ursa Polaris
