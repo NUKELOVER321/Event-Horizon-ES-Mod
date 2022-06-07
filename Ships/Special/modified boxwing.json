@@ -1,0 +1,122 @@
+{
+  "ItemType": 6,
+  "Id": 5001,
+  "ShipCategory": 3,
+  "Name": "Modified Boxwing",
+  "IconImage": "modified boxwing icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "modified boxwing.png",
+  "ModelScale": 5.5,
+  "EnginePosition": {
+    "x": -0.95,
+    "y": -0.25
+  },
+  "EngineColor": "#FFE100",
+  "EngineSize": 0.2,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.95,
+        "y": 0.25
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "y": 0.6
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "y": -0.6
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.5
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": -0.5
+      }
+    }
+  ],
+  "Layout": "0004404404404404404400000044044044044044044000000000033222223300000000000000332444233000000000000003324442330000000000000033244423300000000000000332222233000000000001103324442330110000000011133244423311100000000551332444233155000000005513322222331550000000000033222223300000000000000332444233000000000000003324442330000000000000033244423300000000000011332222233110000000000113322222331100000000001133222223311000000000055332222233550000000000553322222335500000000000055222225500000000000000552222255000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.88,
+        "y": 0.315
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.22
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.95,
+        "y": 0.05
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.95,
+        "y": -0.05
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.22
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.88,
+        "y": -0.315
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.35
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.35
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.35
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    }
+  ]
+}
