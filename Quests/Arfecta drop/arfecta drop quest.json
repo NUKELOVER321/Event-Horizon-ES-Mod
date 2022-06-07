@@ -1,6 +1,6 @@
 {
   "ItemType": 15,
-  "Id": 10008,
+  "Id": 1008,
   "Name": "Arfecta encounter",
   "QuestType": 2,
   "StartCondition": 6,
@@ -13,14 +13,14 @@
       ]
     },
     "MinDistance": 500,
-    "MaxDistance": 1000
+    "MaxDistance": 100
   },
   "Nodes": [
     {
       "Id": 1,
       "Type": 10,
       "Message": "The Pug has sent one of their Arfectas to assassinate you.",
-      "Enemy": 10010,
+      "Enemy": 1010,
       "Actions": [
         {
           "TargetNode": 2,
@@ -37,13 +37,13 @@
       "Type": 20,
       "DefaultTransition": 3,
       "FailureTransition": 9,
-      "Enemy": 10010
+      "Enemy": 1010
     },
     {
       "Id": 3,
       "Type": 10,
       "Message": "You have outwitted the Pug and disabled one of their Arfectas. It is now free to be captured.",
-      "Loot": 10009,
+      "Loot": 1009,
       "Actions": [
         {
           "TargetNode": 4,
@@ -55,7 +55,7 @@
       "Id": 4,
       "Type": 35,
       "DefaultTransition": 5,
-      "Loot": 10009
+      "Loot": 1009
     },
     {
       "Id": 5,

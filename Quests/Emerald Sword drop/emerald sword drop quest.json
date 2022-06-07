@@ -1,20 +1,20 @@
 {
   "ItemType": 15,
-  "Id": 10007,
+  "Id": 1007,
   "Name": "Emerald Sword encounter",
   "QuestType": 2,
   "StartCondition": 6,
   "Weight": 0.1,
   "Origin": {
     "MinDistance": 200,
-    "MaxDistance": 1000
+    "MaxDistance": 100
   },
   "Nodes": [
     {
       "Id": 1,
       "Type": 10,
       "Message": "You encounter a strange ship bearing no faction markings.",
-      "Enemy": 10006,
+      "Enemy": 1006,
       "Actions": [
         {
           "TargetNode": 2,
@@ -31,13 +31,13 @@
       "Type": 20,
       "DefaultTransition": 3,
       "FailureTransition": 6,
-      "Enemy": 10006
+      "Enemy": 1006
     },
     {
       "Id": 3,
       "Type": 10,
       "Message": "The ship has been subdued and boarded.",
-      "Loot": 10005,
+      "Loot": 1005,
       "Actions": [
         {
           "TargetNode": 4,
@@ -49,7 +49,7 @@
       "Id": 4,
       "Type": 35,
       "DefaultTransition": 5,
-      "Loot": 10005
+      "Loot": 1005
     },
     {
       "Id": 5,
