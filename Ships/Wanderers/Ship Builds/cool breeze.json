@@ -22,7 +22,7 @@
       "X": 6,
       "Y": 6,
       "BarrelId": -1,
-      "KeyBinding": -1
+      "KeyBinding": -3
     },
     {
       "ComponentId": 10,
@@ -30,7 +30,7 @@
       "X": 1,
       "Y": 6,
       "BarrelId": -1,
-      "KeyBinding": -1
+      "KeyBinding": -3
     },
     {
       "ComponentId": 1213,
