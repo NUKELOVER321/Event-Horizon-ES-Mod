@@ -37,6 +37,7 @@ Infesticore 2103 2103-2105 2103
 "4x4 Armored Fuel" 2107 2107 2107
 "High Energy Focus m3" 2108
 "Automated Reloader m3" 2109
+"Inertial Neutralizer" 2110
 
 Effects also take the ID of their weapon.
 

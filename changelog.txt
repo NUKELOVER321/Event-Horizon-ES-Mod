@@ -305,3 +305,10 @@ Changelog:
 - Fixed issue with Dragonflame Cannon not hitting due to improper ammo type
 - Implemented new images for Bactrian
 - Added Modified Boxwing, Marauder Bactrian, Modified Vanguard, Ursa Polaris
+- Made most stuff on old KIV 750s, Model 1024s, Vareti'hets, Arfectas, and Emerald Swords unlockable
+- - (I think this works?)
+- Fixed prevously undiscovered issue with Heavy Rocket dealing more damage than it should have
+- Doubled range of all anti missile devices
+- - Soft-counter to an issue where missiles and torpedoes hit with AM still explodes
+- Decreased energy cost of Plasma Packet Cannon by about 15%
+- Added Inertial Neutralizer (located above the other inertial modules)
