@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 2110,
+  "Name": "Inertial Neutralizer",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 2110,
+  "Faction": 6,
+  "Level": 120,
+  "Icon": "superdamper.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    2
+  ]
+}
