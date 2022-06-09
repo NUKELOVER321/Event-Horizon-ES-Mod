@@ -18,7 +18,7 @@
       "ColorMode": 2
     },
     {
-      "Condition": 2,
+      "Condition": 3,
       "EffectType": 2,
       "AudioClip": "mine deploy",
       "Ammunition": 5228,

@@ -7,11 +7,11 @@
     "Velocity": 300.0,
     "Range": 30.0,
     "Weight": 0.1,
-	"EnergyCost": 160.0
+    "EnergyCost": 160.0
   },
   "Triggers": [
     {
-      "Condition": 2,
+      "Condition": 3,
       "EffectType": 1,
       "VisualEffect": 1272,
       "Color": "#00000000",

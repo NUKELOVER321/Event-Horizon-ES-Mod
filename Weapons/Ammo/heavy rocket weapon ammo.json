@@ -29,7 +29,7 @@
       "Size": 4.0
     },
     {
-      "Condition": 2,
+      "Condition": 3,
       "EffectType": 2,
       "Ammunition": 5050,
       "Color": "#00000000",
@@ -39,8 +39,7 @@
   ],
   "Effects": [
     {
-      "DamageType": 2,
-      "Power": 157.0
+      "DamageType": 2
     }
   ]
 }
