@@ -539,19 +539,19 @@ Quarg Antimissile 1244
 
 Starbases
 For all starbases: arrange laser weapons on the apparent axis of rotation and projectiles elsewhere
-Merchant 2201 (size 30)
-Pirates 2202
-Syndicate 2203
-FW 2204
-Republic 2205
-Hai 2206 (size 32)
+Merchant 2201 (size 30) X
+Pirates 2202 X
+Syndicate 2203 X
+FW 2204 X
+Republic 2205 X
+Hai 2206 (size 32) X
 Remnant 2207 (size 35)
-Coalition 2208 (size 42)
+Coalition 2208 (size 42) X
 Korath Exiles 2209 (size 35)
-Ka'het 2210
+Ka'het 2210 X
 Wanderers 2211 (size 40)
-Sestor 2212
-Mereti 2213
+Mereti 2212
+Sestor 2213
 Quarg 2214 (size 45)
 
 Exclusive items

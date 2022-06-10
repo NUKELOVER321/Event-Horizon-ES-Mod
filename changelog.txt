@@ -304,11 +304,15 @@ Changelog:
 - Unlocked all components on Arfecta 0vet and Emerald Sword (except arfecta stats block)
 - Fixed issue with Dragonflame Cannon not hitting due to improper ammo type
 - Implemented new images for Bactrian
-- Added Modified Boxwing, Marauder Bactrian, Modified Vanguard, Ursa Polaris
+- Added Modified Boxwing, Marauder Bactrian, Modified Vanguard, and Ursa Polaris
+- Unlocked Skylance and Gridfire turrets on the Ursa Polaris
 - Made most stuff on old KIV 750s, Model 1024s, Vareti'hets, Arfectas, and Emerald Swords unlockable
 - - (I think this works?)
 - Fixed prevously undiscovered issue with Heavy Rocket dealing more damage than it should have
 - Doubled range of all anti missile devices
-- - Soft-counter to an issue where missiles and torpedoes hit with AM still explodes
-- Decreased energy cost of Plasma Packet Cannon by about 15%
-- Added Inertial Neutralizer (located above the other inertial modules)
+- Decreased energy cost of Plasma Packet Cannon by about 34% (energy per projectile from 34.8 to 25)
+- Increased base cost of Minelayer munition from 3.6 to 9
+- Decreased base cost of Super Minelayer munition from 50 to 40
+- Added Inertial Neutralizer (located above the other inertial modules on the tech tree)
+- Made Hurricane and stock Gunboat slightly faster
+- Added starbases for Mereti and Sestor
