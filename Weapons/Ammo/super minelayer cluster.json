@@ -8,7 +8,7 @@
     "Weight": 0.1,
     "HitPoints": 50,
     "BulletPrefab": 1233,
-    "EnergyCost": 50.0
+    "EnergyCost": 40.0
   },
   "Triggers": [
     {
