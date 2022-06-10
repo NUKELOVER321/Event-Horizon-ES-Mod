@@ -1,7 +1,7 @@
 {
   "ItemType": 15,
-  "Id": 1011,
-  "Name": "Arfecta encounter",
+  "Id": 1017,
+  "Name": "Modified Vanguard encounter",
   "QuestType": 2,
   "StartCondition": 6,
   "Weight": 0.1,
@@ -9,15 +9,15 @@
     "Factions": {
       "Type": 1
     },
-    "MinDistance": 100,
-    "MaxDistance": 250
+    "MinDistance": 150,
+    "MaxDistance": 300
   },
   "Nodes": [
     {
       "Id": 1,
       "Type": 10,
       "Message": "You encounter a strange ship bearing no faction markings.",
-      "Enemy": 1013,
+      "Enemy": 1019,
       "Actions": [
         {
           "TargetNode": 2,
@@ -34,13 +34,13 @@
       "Type": 20,
       "DefaultTransition": 3,
       "FailureTransition": 6,
-      "Enemy": 1013
+      "Enemy": 1019
     },
     {
       "Id": 3,
       "Type": 10,
       "Message": "The ship has been subdued and boarded.",
-      "Loot": 1012,
+      "Loot": 1018,
       "Actions": [
         {
           "TargetNode": 4,
@@ -52,7 +52,7 @@
       "Id": 4,
       "Type": 35,
       "DefaultTransition": 5,
-      "Loot": 1012
+      "Loot": 1018
     },
     {
       "Id": 5,

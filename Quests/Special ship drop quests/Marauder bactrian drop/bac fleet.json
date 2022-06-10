@@ -1,0 +1,9 @@
+{
+  "ItemType": 18,
+  "Id": 1022,
+  "LevelBonus": 25,
+  "NoRandomShips": true,
+  "SpecificShips": [
+    5004
+  ]
+}
