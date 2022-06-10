@@ -8,7 +8,7 @@
   "IconImage": "deep river icon.png",
   "IconScale": 1.0,
   "ModelImage": "deep river.png",
-  "ModelScale": 8.0,
+  "ModelScale": 10.0,
   "EnginePosition": {
     "x": -0.8
   },
