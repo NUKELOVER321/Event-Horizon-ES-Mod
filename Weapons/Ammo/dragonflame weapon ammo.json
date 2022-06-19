@@ -3,10 +3,11 @@
   "Id": 1272,
   "Body": {
     "Type": 2,
-    "Size": 1.0,
+    "Size": 2.5,
     "Velocity": 200.0,
     "Range": 200.0,
-    "Weight": 0.1
+    "Weight": 0.1,
+    "BulletPrefab": 1072
   },
   "Triggers": [
     {
