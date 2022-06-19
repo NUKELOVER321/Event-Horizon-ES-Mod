@@ -1,16 +1,13 @@
 {
   "ItemType": 15,
   "Id": 1023,
-  "Name": "Marauder Bactrian encounter",
+  "Name": "Ursa Polaris encounter",
   "QuestType": 2,
   "StartCondition": 6,
   "Weight": 0.1,
   "Origin": {
-    "Factions": {
-      "Type": 1
-    },
-    "MinDistance": 300,
-    "MaxDistance": 400
+    "MinDistance": 350,
+    "MaxDistance": 500
   },
   "Nodes": [
     {

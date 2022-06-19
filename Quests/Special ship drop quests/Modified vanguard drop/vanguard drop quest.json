@@ -6,9 +6,6 @@
   "StartCondition": 6,
   "Weight": 0.1,
   "Origin": {
-    "Factions": {
-      "Type": 1
-    },
     "MinDistance": 150,
     "MaxDistance": 300
   },

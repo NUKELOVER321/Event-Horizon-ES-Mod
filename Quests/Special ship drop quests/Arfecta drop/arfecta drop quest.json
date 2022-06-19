@@ -13,7 +13,7 @@
       ]
     },
     "MinDistance": 500,
-    "MaxDistance": 100
+    "MaxDistance": 1000
   },
   "Nodes": [
     {
