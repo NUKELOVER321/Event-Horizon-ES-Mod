@@ -3,7 +3,7 @@
   "Id": 1020,
   "ItemId": 1020,
   "Faction": 201,
-  "Price": 20,
+  "Price": 10,
   "Dependencies": [
     1018
   ]

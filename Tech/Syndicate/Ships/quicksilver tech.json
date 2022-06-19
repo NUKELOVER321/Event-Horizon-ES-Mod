@@ -3,8 +3,7 @@
   "Id": 330,
   "Type": 1,
   "ItemId": 330,
-  "Faction": 203,
-  "Price": 10,
+  "Price": 5,
   "Dependencies": [
     325
   ]
