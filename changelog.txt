@@ -316,3 +316,13 @@ Changelog:
 - Added Inertial Neutralizer (located above the other inertial modules on the tech tree)
 - Made Hurricane and stock Gunboat slightly faster
 - Added starbases for Mereti and Sestor
+
+0.12.3 ??? update
+
+Changelog:
+- Fixed issue with improperly displayed Dragonflame Cannon firing effect
+- Reduced cost of many technologies
+- Increased tracker damage by 25%
+- Decreased tracker ammo weight by 60% (now more maneuverable)
+- Doubled tracker fire rate
+- Fixed broken Proton Turret tech
