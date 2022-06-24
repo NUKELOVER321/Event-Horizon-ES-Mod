@@ -8,7 +8,7 @@
   "Faction": 217,
   "Level": 500,
   "Icon": "dragonflame cannon.png",
-  "Layout": "1111111111111111111111111",
+  "Layout": "0111011111111111111101110",
   "CellType": "4",
   "WeaponId": 1272,
   "AmmunitionId": 3272,

@@ -1,0 +1,26 @@
+{
+  "ItemType": 26,
+  "Id": 1276,
+  "Elements": [
+    {
+      "Type": 1,
+      "Image": "star",
+      "ColorMode": 2,
+      "Color": "#FF1D00",
+      "Size": 1.0,
+      "Lifetime": 2.0
+    },
+    {
+      "Type": 5,
+      "Size": 2.0,
+      "Lifetime": 3.0
+    },
+    {
+      "Type": 2,
+      "Image": "firestorm ring.png",
+      "Color": "#00000000",
+      "Size": 3.0,
+      "Lifetime": 5.0
+    }
+  ]
+}

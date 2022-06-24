@@ -1,0 +1,10 @@
+{
+  "ItemType": 3,
+  "Id": 1276,
+  "FireRate": 0.85,
+  "Spread": 1.0,
+  "ActivationType": 1,
+  "ShotSound": "firelight",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "firelight.png"
+}

@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1276,
+  "Name": "Firelight Missile Launcher",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 213,
+  "Level": 475,
+  "Icon": "firelight missile launcher.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1276,
+  "AmmunitionId": 1276,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    16,
+    5,
+    7,
+    21
+  ]
+}

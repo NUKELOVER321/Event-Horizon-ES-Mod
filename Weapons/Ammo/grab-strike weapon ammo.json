@@ -26,7 +26,7 @@
     {
       "Type": 2,
       "DamageType": 1,
-      "Power": 0.01
+      "Power": 0.25
     }
   ]
 }
