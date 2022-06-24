@@ -317,7 +317,7 @@ Changelog:
 - Made Hurricane and stock Gunboat slightly faster
 - Added starbases for Mereti and Sestor
 
-0.12.3 ??? update
+0.12.3 "Rust" update
 
 Changelog:
 - Fixed issue with improperly displayed Dragonflame Cannon firing effect
@@ -325,4 +325,36 @@ Changelog:
 - Increased tracker damage by 25%
 - Decreased tracker ammo weight by 60% (now more maneuverable)
 - Doubled tracker fire rate
-- Fixed broken Proton Turret tech
+- Fixed broken Proton Turret and Inertial Neutralizer techs
+
+0.13.1 ?? update
+
+Changelog:
+- Added the Finisher Maegrolein and the Firelight Missile
+- Added a firing effect to Finisher torpedoes
+- Modified the explosion effect for Piercers
+- Nerfed many Mereti veteran builds
+- - Model 128 and above lost systems cores, armor, and energy production and storage
+- - Model 512 and Model 1028 lost 1 and 2 Slicer/Disruptor set(s) respectively as well
+- Rebalanced the Heliarch Punisher
+- - Reduced shield and armor count on both veteran builds significantly
+- - Added inertial neutralizers to increase speed to around 5
+- Added the Marauder Raider
+- Remade the Pillager and the stock Raider with larger layouts
+- Massively reduced the energy cost of the Finisher
+- Tweaked the Ionic Afterburner
+- - Power dropped from 58 to 43.5
+- - Energy Consumption (passive and active) dropped from 10 to 9.125
+- Tweaked the Bellows Afterburner
+- - Power increased from 58 to 153
+- - EC increased from 10 to 14.5
+- Added custom button images for drone bays
+- Modified Dragonflame Cannon to fit in superweapon slots
+- Modified Emerald Sword superweapon slot to fit the 5x5 square with cut corners style
+
+Todo:
+Make Jump Drive and Nuke on a Cart available in smugglers
+Add Quarg starbase
+Nerf Quarg builds
+Make weaker Arfecta for Pug bases
+Remake Pillager and Stock Raider vet builds

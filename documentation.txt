@@ -66,7 +66,11 @@ Energy usage and range is 1/10 that of its ES equivalent.
 Divide range by 10 (50 in the case of missiles, 10 for torpedoes).
 Divide push force by 2.5 then scale by a power of 10.
 
-For energy cost of missile type weapons, multiple initial energy cost by heat then divide by outfit space.
+Energy cost of missile and torpedo type weapons are equal to base game.
+High energy costs may be dropped down by an order of magnitude.
+High damage missiles and torpedoes may have their damage halved.
+The above is true of the Finisher and the Firelight.
+
 Torpedoes and missiles require 5x the normal time to reload.
 == Battery Packs ==
 Divide energy per space by 10.
@@ -197,6 +201,7 @@ Barb 3001
 Special
 "Dead Ringer" 5000 [N/A - no tech]
 "Nuke on a Cart" 6000
+Jump Drive 7000
 
 FW
 Firebird 337 1109-1111
@@ -391,6 +396,7 @@ Bombardment Cannon 2153
 Bombardment Turret 1153
 Ion Rain Gun 2154
 Ion Hail Turret 1154
+Finisher Maegrolain 1277
 
 Korath Exiles
 Raider 389 1265-1267
@@ -424,6 +430,8 @@ Stellar Thruster 1194
 Stellar Steering 1195
 Reality Vector Engine 1196
 Pillager 395 1283-1285
+Marauder Raider 430 1388-1390
+Firelight Missile Launcher 1276
 
 Ka'het
 Maeri' 392 1274-1276
@@ -599,3 +607,5 @@ Sheragi AM 1273
 More Pirates
 Javelin Turret 1274
 Barrage Turret 1275
+
+First unused IDs: 1278 (component), 431 (ship), 1391 (build)
