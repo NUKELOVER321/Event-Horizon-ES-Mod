@@ -1,17 +1,17 @@
 {
   "ItemType": 1,
-  "Id": 6000,
-  "Name": "Nuke on a Cart",
+  "Id": 7000,
+  "Name": "Jump Drive",
   "DisplayCategory": 6,
   "Availability": 3,
   "ComponentStatsId": 3,
   "Level": 350,
-  "Icon": "bomb cart.png",
+  "Icon": "jump drive.png",
   "Layout": "111111111",
   "CellType": "2",
-  "DeviceId": 6000,
+  "DeviceId": 7000,
   "Restrictions": {
-    "UniqueComponentTag": "detonator"
+    "UniqueComponentTag": "teleporter"
   },
   "PossibleModifications": [
     2,
