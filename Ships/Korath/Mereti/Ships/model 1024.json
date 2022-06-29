@@ -31,7 +31,7 @@
         "x": 0.9
       },
       "PlatformType": 3,
-      "WeaponClass": "CTML"
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
@@ -39,7 +39,7 @@
         "y": -0.45
       },
       "PlatformType": 3,
-      "WeaponClass": "CTML"
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
@@ -55,7 +55,7 @@
         "y": 0.48
       },
       "PlatformType": 3,
-      "WeaponClass": "CTML"
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
@@ -99,10 +99,10 @@
     },
     {
       "Position": {
-        "x": -0.1
+        "x": -0.075
       },
       "PlatformType": 2,
-      "WeaponClass": "CLTMS"
+      "WeaponClass": "CLTMX"
     },
     {
       "Position": {

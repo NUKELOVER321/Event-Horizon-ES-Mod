@@ -32,7 +32,7 @@
         "y": 0.1
       },
       "PlatformType": 3,
-      "WeaponClass": "CTML"
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
@@ -40,7 +40,7 @@
         "y": -0.1
       },
       "PlatformType": 3,
-      "WeaponClass": "CTML"
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {

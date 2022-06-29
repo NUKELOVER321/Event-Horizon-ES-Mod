@@ -5,13 +5,6 @@
   "DifficultyClass": 1,
   "Components": [
     {
-      "ComponentId": 1235,
-      "Locked": true,
-      "X": 17,
-      "Y": 3,
-      "BarrelId": -1
-    },
-    {
       "ComponentId": 1236,
       "Locked": true,
       "X": 3,
@@ -37,34 +30,6 @@
       "Locked": true,
       "X": 9,
       "Y": 30,
-      "BarrelId": -1
-    },
-    {
-      "ComponentId": 1236,
-      "Locked": true,
-      "X": 12,
-      "Y": 19,
-      "BarrelId": -1
-    },
-    {
-      "ComponentId": 1236,
-      "Locked": true,
-      "X": 23,
-      "Y": 19,
-      "BarrelId": -1
-    },
-    {
-      "ComponentId": 10,
-      "Locked": true,
-      "X": 23,
-      "Y": 16,
-      "BarrelId": -1
-    },
-    {
-      "ComponentId": 10,
-      "Locked": true,
-      "X": 13,
-      "Y": 16,
       "BarrelId": -1
     },
     {
@@ -210,22 +175,6 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 10,
-      "Locked": true,
-      "X": 26,
-      "Y": 23,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 10,
-      "Locked": true,
-      "X": 10,
-      "Y": 23,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
       "ComponentId": 1243,
       "Locked": true,
       "X": 21,
@@ -298,13 +247,6 @@
       "Y": 23,
       "BarrelId": -1,
       "KeyBinding": 1
-    },
-    {
-      "ComponentId": 1234,
-      "Locked": true,
-      "X": 17,
-      "Y": 28,
-      "BarrelId": -1
     },
     {
       "ComponentId": 1234,
