@@ -71,6 +71,12 @@ High energy costs may be dropped down by an order of magnitude.
 High damage missiles and torpedoes may have their damage halved.
 The above is true of the Finisher and the Firelight.
 
+For high damage special weapons like the Dragonflame and the Ember Tear:
+damage and other big numbers are reduced 100 fold.
+
+Ion damage is = to base ion damage divided by 20.
+For high damaging ion weapons the divider is 50.
+
 Torpedoes and missiles require 5x the normal time to reload.
 == Battery Packs ==
 Divide energy per space by 10.
@@ -173,6 +179,8 @@ Blaster 2022
 "Laser Beam" 2024
 "Heavy Laser" 2025
 "Gatling Turret" 2029
+Javelin Turret 1274
+Barrage Turret 1275
 
 Syndicate
 Headhunter 325 1073-1075
@@ -346,6 +354,7 @@ Tern 3011
 "Inhibitor Turret" 1129
 "EMP Torpedo Bay" 1130
 Penguin 369 1205-1207
+Ember Tear 1278
 
 Coalition
 Arach Courier 370 1208-1210
@@ -546,7 +555,6 @@ Skylance 1243
 Quarg Antimissile 1244
 
 Starbases
-For all starbases: arrange laser weapons on the apparent axis of rotation and projectiles elsewhere
 Merchant 2201 (size 30) X
 Pirates 2202 X
 Syndicate 2203 X
@@ -555,12 +563,12 @@ Republic 2205 X
 Hai 2206 (size 32) X
 Remnant 2207 (size 35)
 Coalition 2208 (size 42) X
-Korath Exiles 2209 (size 35)
+Korath Exiles 2209 (size 35) X
 Ka'het 2210 X
 Wanderers 2211 (size 40)
-Mereti 2212
-Sestor 2213
-Quarg 2214 (size 45)
+Mereti 2212 X
+Sestor 2213 X
+Quarg 2214 (size 45) X
 
 Exclusive items
 Huge Systems Core 1231
@@ -604,8 +612,4 @@ Shard Fabricator 1271
 Dragonflame Cannon 1272
 Sheragi AM 1273
 
-More Pirates
-Javelin Turret 1274
-Barrage Turret 1275
-
-First unused IDs: 1278 (component), 431 (ship), 1391 (build)
+First unused IDs: 1279 (component), 431 (ship), 1391 (build)
