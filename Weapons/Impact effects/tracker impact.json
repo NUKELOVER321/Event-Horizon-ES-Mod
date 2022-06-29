@@ -3,50 +3,38 @@
   "Id": 1100,
   "Elements": [
     {
-      "Image": "tracker impact.png",
-      "Size": 1.0,
-      "Lifetime": 1.0
-    },
-    {
-      "Type": 1,
-      "Image": "star",
-      "ColorMode": 2,
-      "Color": "#D800FF",
-      "Size": 1.0,
-      "Lifetime": 1.0
-    },
-    {
-      "Type": 5,
-      "Size": 2.0,
-      "Lifetime": 1.0
-    },
-    {
-      "Image": "tracker cloud~0.png",
+      "Image": "tracker impact~0.png",
       "Size": 1.0,
       "Lifetime": 0.05
     },
     {
-      "Image": "tracker cloud~1.png",
+      "Image": "tracker impact~1.png",
       "Size": 1.0,
       "StartTime": 0.05,
       "Lifetime": 0.05
     },
     {
-      "Image": "tracker cloud~2.png",
+      "Image": "tracker impact~2.png",
       "Size": 1.0,
       "StartTime": 0.1,
       "Lifetime": 0.05
     },
     {
-      "Image": "tracker cloud~3.png",
+      "Image": "tracker impact~3.png",
       "Size": 1.0,
       "StartTime": 0.15,
       "Lifetime": 0.05
     },
     {
-      "Image": "tracker cloud~4.png",
+      "Image": "tracker impact~4.png",
       "Size": 1.0,
       "StartTime": 0.2,
+      "Lifetime": 0.05
+    },
+    {
+      "Image": "tracker impact~5.png",
+      "Size": 1.0,
+      "StartTime": 0.25,
       "Lifetime": 0.05
     }
   ]

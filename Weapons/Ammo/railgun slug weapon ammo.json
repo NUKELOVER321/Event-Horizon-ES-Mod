@@ -23,11 +23,11 @@
     {
       "Type": 3,
       "DamageType": 1,
-      "Power": 0.1
+      "Power": 0.03
     },
     {
       "Type": 1,
-      "Power": 0.001
+      "Power": 0.01
     }
   ]
 }

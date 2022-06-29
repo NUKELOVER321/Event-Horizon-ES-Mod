@@ -13,6 +13,7 @@
       "EffectType": 1,
       "VisualEffect": 200,
       "AudioClip": "explosion small",
+      "Color": "#FFD000",
       "Size": 1.0,
       "Lifetime": 1.0
     }

@@ -1,0 +1,37 @@
+{
+  "ItemType": 25,
+  "Id": 3035,
+  "Body": {
+    "Size": 1.0,
+    "Weight": 0.1,
+    "EnergyCost": 12.0
+  },
+  "Triggers": [
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 2035,
+      "Color": "#00000000",
+      "Size": 3.0,
+      "Lifetime": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 1035,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Power": 0.1
+    },
+    {
+      "Type": 1,
+      "Power": 0.1
+    }
+  ]
+}
