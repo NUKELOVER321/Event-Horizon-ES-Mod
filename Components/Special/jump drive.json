@@ -3,7 +3,7 @@
   "Id": 7000,
   "Name": "Jump Drive",
   "DisplayCategory": 6,
-  "Availability": 3,
+  "Availability": 2,
   "ComponentStatsId": 3,
   "Level": 350,
   "Icon": "jump drive.png",

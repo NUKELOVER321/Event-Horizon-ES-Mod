@@ -3,7 +3,7 @@
   "Id": 6000,
   "Name": "Nuke on a Cart",
   "DisplayCategory": 6,
-  "Availability": 3,
+  "Availability": 2,
   "ComponentStatsId": 3,
   "Level": 350,
   "Icon": "bomb cart.png",
