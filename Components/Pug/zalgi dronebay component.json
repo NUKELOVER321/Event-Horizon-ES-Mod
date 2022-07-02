@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 3026,
+  "Name": "Zalgi",
+  "DisplayCategory": 5,
+  "Availability": 3,
+  "ComponentStatsId": 3026,
+  "Faction": 216,
+  "Level": 500,
+  "Icon": "zalgi.png",
+  "Layout": "1111",
+  "CellType": "1",
+  "DroneBayId": 3026,
+  "DroneId": 3026,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    2
+  ]
+}

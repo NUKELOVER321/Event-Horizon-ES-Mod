@@ -1,0 +1,51 @@
+{
+  "ItemType": 6,
+  "Id": 3026,
+  "ShipCategory": 6,
+  "Name": "Zalgi",
+  "Faction": 216,
+  "IconImage": "zalgi.png",
+  "IconScale": 1.0,
+  "ModelImage": "zalgi.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#0094FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.3
+      },
+      "Size": 0.1
+    }
+  ],
+  "Regeneration": true,
+  "Layout": "004432234400004432234400001132231100001132231100001132231100001132231100001132231100000132231000000132231000000132231000000055550000000055550000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.5
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.5
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    }
+  ]
+}

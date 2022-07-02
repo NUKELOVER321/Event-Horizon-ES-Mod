@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1280,
+  "Name": "Zubera Stats",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 1280,
+  "Faction": 216,
+  "Level": 1000,
+  "Icon": "zubera.png",
+  "Layout": "1111111111111111",
+  "PossibleModifications": [
+    12,
+    3,
+    9
+  ]
+}
