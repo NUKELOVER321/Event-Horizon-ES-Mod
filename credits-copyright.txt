@@ -22,6 +22,7 @@ These images are licensed under CC-BY-SA 4.0 from the source and are similarly l
 A list of these images and their source plugins and/or authors are listed below.
 
 plugin Quarg ships | Quarg Military Retaliation
+plugin Pug ships | Czartrak's Ship Pack
 Type 5 Radiant Engines | Amalgamation
 KIV 750 | Korath Exiles PA
 Vector Engines, Type 0 Radiant Engines, Disruptor Gun, Model 1024 | Adde Korath Exiles Expansion (Darcy Manoel)

@@ -1,6 +1,6 @@
 {
   "ItemType": 15,
-  "Id": 1026,
+  "Id": 1029,
   "Name": "Heron encounter",
   "QuestType": 2,
   "StartCondition": 6,
@@ -12,7 +12,7 @@
         207
       ]
     },
-    "MinDistance": 300,
+    "MinDistance": 350,
     "MaxDistance": 500
   },
   "Nodes": [

@@ -390,6 +390,10 @@ Make weaker Arfecta for Pug bases
 
 0.13.2 ??? update
 
+Changelog:
+- Added the Zubera, the Zambor, and the Zalgi to the Pug faction
+- Removed the Arfecta from Pug base defenses
+
 Todo:
 Increase energy cost of torpedoes tenfold to match the Finisher
 Split Coalition Civilians into separate faction (Heliarchs stay in old faction)
