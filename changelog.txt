@@ -388,12 +388,14 @@ Todo:
 Make weaker Arfecta for Pug bases
 
 
-0.13.2 ??? update
+0.13.2 "Sol Arach" update
 
 Changelog:
 - Added the Zubera, the Zambor, and the Zalgi to the Pug faction
 - Removed the Arfecta from Pug base defenses
+- Split the Coalition Civilians and the Heliarchs into different factions
+- - Heliarch Security Forces encounterable past 450+, Trisolar Coalition at 250+
+- - Existing Coalition research, tech, and bases will go to the Heliarchs
 
 Todo:
 Increase energy cost of torpedoes tenfold to match the Finisher
-Split Coalition Civilians into separate faction (Heliarchs stay in old faction)

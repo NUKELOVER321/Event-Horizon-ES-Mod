@@ -3,11 +3,11 @@ Pirates 50
 Syndicate 100
 FW 150
 Republic 200
-Hai 250
+Hai, Coalition 250
 Remnant, Exiles 300
 Wanderers, Ka'het 350
 Mereti, Sestor 400
-Coalition / Heliarchs 450
+Heliarchs 450
 Quarg, Pug 500
 
 Ammunition, Bullet Prefab, and Impact Effect IDs will take the IDs of the weapon.
