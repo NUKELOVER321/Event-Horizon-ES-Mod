@@ -1,8 +1,8 @@
 {
   "ItemType": 14,
-  "Id": 208,
+  "Id": 218,
   "Name": "Trisolar Coalition",
-  "Color": "#FF9ABC",
-  "HomeStarDistance": 450,
-  "WanderingShipsDistance": 450
+  "Color": "#FF327A",
+  "HomeStarDistance": 250,
+  "WanderingShipsDistance": 250
 }
