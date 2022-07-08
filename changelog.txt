@@ -384,9 +384,6 @@ Changelog:
 - Changed "superweapons" to weapon type "X"
 - Changed superweapon slots on the 750, 1024, Emerald Sword, and Heron to include X slots
 
-Todo:
-Make weaker Arfecta for Pug bases
-
 
 0.13.2 "Sol Arach" update
 
