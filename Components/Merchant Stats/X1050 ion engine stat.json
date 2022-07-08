@@ -3,6 +3,7 @@
   "Id": 1021,
   "EnergyRechargeRate": -0.05,
   "EnergyRechargeCooldownModifier": 0.005,
+	"ShieldRechargeCooldownModifier": 0.005,
   "Weight": 25.0,
   "EnginePower": 1.45,
   "TurnRate": 1.45

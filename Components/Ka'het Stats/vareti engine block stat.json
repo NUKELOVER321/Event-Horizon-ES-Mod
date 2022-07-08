@@ -4,6 +4,7 @@
   "Type": 1,
   "EnergyRechargeRate": -1.08,
   "EnergyRechargeCooldownModifier": 0.017,
+	"ShieldRechargeCooldownModifier": 0.017,
   "Weight": 25.0,
   "EnginePower": 5.75,
   "TurnRate": 5.75

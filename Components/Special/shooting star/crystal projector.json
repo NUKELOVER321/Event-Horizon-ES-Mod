@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1283,
+  "Name": "Crystal Projector",
+  "DisplayCategory": 4,
+  "Availability": 3,
+  "ComponentStatsId": 1283,
+  "Level": 1000,
+  "Icon": "crystal projector.png",
+  "Layout": "111111111",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}
