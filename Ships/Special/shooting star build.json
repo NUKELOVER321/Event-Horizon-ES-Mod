@@ -1,0 +1,22 @@
+{
+  "ItemType": 8,
+  "Id": 5006,
+  "ShipId": 5006,
+  "NotAvailableInGame": true,
+  "Components": [
+    {
+      "ComponentId": 1284,
+      "Locked": true,
+      "X": 10,
+      "Y": 14,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1283,
+      "Locked": true,
+      "X": 10,
+      "Y": 18,
+      "BarrelId": -1
+    }
+  ]
+}

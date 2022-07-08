@@ -394,8 +394,11 @@ Changelog:
 - Added the Zubera, the Zambor, and the Zalgi to the Pug faction
 - Removed the Arfecta from Pug base defenses
 - Split the Coalition Civilians and the Heliarchs into different factions
-- - Heliarch Security Forces encounterable past 450+, Trisolar Coalition at 250+
+- - Heliarch Security Forces encounterable at 450+, Trisolar Coalition at 250+
 - - Existing Coalition research, tech, and bases will go to the Heliarchs
+- Fixed issue with missing Marauder Raider tech
+- Added shield cooldown values to generators, shields, coolers, engines, etc
+- - Values are identical to energy cooldown values
 
 Todo:
 Increase energy cost of torpedoes tenfold to match the Finisher

@@ -25,6 +25,7 @@ Heron 3000 30000
 "Marauder Bactrian" 5004 5004
 "Ursa Polaris" 5005 5005
 "Black Diamond" 3024
+"Shooting Star" 5006
 
 Vanilla-ish items:
 "4x4 Titanium" 2100 2100 2100
@@ -623,4 +624,22 @@ Shard Fabricator 1271
 Dragonflame Cannon 1272
 Sheragi AM 1273
 
-First unused IDs: 1283 (component), 432 (ship), 1394 (build), 3027 (drone)
+Shooting Star
+Crystal Projector 1283
+engine of some sort (112320 thrust, 65340 turn), equivalent to a X4 series engines set
+
+Floating Crystal 1284
+self-hitting pull beam
+
+Crystalline Formation 1285
+short ranged weapon
+
+Hexagonal Crystal 1286
+short ranged weapon
+
+Tree Skeleton Key Stone 1287
+stat component
+
+unspecified device to cast map-wide instakill QD
+
+First unused IDs: 1288 (component), 432 (ship), 1397 (build), 3027 (drone)
