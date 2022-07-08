@@ -72,6 +72,14 @@
     },
     {
       "Position": {
+        "x": 0.6,
+        "y": -0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
         "x": 0.3,
         "y": 0.3
       },
@@ -101,14 +109,6 @@
       },
       "PlatformType": 2,
       "WeaponClass": "CL"
-    },
-    {
-      "Position": {
-        "x": 0.6,
-        "y": -0.2
-      },
-      "PlatformType": 3,
-      "WeaponClass": "CLTM"
     }
   ]
 }

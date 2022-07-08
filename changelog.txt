@@ -396,6 +396,9 @@ Changelog:
 - Fixed issue with missing Marauder Raider tech
 - Added shield cooldown values to generators, shields, coolers, engines, etc
 - - Values are identical to energy cooldown values
+- Moved reactive armor to Free Stars tech tree
+- Fixed misplaced barrels for the Heron
 
 Todo:
 Increase energy cost of torpedoes tenfold to match the Finisher
+Make the Shooting Star's weapons and its quest

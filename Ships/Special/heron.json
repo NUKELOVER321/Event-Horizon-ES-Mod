@@ -63,6 +63,14 @@
     },
     {
       "Position": {
+        "x": 0.35,
+        "y": -0.1
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
         "x": 0.100182146,
         "y": 0.100182146
       },
@@ -101,13 +109,6 @@
     },
     {
       "Position": {
-        "x": -0.625
-      },
-      "PlatformType": 2,
-      "WeaponClass": "CL"
-    },
-    {
-      "Position": {
         "x": -0.5,
         "y": -0.125
       },
@@ -116,8 +117,7 @@
     },
     {
       "Position": {
-        "x": 0.35,
-        "y": -0.1
+        "x": -0.625
       },
       "PlatformType": 2,
       "WeaponClass": "CL"
