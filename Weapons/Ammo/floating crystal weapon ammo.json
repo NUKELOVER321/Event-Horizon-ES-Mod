@@ -1,0 +1,22 @@
+{
+  "ItemType": 25,
+  "Id": 1284,
+  "Body": {
+    "Size": 2.0,
+    "Velocity": 50.0,
+    "Range": 1.0,
+    "Weight": 0.1,
+    "EnergyCost": 3.5,
+    "FriendlyFire": true
+  },
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Type": 1,
+      "Power": 0.1
+    },
+    {
+      "Power": 0.01
+    }
+  ]
+}

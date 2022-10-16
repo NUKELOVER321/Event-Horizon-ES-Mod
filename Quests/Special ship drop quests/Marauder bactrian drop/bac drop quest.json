@@ -4,11 +4,12 @@
   "Name": "Marauder Bactrian encounter",
   "QuestType": 2,
   "StartCondition": 6,
-  "Weight": 0.1,
+  "Weight": 0.075,
   "Origin": {
     "MinDistance": 300,
     "MaxDistance": 400
   },
+  "Level": 300,
   "Nodes": [
     {
       "Id": 1,
@@ -66,7 +67,7 @@
       "Actions": [
         {
           "TargetNode": 7,
-          "ButtonText": "That is unfortunate"
+          "ButtonText": "That is unfortunate."
         }
       ]
     }

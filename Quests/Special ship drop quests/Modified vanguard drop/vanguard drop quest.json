@@ -4,11 +4,12 @@
   "Name": "Modified Vanguard encounter",
   "QuestType": 2,
   "StartCondition": 6,
-  "Weight": 0.1,
+  "Weight": 0.075,
   "Origin": {
-    "MinDistance": 150,
-    "MaxDistance": 300
+    "MinDistance": 200,
+    "MaxDistance": 350
   },
+  "Level": 200,
   "Nodes": [
     {
       "Id": 1,
@@ -66,7 +67,7 @@
       "Actions": [
         {
           "TargetNode": 7,
-          "ButtonText": "That is unfortunate"
+          "ButtonText": "That is unfortunate."
         }
       ]
     }

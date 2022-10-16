@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 1285,
+  "FireRate": 20.0,
+  "Spread": 2.5,
+  "ActivationType": 1,
+  "ShotEffectPrefab": "FlashAdditive",
+  "ControlButtonIcon": "controls_shot"
+}

@@ -1,0 +1,20 @@
+{
+  "ItemType": 1,
+  "Id": 1285,
+  "Name": "Crystalline Formation",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Level": 1000,
+  "Icon": "crystalline formation.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1285,
+  "AmmunitionId": 1285,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

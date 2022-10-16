@@ -1,0 +1,30 @@
+{
+  "ItemType": 25,
+  "Id": 1285,
+  "Body": {
+    "Size": 2.0,
+    "Velocity": 72.0,
+    "Range": 75.0,
+    "Weight": 0.1,
+    "BulletPrefab": 1029,
+    "EnergyCost": 3.5
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 1029,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Type": 2,
+      "Power": 0.2
+    },
+    {
+      "Power": 0.01
+    }
+  ]
+}

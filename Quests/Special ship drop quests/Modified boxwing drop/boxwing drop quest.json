@@ -4,11 +4,12 @@
   "Name": "Boxwing encounter",
   "QuestType": 2,
   "StartCondition": 6,
-  "Weight": 0.1,
+  "Weight": 0.075,
   "Origin": {
-    "MinDistance": 75,
-    "MaxDistance": 225
+    "MinDistance": 100,
+    "MaxDistance": 250
   },
+  "Level": 100,
   "Nodes": [
     {
       "Id": 1,
@@ -66,7 +67,7 @@
       "Actions": [
         {
           "TargetNode": 7,
-          "ButtonText": "That is unfortunate"
+          "ButtonText": "That is unfortunate."
         }
       ]
     }

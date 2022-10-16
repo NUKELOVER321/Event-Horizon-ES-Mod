@@ -398,6 +398,10 @@ Changelog:
 - - Values are identical to energy cooldown values
 - Moved reactive armor to Free Stars tech tree
 - Fixed misplaced barrels for the Heron
+- Fixed issue with quests spawning outside of intended locations
+- Reduced spawn rate of most special ship quests (25% -> 20%, 10% -> 7.5%)
+- Added the Shooting Star and a "test" quest
+- - The ship will not be capturable until the next update for balance reasons
 
 Todo:
 Increase energy cost of torpedoes tenfold to match the Finisher

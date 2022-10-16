@@ -4,11 +4,12 @@
   "Name": "Emerald Sword encounter",
   "QuestType": 2,
   "StartCondition": 6,
-  "Weight": 0.1,
+  "Weight": 0.075,
   "Origin": {
     "MinDistance": 250,
     "MaxDistance": 500
   },
+  "Level": 250,
   "Nodes": [
     {
       "Id": 1,
@@ -66,7 +67,7 @@
       "Actions": [
         {
           "TargetNode": 7,
-          "ButtonText": "That is unfortunate"
+          "ButtonText": "That is unfortunate."
         }
       ]
     }

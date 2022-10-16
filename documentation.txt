@@ -20,7 +20,6 @@ Heron 3000 30000
 "Emerald Sword" 4000 40000
 "Gatekeeper Archon" 5000 50000
 "Modified Boxwing" 5001 5001
-"Shooting Star" 5002 5002
 "Modified Vanguard" 5003 5003
 "Marauder Bactrian" 5004 5004
 "Ursa Polaris" 5005 5005
