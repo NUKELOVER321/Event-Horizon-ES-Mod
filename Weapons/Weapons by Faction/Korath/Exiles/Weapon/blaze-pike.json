@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1289,
+  "Name": "Blaze-Pike",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 209,
+  "Level": 325,
+  "Icon": "blaze-pike.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1289,
+  "AmmunitionId": 1289,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}
