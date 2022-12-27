@@ -1,0 +1,13 @@
+{
+  "ItemType": 1,
+  "Id": 1291,
+  "Name": "Liquid Sodium Cooler",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 1291,
+  "Faction": 209,
+  "Level": 375,
+  "Icon": "liquid sodium cooler.png",
+  "Layout": "1111111111111111",
+  "CellType": "2"
+}
