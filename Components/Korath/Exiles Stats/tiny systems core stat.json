@@ -3,9 +3,9 @@
   "Id": 1292,
   "Type": 1,
   "ArmorRepairRate": 0.39,
-  "EnergyPoints": 8.39,
-  "EnergyRechargeRate": -3.72,
-  "ShieldPoints": 15.48,
-  "ShieldRechargeRate": 1.548,
+  "EnergyPoints": 7.65,
+  "EnergyRechargeRate": -3.64,
+  "ShieldPoints": 14.11,
+  "ShieldRechargeRate": 1.411,
   "Weight": 25.0
 }

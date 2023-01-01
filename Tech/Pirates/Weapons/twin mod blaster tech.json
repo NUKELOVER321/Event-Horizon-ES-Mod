@@ -1,9 +1,9 @@
 {
   "ItemType": 10,
-  "Id": 1023,
-  "ItemId": 1023,
+  "Id": 1297,
+  "ItemId": 1297,
   "Faction": 202,
-  "Price": 10,
+  "Price": 8,
   "Dependencies": [
     2023
   ]
