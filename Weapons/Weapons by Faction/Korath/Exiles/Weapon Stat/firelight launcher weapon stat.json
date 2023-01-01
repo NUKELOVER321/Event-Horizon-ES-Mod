@@ -1,8 +1,10 @@
 {
   "ItemType": 3,
   "Id": 1276,
-  "FireRate": 0.85,
+  "WeaponClass": 3,
+  "FireRate": 0.5,
   "Spread": 1.0,
+  "Magazine": 3,
   "ActivationType": 1,
   "ShotSound": "firelight",
   "ShotEffectPrefab": "OrbAdditive",

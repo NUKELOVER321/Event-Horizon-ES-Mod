@@ -1,0 +1,37 @@
+{
+  "ItemType": 25,
+  "Id": 5295,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 0.5,
+    "Color": "#BFBFBF"
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1295,
+      "AudioClip": "firestorm hit",
+      "Size": 3.0,
+      "Lifetime": 3.0
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 276.0
+    },
+    {
+      "Type": 3,
+      "DamageType": 2,
+      "Power": 266.0
+    },
+    {
+      "Type": 1,
+      "DamageType": 2,
+      "Power": 0.8
+    }
+  ]
+}

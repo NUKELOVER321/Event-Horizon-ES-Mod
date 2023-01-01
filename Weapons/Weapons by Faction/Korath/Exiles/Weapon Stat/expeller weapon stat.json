@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 1294,
+  "WeaponClass": 2,
+  "ActivationType": 1,
+  "ShotSound": "*banisher~",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "controls_laser"
+}

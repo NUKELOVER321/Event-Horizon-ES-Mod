@@ -1,0 +1,33 @@
+{
+  "ItemType": 25,
+  "Id": 2298,
+  "Body": {
+    "Type": 2,
+    "Size": 15.0,
+    "Lifetime": 0.5,
+    "Color": "#FF9400",
+    "EnergyCost": 1.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 2272,
+      "AudioClip": "explosion nuke",
+      "Size": 1.0,
+      "Lifetime": 2.5
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "DamageType": 2,
+      "Power": 400.0
+    },
+    {
+      "Type": 3,
+      "DamageType": 2,
+      "Power": 500.0
+    }
+  ]
+}

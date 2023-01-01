@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1295,
+  "Name": "Firestorm Battery",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 213,
+  "Level": 475,
+  "Icon": "firestorm battery.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1295,
+  "AmmunitionId": 1295,
+  "WeaponSlotType": "M",
+  "PossibleModifications": [
+    16,
+    5,
+    7,
+    21
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1297,
+  "Name": "Twin Modified Blaster",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 201,
+  "Level": 50,
+  "Icon": "twin mod blaster.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1297,
+  "AmmunitionId": 1023,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

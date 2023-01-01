@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 4022,
+  "Name": "Blaster Turret",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 201,
+  "Level": 75,
+  "Icon": "blaster turret.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 4022,
+  "AmmunitionId": 1022,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

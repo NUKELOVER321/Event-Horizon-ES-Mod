@@ -1,0 +1,10 @@
+{
+  "ItemType": 3,
+  "Id": 1295,
+  "FireRate": 0.3,
+  "Spread": 1.0,
+  "ActivationType": 1,
+  "ShotSound": "firestorm",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "firestorm.png"
+}

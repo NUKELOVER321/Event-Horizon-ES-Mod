@@ -6,21 +6,21 @@
     "Size": 1.0,
     "Range": 35.0,
     "Lifetime": 0.1,
-    "BulletPrefab": 1155,
+    "BulletPrefab": 1290,
     "EnergyCost": 45.0
   },
   "Triggers": [
     {
       "Condition": 3,
       "EffectType": 1,
-      "VisualEffect": 1155
+      "VisualEffect": 1290
     }
   ],
   "ImpactType": 2,
   "Effects": [
     {
       "DamageType": 2,
-      "Power": 60.0
+      "Power": 62.4
     }
   ]
 }

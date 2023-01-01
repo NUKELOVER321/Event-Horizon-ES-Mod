@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1294,
+  "Name": "Expeller",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 209,
+  "Level": 350,
+  "Icon": "expeller.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1294,
+  "AmmunitionId": 1294,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "ItemType": 3,
   "Id": 2022,
-  "FireRate": 5.0,
+  "FireRate": 2.5,
   "Spread": 3.0,
   "ActivationType": 1,
   "ShotSound": "blaster",
