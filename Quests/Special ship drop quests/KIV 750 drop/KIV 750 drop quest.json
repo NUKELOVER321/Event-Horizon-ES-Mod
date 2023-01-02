@@ -1,7 +1,7 @@
 {
   "ItemType": 15,
-  "Id": 1017,
-  "Name": "Modified Vanguard encounter",
+  "Id": 1036,
+  "Name": "KIV 750 encounter",
   "QuestType": 2,
   "StartCondition": 6,
   "Weight": 0.2,
@@ -9,19 +9,23 @@
     "Factions": {
       "Type": 1,
       "List": [
-        203
+        213
       ]
     },
-    "MinDistance": 200,
-    "MaxDistance": 350
+    "MinDistance": 400,
+    "MaxDistance": 600
   },
-  "Level": 200,
+  "Requirement": {
+    "Type": 20,
+    "Faction": 205
+  },
+  "Level": 400,
   "Nodes": [
     {
       "Id": 1,
       "Type": 10,
-      "Message": "You encounter what looks like a heavily modified Vanguard passing through this area.",
-      "Enemy": 1019,
+      "Message": "You encounter a strange Kor Sestor ship passing through the area.",
+      "Enemy": 1038,
       "Actions": [
         {
           "TargetNode": 2,
@@ -38,13 +42,13 @@
       "Type": 20,
       "DefaultTransition": 3,
       "FailureTransition": 6,
-      "Enemy": 1019
+      "Enemy": 1038
     },
     {
       "Id": 3,
       "Type": 10,
       "Message": "The ship has been subdued and boarded.",
-      "Loot": 1018,
+      "Loot": 1037,
       "Actions": [
         {
           "TargetNode": 4,
@@ -56,7 +60,7 @@
       "Id": 4,
       "Type": 35,
       "DefaultTransition": 5,
-      "Loot": 1018
+      "Loot": 1037
     },
     {
       "Id": 5,

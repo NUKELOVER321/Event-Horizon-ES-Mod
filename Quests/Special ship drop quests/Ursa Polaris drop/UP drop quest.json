@@ -4,7 +4,7 @@
   "Name": "Ursa Polaris encounter",
   "QuestType": 2,
   "StartCondition": 6,
-  "Weight": 0.075,
+  "Weight": 0.1,
   "Origin": {
     "MinDistance": 350,
     "MaxDistance": 500

@@ -4,7 +4,7 @@
   "Name": "Kestrel encounter",
   "QuestType": 2,
   "StartCondition": 6,
-  "Weight": 0.075,
+  "Weight": 0.1,
   "Origin": {
     "MinDistance": 150,
     "MaxDistance": 300

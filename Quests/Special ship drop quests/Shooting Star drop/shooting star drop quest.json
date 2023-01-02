@@ -4,7 +4,7 @@
   "Name": "Shooting Star encounter",
   "QuestType": 2,
   "StartCondition": 6,
-  "Weight": 0.15,
+  "Weight": 0.2,
   "Origin": {
     "Factions": {
       "Type": 1,

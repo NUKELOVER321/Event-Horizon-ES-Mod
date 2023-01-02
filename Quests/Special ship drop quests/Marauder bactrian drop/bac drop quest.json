@@ -4,17 +4,23 @@
   "Name": "Marauder Bactrian encounter",
   "QuestType": 2,
   "StartCondition": 6,
-  "Weight": 0.075,
+  "Weight": 0.2,
   "Origin": {
+    "Factions": {
+      "Type": 1,
+      "List": [
+        201
+      ]
+    },
     "MinDistance": 300,
-    "MaxDistance": 400
+    "MaxDistance": 450
   },
   "Level": 300,
   "Nodes": [
     {
       "Id": 1,
       "Type": 10,
-      "Message": "You encounter a strange ship bearing no faction markings.",
+      "Message": "You encounter what looks like a heavily modified Bactrian passing through the area.",
       "Enemy": 1022,
       "Actions": [
         {

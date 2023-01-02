@@ -4,7 +4,7 @@
   "Name": "Heron encounter",
   "QuestType": 2,
   "StartCondition": 6,
-  "Weight": 0.15,
+  "Weight": 0.2,
   "Origin": {
     "Factions": {
       "Type": 1,
@@ -24,7 +24,7 @@
     {
       "Id": 1,
       "Type": 10,
-      "Message": "You encounter a large ship in the Remnant construction style passing through the area.",
+      "Message": "You encounter a strange Remnant ship, far larger than any known ship from that faction, passing through the area.",
       "Enemy": 1028,
       "Actions": [
         {
@@ -73,7 +73,7 @@
     {
       "Id": 6,
       "Type": 10,
-      "Message": "The Remnant ship fought off your attempt at boarding and escaped.",
+      "Message": "The strange ship fought off your attempt at boarding and escaped.",
       "Actions": [
         {
           "TargetNode": 7,
