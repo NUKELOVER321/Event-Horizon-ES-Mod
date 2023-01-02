@@ -7,7 +7,7 @@
       "Image": "star",
       "ColorMode": 2,
       "Color": "#FF1D00",
-      "Size": 1.0,
+      "Size": 1.5,
       "Lifetime": 2.0
     },
     {
@@ -19,8 +19,8 @@
       "Type": 2,
       "Image": "firestorm ring.png",
       "Color": "#00000000",
-      "Size": 3.0,
-      "Lifetime": 5.0
+      "Size": 2.0,
+      "Lifetime": 3.0
     }
   ]
 }

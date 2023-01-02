@@ -1,7 +1,7 @@
 {
   "ItemType": 3,
   "Id": 1298,
-  "FireRate": 0.33,
+  "FireRate": 1.5,
   "Spread": 1.0,
   "ActivationType": 1,
   "ShotSound": "dragonflame",

@@ -12,7 +12,7 @@
     {
       "Condition": 1,
       "EffectType": 1,
-      "VisualEffect": 2272,
+      "VisualEffect": 2298,
       "AudioClip": "explosion nuke",
       "Size": 1.0,
       "Lifetime": 2.5
@@ -21,13 +21,17 @@
   "ImpactType": 1,
   "Effects": [
     {
-      "DamageType": 2,
-      "Power": 400.0
+      "DamageType": 1,
+      "Power": 110.0
     },
     {
       "Type": 3,
       "DamageType": 2,
-      "Power": 500.0
+      "Power": 50.0
+    },
+    {
+      "Type": 1,
+      "Power": 1.0
     }
   ]
 }

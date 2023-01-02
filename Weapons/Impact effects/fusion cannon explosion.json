@@ -1,0 +1,91 @@
+{
+  "ItemType": 26,
+  "Id": 2298,
+  "Elements": [
+    {
+      "Type": 2,
+      "Image": "firestorm ring.png",
+      "Color": "#00000000",
+      "Size": 1.5,
+      "Lifetime": 2.5
+    },
+    {
+      "Type": 1,
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#FF003F",
+      "Size": 1.5,
+      "Lifetime": 2.5
+    },
+    {
+      "Type": 5,
+      "Color": "#FF9400",
+      "Size": 1.5,
+      "Lifetime": 2.5
+    },
+    {
+      "Image": "static+0.png",
+      "Size": 0.25,
+      "Lifetime": 0.05
+    },
+    {
+      "Image": "static+1.png",
+      "Size": 0.25,
+      "StartTime": 0.05,
+      "Lifetime": 0.05
+    },
+    {
+      "Image": "static+2.png",
+      "Size": 0.25,
+      "StartTime": 0.1,
+      "Lifetime": 0.05
+    },
+    {
+      "Image": "static+3.png",
+      "Size": 0.25,
+      "StartTime": 0.15,
+      "Lifetime": 0.05
+    },
+    {
+      "Image": "static+4.png",
+      "Size": 0.25,
+      "StartTime": 0.2,
+      "Lifetime": 0.05
+    },
+    {
+      "Image": "static+5.png",
+      "Size": 0.25,
+      "StartTime": 0.25,
+      "Lifetime": 0.05
+    },
+    {
+      "Image": "static+6.png",
+      "Size": 0.25,
+      "StartTime": 0.3,
+      "Lifetime": 0.05
+    },
+    {
+      "Image": "finisher sparks~0.png",
+      "Size": 0.25,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "finisher sparks~1.png",
+      "Size": 0.25,
+      "StartTime": 0.1,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "finisher sparks~2.png",
+      "Size": 0.25,
+      "StartTime": 0.2,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "finisher sparks~3.png",
+      "Size": 0.25,
+      "StartTime": 0.3,
+      "Lifetime": 0.1
+    }
+  ]
+}
