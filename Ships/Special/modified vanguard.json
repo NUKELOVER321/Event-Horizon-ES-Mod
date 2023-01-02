@@ -3,6 +3,7 @@
   "Id": 5003,
   "ShipCategory": 3,
   "Name": "Modified Vanguard",
+  "Faction": 203,
   "SizeClass": 3,
   "IconImage": "vanguard icon.png",
   "IconScale": 1.0,

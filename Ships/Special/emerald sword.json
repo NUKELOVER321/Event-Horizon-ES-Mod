@@ -1,10 +1,10 @@
 {
   "ItemType": 6,
   "Id": 4000,
-  "ShipCategory": 2,
+  "ShipCategory": 3,
   "Name": "Emerald Sword",
   "Faction": 217,
-  "SizeClass": 4,
+  "SizeClass": 3,
   "IconImage": "emerald sword icon.png",
   "IconScale": 1.2,
   "ModelImage": "emerald sword.png",

@@ -4,7 +4,7 @@
   "ShipCategory": 3,
   "Name": "Battleship",
   "Faction": 205,
-  "SizeClass": 4,
+  "SizeClass": 3,
   "IconImage": "battleship icon.png",
   "IconScale": 1.0,
   "ModelImage": "battleship.png",

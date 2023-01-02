@@ -3,6 +3,5 @@
   "Id": 20000,
   "ShipId": 2000,
   "NotAvailableInGame": true,
-  "DifficultyClass": 1,
-  "Components": []
+  "DifficultyClass": 1
 }

@@ -2,6 +2,7 @@
   "ItemType": 8,
   "Id": 1334,
   "ShipId": 412,
+  "NotAvailableInGame": true,
   "Components": [
     {
       "ComponentId": 1227,
