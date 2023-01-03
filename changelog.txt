@@ -403,6 +403,26 @@ Changelog:
 - Added the Shooting Star and a "test" quest
 - - The ship will not be capturable until the next update for balance reasons
 
-Todo:
-Increase energy cost of torpedoes tenfold to match the Finisher
-Make the Shooting Star's weapons and its quest
+0.14.1 "Kasichara" update
+
+Changelog:
+- Updated graphics for Korath reactors and weapons, the Dagger, the Manta, Pug ships, Hai ionic weapons, and others
+- Added the Navy Battleship (encounterable in Republic territory from 350 to 500 light years)
+- Added the 'nra'ret from the first wave of the Korath Expansion update as an Exiles tech tree ship
+- Tweaked the damage output of the Banisher (11.1/s -> 14.8/s)
+- Added the Blaze-Pike, Inferno, Expeller, Firestorm Battery, and Lagrange Heaver to Exiles
+- Renamed various Exiles and Automata weapons
+- Added twin versions of the blasters to Merchants
+- - Increased fire rate of blaster turrets to maintain viability (increase by 25%)
+- Fixed an issue with the Firelight Missile being assigned to the wrong faction
+- Removed KIV 750 and Model 1024 from starbase defense fleets and Automata tech trees
+- - Added KIV 750 and Model 1024 encounter quests (400 to 600 light years in Automata territory)
+- Tweaked quest spawn rates again (20% for faction specific encounters, 10% for others)
+- Modified Vanguard is now encounterable only in Syndicate territory
+- Same with Marauder Bactrian and Merchant territory
+- Appearance chance of the above two ships set to 20% to compensate
+- Updated Kestrel with a stronger build based on the MZ author ship build
+- Significantly increased energy cost of Firelight and Firestorm weapons
+- Reduced cost of most tech tree capital ships (with caps from earlier factions receiving greater proportional discounts)
+- Made most projectiles targetable by point defense active modules
+- Outfitted 2vet of Dreadnought (FW) with Quad Plasma Turrets

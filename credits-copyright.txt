@@ -1,16 +1,14 @@
-This mod is hereby released under the GPL-3+ license. You are free to redistribute it.
+Most images used in this mod, with the exception of images designated "Free To Use", originate from the game Endless Sky and are licensed under CC-BY-SA 4.0.
+A list of people who contributed to Endless Sky is available on [the Endless Sky github repo](https://github.com/endless-sky/endless-sky/).
 
-Most images used in this mod, with the exception of images designated "Free To Use", originate from the game Endless Sky.
-These images are licensed under CC-BY-SA 4.0 and have not been modified from their original state.
-Visit their Github page at https://github.com/endless-sky/endless-sky/ for a list of contributors.
-
-The development of this mod owes its success to external aid. A list of those who contributed with external aid are included below.
+The development of this mod owes its success to external aid. 
+A list of those who contributed with external aid are included below.
 
 Raul39 | creating various ship builds for the Kor Mereti faction
 Pavel Zinchenko | creating Event Horizon
 Event Horizon discord server members | play-testing
 
-Certain images used in this mod have been released under CC-BY-SA 4.0 by their creators.
+Certain "free to use" images used in this mod have been released under CC-BY-SA 4.0 by their creators.
 A list of such images and their authors are included below.
 
 Crdball | 4x4 Shield Generator, 4x4 Reactive Armor

@@ -25,6 +25,9 @@ Heron 3000 30000
 "Ursa Polaris" 5005 5005
 "Black Diamond" 3024
 "Shooting Star" 5006
+"Navy Battleship" 5007 5007
+
+First unusued quest ID for special ships:
 
 Vanilla-ish items:
 "4x4 Titanium" 2100 2100 2100
@@ -86,7 +89,7 @@ Divide power output by size.
 == Engines ==
 Ion Engines serve as a baseline.
 For every engine other than Ionics, divide its thrust/steering power by its size.
-Then divide this value by the corresponding value on the corresponding Ionic engine.
+Then divide this value by the corresponding value on the corresponding Ion engine.
 This new value determines the multiplier for that specific engine.
 
 Calculating engine power consumption:
@@ -96,15 +99,20 @@ multiply value by power consumption of ion engine.
 
 For referencing values directly from the data files:
 Multiply turn by 60 and thrust by 3600.
-== Power Packs ==
-Divide energy storage by size, then divide by a power of 10.
-== Shields ==
-Divide shield gen and energy by size. Multiply the resulting values by 5.
+Multiply energy consumption and cooling by 60.
+Multiply shield generation by 60.
+
+== Shields and Hull Regen ==
+Divide shield gen and shield energy by size. Multiply the resulting shield gen by 5.
+Set new shield generation value as shield HP and make regeneration 10% of that.
+
+Divide hull regen by size. Do not add any multipliers.
 == Heat ==
 Take heat per module and divide by size. Divide said value by 250.
 For cooling modules, divide heat per module by size then by 500.
 For active cooling, divide energy consumed by size then by 5.
-For some active cooling, the division factor is 250.
+For some active cooling, the division factor is 250 and the energy division factor is 2.5.
+NOTE: "size" refers to mass and outfit space required.
 
 == Pug stats ==
 Divide the numbers in the data files by 25.
@@ -168,7 +176,8 @@ Pirates
 "Marauder Arrow" 324 1070-1072
 "Marauder Bounder" 326 1076-1078
 "Quad Blaster" 1022
-"Modified Blaster" 1023
+"Modified Blaster Turret" 1023
+"Modified Blaster" 2023
 "Laser Turret" 1024
 "Heavy Laser Turret" 1025
 "Modified Argosy" 327 1079-1081
@@ -181,11 +190,14 @@ Pirates
 Falcon 352 1154-1156
 Leviathan 353 1157-1159
 Blaster 2022
+"Blaster Turret" 4022
 "Laser Beam" 2024
 "Heavy Laser" 2025
 "Gatling Turret" 2029
 Javelin Turret 1274
 Barrage Turret 1275
+Twin Blaster 1296
+Twin Mod Blaster 1297
 
 Syndicate
 Headhunter 325 1073-1075
@@ -283,6 +295,7 @@ D94-YV 1071
 "Electron Beam" 2073
 "Liquid Helium Cooling" 1080
 "Heavy Anti-Missile Turret" 1082
+Fusion Cannon 1298
 
 Hai
 Aphid 354 1160-1162
@@ -329,6 +342,7 @@ Railgun 1101
 Sea Scorpion 425 1373-1375
 Ionic Blaster 2245
 Ionic Turret 1245
+Tri-pulse Shredder 1293
 
 Remnant
 Starling 363 1187-1189
@@ -446,6 +460,14 @@ Reality Vector Engine 1196
 Pillager 395 1283-1285
 Marauder Raider 430 1388-1390
 Firelight Missile Launcher 1276
+Blaze-Pike 1289
+Inferno 1290
+'nra'ret 432 1394-1396
+Liquid Sodium Cooler 1291
+Tiny Systems Core 1292
+Expeller 1294
+Firestorm Battery 1295
+Lagrange Heaver 1299
 
 Ka'het
 Maeri' 392 1274-1276
@@ -641,4 +663,10 @@ stat component
 
 unspecified device to cast map-wide instakill QD
 
-First unused IDs: 1288 (component), 432 (ship), 1397 (build), 3027 (drone)
+First unused IDs: 1300 (component), 432 (ship), 1397 (build), 3027 (drone), 1035 (quest)
+
+Halved damage of Firestorms
+Firestorm energy storage is 10% of normal
+Halved fire rate of Heavers
+Heaver fire rate is = to firing energy + firing fuel
+Point defense ranges are several times (a power of 2) larger than the source material calls for.
