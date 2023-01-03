@@ -1,0 +1,50 @@
+{
+  "ItemType": 25,
+  "Id": 2299,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 10.0,
+    "Range": 20.0,
+    "BulletPrefab": 2299,
+    "EnergyCost": 2.4,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "AudioClip": "heaver shard hit",
+      "Ammunition": 3299,
+      "Color": "#00000000",
+      "Quantity": 3
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "heaver shard hit",
+      "Ammunition": 3299,
+      "Color": "#00000000",
+      "Quantity": 3,
+      "RandomFactor": 0.01
+    },
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 2299,
+      "Color": "#00000000",
+      "Size": 2.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 2299,
+      "Color": "#00000000",
+      "Size": 2.0
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 2
+    }
+  ]
+}

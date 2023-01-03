@@ -1,0 +1,47 @@
+{
+  "ItemType": 25,
+  "Id": 1299,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 30.0,
+    "Range": 24.0,
+    "BulletPrefab": 1299,
+    "EnergyCost": 43.5
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1299,
+      "AudioClip": "heaver hyperspace hit",
+      "Size": 2.0
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 2299,
+      "Color": "#00000000",
+      "Quantity": 20
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "heaver hyperspace hit",
+      "Ammunition": 2299,
+      "Color": "#00000000",
+      "Quantity": 20
+    },
+    {
+      "Condition": 5,
+      "EffectType": 1,
+      "VisualEffect": 1299,
+      "Color": "#00000000",
+      "Size": 2.0
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 2
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "ItemType": 25,
+  "Id": 3299,
+  "Body": {
+    "Size": 1.0,
+    "Velocity": 10.0,
+    "Range": 20.0,
+    "BulletPrefab": 3299,
+    "EnergyCost": 2.4,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 2299,
+      "AudioClip": "heaver shard hit",
+      "Size": 2.0
+    }
+  ],
+  "Effects": [
+    {
+      "Power": 1.4
+    },
+    {
+      "Type": 1,
+      "Power": 0.0134
+    }
+  ]
+}

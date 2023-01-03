@@ -6,7 +6,8 @@
     "Velocity": 16.0,
     "Range": 64.0,
     "BulletPrefab": 1224,
-    "EnergyCost": 4.8
+    "EnergyCost": 4.8,
+    "CanBeDisarmed": true
   },
   "Triggers": [
     {

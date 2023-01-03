@@ -1,0 +1,13 @@
+{
+  "ItemType": 26,
+  "Id": 1299,
+  "Elements": [
+    {
+      "Type": 2,
+      "Image": "heaver hyperspace hit ring.png",
+      "Color": "#00000000",
+      "Size": 3.0,
+      "Lifetime": 1.5
+    }
+  ]
+}

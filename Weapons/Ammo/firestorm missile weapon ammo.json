@@ -5,11 +5,11 @@
     "Type": 1,
     "Size": 1.0,
     "Velocity": 6.6,
-    "Range": 250.8,
+    "Range": 125.4,
     "Weight": 0.25,
     "HitPoints": 115,
     "BulletPrefab": 1295,
-    "EnergyCost": 63.5,
+    "EnergyCost": 317.5,
     "CanBeDisarmed": true
   },
   "Triggers": [
@@ -40,6 +40,7 @@
   ],
   "Effects": [
     {
+      "Type": 1,
       "DamageType": 2
     }
   ]
