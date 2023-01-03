@@ -8,9 +8,9 @@ This repository was created and updated by the user [JasonWu00](https://github.c
 
 ## Credits, Copyrights, Documentation
 
-Specific information on credits and copyrights for this project can be found in [credits_copyright.txt](../blob/master/credits_copyright.txt).
-A list of all changes to the mod can be found in [changelog.txt](../blob/master/changelog.txt).
-An unorganized list of information on various mod elements can be found in [documentation.txt](../blob/master/documentation.txt).
+Specific information on credits and copyrights for this project can be found in [credits_copyright.txt](../blob/master/credits_copyright.txt).  
+A list of all changes to the mod can be found in [changelog.txt](../blob/master/changelog.txt).  
+An unorganized list of information on various mod elements can be found in [documentation.txt](../blob/master/documentation.txt).  
 
 ## Licensing
 
