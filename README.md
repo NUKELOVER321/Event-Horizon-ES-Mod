@@ -4,7 +4,7 @@ Author: [JasonWu00](https://github.com/JasonWu00).
 
 ## Description
 
-`Event-Horizon-ES-Mod` is a mod for the game Event Horizon (the mobile/PC game, not the movie) using assets from the open source game [Endless Sky](github.com/endless-sky/endless-sky). This repository contains the source files for the mod and compiled files of past versions of the mod.
+`Event-Horizon-ES-Mod` is a mod for the game Event Horizon (the mobile/PC game, not the movie) using assets from the open source game [Endless Sky](https://github.com/endless-sky/endless-sky). This repository contains the source files for the mod and compiled files of past versions of the mod.
 
 ## History
 
