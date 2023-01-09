@@ -16,10 +16,10 @@ Note that the account uploading to the itch.io page uses a personal username ins
 
 ## Credits, Copyrights, Documentation
 
-Specific information on credits and copyrights for this project can be found in [credits_copyright.txt](../master/credits_copyright.txt).  
+Specific information on credits and copyrights for this project can be found in [credits-copyright.txt](../master/credits-copyright.txt).  
 A list of all changes to the mod can be found in [changelog.txt](../master/changelog.txt).  
 An unorganized list of information on various mod elements can be found in [documentation.txt](../master/documentation.txt).  
 
 ## Licensing
 
-Most source files in Event-Horizon-ES-Mod are licensed under a Creative Commons Attribution Share-Alike 4.0 License. Exceptions to this statement can be found in [credits_copyright.txt](../master/credits_copyright.txt).
+Most source files in Event-Horizon-ES-Mod are licensed under a Creative Commons Attribution Share-Alike 4.0 License. Exceptions to this statement can be found in [credits-copyright.txt](../master/credits-copyright.txt).
