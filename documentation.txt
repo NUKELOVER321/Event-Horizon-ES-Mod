@@ -63,7 +63,7 @@ ALTERNATIVELY
 Determining stats:
 == Weapons ==
 For projectile weapons, divide shield + hull damage per shot by 10.
-For beam weapons and missiles, divide shield + hull damage by 15 and 20 respectively.
+For beam weapons and missiles, divide shield + hull damage by 15 and 20.
 For torpedos, divide shield + hull damage by 20.
 Energy usage and range is 1/10 that of its ES equivalent.
 Divide range by 10 (50 in the case of missiles, 10 for torpedoes).

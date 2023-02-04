@@ -426,3 +426,14 @@ Changelog:
 - Reduced cost of most tech tree capital ships (with caps from earlier factions receiving greater proportional discounts)
 - Made most projectiles targetable by point defense active modules
 - Outfitted 2vet of Dreadnought (FW) with Quad Plasma Turrets
+
+0.14.2 ??? update
+
+Changelog:
+- Adjusted Beam Laser and Heavy Laser damage to use the same scaling equation as other laser weapons
+- Added Ion Beam to Republic tech tree
+- Shuffled around fuel cell and battery technologies in Merchant tech tree
+- Shuffled around some technologies in Republic tech tree
+- Buffed the Heavy Shuttle with more red and yellow slots
+- Remade the Blackbird to have 2 turret weapon slots
+- Nerfed Sea Scorpion 2vet build
