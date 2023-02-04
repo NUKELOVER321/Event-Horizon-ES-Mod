@@ -22,10 +22,10 @@ A: These statements are true and I am aware of this. I pinned this repo on my pr
 
 ## Credits, Copyrights, Documentation
 
-Specific information on credits and copyrights for this project can be found in [credits-copyright.txt](../main/credits-copyright.txt).  
-A list of all changes to the mod can be found in [changelog.txt](../main/changelog.txt).  
-An unorganized list of information on various mod elements can be found in [documentation.txt](../main/documentation.txt).  
+Specific information on credits and copyrights for this project can be found in [credits-copyright.txt](../master/credits-copyright.txt).  
+A list of all changes to the mod can be found in [changelog.txt](../master/changelog.txt).  
+An unorganized list of information on various mod elements can be found in [documentation.txt](../master/documentation.txt).  
 
 ## Licensing
 
-Most source files in Event-Horizon-ES-Mod are licensed under a Creative Commons Attribution Share-Alike 4.0 License. Exceptions to this statement can be found in [credits-copyright.txt](../main/credits-copyright.txt).
+Most source files in Event-Horizon-ES-Mod are licensed under a Creative Commons Attribution Share-Alike 4.0 License. Exceptions to this statement can be found in [credits-copyright.txt](../master/credits-copyright.txt).
