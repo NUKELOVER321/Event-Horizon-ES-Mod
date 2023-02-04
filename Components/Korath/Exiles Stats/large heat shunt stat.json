@@ -3,5 +3,6 @@
   "Id": 1157,
   "Type": 1,
   "EnergyRechargeCooldownModifier": -0.27,
+  "ShieldRechargeCooldownModifier": -0.27,
   "Weight": 25.0
 }

@@ -4,5 +4,6 @@
   "Type": 1,
   "EnergyRechargeRate": -12.87,
   "EnergyRechargeCooldownModifier": -1.418,
+  "ShieldRechargeCooldownModifier": -1.418,
   "Weight": 25.0
 }
