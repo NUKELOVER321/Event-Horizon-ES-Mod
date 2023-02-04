@@ -296,6 +296,7 @@ D94-YV 1071
 "Liquid Helium Cooling" 1080
 "Heavy Anti-Missile Turret" 1082
 Fusion Cannon 1298
+Ion Beam Turret 1301 (gun 2301)
 
 Hai
 Aphid 354 1160-1162
@@ -663,7 +664,7 @@ stat component
 
 unspecified device to cast map-wide instakill QD
 
-First unused IDs: 1300 (component), 432 (ship), 1397 (build), 3027 (drone), 1035 (quest)
+First unused IDs: 1302 (component), 432 (ship), 1397 (build), 3027 (drone), 1035 (quest)
 
 Halved damage of Firestorms
 Firestorm energy storage is 10% of normal
