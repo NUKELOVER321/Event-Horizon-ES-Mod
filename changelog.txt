@@ -437,3 +437,4 @@ Changelog:
 - Buffed the Heavy Shuttle with more red and yellow slots
 - Remade the Blackbird to have 2 turret weapon slots
 - Nerfed Sea Scorpion 2vet build
+- Increased default shield cooldown value from 0 to 0.5 (to match energy cooldown value)

@@ -4,6 +4,7 @@
   "MinimumWeightPerCell": 10.0,
   "ArmorPointsPerCell": 0.5,
   "EnergyRechargeCooldown": 0.5,
+  "ShieldRechargeCooldown": 0.5,
   "MaxVelocity": 30.0,
   "MaxTurnRate": 30.0
 }
