@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 2301,
+  "Name": "Ion Beam",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 205,
+  "Level": 200,
+  "Icon": "ion beam.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 2301,
+  "AmmunitionId": 2301,
+  "WeaponSlotType": "L",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

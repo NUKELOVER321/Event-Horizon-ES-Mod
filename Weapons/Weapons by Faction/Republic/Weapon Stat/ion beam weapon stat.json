@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 2301,
+  "WeaponClass": 2,
+  "ActivationType": 1,
+  "ShotSound": "*heavy laser~",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "controls_laser"
+}
