@@ -3,8 +3,8 @@
   "Id": 1024,
   "ItemId": 1024,
   "Faction": 202,
-  "Price": 15,
+  "Price": 10,
   "Dependencies": [
-    329
+    2023
   ]
 }
