@@ -7,7 +7,7 @@
   "IconImage": "hauler 2 icon.png",
   "IconScale": 1.0,
   "ModelImage": "hauler 2.png",
-  "ModelScale": 3.0,
+  "ModelScale": 4.0,
   "EnginePosition": {
     "x": -0.9
   },
