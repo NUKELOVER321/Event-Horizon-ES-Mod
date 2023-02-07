@@ -438,3 +438,10 @@ Changelog:
 - Remade the Blackbird to have 2 turret weapon slots
 - Nerfed Sea Scorpion 2vet build
 - Increased default shield cooldown value from 0 to 0.5 (to match energy cooldown value)
+- Removed a couple of shield generators and cooling modules from the KIV 349 and Model 512
+- Increased energy consumption per shot of all anti-missile devices by 50x
+- Made the model scales of the Haulers slightly bigger
+- Added a few blue slots to a few Republic ships
+- Fixed weird engine trail placement on FW ships
+- Modified the cell layouts of the FW hauler-carriers
+- Reduced cost of heavy laser beams and quad blaster turret
