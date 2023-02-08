@@ -430,18 +430,24 @@ Changelog:
 0.14.2 ??? update
 
 Changelog:
-- Adjusted Beam Laser and Heavy Laser damage to use the same scaling equation as other laser weapons
-- Added Ion Beam to Republic tech tree
-- Shuffled around fuel cell and battery technologies in Merchant tech tree
-- Shuffled around some technologies in Republic tech tree
-- Buffed the Heavy Shuttle with more red and yellow slots
-- Remade the Blackbird to have 2 turret weapon slots
-- Nerfed Sea Scorpion 2vet build
-- Increased default shield cooldown value from 0 to 0.5 (to match energy cooldown value)
-- Removed a couple of shield generators and cooling modules from the KIV 349 and Model 512
-- Increased energy consumption per shot of all anti-missile devices by 50x
-- Made the model scales of the Haulers slightly bigger
-- Added a few blue slots to a few Republic ships
-- Fixed weird engine trail placement on FW ships
-- Modified the cell layouts of the FW hauler-carriers
-- Reduced cost of heavy laser beams and quad blaster turret
+- Component changes
+- - Adjusted Beam Laser and Heavy Laser damage to use the same scaling equation as other laser weapons
+- - Added Ion Beam to Republic tech tree
+- - Increased energy consumption per shot of all anti-missile devices by 50x
+- Ship changes
+- - Buffed the Heavy Shuttle with more red and yellow slots
+- - Remade the Blackbird to have 2 turret weapon slots
+- - Nerfed Sea Scorpion 2vet build
+- - Removed a couple of shield generators and cooling modules from the KIV 349 and Model 512
+- - Made the model scales of the Haulers slightly bigger
+- - Added a few blue slots to a few Republic ships
+- - Fixed weird engine trail placement on FW ships
+- - Modified the cell layouts of the FW hauler-carriers
+- - Replaced Barrage Turrets on Leviathan and Falcon with Heavy Laser Beam Turrets
+- - Gave the Merchant Scout better engine slot placement
+- Tech changes
+- - Shuffled around fuel cell and battery technologies in Merchant tech tree
+- - Shuffled around some technologies in Republic tech tree
+- - Reduced tech cost of heavy laser beams and quad blaster turret
+- Global changes
+- - Increased default shield cooldown value from 0 to 0.5 (to match energy cooldown value)
