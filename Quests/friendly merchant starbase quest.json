@@ -13,7 +13,7 @@
         201
       ]
     },
-    "MaxDistance": 9999,
+    "MaxDistance": 999,
     "MaxRelations": 1
   },
   "Requirement": {
