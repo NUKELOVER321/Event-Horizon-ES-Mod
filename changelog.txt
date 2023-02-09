@@ -433,10 +433,11 @@ Changelog:
 - Component changes
 - - Adjusted Beam Laser and Heavy Laser damage to use the same scaling equation as other laser weapons
 - - Added Ion Beam to Republic tech tree
-- - Increased energy consumption per shot of all anti-missile devices by 50x
+- - Increased energy consumption per shot of all anti-missile devices by 10x
 - Ship changes
 - - Buffed the Heavy Shuttle with more red and yellow slots
 - - Remade the Blackbird to have 2 turret weapon slots
+- - Remade the Bulk Freighter to give it bigger turret slots but smaller gun slots
 - - Nerfed Sea Scorpion 2vet build
 - - Removed a couple of shield generators and cooling modules from the KIV 349 and Model 512
 - - Made the model scales of the Haulers slightly bigger
@@ -444,7 +445,9 @@ Changelog:
 - - Fixed weird engine trail placement on FW ships
 - - Modified the cell layouts of the FW hauler-carriers
 - - Replaced Barrage Turrets on Leviathan and Falcon with Heavy Laser Beam Turrets
+- - Gave Marauder Arrow 2vet Heavy Laser and 1vet Twin Modified Blaster
 - - Gave the Merchant Scout better engine slot placement
+- - Modified the Hovertank to give it omni slots
 - Tech changes
 - - Shuffled around fuel cell and battery technologies in Merchant tech tree
 - - Shuffled around some technologies in Republic tech tree

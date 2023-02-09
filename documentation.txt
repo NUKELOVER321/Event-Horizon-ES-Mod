@@ -671,4 +671,4 @@ Firestorm energy storage is 10% of normal
 Halved fire rate of Heavers
 Heaver fire rate is = to firing energy + firing fuel
 Point defense ranges are several times (a power of 2) larger than the source material calls for.
-All anti-missile device energy costs raised by 50x (Sheragi one by 25x)
+All anti-missile device energy costs raised by 10x
