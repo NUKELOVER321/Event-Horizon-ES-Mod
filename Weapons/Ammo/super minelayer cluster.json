@@ -13,11 +13,10 @@
   "Triggers": [
     {
       "Condition": 4,
-      "EffectType": 1,
-      "VisualEffect": 10000,
-      "AudioClip": "mine deploy",
-      "ColorMode": 2,
-      "Size": 2.0
+      "EffectType": 2,
+      "Ammunition": 3228,
+      "Color": "#00000000",
+      "Quantity": 10
     },
     {
       "Condition": 5,
@@ -27,7 +26,7 @@
       "Quantity": 10
     },
     {
-      "Condition": 3,
+      "Condition": 2,
       "EffectType": 2,
       "AudioClip": "mine deploy",
       "Ammunition": 3228,

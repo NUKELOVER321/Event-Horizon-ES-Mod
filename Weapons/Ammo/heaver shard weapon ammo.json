@@ -11,7 +11,7 @@
   },
   "Triggers": [
     {
-      "Condition": 3,
+      "Condition": 2,
       "EffectType": 2,
       "AudioClip": "heaver shard hit",
       "Ammunition": 3299,
@@ -28,7 +28,7 @@
       "RandomFactor": 0.01
     },
     {
-      "Condition": 3,
+      "Condition": 2,
       "EffectType": 1,
       "VisualEffect": 2299,
       "Color": "#00000000",

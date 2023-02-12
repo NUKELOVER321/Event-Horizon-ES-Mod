@@ -18,14 +18,6 @@
       "ColorMode": 2
     },
     {
-      "Condition": 3,
-      "EffectType": 2,
-      "Ammunition": 5228,
-      "Color": "#00000000",
-      "Quantity": 1,
-      "Size": 1.0
-    },
-    {
       "Condition": 5,
       "EffectType": 2,
       "AudioClip": "mine deploy",
@@ -34,6 +26,14 @@
       "Quantity": 1,
       "Size": 1.0,
       "RandomFactor": 1.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 5228,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0
     }
   ],
   "Effects": [

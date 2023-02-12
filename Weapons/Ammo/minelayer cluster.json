@@ -15,11 +15,12 @@
   "Triggers": [
     {
       "Condition": 4,
-      "EffectType": 1,
-      "VisualEffect": 3,
+      "EffectType": 2,
       "AudioClip": "mine deploy",
-      "ColorMode": 2,
-      "Size": 2.0
+      "Ammunition": 3228,
+      "Color": "#00000000",
+      "Quantity": 11,
+      "RandomFactor": 1.0
     },
     {
       "Condition": 5,
@@ -30,12 +31,12 @@
       "RandomFactor": 1.0
     },
     {
-      "Condition": 3,
+      "Condition": 2,
       "EffectType": 2,
       "AudioClip": "mine deploy",
       "Ammunition": 3228,
       "Color": "#00000000",
-      "Quantity": 10,
+      "Quantity": 11,
       "RandomFactor": 1.0
     }
   ],
