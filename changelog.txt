@@ -454,3 +454,4 @@ Changelog:
 - - Reduced tech cost of heavy laser beams and quad blaster turret
 - Global changes
 - - Increased default shield cooldown value from 0 to 0.5 (to match energy cooldown value)
+- - Fixed issue with missiles exploding when hit by any hitbox and not exploding when it should
