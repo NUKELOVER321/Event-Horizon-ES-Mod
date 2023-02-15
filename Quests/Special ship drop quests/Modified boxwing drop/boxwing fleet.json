@@ -1,7 +1,7 @@
 {
   "ItemType": 18,
   "Id": 1016,
-  "LevelBonus": 300,
+  "LevelBonus": 200,
   "NoRandomShips": true,
   "CombatTimeLimit": 1,
   "SpecificShips": [
