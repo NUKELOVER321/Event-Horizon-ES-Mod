@@ -5,6 +5,7 @@
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,
+  "Faction": 2,
   "Level": 200,
   "Icon": "rocket1",
   "Color": "#FF4040",
