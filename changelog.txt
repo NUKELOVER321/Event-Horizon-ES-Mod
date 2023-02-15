@@ -427,7 +427,7 @@ Changelog:
 - Made most projectiles targetable by point defense active modules
 - Outfitted 2vet of Dreadnought (FW) with Quad Plasma Turrets
 
-0.14.2 ??? update
+0.14.2 "Buccaneer Bay" update
 
 Changelog:
 - Component changes
@@ -455,3 +455,17 @@ Changelog:
 - Global changes
 - - Increased default shield cooldown value from 0 to 0.5 (to match energy cooldown value)
 - - Fixed issue with missiles exploding when hit by any hitbox and not exploding when it should
+
+0.14.3 ??? update
+- Component changes
+- - Increased spread of gatling guns
+- Ship changes
+- - Tweaked the Modified Argosy and Manta cell layout
+- - Fixed an issue where one of the vanilla drones had no energy storage capacity
+- - Improved slot layout of Class C Freighter
+- - Modified the Splinter's red slots to give 3 turret and 2 gun slots
+- Tech changes
+- - Shuffled around weapon technologies in Syndicate tech tree
+- - Added missing tech for torpedo, typhoon, rocket pods
+- - Added tech for HMLM3 and HMLM4 in Bushrak tech tree
+- Global changes
