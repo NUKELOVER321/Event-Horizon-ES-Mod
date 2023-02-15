@@ -13,7 +13,8 @@
     {
       "Condition": 3,
       "EffectType": 1,
-      "VisualEffect": 1034
+      "VisualEffect": 1034,
+      "Size": 1.0
     }
   ],
   "Effects": [
