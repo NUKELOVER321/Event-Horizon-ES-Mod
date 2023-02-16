@@ -464,8 +464,13 @@ Changelog:
 - - Fixed an issue where one of the vanilla drones had no energy storage capacity
 - - Improved slot layout of Class C Freighter
 - - Modified the Splinter's red slots to give 3 turret and 2 gun slots
+- - Buffed 1vet Quicksilver
 - Tech changes
 - - Shuffled around weapon technologies in Syndicate tech tree
 - - Added missing tech for torpedo, typhoon, rocket pods
 - - Added tech for HMLM3 and HMLM4 in Bushrak tech tree
 - Global changes
+
+
+Planned changes:
+- Scanners as drone and missile capturer weapons
