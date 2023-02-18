@@ -1,7 +1,6 @@
 {
   "ItemType": 6,
   "Id": 346,
-  "ShipCategory": 1,
   "Name": "Rainmaker",
   "Faction": 205,
   "SizeClass": 1,
@@ -32,16 +31,16 @@
   "Barrels": [
     {
       "Position": {
-        "x": -0.1,
-        "y": 0.5
+        "x": -0.2,
+        "y": 0.4
       },
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     },
     {
       "Position": {
-        "x": -0.1,
-        "y": -0.5
+        "x": -0.2,
+        "y": -0.4
       },
       "PlatformType": 3,
       "WeaponClass": "CLMT"

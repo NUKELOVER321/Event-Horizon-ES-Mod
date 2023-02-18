@@ -4,12 +4,6 @@
   "ShipId": 3021,
   "Components": [
     {
-      "ComponentId": 2224,
-      "Locked": true,
-      "X": 5,
-      "Y": 1
-    },
-    {
       "ComponentId": 1160,
       "Locked": true,
       "X": 4,
@@ -82,6 +76,11 @@
       "Y": 5,
       "BarrelId": -1,
       "KeyBinding": 1
+    },
+    {
+      "ComponentId": 1224,
+      "Locked": true,
+      "X": 4
     }
   ]
 }

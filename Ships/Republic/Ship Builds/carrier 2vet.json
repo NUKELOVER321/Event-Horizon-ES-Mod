@@ -411,6 +411,22 @@
       "Y": 24,
       "BarrelId": 6,
       "KeyBinding": 3
+    },
+    {
+      "ComponentId": 3005,
+      "Locked": true,
+      "X": 27,
+      "Y": 23,
+      "BarrelId": -1,
+      "KeyBinding": 5
+    },
+    {
+      "ComponentId": 3005,
+      "Locked": true,
+      "X": 5,
+      "Y": 23,
+      "BarrelId": -1,
+      "KeyBinding": 5
     }
   ]
 }
