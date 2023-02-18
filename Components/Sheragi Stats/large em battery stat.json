@@ -4,8 +4,8 @@
   "Type": 1,
   "EnergyPoints": 13.33,
   "EnergyRechargeCooldownModifier": 0.00128,
-  "ShieldPoints": 1.6,
-  "ShieldRechargeRate": 0.16,
+  "ShieldPoints": 16.0,
+  "ShieldRechargeRate": 1.6,
   "ShieldRechargeCooldownModifier": 0.00128,
   "Weight": 25.0
 }
