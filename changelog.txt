@@ -459,17 +459,23 @@ Changelog:
 0.14.3 ??? update
 - Component changes
 - - Increased spread of gatling guns
+- - Reduced weight of human plasma engines to match the 25 weight per cell standard
 - Ship changes
 - - Tweaked the Modified Argosy and Manta cell layout
 - - Fixed an issue where one of the vanilla drones had no energy storage capacity
 - - Improved slot layout of Class C Freighter
 - - Modified the Splinter's red slots to give 3 turret and 2 gun slots
 - - Buffed 1vet Quicksilver
+- - Removed drone buff components from FW and Republic drone carrier ships
+- - Increased drone count on the Auxiliary
+- - Tweaked some drones to make the slowest ones a bit faster and the fastest ones a bit slower
 - Tech changes
 - - Shuffled around weapon technologies in Syndicate tech tree
 - - Added missing tech for torpedo, typhoon, rocket pods
 - - Added tech for HMLM3 and HMLM4 in Bushrak tech tree
+- - Reduced Particle Turret tech cost to 10 to match other turrets
 - Global changes
+- - Made Pug faction hostile (enigmatic precursors do not need the player to do missions for them)
 
 
 Planned changes:
