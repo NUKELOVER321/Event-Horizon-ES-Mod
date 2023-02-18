@@ -5,7 +5,8 @@
     "Type": 2,
     "Size": 1.0,
     "Lifetime": 0.5,
-    "Color": "#FFED00"
+    "Color": "#FFED00",
+    "FriendlyFire": true
   },
   "Triggers": [
     {

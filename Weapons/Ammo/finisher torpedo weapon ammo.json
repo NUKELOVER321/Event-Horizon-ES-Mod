@@ -36,6 +36,14 @@
       "Color": "#00000000",
       "Quantity": 1,
       "Size": 5.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 2152,
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 0.5
     }
   ],
   "Effects": [
