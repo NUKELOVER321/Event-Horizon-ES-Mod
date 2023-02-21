@@ -403,6 +403,7 @@ Changelog:
 - Added the Shooting Star and a "test" quest
 - - The ship will not be capturable until the next update for balance reasons
 
+
 0.14.1 "Kasichara" update
 
 Changelog:
@@ -426,6 +427,7 @@ Changelog:
 - Reduced cost of most tech tree capital ships (with caps from earlier factions receiving greater proportional discounts)
 - Made most projectiles targetable by point defense active modules
 - Outfitted 2vet of Dreadnought (FW) with Quad Plasma Turrets
+
 
 0.14.2 "Buccaneer Bay" update
 
@@ -456,7 +458,10 @@ Changelog:
 - - Increased default shield cooldown value from 0 to 0.5 (to match energy cooldown value)
 - - Fixed issue with missiles exploding when hit by any hitbox and not exploding when it should
 
+
 0.14.3 ??? update
+
+Changelog:
 - Component changes
 - - Increased spread of gatling guns
 - - Reduced weight of human plasma engines to match the 25 weight per cell standard
@@ -470,7 +475,7 @@ Changelog:
 - - Increased drone count on the Auxiliary
 - - Tweaked some drones to make the slowest ones a bit faster and the fastest ones a bit slower
 - Tech changes
-- - Shuffled around weapon technologies in Syndicate tech tree
+- - Shuffled around weapon technologies in Syndicate, FW, and Republic tech trees
 - - Added missing tech for torpedo, typhoon, rocket pods
 - - Added tech for HMLM3 and HMLM4 in Bushrak tech tree
 - - Reduced Particle Turret tech cost to 10 to match other turrets
