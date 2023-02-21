@@ -12,7 +12,7 @@ At around June of 2021 I decided that this project would be a good idea and star
 
 The first few versions were released informally on the official Discord server for Event Horizon. Later versions were released on an [itch.io page](https://404-found.itch.io/event-horizon-es-mod).
 
-Note that the account uploading to the itch.io page uses a personal username instead of my actual name. This is because I was not keen on allowing random people on the Internet to know my real name. I request that anyone visiting that page from this link keep things that way.
+Note that the account uploading to the itch.io page uses a personal username instead of my actual name. This is because I was initially not keen on allowing random people on the Internet to know my real name.
 
 ## Pre-emptive question answering
 
