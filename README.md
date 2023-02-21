@@ -26,10 +26,10 @@ A: Some helpful people over at the Event Horizon official Discord server compile
 
 ## Credits, Copyrights, Documentation
 
-Specific information on credits and copyrights for this project can be found in [credits-copyright.txt](../master/credits-copyright.txt).  
-A list of all changes to the mod can be found in [changelog.txt](../master/changelog.txt).  
+Specific information on credits and copyrights for this project can be found in [credits-copyright.md](../master/credits-copyright.md).  
+A list of all changes to the mod can be found in [changelog.md](../master/changelog.md).  
 An unorganized list of information on various mod elements can be found in [documentation.txt](../master/documentation.txt).  
 
 ## Licensing
 
-Most source files in Event-Horizon-ES-Mod are licensed under a Creative Commons Attribution Share-Alike 4.0 License. Exceptions to this statement can be found in [credits-copyright.txt](../master/credits-copyright.txt).
+Most source files in Event-Horizon-ES-Mod are licensed under a Creative Commons Attribution Share-Alike 4.0 License (see [LICENSE.md](../master/LICENSE.md)). Exceptions to this statement can be found in [credits-copyright.md](../master/credits-copyright.md).
