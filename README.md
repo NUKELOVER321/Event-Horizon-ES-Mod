@@ -28,7 +28,7 @@ A: Some helpful people over at the Event Horizon official Discord server compile
 
 Specific information on credits and copyrights for this project can be found in [credits-copyright.md](../master/credits-copyright.md).  
 A list of all changes to the mod can be found in [changelog.md](../master/changelog.md).  
-An unorganized list of information on various mod elements can be found in [documentation.txt](../master/documentation.txt).  
+An unorganized list of information on various mod elements can be found in [documentation.md](../master/documentation.md).  
 
 ## Licensing
 
