@@ -1,4 +1,4 @@
-0.1.1 "Sol" update
+### 0.1.1 "Sol" update
 
 Changelog:
 - Endless Sky related content
@@ -18,7 +18,7 @@ Changelog:
   - Made Santa research-able
 
 
-0.1.2 "Foundry" update
+### 0.1.2 "Foundry" update
 
 Changelog:
 - Endless Sky related content
@@ -35,7 +35,7 @@ Changelog:
   - Added health regeneration to Infesticore
 
 
-0.1.3 "Alcyone" update
+### 0.1.3 "Alcyone" update
 
 Changelog:
 - Endless Sky related content
@@ -55,7 +55,7 @@ Changelog:
   - Compressed most images and reduced size of mod by ~33%
 
 
-0.2.1 "Ultima Thule" update
+### 0.2.1 "Ultima Thule" update
 
 Changelog:
 - Endless Sky related content
@@ -71,7 +71,7 @@ Changelog:
   - Reduced drone count and increased shield + hp on the Auxiliary
 
 
-0.3.1 "Aventine" update
+### 0.3.1 "Aventine" update
 
 Changelog:
 - Endless Sky related content
@@ -89,7 +89,7 @@ Changelog:
   - Reverted damage nerf (25%) to Plasma Cannon and Plasma Turret
 
 
-0.4.1 "Far'en Lai" update
+### 0.4.1 "Far'en Lai" update
 
 Changelog:
 - **Added Exiles as a faction, alongside appropriate ships, weapons, and outfits**
@@ -102,7 +102,7 @@ Changelog:
 - Reduced energy/shot for antimissile turrets by 90%
 
 
-0.4.2 "Nenia" update
+### 0.4.2 "Nenia" update
 
 Changelog:
 - Reduced push and pull force of Banisher and Grab-Strike by 80% and 50% respectively
@@ -111,7 +111,7 @@ Changelog:
 - Added slight tracking to Grab-Strike ammunition
 
 
-0.4.3 "Far Monad" update
+### 0.4.3 "Far Monad" update
 
 Changelog:
 - Reduced push and pull forces of Banisher and Grab-Strike further
@@ -119,7 +119,7 @@ Changelog:
 - Reduced tech costs for various components across multiple factions
 
 
-0.5.1 "Aki'il" update
+### 0.5.1 "Aki'il" update
 
 Changelog:
 - **Added Ka'het as a faction, alongside appropriate ships, weapons, and outfits**
@@ -132,7 +132,7 @@ Changelog:
 - Removed "hostile" attribute from Pirates
 
 
-0.6.1 "Vara K'chrai" update
+### 0.6.1 "Vara K'chrai" update
 
 Changelog:
 - **Added Wanderers as a faction, alongside appropriate ships, weapons, and outfits**
@@ -155,7 +155,7 @@ Changelog:
 ** You are very much recommended to MAKE A BACKUP of your save before updating.
 
 
-0.7.1 "Asikafarnut" update
+### 0.7.1 "Asikafarnut" update
 
 Changelog:
 - **Added the Kor Sestor as a faction, alongside appropriate ships, weapons, and outfits**
@@ -169,7 +169,7 @@ Changelog:
 - Doubled fire rate of various missiles and torpedoes
 
 
-0.8.1 "Sepetrosk" update
+### 0.8.1 "Sepetrosk" update
 
 Changelog:
 - **Added the Kor Mereti as a faction, alongside appropriate ships, weapons, and outfits**
@@ -185,7 +185,7 @@ Changelog:
 - Doubled range of all antimissile devices
 
 
-0.9.1 "Ring of Power" update
+### 0.9.1 "Ring of Power" update
 
 Changelog:
 - **Added the Coalition and Heliarchs as a faction, alongside appropriate ships, weapons, and outfits**
@@ -195,7 +195,7 @@ Changelog:
 - Modified anti-apk quest to check for a pair of AI only items on the Archon
 
 
-0.9.2 "Ring of Friendship" update
+### 0.9.2 "Ring of Friendship" update
 
 Changelog:
 - Fixed issue with missing Coalition and Heliarch ships
@@ -207,7 +207,7 @@ Changelog:
 - Remade cell layout for Vanguard
 
 
-0.9.3 "Ring of Wisdom" update
+### 0.9.3 "Ring of Wisdom" update
 
 Changelog:
 - Made all modules 25 weight per slot
@@ -217,13 +217,13 @@ Changelog:
 - Reverted some Gatling Gun nerfs
 
 
-0.10.1 "Queri" update
+### 0.10.1 "Queri" update
 
 Changelog:
 - **Added the Quarg as a faction, alongside appropriate outfits and ships**
 
 
-0.10.2 "Alpha Centauri" update
+### 0.10.2 "Alpha Centauri" update
 
 Changelog:
 - Increased model size of 349 and 512
@@ -238,7 +238,7 @@ Changelog:
 - Nerfed Bulk Freighter 1vet (heavy lasers -> laser beams)
 
 
-0.11.1 "Deneb" update
+### 0.11.1 "Deneb" update
 
 Changelog:
 - Added the Pug as a faction, alongside appropriate outfits and ships
@@ -258,7 +258,7 @@ Changelog:
 To do: change IDs of nuclear missiles
 
 
-0.11.2 "Pugglemut" update
+### 0.11.2 "Pugglemut" update
 
 Changelog:
 - Fixed missing starbases
@@ -270,7 +270,7 @@ Changelog:
 - Added range modifier to anti missile turrets
 
 
-0.11.3 "Tarazed" update
+### 0.11.3 "Tarazed" update
 
 Changelog:
 - Reverted nerf to Quarg weapons and shields
@@ -293,7 +293,7 @@ Changelog:
 - Added list of heat values to documentation
 
 
-0.12.1 "Valley of the Damned" update
+### 0.12.1 "Valley of the Damned" update
 
 Changelog:
 - Added Emerald Sword and Black Diamond
@@ -314,7 +314,7 @@ Changelog:
 - Fixed a couple of ammo effects
 
 
-0.12.2 "Zub" update
+### 0.12.2 "Zub" update
 
 Changelog:
 - Unlocked all components on Arfecta 0vet and Emerald Sword (except arfecta stats block)
@@ -334,7 +334,7 @@ Changelog:
 - Added starbases for Mereti and Sestor
 
 
-0.12.3 "Rust" update
+### 0.12.3 "Rust" update
 
 Changelog:
 - Fixed issue with improperly displayed Dragonflame Cannon firing effect
@@ -345,7 +345,7 @@ Changelog:
 - Fixed broken Proton Turret and Inertial Neutralizer techs
 
 
-0.13.1 "Viminal" update
+### 0.13.1 "Viminal" update
 
 Changelog:
 - Added the Heron, the Ember Tear, and a corresponding capture quest
@@ -385,7 +385,7 @@ Changelog:
 - Changed superweapon slots on the 750, 1024, Emerald Sword, and Heron to include X slots
 
 
-0.13.2 "Sol Arach" update
+### 0.13.2 "Sol Arach" update
 
 Changelog:
 - Added the Zubera, the Zambor, and the Zalgi to the Pug faction
@@ -404,7 +404,7 @@ Changelog:
   - The ship will not be capturable until the next update for balance reasons
 
 
-0.14.1 "Kasichara" update
+### 0.14.1 "Kasichara" update
 
 Changelog:
 - Updated graphics for Korath reactors and weapons, the Dagger, the Manta, Pug ships, Hai ionic weapons, and others
@@ -429,7 +429,7 @@ Changelog:
 - Outfitted 2vet of Dreadnought (FW) with Quad Plasma Turrets
 
 
-0.14.2 "Buccaneer Bay" update
+### 0.14.2 "Buccaneer Bay" update
 
 Changelog:
 - Component changes
@@ -459,7 +459,7 @@ Changelog:
   - Fixed issue with missiles exploding when hit by any hitbox and not exploding when it should
 
 
-0.14.3 ??? update
+### 0.14.3 ??? update
 
 Changelog:
 - Component changes
