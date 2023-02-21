@@ -2,91 +2,91 @@
 
 Changelog:
 - Endless Sky related content
-- - Added Merchants, Pirates, Syndicate, Free Worlds, and Republic, alongside appropriate ships, weapons, and outfits
-- - - Flamethrower not included as it did not reach sufficient quality standards
-- - Added heat mechanic
-- - - Modded outfits increase energy regen cooldown, while special "cooling" outfits reduce energy regen cooldown
-- - - Reduced energy regen cooldown globally (to 0.5s)
-- - Merchant starbases are friendly to the player
+  - **Added Merchants, Pirates, Syndicate, Free Worlds, and Republic, alongside appropriate ships, weapons, and outfits**
+    - Flamethrower not included as it did not reach sufficient quality standards
+  - Added heat mechanic
+    - Modded outfits increase energy regen cooldown, while special "cooling" outfits reduce energy regen cooldown
+    - Reduced energy regen cooldown globally (to 0.5s)
+  - Merchant starbases are friendly to the player
 
 - Other content
-- - Added 1 additional yellow cell to Colossus and changed engine setup
-- - Nerfed the HLC, HC, and DR
-- - Added a few 4x4 modules
-- - Added Infesticore
-- - Changed tech tree requirements for some vanilla items
-- - Made Santa research-able
+  - Added 1 additional yellow cell to Colossus and changed engine setup
+  - Nerfed the HLC, HC, and DR
+  - Added a few 4x4 modules
+  - Added Infesticore
+  - Changed tech tree requirements for some vanilla items
+  - Made Santa research-able
 
 
 0.1.2 "Foundry" update
 
 Changelog:
 - Endless Sky related content
-- - Added missing tech for Falcon and Leviathan
-- - Reduced tech costs for various Merchant items
-- - Buffed Haulers and FW carriers
-- - Fixed plasma repeater image
-- - Buffed modded laser damage output
-- - Increased gatling gun cooldown period
-- - Changed damage types of several weapons
+  - Added missing tech for Falcon and Leviathan
+  - Reduced tech costs for various Merchant items
+  - Buffed Haulers and FW carriers
+  - Fixed plasma repeater image
+  - Buffed modded laser damage output
+  - Increased gatling gun cooldown period
+  - Changed damage types of several weapons
 
 - Other content
-- - Added energy cooldown to vanilla generators
-- - Added health regeneration to Infesticore
+  - Added energy cooldown to vanilla generators
+  - Added health regeneration to Infesticore
 
 
 0.1.3 "Alcyone" update
 
 Changelog:
 - Endless Sky related content
-- - Moved Particle Cannon to Syndicate tree
-- - Resized Protector to allow for larger weapons
-- - Reorganized engine placement in various techtrees to allow for easier unlocking
-- - Nerfed range for various missiles
-- - Increased rarity of certain ships to Special
-- - Halved push force of Particle Cannon ammo (0.02 -> 0.01)
-- - Nerfed certain 1vet and 2vet builds to reduce early game difficulty
-- - - Reduced speed of Freighter and Manta 2vet
-- - - Allocated weaker weapons to Berserker
-- - - Replaced heavy lasers with beam lasers for most Pirate ships
-- - New content in progress - expect new faction in a few days
+  - Moved Particle Cannon to Syndicate tree
+  - Resized Protector to allow for larger weapons
+  - Reorganized engine placement in various techtrees to allow for easier unlocking
+  - Nerfed range for various missiles
+  - Increased rarity of certain ships to Special
+  - Halved push force of Particle Cannon ammo (0.02 -> 0.01)
+  - Nerfed certain 1vet and 2vet builds to reduce early game difficulty
+    - Reduced speed of Freighter and Manta 2vet
+    - Allocated weaker weapons to Berserker
+    - Replaced heavy lasers with beam lasers for most Pirate ships
+  - New content in progress - expect new faction in a few days
 
 - Other content
-- - Compressed most images and reduced size of mod by ~33%
+  - Compressed most images and reduced size of mod by ~33%
 
 
 0.2.1 "Ultima Thule" update
 
 Changelog:
 - Endless Sky related content
-- - Added Hai as a faction, alongside appropriate ships, weapons, and outfits
-- - Fixed asymmetrical cell layout for Protector
-- - Fixed incorrect name for Nest and Auxiliary
-- - Fixed incorrect faction allocation for Plasma Repeater and Plasma Turret
-- - Fixed incorrect thrust/turn ratio for A120 and A125 atomic engines
-- - Replaced heavy laser with beam laser on Combat Drone
-- - Fixed tech for plasma weapons and proton turret
-- - Halved cooling duct effectiveness
-- - Increased energy cost for modded dronebays
-- - Reduced drone count and increased shield + hp on the Auxiliary
+  - Added Hai as a faction, alongside appropriate ships, weapons, and outfits
+  - Fixed asymmetrical cell layout for Protector
+  - Fixed incorrect name for Nest and Auxiliary
+  - Fixed incorrect faction allocation for Plasma Repeater and Plasma Turret
+  - Fixed incorrect thrust/turn ratio for A120 and A125 atomic engines
+  - Replaced heavy laser with beam laser on Combat Drone
+  - Fixed tech for plasma weapons and proton turret
+  - Halved cooling duct effectiveness
+  - Increased energy cost for modded dronebays
+  - Reduced drone count and increased shield + hp on the Auxiliary
 
 
 0.3.1 "Aventine" update
 
 Changelog:
 - Endless Sky related content
-- - **Added Remnant as a faction, alongside appropriate ships, weapons, and outfits**
-- - Reduced speed for Hawk 2vet and 1vet
-- - Fixed bad modifier for modded shields
-- - Fixed engine placement for Manta
-- - Remade values for shields
-- - - Applied multiplier to regenerator shield and regen that has been previously applied to human shields
-- - - Increased energy consumption for regenerators
-- - - Added shield cooldown value to Hai and Syndicate regenerators
-- - - Halved shield regen for all modded shield generators
-- - Added custom sounds for modded anti-missile devices
-- - Reduced the EMP value of the Hai Railgun by 80%
-- - Reverted damage nerf (25%) to Plasma Cannon and Plasma Turret
+  - **Added Remnant as a faction, alongside appropriate ships, weapons, and outfits**
+  - Reduced speed for Hawk 2vet and 1vet
+  - Fixed bad modifier for modded shields
+  - Fixed engine placement for Manta
+  - Remade values for shields
+    - Applied multiplier to regenerator shield and regen that has been previously applied to human shields
+    - Increased energy consumption for regenerators
+    - Added shield cooldown value to Hai and Syndicate regenerators
+    - Halved shield regen for all modded shield generators
+  - Added custom sounds for modded anti-missile devices
+  - Reduced the EMP value of the Hai Railgun by 80%
+  - Reverted damage nerf (25%) to Plasma Cannon and Plasma Turret
 
 
 0.4.1 "Far'en Lai" update
@@ -242,13 +242,13 @@ Changelog:
 
 Changelog:
 - Added the Pug as a faction, alongside appropriate outfits and ships
-- - Arfecta accessibility will be provided in a future update
+  - Arfecta accessibility will be provided in a future update
 - Added unique image and icon for the Class C Freighter
 - Changed tech placement of S270 and S970 regenerators
 - Fixed broken tech for Falcon
 - Changed shield regeneration
-- - Shield Regen cooldown is reduced to 0
-- - Shield regen values are reduced to 10% of total shield values
+  - Shield Regen cooldown is reduced to 0
+  - Shield regen values are reduced to 10% of total shield values
 - Removed many outfits from smugglers
 - Reduced Archon HP and Shield by 80%
 - Added small shield cd penalty to Wanderer, Ka'het, Hai, Syndicate, and Quarg shield gens
@@ -275,20 +275,20 @@ Changelog:
 Changelog:
 - Reverted nerf to Quarg weapons and shields
 - Buffed the Plasma Packet Cannon (again)
-- - Submunition damage raised from 62.5 to 75
+  - Submunition damage raised from 62.5 to 75
 - Nerfed the Super Minelayer
-- - Primary submunition count dropped from 20 to 15
-- - Secondary submunition count dropped from 11 to 10
-- - Secondary submunition mass increased to 0.2
+  - Primary submunition count dropped from 20 to 15
+  - Secondary submunition count dropped from 11 to 10
+  - Secondary submunition mass increased to 0.2
 - Nerfed problematic Republic, Exile, Sestor, Mereti, and Quarg ships
-- - Removed and replaced some weapons, drones, and components from 1vet and 2vet builds
+  - Removed and replaced some weapons, drones, and components from 1vet and 2vet builds
 - Nerfed the Arfecta
-- - Removed half of its Gridfire count on 1vet and 2vet versions
-- - Halved its shield regen and energy storage
+  - Removed half of its Gridfire count on 1vet and 2vet versions
+  - Halved its shield regen and energy storage
 - Nerfed the Archon
-- - Reduced its shield and armor regen by 90%
+  - Reduced its shield and armor regen by 90%
 - Buffed the Williwaw Cooling
-- - Size reduced to 1x1, cooling value reduced to -0.09 per square
+  - Size reduced to 1x1, cooling value reduced to -0.09 per square
 - Resized nGVF-DD power cells to full 4x4 size
 - Added list of heat values to documentation
 
@@ -323,7 +323,7 @@ Changelog:
 - Added Modified Boxwing, Marauder Bactrian, Modified Vanguard, and Ursa Polaris
 - Unlocked Skylance and Gridfire turrets on the Ursa Polaris
 - Made most stuff on old KIV 750s, Model 1024s, Vareti'hets, Arfectas, and Emerald Swords unlockable
-- - (I think this works?)
+  - (I think this works?)
 - Fixed prevously undiscovered issue with Heavy Rocket dealing more damage than it should have
 - Doubled range of all anti missile devices
 - Decreased energy cost of Plasma Packet Cannon by about 34% (energy per projectile from 34.8 to 25)
@@ -349,31 +349,31 @@ Changelog:
 
 Changelog:
 - Added the Heron, the Ember Tear, and a corresponding capture quest
-- - The Heron can be encountered on Remnant territory with a 0.25 chance, similar to the Arfecta
+  - The Heron can be encountered on Remnant territory with a 0.25 chance, similar to the Arfecta
 - Added starbases for the Quarg and the Korath Exiles
 - Added the Finisher Maegrolein and the Firelight Missile
-- - In the Coalition and Korath Exiles tech trees respectively
+  - In the Coalition and Korath Exiles tech trees respectively
 - Added firing effects to Torpedoes, Typhoons, and Finishers
 - Modified the explosion effect for Piercers
 - Nerfed many Mereti veteran builds
-- - Model 128 and above lost systems cores, armor, and energy production and storage
-- - Model 512 lost a Slicer
-- - Model 1024 lost 2 Slicers and 2 Disruptors
+  - Model 128 and above lost systems cores, armor, and energy production and storage
+  - Model 512 lost a Slicer
+  - Model 1024 lost 2 Slicers and 2 Disruptors
 - Nerfed the larger Quarg builds
-- - Elderdragon lost 2 Skylances
-- - Elderdragon and Empyrealdragon lost some armor plates and shield gens
+  - Elderdragon lost 2 Skylances
+  - Elderdragon and Empyrealdragon lost some armor plates and shield gens
 - Rebalanced the Heliarch Punisher
-- - Reduced shield and armor count on both veteran builds significantly
-- - Added inertial neutralizers to increase speed to around 5
+  - Reduced shield and armor count on both veteran builds significantly
+  - Added inertial neutralizers to increase speed to around 5
 - Added the Marauder Raider
 - Remade the Pillager and the stock Raider with larger layouts
 - Massively reduced the energy cost of the Finisher
 - Tweaked the Ionic Afterburner
-- - Power dropped from 58 to 43.5
-- - Energy Consumption (passive and active) dropped from 10 to 9.125
+  - Power dropped from 58 to 43.5
+  - Energy Consumption (passive and active) dropped from 10 to 9.125
 - Tweaked the Bellows Afterburner
-- - Power increased from 58 to 153
-- - EC increased from 10 to 14.5
+  - Power increased from 58 to 153
+  - EC increased from 10 to 14.5
 - Added custom button images for drone bays
 - Modified Dragonflame Cannon to fit in superweapon slots
 - Modified Emerald Sword superweapon slot to fit the 5x5 square with cut corners style
@@ -390,18 +390,18 @@ Changelog:
 Changelog:
 - Added the Zubera, the Zambor, and the Zalgi to the Pug faction
 - Removed the Arfecta from Pug base defenses
-- Split the Coalition Civilians and the Heliarchs into different factions
-- - Heliarch Security Forces encounterable at 450+, Trisolar Coalition at 250+
-- - Existing Coalition research, tech, and bases will go to the Heliarchs
+- **Split the Coalition Civilians and the Heliarchs into different factions**
+  - Heliarch Security Forces encounterable at 450+, Trisolar Coalition at 250+
+  - Existing Coalition research, tech, and bases will go to the Heliarchs
 - Fixed issue with missing Marauder Raider tech
 - Added shield cooldown values to generators, shields, coolers, engines, etc
-- - Values are identical to energy cooldown values
+  - Values are identical to energy cooldown values
 - Moved reactive armor to Free Stars tech tree
 - Fixed misplaced barrels for the Heron
 - Fixed issue with quests spawning outside of intended locations
 - Reduced spawn rate of most special ship quests (25% -> 20%, 10% -> 7.5%)
 - Added the Shooting Star and a "test" quest
-- - The ship will not be capturable until the next update for balance reasons
+  - The ship will not be capturable until the next update for balance reasons
 
 
 0.14.1 "Kasichara" update
@@ -414,10 +414,10 @@ Changelog:
 - Added the Blaze-Pike, Inferno, Expeller, Firestorm Battery, and Lagrange Heaver to Exiles
 - Renamed various Exiles and Automata weapons
 - Added twin versions of the blasters to Merchants
-- - Increased fire rate of blaster turrets to maintain viability (increase by 25%)
+  - Increased fire rate of blaster turrets to maintain viability (increase by 25%)
 - Fixed an issue with the Firelight Missile being assigned to the wrong faction
 - Removed KIV 750 and Model 1024 from starbase defense fleets and Automata tech trees
-- - Added KIV 750 and Model 1024 encounter quests (400 to 600 light years in Automata territory)
+  - Added KIV 750 and Model 1024 encounter quests (400 to 600 light years in Automata territory)
 - Tweaked quest spawn rates again (20% for faction specific encounters, 10% for others)
 - Modified Vanguard is now encounterable only in Syndicate territory
 - Same with Marauder Bactrian and Merchant territory
@@ -433,30 +433,30 @@ Changelog:
 
 Changelog:
 - Component changes
-- - Adjusted Beam Laser and Heavy Laser damage to use the same scaling equation as other laser weapons
-- - Added Ion Beam to Republic tech tree
-- - Increased energy consumption per shot of all anti-missile devices by 10x
+  - Adjusted Beam Laser and Heavy Laser damage to use the same scaling equation as other laser weapons
+  - Added Ion Beam to Republic tech tree
+  - Increased energy consumption per shot of all anti-missile devices by 10x
 - Ship changes
-- - Buffed the Heavy Shuttle with more red and yellow slots
-- - Remade the Blackbird to have 2 turret weapon slots
-- - Remade the Bulk Freighter to give it bigger turret slots but smaller gun slots
-- - Nerfed Sea Scorpion 2vet build
-- - Removed a couple of shield generators and cooling modules from the KIV 349 and Model 512
-- - Made the model scales of the Haulers slightly bigger
-- - Added a few blue slots to a few Republic ships
-- - Fixed weird engine trail placement on FW ships
-- - Modified the cell layouts of the FW hauler-carriers
-- - Replaced Barrage Turrets on Leviathan and Falcon with Heavy Laser Beam Turrets
-- - Gave Marauder Arrow 2vet Heavy Laser and 1vet Twin Modified Blaster
-- - Gave the Merchant Scout better engine slot placement
-- - Modified the Hovertank to give it omni slots
+  - Buffed the Heavy Shuttle with more red and yellow slots
+  - Remade the Blackbird to have 2 turret weapon slots
+  - Remade the Bulk Freighter to give it bigger turret slots but smaller gun slots
+  - Nerfed Sea Scorpion 2vet build
+  - Removed a couple of shield generators and cooling modules from the KIV 349 and Model 512
+  - Made the model scales of the Haulers slightly bigger
+  - Added a few blue slots to a few Republic ships
+  - Fixed weird engine trail placement on FW ships
+  - Modified the cell layouts of the FW hauler-carriers
+  - Replaced Barrage Turrets on Leviathan and Falcon with Heavy Laser Beam Turrets
+  - Gave Marauder Arrow 2vet Heavy Laser and 1vet Twin Modified Blaster
+  - Gave the Merchant Scout better engine slot placement
+  - Modified the Hovertank to give it omni slots
 - Tech changes
-- - Shuffled around fuel cell and battery technologies in Merchant tech tree
-- - Shuffled around some technologies in Republic tech tree
-- - Reduced tech cost of heavy laser beams and quad blaster turret
+  - Shuffled around fuel cell and battery technologies in Merchant tech tree
+  - Shuffled around some technologies in Republic tech tree
+  - Reduced tech cost of heavy laser beams and quad blaster turret
 - Global changes
-- - Increased default shield cooldown value from 0 to 0.5 (to match energy cooldown value)
-- - Fixed issue with missiles exploding when hit by any hitbox and not exploding when it should
+  - Increased default shield cooldown value from 0 to 0.5 (to match energy cooldown value)
+  - Fixed issue with missiles exploding when hit by any hitbox and not exploding when it should
 
 
 0.14.3 ??? update
