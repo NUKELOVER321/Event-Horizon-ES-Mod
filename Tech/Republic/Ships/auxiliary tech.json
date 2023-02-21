@@ -5,7 +5,6 @@
   "ItemId": 351,
   "Price": 60,
   "Dependencies": [
-    1075,
-    1074
+    349
   ]
 }
