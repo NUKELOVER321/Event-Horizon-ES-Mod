@@ -18,7 +18,7 @@ Note that the account uploading to the itch.io page uses a personal username ins
 
 Q: "This isn't technically impressive. It doesn't show off any flashy or marketable skills. It won't matter for whether you get into an internship or job or not. Why are you pinning it to your profile?"
 
-A: These statements are true and I am aware of this. I pinned this repo on my profile not because I think a recruiter might see it and be impressed but because it's something I put effort into and am sort of proud of.
+A: These statements are true and I am aware of this. I pinned this repo on my profile because it's something I put effort into and am sort of proud of.
 
 Q: "What do all of these `.json` files do?"
 
