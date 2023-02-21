@@ -623,20 +623,20 @@ Quarg Antimissile | 1244
 Starbases
 Item Name | Item ID
 --- | ---
-Merchant | 2201 (size | 30)
+Merchant | 2201 (size 30)
 Pirates | 2202
 Syndicate | 2203
 FW | 2204
 Republic | 2205
-Hai | 2206 (size | 32)
-Remnant | 2207 (size | 35)
-Coalition | 2208 (size | 42)
-Korath Exiles | 2209 (size | 35)
+Hai | 2206 (size 32)
+Remnant | 2207 (size 35)
+Coalition | 2208 (size 42)
+Korath Exiles | 2209 (size 35)
 Ka'het | 2210 X
-Wanderers | 2211 (size | 40)
+Wanderers | 2211 (size 40)
 Mereti | 2212
 Sestor | 2213
-Quarg | 2214 (size | 45)
+Quarg | 2214 (size 45)
 
 Exclusive items
 Huge Systems Core | 1231
@@ -646,6 +646,7 @@ Nullifier | 1185
 
 Pug
 Item Name | Item ID | Build IDs (if applicable)
+--- | --- | ---
 Zibruka | 426 | 1376-1378
 Enfolta | 427 | 1379-1381
 Maboro | 428 | 1382-1384
@@ -674,6 +675,7 @@ Zalgi Stats | 1282
 
 Sheragi
 Item Name | Item ID | Build IDs (if applicable)
+--- | --- | ---
 Emerald Sword | 4000
 Black Diamond | 3024
 Large Hybrid Cooling | 1262
@@ -690,6 +692,7 @@ Sheragi AM | 1273
 
 Shooting Star
 Item Name | Item ID
+--- | ---
 Crystal Projector | 1283
 Floating Crystal | 1284
 Crystalline Formation | 1285
