@@ -50,85 +50,79 @@ Inertial Neutralizer | 2110
 
 Effects also take the ID of their weapon.
 
-Model sizes:
-1 for drones
-2 for frigates
-3 for destroyers
-4 for cruisers
-5 for battleships
-6 for caps
-12+ for super-capital ships (Heron, Bactrian, Kestrel Tester)
-Add (tier-1) to the model size for appropriate factions.
-
-ALTERNATIVELY
-2.0 for everything small
-3.0 for light warships
-4.0 for medium warships
-5.0 for heavy warships
+Model sizes:   
+1 for drones   
+2 for frigates   
+3 for destroyers   
+4 for cruisers   
+5 for battleships   
+6 for caps   
+12+ for super-capital ships (Heron, Bactrian, Kestrel Tester)   
+Add (tier-1) to the model size for appropriate factions.   
 
 Determining stats:
-== Weapons ==
-For projectile weapons, divide shield + hull damage per shot by | 10.
-For beam weapons and missiles, divide shield + hull damage by | 15 and | 20.
-For torpedos, divide shield + hull damage by | 20.
-Energy usage and range is | 1/10 that of its ES equivalent.
-Divide range by | 10 (50 in the case of missiles, 10 for torpedoes).
-Divide push force by | 2.5 then scale by a power of | 10.
+== Weapons ==   
+For projectile weapons, divide shield + hull damage per shot by 10.   
+For beam weapons and missiles, divide shield + hull damage by 15 and 20.   
+For torpedos, divide shield + hull damage by 20.   
+Energy usage and range is | 1/10 that of its ES equivalent.   
+Divide range by 10 (50 in the case of missiles, 10 for torpedoes).   
+Divide push force by 2.5 then scale by a power of 10.   
 
-Energy cost of missile and torpedo type weapons are equal to base game.
-High energy costs may be dropped down by an order of magnitude.
-High damage missiles and torpedoes may have their damage halved.
-The above is true of the Finisher and the Firelight.
+Energy cost of missile and torpedo type weapons are equal to base game.   
+High energy costs may be dropped down by an order of magnitude.   
+High damage missiles and torpedoes may have their damage halved.   
+The above is true of the Finisher and the Firelight.   
 
-For high damage special weapons like the Dragonflame and the Ember Tear:
-damage and other big numbers are reduced | 100 fold.
+For high damage special weapons like the Dragonflame and the Ember Tear:   
+damage and other big numbers are reduced | 100 fold.   
 
-Ion damage is = to base ion damage divided by | 20.
-For high damaging ion weapons the divider is | 50.
+Ion damage is = to base ion damage divided by 20.   
+For high damaging ion weapons the divider is 50.   
+Torpedoes and missiles require 5x the normal time to reload.   
 
-Torpedoes and missiles require | 5x the normal time to reload.
-== Battery Packs ==
-Divide energy per space by | 10.
-Systems Cores and Wanderer Reactors receive a x2 boost to storage.
-== Reactors ==
-Divide power output by size.
-== Engines ==
-Ion Engines serve as a baseline.
-For every engine other than Ionics, divide its thrust/steering power by its size.
-Then divide this value by the corresponding value on the corresponding Ion engine.
-This new value determines the multiplier for that specific engine.
+== Battery Packs ==   
+Divide energy per space by 10.   
+Systems Cores and Wanderer Reactors receive a x2 boost to storage.   
+== Reactors ==   
+Divide power output by size.   
+== Engines ==   
+Ion Engines serve as a baseline.   
+For every engine other than Ionics, divide its thrust/steering power by its size.   
+Then divide this value by the corresponding value on the corresponding Ion engine.   
+This new value determines the multiplier for that specific engine.   
 
-Calculating engine power consumption:
-calculate power per unit of outfit space for desired single or pair of engine(s).
-calculate power per unit of corresponding ion engine. divide former by latter.
-multiply value by power consumption of ion engine.
+Calculating engine power consumption:   
+calculate power per unit of outfit space for desired single or pair of engine(s).   
+calculate power per unit of corresponding ion engine. divide former by latter.   
+multiply value by power consumption of ion engine.   
 
-For referencing values directly from the data files:
-Multiply turn by | 60 and thrust by | 3600.
-Multiply energy consumption and cooling by | 60.
-Multiply shield generation by | 60.
+For referencing values directly from the data files:   
+Multiply turn by | 60 and thrust by 3600.   
+Multiply energy consumption and cooling by 60.   
+Multiply shield generation by 60.   
 
-== Shields and Hull Regen ==
-Divide shield gen and shield energy by size. Multiply the resulting shield gen by | 5.
-Set new shield generation value as shield HP and make regeneration | 10% of that.
+== Shields and Hull Regen ==   
+Divide shield gen and shield energy by size. Multiply the resulting shield gen by 5.   
+Set new shield generation value as shield HP and make regeneration 10% of that.   
+Divide hull regen by size. Do not add any multipliers.   
 
-Divide hull regen by size. Do not add any multipliers.
-== Heat ==
-Take heat per module and divide by size. Divide said value by | 250.
-For cooling modules, divide heat per module by size then by | 500.
-For active cooling, divide energy consumed by size then by | 5.
-For some active cooling, the division factor is | 250 and the energy division factor is | 2.5.
-NOTE: "size" refers to mass and outfit space required.
+== Heat ==   
+Take heat per module and divide by size. Divide said value by 250.   
+For cooling modules, divide heat per module by size then by 500.   
+For active cooling, divide energy consumed by size then by 5.   
+For some active cooling, the division factor is 250 and the energy division factor is | 2.5.   
+NOTE: "size" refers to mass and outfit space required.   
 
-== Pug stats ==
-Divide the numbers in the data files by | 25.
-Numbers still too big are then halved.
-Numbers too small are increased by | 33%.
+== Pug stats ==   
+Divide the numbers in the data files by 25.   
+Numbers still too big are then halved.   
+Numbers too small are increased by 33%.   
 
-Ship IDs start at 300. Component IDs start at 1000.
-Explosion ammo starts at 5000 and correspond to their parent munition in IDs.
-Gun version of turret weapons start at 2000 and correspond to their turret variant.
-Submunitions for weapons start at 3000 and correspond to their weapon.
+Ship IDs start at 300. Component IDs start at 1000.   
+Explosion ammo starts at 5000 and correspond to their parent munition in IDs.   
+Gun version of turret weapons start at 2000 and correspond to their turret variant.   
+Submunitions for weapons start at 3000 and correspond to their weapon.   
 
 Merchants
 Item Name | Item ID | Build IDs (if applicable)
