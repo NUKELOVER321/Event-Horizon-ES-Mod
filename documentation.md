@@ -17,36 +17,36 @@ Ammunition, Bullet Prefab, and Impact Effect IDs will take the IDs of the weapon
 Special ships:
 Ship Name | Ship ID | Build IDs
 --- | --- | ---
-"Super Kestrel" | 1000 | 10000
+Super Kestrel | 1000 | 10000
 Kestrel | 1001 | 10001
-"Star Fortress" | 2000 | 20000
+Star Fortress | 2000 | 20000
 Heron | 3000 | 30000
-"Emerald Sword" | 4000 | 40000
-"Gatekeeper Archon" | 5000 | 50000
-"Modified Boxwing" | 5001 | 5001
-"Modified Vanguard" | 5003 | 5003
-"Marauder Bactrian" | 5004 | 5004
-"Ursa Polaris" | 5005 | 5005
-"Black Diamond" | 3024
-"Shooting Star" | 5006
-"Navy Battleship" | 5007 | 5007
+Emerald Sword | 4000 | 40000
+Gatekeeper Archon | 5000 | 50000
+Modified Boxwing | 5001 | 5001
+Modified Vanguard | 5003 | 5003
+Marauder Bactrian | 5004 | 5004
+Ursa Polaris | 5005 | 5005
+Black Diamond | 3024
+Shooting Star | 5006
+Navy Battleship | 5007 | 5007
 
 First unusued quest ID for special ships:
 
 Vanilla-ish items:
 Item Name | Item, Stat, Tech IDs
 --- | ---
-"4x4 Titanium" | 2100
-"Heavy Vamp Ray tech" | 2101
-"AI Heavy Vamp Ray tech" | 2102
+4x4 Titanium | 2100
+Heavy Vamp Ray tech | 2101
+AI Heavy Vamp Ray tech | 2102
 Infesticore | 2103, 2103-2105 
-"4x4 Shield" | 2104
-"4x4 Reactive" | 2105
-"4x4 Fuel" | 2106
-"4x4 Armored Fuel" | 2107
-"High Energy Focus m3" | 2108
-"Automated Reloader m3" | 2109
-"Inertial Neutralizer" | 2110
+4x4 Shield | 2104
+4x4 Reactive | 2105
+4x4 Fuel | 2106
+4x4 Armored Fuel | 2107
+High Energy Focus m3 | 2108
+Automated Reloader m3 | 2109
+Inertial Neutralizer | 2110
 
 Effects also take the ID of their weapon.
 
@@ -118,17 +118,17 @@ Take heat per module and divide by size. Divide said value by | 250.
 For cooling modules, divide heat per module by size then by | 500.
 For active cooling, divide energy consumed by size then by | 5.
 For some active cooling, the division factor is | 250 and the energy division factor is | 2.5.
-NOTE: "size" | refers to mass and outfit space required.
+NOTE: "size" refers to mass and outfit space required.
 
 == Pug stats ==
 Divide the numbers in the data files by | 25.
 Numbers still too big are then halved.
 Numbers too small are increased by | 33%.
 
-Ship IDs start at | 300. Component IDs start at | 1000.
-Explosion ammo starts at | 5000 and correspond to their parent munition in IDs.
-Gun version of turret weapons start at | 2000 and correspond to their turret variant.
-Submunitions for weapons start at | 3000 and correspond to their weapon.
+Ship IDs start at 300. Component IDs start at 1000.
+Explosion ammo starts at 5000 and correspond to their parent munition in IDs.
+Gun version of turret weapons start at 2000 and correspond to their turret variant.
+Submunitions for weapons start at 3000 and correspond to their weapon.
 
 Merchants
 Item Name | Item ID | Build IDs (if applicable)
@@ -145,65 +145,65 @@ Wasp | 309 | 1025-1027
 Clipper | 310 | 1028-1030
 Argosy | 311 | 1031-1033
 Freighter | 312 | 1034-1036
-"Hauler 1" | 313 | 1037-1039
+Hauler 1 | 313 | 1037-1039
 Arrow | 314 | 1040-1042
 Blackbird | 315 | 1043-1045
 Bounder | 316 | 1046-1048
 Scout | 317 | 1049-1051
-"Star Queen" | 318 | 1052-1054
-"Hauler 2" | 319 | 1055-1057
-"Hauler 3" | 320 | 1058-1060
+Star Queen | 318 | 1052-1054
+Hauler 2 | 319 | 1055-1057
+Hauler 3 | 320 | 1058-1060
 Behemoth | 321 | 1061-1063
-"Bulk Freighter" | 322 | 1064-1066
-"nGVF-AA Fuel Cell" | 1001
-"nGVF-BB Fuel Cell" | 1002
-"nGVF-CC Fuel Cell" | 1003
-"nGVF-DD Fuel Cell" | 1004
-"nGVF-EE Fuel Cell" | 1005
+Bulk Freighter | 322 | 1064-1066
+nGVF-AA Fuel Cell | 1001
+nGVF-BB Fuel Cell | 1002
+nGVF-CC Fuel Cell | 1003
+nGVF-DD Fuel Cell | 1004
+nGVF-EE Fuel Cell | 1005
 Bactrian | 323 | 1067-1069
-"LP036a Battery Pack" | 1006
-"LP072a Battery Pack" | 1007
-"LP144a Battery Pack" | 1008
-"LP288a Battery Pack" | 1009
-"LP576a Battery Pack" | 1010
-"X1050 Ion Engines" | 1021
-"X1700 Ion Thruster" | 1011
-"X1200 Ion Steering" | 1012
-"X2700 Ion Thruster" | 1013
-"X2200 Ion Steering" | 1014
-"X3700 Ion Thruster" | 1015
-"X3200 Ion Steering" | 1016
-"X4700 Ion Thruster" | 1017
-"X4200 Ion Steering" | 1018
-"X5700 Ion Thruster" | 1019
-"X5200 Ion Steering" | 1020
+LP036a Battery Pack | 1006
+LP072a Battery Pack | 1007
+LP144a Battery Pack | 1008
+LP288a Battery Pack | 1009
+LP576a Battery Pack | 1010
+X1050 Ion Engines | 1021
+X1700 Ion Thruster | 1011
+X1200 Ion Steering | 1012
+X2700 Ion Thruster | 1013
+X2200 Ion Steering | 1014
+X3700 Ion Thruster | 1015
+X3200 Ion Steering | 1016
+X4700 Ion Thruster | 1017
+X4200 Ion Steering | 1018
+X5700 Ion Thruster | 1019
+X5200 Ion Steering | 1020
 Boxwing | 3004
-"Cooling Vent" | 1077
+Cooling Vent | 1077
 
 Pirates
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-"Marauder Arrow" | 324 | 1070-1072
-"Marauder Bounder" | 326 | 1076-1078
-"Quad Blaster" | 1022
-"Modified Blaster Turret" | 1023
-"Modified Blaster" | 2023
-"Laser Turret" | 1024
-"Heavy Laser Turret" | 1025
-"Modified Argosy" | 327 | 1079-1081
-"Marauder Raven" | 328 | 1082-1084
-"Marauder Fury" | 329 | 1085-1087
-"Meteor Missile Launcher" | 1026 (Pod 2026)
-"Sidewinder Missile Launcher" | 1027 (Pod 2027)
-"Javelin Rocket Launcher" | 1028 (Pod 2028)
-"Gatling Gun" | 1029
+Marauder Arrow | 324 | 1070-1072
+Marauder Bounder | 326 | 1076-1078
+Quad Blaster | 1022
+Modified Blaster Turret | 1023
+Modified Blaster | 2023
+Laser Turret | 1024
+Heavy Laser Turret | 1025
+Modified Argosy | 327 | 1079-1081
+Marauder Raven | 328 | 1082-1084
+Marauder Fury | 329 | 1085-1087
+Meteor Missile Launcher | 1026 (Pod 2026)
+Sidewinder Missile Launcher | 1027 (Pod 2027)
+Javelin Rocket Launcher | 1028 (Pod 2028)
+Gatling Gun | 1029
 Falcon | 352 | 1154-1156
 Leviathan | 353 | 1157-1159
 Blaster | 2022
-"Blaster Turret" | 4022
-"Laser Beam" | 2024
-"Heavy Laser" | 2025
-"Gatling Turret" | 2029
+Blaster Turret | 4022
+Laser Beam | 2024
+Heavy Laser | 2025
+Gatling Turret | 2029
 Javelin Turret | 1274
 Barrage Turret | 1275
 Twin Blaster | 1296
@@ -218,26 +218,26 @@ Corvette | 331 | 1091-1093
 Manta | 332 | 1094-1096
 Splinter | 333 | 1097-1099
 Vanguard | 334 | 1101-1103
-"Class C Freighter" | 335 | 1103-1105
+Class C Freighter | 335 | 1103-1105
 Protector | 336 | 1106-1108
 Barb | 3001
-"RT-I Radiothermal" | 1030
-"NT200 Nucleiovoltaic" | 103
-"S1 Thermionic" | 1032
-"Dwarf Core" | 1033
-"Proton Turret" | 1034
-"Torpedo Launcher" | 1035 (Pod | 2035)
-"Nuclear Missile" | 1036
-"Ionic Afterburner" | 1037
-"S270 Regenerator" | 1038
-"S970 Regenerator" | 1039
-"Proton Gun" | 2034
-"Water Cooling System" | 1078
-"Anti-Missile Turret" | 1081
+RT-I Radiothermal | 1030
+NT200 Nucleiovoltaic | 103
+S1 Thermionic | 1032
+Dwarf Core | 1033
+Proton Turret | 1034
+Torpedo Launcher | 1035 (Pod | 2035)
+Nuclear Missile | 1036
+Ionic Afterburner | 1037
+S270 Regenerator | 1038
+S970 Regenerator | 1039
+Proton Gun | 2034
+Water Cooling System | 1078
+Anti-Missile Turret | 1081
 
 Special
-"Dead Ringer" | 5000 [N/A - no tech]
-"Nuke on a Cart" | 6000
+Dead Ringer | 5000 [N/A - no tech]
+Nuke on a Cart | 6000
 Jump Drive | 7000
 
 FW
@@ -254,27 +254,27 @@ Skein | 344 | 1130-1132
 Dreadnought | 345 | 1133-1135
 Dagger | 3002
 Finch | 3003
-"Chipmunk Plasma Thruster" | 1040
-"Chipmunk Plasma Steering" | 1041
-"Greyhound Plasma Thruster" | 1042
-"Greyhound Plasma Steering" | 1043
-"Impala Plasma Thruster" | 1044
-"Impala Plasma Steering" | 1045
-"Orca Plasma Thruster" | 1046
-"Orca Plasma Steering" | 1047
-"Tyrant Plasma Thruster" | 1048
-"Tyrant Plasma Steering" | 1049
-"Heavy Rocket" | 1050 (Pod | 2050)
-"Plasma Turret" | 1051 (cannon | 2051)
-"Fission Reactor" | 1052
-"Breeder Reactor" | 1053
-"Stack Core" | 1054
+Chipmunk Plasma Thruster | 1040
+Chipmunk Plasma Steering | 1041
+Greyhound Plasma Thruster | 1042
+Greyhound Plasma Steering | 1043
+Impala Plasma Thruster | 1044
+Impala Plasma Steering | 1045
+Orca Plasma Thruster | 1046
+Orca Plasma Steering | 1047
+Tyrant Plasma Thruster | 1048
+Tyrant Plasma Steering | 1049
+Heavy Rocket | 1050 (Pod | 2050)
+Plasma Turret | 1051 (cannon | 2051)
+Fission Reactor | 1052
+Breeder Reactor | 1053
+Stack Core | 1054
 Flamethrower | 1055
 D14-RN | 1056
 D23-QP | 1057
 D41-HY | 1058
-"Liquid Nitrogen Cooling" | 1079
-"Plasma Repeater" | 1084
+Liquid Nitrogen Cooling | 1079
+Plasma Repeater | 1084
 Quad Plasma Turret | 1246
 
 Republic
@@ -288,29 +288,29 @@ Carrier | 350 | 1148-1150
 Auxiliary | 351 | 1151-1153
 Lance | 3005
 Dropship | 3006
-"Combat Drone" | 3007
-"AR120 Atomic Engines" | 1059
-"A120 Atomic Thruster" | 1060
-"A125 Atomic Steering" | 1061
-"A250 Atomic Thruster" | 1062
-"A255 Atomic Steering" | 1063
-"A370 Atomic Thruster" | 1064
-"A375 Atomic Steering" | 1065
-"A520 Atomic Thruster" | 1066
-"A525 Atomic Steering" | 1067
-"A860 Atomic Thruster" | 1068
-"A865 Atomic Steering" | 1069
+Combat Drone | 3007
+AR120 Atomic Engines | 1059
+A120 Atomic Thruster | 1060
+A125 Atomic Steering | 1061
+A250 Atomic Thruster | 1062
+A255 Atomic Steering | 1063
+A370 Atomic Thruster | 1064
+A375 Atomic Steering | 1065
+A520 Atomic Thruster | 1066
+A525 Atomic Steering | 1067
+A860 Atomic Thruster | 1068
+A865 Atomic Steering | 1069
 D67-TM | 1070
 D94-YV | 1071
-"Particle Turret" | 1072
-"Electron Beam Turret" | 1073
-"Typhoon Torpedo" | 1074 (Pod 2074)
-"Fusion Reactor" | 1075
-"Armageddon Core" | 1076
-"Particle Cannon" | 2072
-"Electron Beam" | 2073
-"Liquid Helium Cooling" | 1080
-"Heavy Anti-Missile Turret" | 1082
+Particle Turret | 1072
+Electron Beam Turret | 1073
+Typhoon Torpedo | 1074 (Pod 2074)
+Fusion Reactor | 1075
+Armageddon Core | 1076
+Particle Cannon | 2072
+Electron Beam | 2073
+Liquid Helium Cooling | 1080
+Heavy Anti-Missile Turret | 1082
 Fusion Cannon | 1298
 Ion Beam Turret | 1301 (gun 2301)
 
@@ -319,45 +319,45 @@ Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Aphid | 354 | 1160-1162
 Grasshopper | 355 | 1163-1165
-"Lightning Bug" | 356 | 1166-1168
-"Water Bug" | 357 | 1169-1171
+Lightning Bug | 356 | 1166-1168
+Water Bug | 357 | 1169-1171
 Centipede | 358 | 1172-1174
 Geocoris | 359 | 1175-1177
-"Shield Beetle" | 360 | 1178-1180
+Shield Beetle | 360 | 1178-1180
 Solifuge | 361 | 1181-1183
-"Pond Strider" | 362 | 1184-1186
+Pond Strider | 362 | 1184-1186
 Flea | 3008
-"Violin Spider" | 3009
-"Chasm Battery" | 1083
-"Fissure Battery" | 1085
-"Gorge Battery" | 1086
-"Ravine Battery" | 1087
-"Valley Battery" | 1088
-"Sand Cell" | 1089
-"Pebble Core" | 1090
-"Geode Reactor" | 1091
-"Boulder Reactor" | 1092
-"Corundum Regenerator" | 1093
-"Diamond Regenerator" | 1094
-"Williwaw Cooling" | 1095
-"Bullfrog Anti-missile" | 1096
-"Chameleon Anti-missile" | 1097
-"Pulse Cannon" | 2098
-"Pulse Turret" | 1098
-"Ion Cannon" | 1099
-"Tracker Pod" | 1100
+Violin Spider | 3009
+Chasm Battery | 1083
+Fissure Battery | 1085
+Gorge Battery | 1086
+Ravine Battery | 1087
+Valley Battery | 1088
+Sand Cell | 1089
+Pebble Core | 1090
+Geode Reactor | 1091
+Boulder Reactor | 1092
+Corundum Regenerator | 1093
+Diamond Regenerator | 1094
+Williwaw Cooling | 1095
+Bullfrog Anti-missile | 1096
+Chameleon Anti-missile | 1097
+Pulse Cannon | 2098
+Pulse Turret | 1098
+Ion Cannon | 1099
+Tracker Pod | 1100
 Railgun | 1101
-"Baellie Atomic Engines" | 1102
-"Basrem Atomic Thruster" | 1103
-"Basrem Atomic Steering" | 1104
-"Benga Atomic Thruster" | 1105
-"Benga Atomic Steering" | 1106
-"Biroo Atomic Thruster" | 1107
-"Biroo Atomic Steering" | 1108
-"Bondir Atomic Thruster" | 1109
-"Bondir Atomic Steering" | 1110
-"Bufaer Atomic Thruster" | 1111
-"Bufaer Atomic Steering" | 1112
+Baellie Atomic Engines | 1102
+Basrem Atomic Thruster | 1103
+Basrem Atomic Steering | 1104
+Benga Atomic Thruster | 1105
+Benga Atomic Steering | 1106
+Biroo Atomic Thruster | 1107
+Biroo Atomic Steering | 1108
+Bondir Atomic Thruster | 1109
+Bondir Atomic Steering | 1110
+Bufaer Atomic Thruster | 1111
+Bufaer Atomic Steering | 1112
 Sea Scorpion | 425 | 1373-1375
 Ionic Blaster | 2245
 Ionic Turret | 1245
@@ -374,25 +374,25 @@ Pelican | 367 | 1199-1201
 Albatross | 368 | 1202-1204
 Petrel | 3010
 Tern | 3011
-"Crystal Capacitor" | 1114
-"Point Defense Turret" | 1115
-"Thermoelectric Cooler" | 1116
-"Bellows Afterburner" | 1117
-"Millennium Cell" | 1118
-"Epoch Cell" | 1119
-"Aeon Cell" | 1120
-"Anvil Engines" | 1121
-"Crucible Thruster" | 1122
-"Crucible Steering" | 1123
-"Forge Thruster" | 1124
-"Forge Steering" | 1125
-"Smelter Thruster" | 1126
-"Smelter Steering" | 1127
-"Thrasher Cannon" | 2128
-"Thrasher Turret" | 1128
-"Inhibitor Cannon" | 2129
-"Inhibitor Turret" | 1129
-"EMP Torpedo Bay" | 1130
+Crystal Capacitor | 1114
+Point Defense Turret | 1115
+Thermoelectric Cooler | 1116
+Bellows Afterburner | 1117
+Millennium Cell | 1118
+Epoch Cell | 1119
+Aeon Cell | 1120
+Anvil Engines | 1121
+Crucible Thruster | 1122
+Crucible Steering | 1123
+Forge Thruster | 1124
+Forge Steering | 1125
+Smelter Thruster | 1126
+Smelter Steering | 1127
+Thrasher Cannon | 2128
+Thrasher Turret | 1128
+Inhibitor Cannon | 2129
+Inhibitor Turret | 1129
+EMP Torpedo Bay | 1130
 Penguin | 369 | 1205-1207
 Ember Tear | 1278
 
@@ -674,8 +674,8 @@ Zalgi Stats | 1282
 
 Sheragi
 Item Name | Item ID | Build IDs (if applicable)
-"Emerald Sword" | 4000
-"Black Diamond" | 3024
+Emerald Sword | 4000
+Black Diamond | 3024
 Large Hybrid Cooling | 1262
 Small Hybrid Cooling | 1263
 Large EM Battery | 1264
@@ -701,7 +701,7 @@ First unused IDs: 1302 (component), 432 (ship), 1397 (build), 3027 (drone), 1035
 
 Assorted changes that deviate from the "convert Endless Sky stats to Event Horizon stats as closely as possible" rule:
 Halved damage of Firestorms
-Firestorm energy storage is | 10% of normal
+Firestorm energy storage is 10% of normal
 Halved fire rate of Heavers
 Heaver fire rate is = to firing energy + firing fuel
 Point defense ranges are several times (a power of 2) larger than the source material calls for.
