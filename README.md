@@ -20,7 +20,7 @@ Q: "This isn't technically impressive. It doesn't show off any flashy or marketa
 
 A: These statements are true and I am aware of this. I pinned this repo on my profile not because I think a recruiter might see it and be impressed but because it's something I put effort into and am sort of proud of.
 
-Q: "What do all of these `.json` files do?
+Q: "What do all of these `.json` files do?"
 
 A: Some helpful people over at the Event Horizon official Discord server compiled this ["Database User Manual"](https://docs.google.com/document/d/1TsxbbtUkF_OKdpotKNQEiPqvW3xi8CTUipUiFz51CZY/edit?usp=sharing) that details exactly what everything does. This manual explains everything far better than I possibly could, but it is a bit of a long read.
 
