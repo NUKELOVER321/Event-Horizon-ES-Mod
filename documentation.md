@@ -627,7 +627,7 @@ Hai | 2206 (size 32)
 Remnant | 2207 (size 35)
 Coalition | 2208 (size 42)
 Korath Exiles | 2209 (size 35)
-Ka'het | 2210 X
+Ka'het | 2210
 Wanderers | 2211 (size 40)
 Mereti | 2212
 Sestor | 2213
