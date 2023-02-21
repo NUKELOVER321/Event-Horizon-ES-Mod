@@ -235,11 +235,6 @@ Proton Gun | 2034
 Water Cooling System | 1078
 Anti-Missile Turret | 1081
 
-Special
-Dead Ringer | 5000 [N/A - no tech]
-Nuke on a Cart | 6000
-Jump Drive | 7000
-
 FW
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
@@ -638,11 +633,16 @@ Mereti | 2212
 Sestor | 2213
 Quarg | 2214 (size 45)
 
-Exclusive items
+Exclusive items (no technology files)
+Item Name | Item / Stat / Device ID
+--- | ---
 Huge Systems Core | 1231
 Quad Plasma Core | 1232
 Reality Vector Engines | 1196
 Nullifier | 1185
+Dead Ringer | 5000
+Nuke on a Cart | 6000
+Jump Drive | 7000
 
 Pug
 Item Name | Item ID | Build IDs (if applicable)
@@ -691,7 +691,7 @@ Dragonflame Cannon | 1272
 Sheragi AM | 1273
 
 Shooting Star
-Item Name | Item ID
+Item Name | Item and Build ID
 --- | ---
 Crystal Projector | 1283
 Floating Crystal | 1284
