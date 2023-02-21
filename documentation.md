@@ -226,7 +226,7 @@ NT200 Nucleiovoltaic | 103
 S1 Thermionic | 1032
 Dwarf Core | 1033
 Proton Turret | 1034
-Torpedo Launcher | 1035 (Pod | 2035)
+Torpedo Launcher | 1035 (Pod 2035)
 Nuclear Missile | 1036
 Ionic Afterburner | 1037
 S270 Regenerator | 1038
@@ -259,8 +259,8 @@ Orca Plasma Thruster | 1046
 Orca Plasma Steering | 1047
 Tyrant Plasma Thruster | 1048
 Tyrant Plasma Steering | 1049
-Heavy Rocket | 1050 (Pod | 2050)
-Plasma Turret | 1051 (cannon | 2051)
+Heavy Rocket | 1050 (Pod 2050)
+Plasma Turret | 1051 (gun 2051)
 Fission Reactor | 1052
 Breeder Reactor | 1053
 Stack Core | 1054
@@ -512,8 +512,8 @@ Telis Engine Nacelles | 1177
 Vareti Engine Block | 1178
 Support Cooling | 1179
 Primary Cooling | 1180
-Annihilator Turret | 1181 (Gun | 2181)
-Ravager Turret | 1182 (Gun | 2182)
+Annihilator Turret | 1181 (Gun 2181)
+Ravager Turret | 1182 (Gun 2182)
 EMP Deployer | 1183
 MHD Deployer | 1184
 Nullifier | 1185
@@ -544,8 +544,8 @@ White Sun | 1203
 Blue Sun | 1204
 Wanderer Heat Sink | 1205
 Wanderer Large Heat Sink | 1206
-Sunbeam Turret | 1207 (gun | 2207)
-Thunderhead Launcher | 1208 (fragment | 3208)
+Sunbeam Turret | 1207 (gun 2207)
+Thunderhead Launcher | 1208 (fragment 3208)
 Wanderer AM | 1209
 Wanderer Heavy AM | 1210
 Type | 0 Radiant Engines | 1211
@@ -559,7 +559,7 @@ Type | 4 Radiant Thruster | 1218
 Type | 4 Radiant Steering | 1219
 Type | 5 Radiant Thruster | 1220
 Type | 5 Radiant Steering | 1221
-Moonbeam | 1222 (Gun | 2222)
+Moonbeam | 1222 (Gun 2222)
 
 Kor Sestor
 Item Name | Item ID | Build IDs (if applicable)
@@ -573,9 +573,9 @@ KIV 349 | 411 | 1331-1333
 KIV 750 | 412 | 1334-1336
 FL 14 | 3021
 FO 27 | 3022
-Repeater Turret | 1223 (Gun | 2223)
-Heavy Repeater Turret | 1224 (Gun | 2224)
-Detainer Turret | 1225 (Gun | 2225)
+Repeater Turret | 1223 (Gun 2223)
+Heavy Repeater Turret | 1224 (Gun 2224)
+Detainer Turret | 1225 (Gun 2225)
 Piercer Launcher | 1226
 Plasma Packet Cannon | 1227
 
@@ -591,8 +591,8 @@ Model 256 | 418 | 1352-1354
 Model 512 | 419 | 1355-1357
 Model 1024 | 420 | 1358-1360
 Minelayer | 1228 (submunition | 3228)
-Slicer Turret | 1229 (Gun | 2229)
-Disruptor Turret | 1230 (Gun | 2230)
+Slicer Turret | 1229 (Gun 2229)
+Disruptor Turret | 1230 (Gun 2230)
 Super Minelayer | 1233
 
 Quarg
