@@ -465,15 +465,22 @@ Changelog:
 - Component changes
   - Increased spread of gatling guns
   - Reduced weight of human plasma engines to match the 25 weight per cell standard
+  - Added Liquid Sodium Cooler to Exiles tree
 - Ship changes
   - Tweaked the Modified Argosy and Manta cell layout
   - Fixed an issue where one of the vanilla drones had no energy storage capacity
   - Improved slot layout of Class C Freighter
   - Modified the Splinter's red slots to give 3 turret and 2 gun slots
   - Buffed 1vet Quicksilver
-  - Removed drone buff components from FW and Republic drone carrier ships
+  - Removed drone buff components from all mod carrier ships
+    - to fit the "no drone / reload / damage boosters on mod ships" convention
   - Increased drone count on the Auxiliary
   - Tweaked some drones to make the slowest ones a bit faster and the fastest ones a bit slower
+  - Upgraded / tweaked weapons for some drones
+    - Finch: Javelin Pod -> Twin Modified Blaster
+    - Lance: Blaster -> Twin Blaster
+    - This fixes an issue with the Finch not moving to attack when spawned
+  - Fixed issue with Pond Strider not appearing in Hai base defenses
 - Tech changes
   - Shuffled around weapon technologies in Syndicate, FW, and Republic tech trees
   - Added missing tech for torpedo, typhoon, rocket pods
@@ -481,7 +488,13 @@ Changelog:
   - Reduced Particle Turret tech cost to 10 to match other turrets
 - Global changes
   - Made Pug faction hostile (enigmatic precursors do not need the player to do missions for them)
+  - Gave quest flavor text some more flavor
 
 
 Planned changes:
 - Scanners as drone and missile capturer weapons
+- Inclusion of Korath afterburner and reverser engines
+- Inclusion of Efreti engines
+- Inclusion of plasma and ion reverse thrusters
+- Inclusion of tiny Korath engines
+- Inclusion of new factions and ships, including the ones that appear to be not fully in yet
