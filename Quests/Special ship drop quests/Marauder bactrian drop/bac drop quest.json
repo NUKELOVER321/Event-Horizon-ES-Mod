@@ -20,16 +20,16 @@
     {
       "Id": 1,
       "Type": 10,
-      "Message": "You encounter what looks like a heavily modified Bactrian passing through the area.",
+      "Message": "You encounter what looks like a heavily modified pirate Bactrian passing through the area.",
       "Enemy": 1022,
       "Actions": [
         {
           "TargetNode": 2,
-          "ButtonText": "Attack and capture the ship"
+          "ButtonText": "Hoist the Jolly Rogers and out-pirate it"
         },
         {
           "TargetNode": 7,
-          "ButtonText": "Leave it be"
+          "ButtonText": "Exercise caution and avoid provoking it"
         }
       ]
     },
@@ -73,7 +73,7 @@
       "Actions": [
         {
           "TargetNode": 7,
-          "ButtonText": "That is unfortunate."
+          "ButtonText": "Well, that was idiotic."
         }
       ]
     }

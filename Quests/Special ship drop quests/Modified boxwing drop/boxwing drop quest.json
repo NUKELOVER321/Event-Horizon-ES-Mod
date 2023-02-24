@@ -14,16 +14,16 @@
     {
       "Id": 1,
       "Type": 10,
-      "Message": "You encounter a hot-rodded Boxwing bearing no faction markings.",
+      "Message": "You encounter some speed freak's trio of hot-rodded Boxwings.",
       "Enemy": 1016,
       "Actions": [
         {
           "TargetNode": 2,
-          "ButtonText": "Attack and capture the ship"
+          "ButtonText": "\"Borrow\" the Boxwings by force"
         },
         {
           "TargetNode": 7,
-          "ButtonText": "Leave it be"
+          "ButtonText": "Exercise caution and avoid provoking them"
         }
       ]
     },
@@ -37,7 +37,7 @@
     {
       "Id": 3,
       "Type": 10,
-      "Message": "The ship has been subdued and boarded.",
+      "Message": "Only one of them can be salvaged.",
       "Loot": 1015,
       "Actions": [
         {
@@ -63,11 +63,11 @@
     {
       "Id": 6,
       "Type": 10,
-      "Message": "The strange ship fought off your attempt at boarding and escaped.",
+      "Message": "The hot-rodded Boxwings ran circles around you and left.",
       "Actions": [
         {
           "TargetNode": 7,
-          "ButtonText": "That is unfortunate."
+          "ButtonText": "Well, that was idiotic."
         }
       ]
     }

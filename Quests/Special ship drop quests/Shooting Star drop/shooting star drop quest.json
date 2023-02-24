@@ -24,16 +24,16 @@
     {
       "Id": 1,
       "Type": 10,
-      "Message": "You encounter a strange asteroid-like ship passing through the area.",
+      "Message": "You encounter a... flying rock? Did someone finally make a better Colossus?",
       "Enemy": 1032,
       "Actions": [
         {
           "TargetNode": 2,
-          "ButtonText": "Attack and capture the ship"
+          "ButtonText": "See how strong this boulder actually is"
         },
         {
           "TargetNode": 7,
-          "ButtonText": "Leave it be"
+          "ButtonText": "Exercise caution and avoid provoking it"
         }
       ]
     },
@@ -73,11 +73,11 @@
     {
       "Id": 6,
       "Type": 10,
-      "Message": "The ship fought off your attempt at boarding and escaped.",
+      "Message": "The flying rock thoroughly humiliated you and left.",
       "Actions": [
         {
           "TargetNode": 7,
-          "ButtonText": "That is unfortunate."
+          "ButtonText": "Well, that was idiotic."
         }
       ]
     },

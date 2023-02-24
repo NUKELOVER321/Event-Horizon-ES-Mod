@@ -14,16 +14,16 @@
     {
       "Id": 1,
       "Type": 10,
-      "Message": "You encounter a strange ship bearing no faction markings.",
+      "Message": "You encounter a strange alien ship bearing no faction markings.",
       "Enemy": 1006,
       "Actions": [
         {
           "TargetNode": 2,
-          "ButtonText": "Attack and capture the ship"
+          "ButtonText": "Introduce the aliens to the British Museum (your collection of ships)"
         },
         {
           "TargetNode": 7,
-          "ButtonText": "Leave it be"
+          "ButtonText": "Exercise caution and avoid provoking it"
         }
       ]
     },
@@ -67,7 +67,7 @@
       "Actions": [
         {
           "TargetNode": 7,
-          "ButtonText": "That is unfortunate."
+          "ButtonText": "Well, that was idiotic."
         }
       ]
     }

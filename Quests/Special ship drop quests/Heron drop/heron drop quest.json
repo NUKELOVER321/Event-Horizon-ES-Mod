@@ -29,11 +29,11 @@
       "Actions": [
         {
           "TargetNode": 2,
-          "ButtonText": "Attack and capture the ship"
+          "ButtonText": "Give it a taste of American Unhealthcare"
         },
         {
           "TargetNode": 7,
-          "ButtonText": "Leave it be"
+          "ButtonText": "Exercise caution and avoid provoking it"
         }
       ]
     },
@@ -77,7 +77,7 @@
       "Actions": [
         {
           "TargetNode": 7,
-          "ButtonText": "That is unfortunate."
+          "ButtonText": "Well, that was idiotic."
         }
       ]
     }
