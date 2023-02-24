@@ -7,7 +7,7 @@
   "IconImage": "boxwing icon.png",
   "IconScale": 1.0,
   "ModelImage": "boxwing.png",
-  "ModelScale": 0.8,
+  "ModelScale": 1.0,
   "EnginePosition": {
     "x": -0.8
   },
