@@ -498,3 +498,4 @@ Planned changes:
 - Inclusion of plasma and ion reverse thrusters
 - Inclusion of tiny Korath engines
 - Inclusion of new factions and ships, including the ones that appear to be not fully in yet
+- Double the strength of normal human shield generators to make them competitive with S-series regenerators
