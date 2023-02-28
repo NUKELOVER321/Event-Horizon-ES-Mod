@@ -60,32 +60,41 @@ Model sizes:
 12+ for super-capital ships (Heron, Bactrian, Kestrel Tester)   
 Add (tier-1) to the model size for appropriate factions.   
 
+Conventions for stat conversions:
+
+Weapon type | Damage conversion
+--- | ---
+Projectile weapons | (Shield + Hull) / 10
+Beam weapons | (Shield + Hull) / 15
+Missiles, torpedoes | (Shield + Hull) / 20 (and / 2 for high damage)
+Ion damage | Ion / 20 (or / 50 for high damage)
+Push force | (Push / 2.5) * power of 10
+Slowing force | Slow / 500
+Superweapons | Converted damage / 100
+
+Other weapon stats | Conversion
+--- | ---
+Energy costs | Cost (/ 10 for high costs)
+Projectile, beam, torpedo range | Range / 10
+Missile range | Range / 50
+Missile, torpedo reload | Reload / 5 (and / 2.25 for pods)
+
+Non-weapon stats | Conversion
+--- | ---
+Battery energy storage | (Energy / space) * 10 (and * 2 for Syscores and Sun Reactors)
+Reactor energy output | Power output / space 
+Engine thrust |
+Engine steering |
+Module heat production | Heat / size / 250
+Module cooling | Cooling / size / 500 (or / 250 for active cooling)
+Active cooling energy cost | Energy / size / 2.5
+Shield health | (Generation / size) * 5
+Shield generation | Shield health / 10
+Shield gen energy cost | Cost
+Hull regeneration | Regen / size
+
 Determining stats:
-== Weapons ==   
-For projectile weapons, divide shield + hull damage per shot by 10.   
-For beam weapons and missiles, divide shield + hull damage by 15 and 20.   
-For torpedos, divide shield + hull damage by 20.   
-Energy usage and range is | 1/10 that of its ES equivalent.   
-Divide range by 10 (50 in the case of missiles, 10 for torpedoes).   
-Divide push force by 2.5 then scale by a power of 10.   
 
-Energy cost of missile and torpedo type weapons are equal to base game.   
-High energy costs may be dropped down by an order of magnitude.   
-High damage missiles and torpedoes may have their damage halved.   
-The above is true of the Finisher and the Firelight.   
-
-For high damage special weapons like the Dragonflame and the Ember Tear:   
-damage and other big numbers are reduced | 100 fold.   
-
-Ion damage is = to base ion damage divided by 20.   
-For high damaging ion weapons the divider is 50.   
-Torpedoes and missiles require 5x the normal time to reload.   
-
-== Battery Packs ==   
-Divide energy per space by 10.   
-Systems Cores and Wanderer Reactors receive a x2 boost to storage.   
-== Reactors ==   
-Divide power output by size.   
 == Engines ==   
 Ion Engines serve as a baseline.   
 For every engine other than Ionics, divide its thrust/steering power by its size.   
@@ -98,21 +107,9 @@ calculate power per unit of corresponding ion engine. divide former by latter.
 multiply value by power consumption of ion engine.   
 
 For referencing values directly from the data files:   
-Multiply turn by | 60 and thrust by 3600.   
+Multiply turn by 60 and thrust by 3600.   
 Multiply energy consumption and cooling by 60.   
 Multiply shield generation by 60.   
-
-== Shields and Hull Regen ==   
-Divide shield gen and shield energy by size. Multiply the resulting shield gen by 5.   
-Set new shield generation value as shield HP and make regeneration 10% of that.   
-Divide hull regen by size. Do not add any multipliers.   
-
-== Heat ==   
-Take heat per module and divide by size. Divide said value by 250.   
-For cooling modules, divide heat per module by size then by 500.   
-For active cooling, divide energy consumed by size then by 5.   
-For some active cooling, the division factor is 250 and the energy division factor is | 2.5.   
-NOTE: "size" refers to mass and outfit space required.   
 
 == Pug stats ==   
 Divide the numbers in the data files by 25.   
@@ -693,13 +690,20 @@ Crystalline Formation | 1285
 Hexagonal Crystal | 1286
 Tree Skeleton Key Stone | 1287
 
+Unused IDs:
+.json file type | ID
+--- | ---
+Component | 1302
+Ship | 432
+Build | 1397
+Drone | 3027
+Quest | 1035
 
-First unused IDs: 1302 (component), 432 (ship), 1397 (build), 3027 (drone), 1035 (quest)
-
-Assorted changes that deviate from the "convert Endless Sky stats to Event Horizon stats as closely as possible" rule:
-Halved damage of Firestorms
-Firestorm energy storage is 10% of normal
-Halved fire rate of Heavers
-Heaver fire rate is = to firing energy + firing fuel
-Point defense ranges are several times (a power of 2) larger than the source material calls for.
-All anti-missile device energy costs raised by 10x
+Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.
+Item Name | Differences
+--- | ---
+Firestorm | -90% energy cost and energy storage
+Firelight | -90% energy cost
+Heaver | -50% fire rate, energy cost = firing energy + firing fuel
+Point defenses | range multiplied by power of 2, 10x energy cost
+Detainer, Inhibitor | (Pending)

@@ -6,18 +6,18 @@ All values are in "per square" format.
 Merchants
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
-nGVF-AA | 0.0228
+nGVF-AA | 0.0228 | 0.0228
 nGVF-BB | 0.0232
 nGVF-CC | 0.0228
 nGVF-DD | 0.0228
 nGVF-EE | 0.0234
-X1050 | 0.005
-X1200/1700 | 0.01
+X1050 | 0.005 | 0.005
+X1200/1700 | 0.01 | 0.01
 X2200/2700 | 0.0141
 X3200/3700 | 0.0121
 X4200/4700 | 0.0173
 X5200/5700 | 0.0192
-Cooling Vent | -0.06
+Cooling Vent | -0.06 | -0.06
 
 Syndicate
 Item | Heat Per Square | Heat Per Module
@@ -36,7 +36,7 @@ Item | Heat Per Square | Heat Per Module
 Fission | 0.092
 Breeder | 0.105
 Stack Core | 0.094
-Chipmunk set | 0.0196
+Chipmunk set | 0.0196 | 0.0196
 Greyhound set | 0.0215
 Impala set | 0.0248
 Orca set | 0.0275
@@ -46,7 +46,7 @@ Liquid Nitrogen | -0.174
 Republic
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
-A120/125 | 0.046
+A120/125 | 0.046 | 0.046
 A250/255 | 0.039
 A370/375 | 0.043
 A520/525 | 0.046
@@ -58,8 +58,8 @@ Liquid Helium | -0.207
 Hai
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
-Baellie | 0.033
-Basrem | 0.036
+Baellie | 0.033 | 0.033
+Basrem | 0.036 | 0.036
 Benga | 0.0385
 Biroo | 0.0425
 Bondir | 0.0456
@@ -83,7 +83,7 @@ Aeon | 0.046
 Epoch | 0.048
 Millennium | 0.05
 Crystal Cap | 0.016
-Thermoelectric | -0.24
+Thermoelectric | -0.24 | -0.24
 
 Ka'Het
 Item | Heat Per Square | Heat Per Module
@@ -100,7 +100,7 @@ Support cooling | -1.28
 Korath Exiles
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
-Asteroid | 0.054
+Asteroid | 0.054 | 0.054
 Comet | 0.06
 Lunar | 0.065
 Planetary | 0.0722
@@ -119,8 +119,8 @@ Large Shunt | -0.27
 Wanderers
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
-Type 0 | -0.032
-Type 1 | -0.028
+Type 0 | -0.032 | -0.032
+Type 1 | -0.028 | -0.028
 Type 2 | -0.0286
 Type 3 | -0.0341
 Type 4 | -0.0387
@@ -149,7 +149,7 @@ Large Shield | 0.003
 Overcharged Shield | 0.007
 Small engines | 0.07
 Large engines | 0.0725
-Cooling Module | -0.504
+Cooling Module | -0.504 | -0.504
 
 Quarg
 Item | Heat Per Square | Heat Per Module

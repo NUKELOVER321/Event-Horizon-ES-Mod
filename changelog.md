@@ -465,7 +465,10 @@ Changelog:
 - Component changes
   - Increased spread of gatling guns
   - Reduced weight of human plasma engines to match the 25 weight per cell standard
+  - Reduced energy cost for Firelight and Firestorm by 90%
+  - Doubled damage for Firelight and Firestorm
   - Added Liquid Sodium Cooler to Exiles tree
+  - Halved energy cost of 2x2 drones
 - Ship changes
   - Tweaked the Modified Argosy and Manta cell layout
   - Fixed an issue where one of the vanilla drones had no energy storage capacity
@@ -478,8 +481,8 @@ Changelog:
   - Tweaked some drones to make the slowest ones a bit faster and the fastest ones a bit slower
   - Upgraded / tweaked weapons for some drones
     - Finch: Javelin Pod -> Twin Modified Blaster
+      - This fixes an issue with the Finch not moving to attack when spawned
     - Lance: Blaster -> Twin Blaster
-    - This fixes an issue with the Finch not moving to attack when spawned
   - Fixed issue with Pond Strider not appearing in Hai base defenses
 - Tech changes
   - Shuffled around weapon technologies in Syndicate, FW, and Republic tech trees
@@ -494,8 +497,12 @@ Changelog:
 Planned changes:
 - Scanners as drone and missile capturer weapons
 - Inclusion of Korath afterburner and reverser engines
+- Inclusion of Automata control devices as autopilots
 - Inclusion of Efreti engines
 - Inclusion of plasma and ion reverse thrusters
 - Inclusion of tiny Korath engines
+- Inclusion of smaller Exiles ships to "dilute" their lineup
 - Inclusion of new factions and ships, including the ones that appear to be not fully in yet
-- Double the strength of D-series generators to make them competitive with S-series regenerators
+- Make batteries and 1x1 components cheaper in terms of star costs
+- By player request:
+  - Projectile speed increase for late-game C type weapons
