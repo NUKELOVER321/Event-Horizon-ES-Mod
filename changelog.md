@@ -498,7 +498,8 @@ Planned changes:
 - Scanners as drone and missile capturer weapons
 - Inclusion of Korath afterburner and reverser engines
 - Inclusion of Automata control devices as autopilots
-- Inclusion of Efreti engines
+- Inclusion of the Shunt-Strike
+- Inclusion of the Remnant EMP Torpedo Pod (ID 2130)
 - Inclusion of plasma and ion reverse thrusters
 - Inclusion of tiny Korath engines
 - Inclusion of Efreti ships to "dilute" the Exiles lineup

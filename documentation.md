@@ -378,7 +378,7 @@ Thrasher Cannon | 2128
 Thrasher Turret | 1128
 Inhibitor Cannon | 2129
 Inhibitor Turret | 1129
-EMP Torpedo Bay | 1130
+EMP Torpedo Bay | 1130 (Pod 2130)
 Penguin | 369 | 1205-1207
 Ember Tear | 1278
 
