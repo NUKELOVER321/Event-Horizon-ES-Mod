@@ -4,12 +4,12 @@
   "Body": {
     "Type": 1,
     "Size": 1.0,
-    "Velocity": 8.0,
-    "Range": 46.2,
+    "Velocity": 16.0,
+    "Range": 48.0,
     "Weight": 0.2,
     "HitPoints": 60,
     "BulletPrefab": 1276,
-    "EnergyCost": 105.5,
+    "EnergyCost": 10.55,
     "CanBeDisarmed": true
   },
   "Triggers": [
