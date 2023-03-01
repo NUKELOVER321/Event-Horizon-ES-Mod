@@ -501,8 +501,13 @@ Planned changes:
 - Inclusion of Efreti engines
 - Inclusion of plasma and ion reverse thrusters
 - Inclusion of tiny Korath engines
-- Inclusion of smaller Exiles ships to "dilute" their lineup
+- Inclusion of Efreti ships to "dilute" the Exiles lineup
 - Inclusion of new factions and ships, including the ones that appear to be not fully in yet
+- Inclusion of Mark 4 satellites that contain 1 3x3 red slot per satellite
 - Make batteries and 1x1 components cheaper in terms of star costs
+- Inclusion of the following ships from Becca's Endless Expansion mod:
+  - Blizzard (Wanderers)
+  - Courier, Shipper (Exiles)
+  - Robin, Swan (Remnant)
 - By player request:
   - Projectile speed increase for late-game C type weapons

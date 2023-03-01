@@ -24,15 +24,15 @@ Certain images used in this mod are sourced from various Endless Sky plugins.
 These images are released under CC-BY-SA 4.0 from their sources and are similarly licensed here.
 A list of these images and their source plugins and/or authors are listed below.
 
-Images | Mod source (and author if applicable)
+Source mod (and/or author, if applicable) | Images
 --- | ---
-plugin Quarg ships | Quarg Military Retaliation
-plugin Pug ships | Czartrak's Ship Pack
-Type 5 Radiant Engines | Amalgamation
-KIV 750 | Korath Exiles PA
-Vector Engines, Type 0 Radiant Engines, Disruptor Gun, Model 1024 | Adde Korath Exiles Expansion (Darcy Manoel)
-(double) Detainer Turret, Double Slicer Turret, FET 243, Wanderer Heavy AM, Ionic Blaster and Turret, Javelin and Barrage turrets, Ion Beam (and turret), HPC | Becca Tomaso
-Pillager | Korath Automation Upgrade (Kriegstofu)
+Quarg Military Retaliation | plugin Quarg ships
+Czartrak's Ship Pack | plugin Pug ships
+Amalgamation | Type 5 Radiant Engines
+Korath Exiles PA | KIV 750
+Adde Korath Exiles Expansion (Darcy Manoel) | Vector Engines, Type 0 Radiant Engines, Disruptor Gun, Model 1024
+Becca Tomaso | (double) Detainer Turret, Double Slicer Turret, FET 243, Wanderer Heavy AM, Ionic Blaster and Turret, Javelin and Barrage turrets, Ion Beam (and turret), HPC, Blizzard, Courier, Sea Scorpion, Shipper
+Korath Automation Upgrade (Kriegstofu) | Pillager
 
 There are a couple of images for whom their origin or author are unknown. Their names are listed below.
 
