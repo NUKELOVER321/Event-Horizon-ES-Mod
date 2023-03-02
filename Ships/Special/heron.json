@@ -4,7 +4,7 @@
   "ShipCategory": 3,
   "Name": "Heron",
   "Faction": 207,
-  "SizeClass": 3,
+  "SizeClass": 4,
   "IconImage": "heron.png",
   "IconScale": 1.0,
   "ModelImage": "heron.png",
