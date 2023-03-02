@@ -1,0 +1,33 @@
+{
+  "ItemType": 25,
+  "Id": 6130,
+  "Body": {
+    "Type": 2,
+    "Size": 1.0,
+    "Lifetime": 0.5,
+    "Color": "#BFBFBF",
+    "FriendlyFire": true
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 1130,
+      "AudioClip": "torpedo hit",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 51.25
+    },
+    {
+      "Type": 3,
+      "DamageType": 1,
+      "Power": 130.0
+    }
+  ]
+}

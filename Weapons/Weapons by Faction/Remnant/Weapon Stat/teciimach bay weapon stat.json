@@ -1,10 +1,10 @@
 {
   "ItemType": 3,
-  "Id": 1275,
-  "FireRate": 16.0,
+  "Id": 3130,
+  "FireRate": 0.2,
   "Spread": 1.0,
   "ActivationType": 1,
-  "ShotSound": "javelin",
+  "ShotSound": "typhoon",
   "ShotEffectPrefab": "OrbAdditive",
-  "ControlButtonIcon": "javelin.png"
+  "ControlButtonIcon": "emp.png"
 }

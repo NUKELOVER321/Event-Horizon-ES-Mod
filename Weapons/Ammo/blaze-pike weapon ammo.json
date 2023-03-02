@@ -4,8 +4,7 @@
   "Body": {
     "Type": 3,
     "Size": 1.0,
-    "Range": 35.0,
-    "Lifetime": 0.1,
+    "Range": 45.0,
     "BulletPrefab": 1289,
     "EnergyCost": 30.0
   },
@@ -21,6 +20,11 @@
     {
       "DamageType": 2,
       "Power": 40.8
+    },
+    {
+      "Type": 3,
+      "DamageType": 2,
+      "Power": 10.8
     }
   ]
 }

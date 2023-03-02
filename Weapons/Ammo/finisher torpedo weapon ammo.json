@@ -7,7 +7,7 @@
     "Velocity": 10.0,
     "Range": 560.0,
     "Weight": 0.5,
-    "HitPoints": 40,
+    "HitPoints": 50,
     "BulletPrefab": 1152,
     "EnergyCost": 12.0,
     "CanBeDisarmed": true
