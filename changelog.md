@@ -463,12 +463,16 @@ Changelog:
 
 Changelog:
 - Component changes
+  - Added the Teciimach Bay (and pod) to Remnant tech tree
+  - Added Liquid Sodium Cooler to Exiles tech tree
   - Increased spread of gatling guns
   - Reduced weight of human plasma engines to match the 25 weight per cell standard
   - Reduced energy cost for Firelight and Firestorm by 90%
   - Doubled damage for Firelight and Firestorm
-  - Added Liquid Sodium Cooler to Exiles tree
+  - Doubled fire rate of Javelin and Barrage Turrets
   - Halved energy cost of 2x2 drones
+  - Adjusted health of various torpedo and missile type ammos
+    - to match their missile strength values from the source material
 - Ship changes
   - Tweaked the Modified Argosy and Manta cell layout
   - Fixed an issue where one of the vanilla drones had no energy storage capacity
@@ -506,6 +510,7 @@ Planned changes:
 - Inclusion of new factions and ships, including the ones that appear to be not fully in yet
 - Inclusion of Mark 4 satellites that contain 1 3x3 red slot per satellite
 - Make batteries and 1x1 components cheaper in terms of star costs
+- Remake firing and explode effects of human torpedoes and missiles
 - Inclusion of the following ships from Becca's Endless Expansion mod:
   - Blizzard (Wanderers)
   - Courier, Shipper (Exiles)
