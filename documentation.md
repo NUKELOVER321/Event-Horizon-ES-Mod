@@ -262,6 +262,7 @@ D41-HY | 1058
 Liquid Nitrogen Cooling | 1079
 Plasma Repeater | 1084
 Quad Plasma Turret | 1246
+Capybara Plasma Engines | 1302
 
 Republic
 Item Name | Item ID | Build IDs (if applicable)
@@ -690,10 +691,10 @@ Crystalline Formation | 1285
 Hexagonal Crystal | 1286
 Tree Skeleton Key Stone | 1287
 
-Unused IDs:
+First nused IDs:
 .json file type | ID
 --- | ---
-Component | 1302
+Component | 1303
 Ship | 432
 Build | 1397
 Drone | 3027

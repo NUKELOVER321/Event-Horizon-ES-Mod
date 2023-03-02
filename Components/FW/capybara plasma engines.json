@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1302,
+  "Name": "Capybara Plasma Engines",
+  "DisplayCategory": 4,
+  "Availability": 1,
+  "ComponentStatsId": 1302,
+  "Faction": 204,
+  "Level": 125,
+  "Icon": "capybara engine.png",
+  "Layout": "1",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

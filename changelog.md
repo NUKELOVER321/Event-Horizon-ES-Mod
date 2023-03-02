@@ -499,17 +499,17 @@ Changelog:
 
 
 Planned changes:
-- Scanners as drone and missile capturer weapons
+- Inclusion of scanners as drone and missile capturer weapons
 - Inclusion of Korath afterburner and reverser engines
 - Inclusion of Automata control devices as autopilots
 - Inclusion of the Shunt-Strike
-- Inclusion of the Remnant EMP Torpedo Pod (ID 2130)
-- Inclusion of plasma and ion reverse thrusters
+- Inclusion of plasma reverse thrusters
 - Inclusion of tiny Korath engines
 - Inclusion of Efreti ships to "dilute" the Exiles lineup
 - Inclusion of new factions and ships, including the ones that appear to be not fully in yet
 - Inclusion of Mark 4 satellites that contain 1 3x3 red slot per satellite
 - Make batteries and 1x1 components cheaper in terms of star costs
+- Reduction of modded drone energy costs by 50%
 - Remake firing and explode effects of human torpedoes and missiles
 - Inclusion of the following ships from Becca's Endless Expansion mod:
   - Blizzard (Wanderers)
