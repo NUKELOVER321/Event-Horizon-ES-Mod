@@ -24,6 +24,29 @@ Q: "What do all of these `.json` files do?"
 
 A: Some helpful people over at the Event Horizon official Discord server compiled this ["Database User Manual"](https://docs.google.com/document/d/1TsxbbtUkF_OKdpotKNQEiPqvW3xi8CTUipUiFz51CZY/edit?usp=sharing) that details exactly what everything does. This manual explains everything far better than I possibly could, but it is a bit of a long read. Alternatively, you can refer to the `README.md` files in each folder containing data files for an idea of what the `.json` files in the relevant folders mean.
 
+Q: "How do I download and use your mod?"
+
+A: To do that you will have to download Event Horizon, place the mod file into the correct location, and play the game. The steps to do this are as follows:
+
+1. Download Event Horizon.
+  - Android: from the Google Play Store
+  - PC: from [here](https://github.com/PavelZinchenko/EventHorizon-Issues/releases/tag/latest_build). Download `EventHorizon_win64.zip` to your device and extract it to a folder of your choosing.
+2. Go to the location where the Event Horizon game files are stored at.
+  - Android: `storage/Android/data/com.ZipasGames.EventHorizon/files`
+    - Some Android devices do not allow the user to access these files through the built-in file manager. You may wish to download a file manager of your choice from the Google Play Store to aid in this step.
+  - PC: wherever you placed the unzipped folder.
+3. Create a folder at that location named `"Mods"`. Capitalization matters.
+4. Download whichever version of this mod you want and move the mod file to the `"Mods"` folder.
+5. Launch Event Horizon.
+  - Android: press on the Event Horizon app icon on your devoce.
+  - PC: Double-click on `Event Horizon.exe`.
+6. Activate the mod.
+  - Select the `"Settings"` button on the bottom right of the game's main menu.
+  - Out of the six buttons on the left side of the settings menu, select the wrench and screwdriver symbol.
+  - You will be shown a list of "Available modifications". Select this mod (usually titled `Endless Sky [version number]`), then select the "Yes" button on the popup warning window.
+  - Wait until the game finishes activating the mod.
+7. End.
+
 ## Credits, Copyrights, Documentation
 
 Specific information on credits and copyrights for this project can be found in [credits-copyright.md](../master/credits-copyright.md).  
