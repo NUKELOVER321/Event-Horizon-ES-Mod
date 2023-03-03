@@ -1,7 +1,8 @@
 # Components
 
 This folder contains data files on components, in-game items that can be placed in a ship.   
-Each component is made of two files: a component file and a stats file.
+Each component is made of two files: a component file and a stats file.   
+Each pair of folders (`[faction name]` and `[faction name] Stats`) contains the component and stat file for a collection of components assigned to the named faction.
 
 Below is an example of a component file, followed by a description of what each data field does.
 

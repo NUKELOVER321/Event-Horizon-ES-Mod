@@ -35,8 +35,8 @@ A: To do that you will have to download Event Horizon, place the mod file into t
    - Android: `storage/Android/data/com.ZipasGames.EventHorizon/files`
      - Some Android devices do not allow the user to access these files through the built-in file manager. You may wish to download a file manager of your choice from the Google Play Store to aid in this step.
    - PC: wherever you placed the unzipped folder.
-3. Create a folder at that location named `"Mods"`. Capitalization matters.
-4. Download whichever version of this mod you want and move the mod file to the `"Mods"` folder.
+3. Create a folder at that location named `Mods`. Capitalization matters.
+4. Download whichever version of this mod you want and move the mod file to the `Mods` folder.
 5. Launch Event Horizon.
    - Android: press on the Event Horizon app icon on your devoce.
    - PC: Double-click on `Event Horizon.exe`.
