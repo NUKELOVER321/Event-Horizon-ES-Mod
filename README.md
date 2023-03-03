@@ -22,7 +22,7 @@ A: These statements are true and I am aware of this. I pinned this repo on my pr
 
 Q: "What do all of these `.json` files do?"
 
-A: Some helpful people over at the Event Horizon official Discord server compiled this ["Database User Manual"](https://docs.google.com/document/d/1TsxbbtUkF_OKdpotKNQEiPqvW3xi8CTUipUiFz51CZY/edit?usp=sharing) that details exactly what everything does. This manual explains everything far better than I possibly could, but it is a bit of a long read.
+A: Some helpful people over at the Event Horizon official Discord server compiled this ["Database User Manual"](https://docs.google.com/document/d/1TsxbbtUkF_OKdpotKNQEiPqvW3xi8CTUipUiFz51CZY/edit?usp=sharing) that details exactly what everything does. This manual explains everything far better than I possibly could, but it is a bit of a long read. Alternatively, you can refer to the `README.md` files in each folder containing data files for an idea of what the `.json` files in the relevant folders mean.
 
 ## Credits, Copyrights, Documentation
 
