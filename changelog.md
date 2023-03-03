@@ -465,6 +465,7 @@ Changelog:
 - Component changes
   - Added the Teciimach Bay (and pod) to Remnant tech tree
   - Added Liquid Sodium Cooler to Exiles tech tree
+  - Reduced size of Ka'het Primary Cooling from 16 to 9
   - Increased spread of gatling guns
   - Reduced weight of human plasma engines to match the 25 weight per cell standard
   - Reduced energy cost for Firelight and Firestorm by 90%
@@ -508,6 +509,7 @@ Planned changes:
 - Inclusion of Efreti ships to "dilute" the Exiles lineup
 - Inclusion of new factions and ships, including the ones that appear to be not fully in yet
 - Inclusion of Mark 4 satellites that contain 1 3x3 red slot per satellite
+- Inclusion of the Cloaking Device
 - Make batteries and 1x1 components cheaper in terms of star costs
 - Reduction of modded drone energy costs by 50%
 - Remake firing and explode effects of human torpedoes and missiles
