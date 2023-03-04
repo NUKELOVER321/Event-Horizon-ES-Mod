@@ -43,7 +43,7 @@ A: To do that you will have to download Event Horizon, place the mod file into t
 6. Activate the mod.
    - Select the `"Settings"` button on the bottom right of the game's main menu.
    - Out of the six buttons on the left side of the settings menu, select the wrench and screwdriver symbol.
-   - You will be shown a list of "Available modifications". Select this mod (usually titled `Endless Sky  [version number]`), then select the "Yes" button on the popup warning window.
+   - You will be shown a list of "Available modifications". Select this mod (usually titled `Endless Sky [version number]`), then select the "Yes" button on the popup warning window.
    - Wait until the game finishes activating the mod.
 7. End.
 
