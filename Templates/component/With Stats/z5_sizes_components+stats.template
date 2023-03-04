@@ -1,0 +1,128 @@
+{
+  "Name": "Component/With Stats/5 Components With Stats",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+      "Type": "Folder",
+      "Items": [
+        {
+          "Filename": "{1}_..S_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}",
+            "Name": "%s{1} S",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}",
+            "PossibleModifications": [
+              1,
+              2
+            ]
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_..S_stats",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}"
+          }
+        },
+        {
+          "Filename": "{1}_.M_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+1",
+            "Name": "%s{1} M",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}+1",
+            "PossibleModifications": [
+              1,
+              2
+            ]
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_.M_stats",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}+1"
+          }
+        },
+        {
+          "Filename": "{1}_L_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+2",
+            "Name": "%s{1} L",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}+2",
+            "PossibleModifications": [
+              1,
+              2
+            ]
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_L_stats",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}+2"
+          }
+        },
+        {
+          "Filename": "{1}_XL_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+3",
+            "Name": "%s{1} XL",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}+3",
+            "PossibleModifications": [
+              1,
+              2
+            ]
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_XL_stats",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}+3"
+          }
+        },
+        {
+          "Filename": "{1}_XXL_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+4",
+            "Name": "%s{1} XXL",
+            "Layout": "1",
+            "ComponentStatsId": "%n{0}+4",
+            "PossibleModifications": [
+              1,
+              2
+            ]
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_XXL_stats",
+          "Type": "File",
+          "Content": {
+            "ItemType": 11,
+            "Id": "%n{0}+4"
+          }
+        }
+      ]
+    }
+  ]
+}

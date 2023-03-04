@@ -1,0 +1,55 @@
+{
+    "Name":"Component/Dronebay Component/2 Components",
+    "NameDialog":"File Name",
+    "IdDialog":"ID",
+    "Items":[
+        {
+            "Filename":"{1}",
+            "Type":"Folder",
+            "Items":[
+                {
+                    "Filename": "{1}_.S_component",
+                    "Content":{
+                        "ItemType":1,
+                        "Id":"%n{0}",
+                        "Name":"%s{1} Dronebay S",
+                        "DisplayCategory": 5,
+                        "Layout": "1",
+                        "ComponentStatsId":2,
+                        "PossibleModifications":[
+                            17,
+                            18,
+                            19,
+                            20,
+                            1,
+                            2
+                        ],
+                        "DroneBayId":1
+                    },
+                    "Type":"File"
+                },
+                {
+                    "Filename": "{1}_M_component",
+                    "Content":{
+                        "ItemType":1,
+                        "Id":"%n{0}+1",
+                        "Name":"%s{1} Dronebay M",
+                        "DisplayCategory": 5,
+                        "Layout": "1",
+                        "ComponentStatsId":2,
+                        "PossibleModifications":[
+                            17,
+                            18,
+                            19,
+                            20,
+                            1,
+                            2
+                        ],
+                        "DroneBayId":2
+                    },
+                    "Type":"File"
+                }
+            ]
+        }
+    ]
+}

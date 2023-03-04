@@ -1,0 +1,57 @@
+{
+    "Name":"Component/Dronebay Component/With Technology/1 Component With DroneBuild",
+    "NameDialog":"File Name",
+    "IdDialog":"ID",
+    "Items":[
+        {
+            "Filename":"{1}",
+            "Type":"Folder",
+            "Items":[
+                {
+                    "Filename":"{1}_component",
+                    "Content":{
+                        "ItemType":1,
+                        "Id":"%n{0}",
+                        "Name":"%s{1} Dronebay",
+                        "Layout": "1",
+                        "DroneId": "%n{0}",
+                        "ComponentStatsId": 2,
+                        "PossibleModifications":[
+                            17,
+                            18,
+                            19,
+                            20,
+                            1,
+                            2
+                        ],
+                        "DroneBayId":"1"
+                    },
+                    "Type":"File"
+                },
+                {
+                  "Filename": "{1}_technology",
+                  "Type": "File",
+                  "Content": {
+                    "ItemType": 10,
+                    "Id": "%n{0}",
+                    "ItemId": "%n{0}",
+                    "Type": 0,
+                    "Dependencies": []
+                  }
+                },
+                {
+                    "Filename":"{1}_build",
+                    "Type":"File",
+                    "Content":{
+                        "ItemType":8,
+                        "Id":"%n{0}",
+                        "ShipId":83,
+                        "Components":[
+
+                        ]
+                    }
+                }
+            ]
+        }
+    ]
+}

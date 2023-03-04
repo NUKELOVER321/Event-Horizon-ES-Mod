@@ -1,0 +1,34 @@
+{
+    "Name":"Component/Dronebay Component/1 Component",
+    "NameDialog":"File Name",
+    "IdDialog":"ID",
+    "Items":[
+        {
+            "Filename":"{1}",
+            "Type":"Folder",
+            "Items":[
+                {
+                    "Filename": "{1}_S_component",
+                    "Content":{
+                        "ItemType":1,
+                        "Id":"%n{0}",
+                        "Name":"%s{1}",
+                        "DisplayCategory": 5,
+                        "Layout": "1",
+                        "ComponentStatsId":2,
+                        "PossibleModifications":[
+                            17,
+                            18,
+                            19,
+                            20,
+                            1,
+                            2
+                        ],
+                        "DroneBayId":1
+                    },
+                    "Type":"File"
+                }
+            ]
+        }
+    ]
+}

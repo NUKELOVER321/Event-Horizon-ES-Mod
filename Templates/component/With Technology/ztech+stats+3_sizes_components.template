@@ -1,0 +1,91 @@
+{
+  "Name": "Component/With Technology/3 Components",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+      "Type": "Folder",
+      "Items": [
+        {
+          "Filename": "{1}_..S_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}",
+            "Name": "%s{1} S",
+            "Layout": "1",
+            "ComponentStatsId": 1,
+            "PossibleModifications": [
+              1,
+              2
+            ]
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_..S_technology",
+	        "Type": "File",
+          "Content": {
+            "ItemType": 10,
+            "Id": "%n{0}",
+            "ItemId": "%n{0}",
+            "Type": 0,
+            "Dependencies": []
+          }
+        },
+        {
+          "Filename": "{1}_.M_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+1",
+            "Name": "%s{1} M",
+            "Layout": "1",
+            "ComponentStatsId": 1,
+            "PossibleModifications": [
+              1,
+              2
+            ]
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_.M_technology",
+	        "Type": "File",
+          "Content": {
+            "ItemType": 10,
+            "Id": "%n{0}+1",
+            "ItemId": "%n{0}+1",
+            "Type": 0,
+            "Dependencies": []
+          }
+        },
+        {
+          "Filename": "{1}_L_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}+2",
+            "Name": "%s{1} L",
+            "Layout": "1",
+            "ComponentStatsId": 1,
+            "PossibleModifications": [
+              1,
+              2
+            ]
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_L_technology",
+	        "Type": "File",
+          "Content": {
+            "ItemType": 10,
+            "Id": "%n{0}+2",
+            "ItemId": "%n{0}+2",
+            "Type": 0,
+            "Dependencies": []
+          }
+        }
+      ]
+    }
+  ]
+}

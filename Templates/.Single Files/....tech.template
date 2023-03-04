@@ -1,0 +1,18 @@
+{
+  "Name": "Single/Technology",
+  "NameDialog":"File Name",
+  "IdDialog":"ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+	  "Type": "File",
+      "Content": {
+        "ItemType": 10,
+        "Id": "%n{0}",
+        "ItemId": "83",
+        "Type": 1,
+        "Dependencies": []
+      }
+    }
+  ]
+}

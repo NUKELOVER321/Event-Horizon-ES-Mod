@@ -1,0 +1,28 @@
+{
+  "Name": "Component/1 Component",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+      "Type": "Folder",
+      "Items": [
+        {
+          "Filename": "{1}_S_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}",
+            "Name": "%s{1}",
+            "Layout": "1",
+            "ComponentStatsId": 1,
+            "PossibleModifications": [
+              1,
+              2
+            ]
+          },
+          "Type": "File"
+        }
+      ]
+    }
+  ]
+}

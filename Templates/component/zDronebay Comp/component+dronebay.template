@@ -1,0 +1,49 @@
+{
+  "Name": "Component/Dronebay Component/With Dronebay",
+  "NameDialog": "File Name",
+  "IdDialog": "ID",
+  "Items": [
+    {
+      "Filename": "{1}",
+      "Type": "Folder",
+      "Items": [
+        {
+          "Filename": "{1}_component",
+          "Content": {
+            "ItemType": 1,
+            "Id": "%n{0}",
+            "Name": "%s{1} Dronebay",
+            "Layout": "1",
+            "ComponentStatsId": 2,
+            "PossibleModifications": [
+              17,
+              18,
+              19,
+              20,
+              1,
+              2
+            ],
+            "DroneBayId": "%n{0}"
+          },
+          "Type": "File"
+        },
+        {
+          "Filename": "{1}_dronebay",
+          "Type": "File",
+          "Content": {
+            "ItemType": 5,
+            "Id": "%n{0}",
+			"DamageMultiplier": 1.0,
+		   	"DefenseMultiplier": 1.0,
+			"SpeedMultiplier": 1.0,
+			"ImprovedAi": true,
+            "ActivationType": 2,
+            "LaunchSound": "launch_08",
+            "LaunchEffectPrefab": "OrbAdditive",
+            "ControlButtonIcon": "controls_drone"
+          }
+        }
+      ]
+    }
+  ]
+}
