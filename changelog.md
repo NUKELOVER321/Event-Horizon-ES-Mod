@@ -459,7 +459,7 @@ Changelog:
   - Fixed issue with missiles exploding when hit by any hitbox and not exploding when it should
 
 
-### 0.14.3 ??? update
+### 0.14.3 "Durax" update
 
 Changelog:
 - Component changes
@@ -471,6 +471,7 @@ Changelog:
   - Reduced energy cost for Firelight and Firestorm by 90%
   - Doubled damage for Firelight and Firestorm
   - Doubled fire rate of Javelin and Barrage Turrets
+  - Halved range of Javelin based rocket weapons
   - Halved energy cost of 2x2 drones
   - Adjusted health of various torpedo and missile type ammos
     - to match their missile strength values from the source material
@@ -489,8 +490,11 @@ Changelog:
       - This fixes an issue with the Finch not moving to attack when spawned
     - Lance: Blaster -> Twin Blaster
   - Fixed issue with Pond Strider not appearing in Hai base defenses
+  - Reduced energy regeneration of Exiles ships
+  - Added the Shipper to the Exiles line-up and tech tree
 - Tech changes
   - Shuffled around weapon technologies in Syndicate, FW, and Republic tech trees
+  - Changed up the early sections of the Korath Exiles tech tree
   - Added missing tech for torpedo, typhoon, rocket pods
   - Added tech for HMLM3 and HMLM4 in Bushrak tech tree
   - Reduced Particle Turret tech cost to 10 to match other turrets
@@ -510,12 +514,14 @@ Planned changes:
 - Inclusion of new factions and ships, including the ones that appear to be not fully in yet
 - Inclusion of Mark 4 satellites that contain 1 3x3 red slot per satellite
 - Inclusion of the Cloaking Device
+- Inclusion of dynamic impact effects for lasers
+  - impact effects that isn't just one image that lasts for 0.1 seconds
 - Make batteries and 1x1 components cheaper in terms of star costs
 - Reduction of modded drone energy costs by 50%
 - Remake firing and explode effects of human torpedoes and missiles
 - Inclusion of the following ships from Becca's Endless Expansion mod:
   - Blizzard (Wanderers)
-  - Courier, Shipper (Exiles)
+  - Courier (Exiles)
   - Robin, Swan (Remnant)
 - By player request:
   - Projectile speed increase for late-game C type weapons

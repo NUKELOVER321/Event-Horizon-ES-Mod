@@ -75,7 +75,7 @@ Superweapons | Converted damage / 100
 Other weapon stats | Conversion
 --- | ---
 Energy costs | Cost (/ 10 for high costs)
-Projectile, beam, torpedo range | Range / 10
+Projectile, beam, torpedo, rocket range | Range / 10
 Missile range | Range / 50
 Missile, torpedo reload | Reload / 5 (and / 2.25 for pods)
 
@@ -484,6 +484,7 @@ Tiny Systems Core | 1292
 Expeller | 1294
 Firestorm Battery | 1295
 Lagrange Heaver | 1299
+Shipper | 433 | 1397-1399
 
 Ka'het
 Item Name | Item ID | Build IDs (if applicable)
@@ -695,8 +696,8 @@ First nused IDs:
 .json file type | ID
 --- | ---
 Component | 1303
-Ship | 432
-Build | 1397
+Ship | 434
+Build | 1400
 Drone | 3027
 Quest | 1035
 

@@ -5,6 +5,7 @@
     "Type": 3,
     "Size": 1.0,
     "Range": 45.0,
+    "Lifetime": 0.1,
     "BulletPrefab": 1289,
     "EnergyCost": 30.0
   },
