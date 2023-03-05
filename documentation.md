@@ -705,7 +705,7 @@ Some outfits deviate from the "convert ES stats to EH stats as closely as possib
 Item Name | Differences
 --- | ---
 Firestorm | -90% energy cost and energy storage
-Firelight | -90% energy cost
+Firelight | -90% energy cost, +100% range, uses the torpedo/rocket equation
 Heaver | -50% fire rate, energy cost = firing energy + firing fuel
 Point defenses | range multiplied by power of 2, 10x energy cost
 Detainer, Inhibitor | (Pending)

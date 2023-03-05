@@ -470,6 +470,7 @@ Changelog:
   - Reduced weight of human plasma engines to match the 25 weight per cell standard
   - Reduced energy cost for Firelight and Firestorm by 90%
   - Doubled damage for Firelight and Firestorm
+  - Doubled range for Firelight
   - Doubled fire rate of Javelin and Barrage Turrets
   - Halved range of Javelin based rocket weapons
   - Halved energy cost of 2x2 drones
