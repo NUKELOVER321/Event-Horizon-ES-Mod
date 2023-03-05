@@ -3,8 +3,5 @@
   "Id": 3015,
   "ItemId": 3015,
   "Faction": 209,
-  "Price": 10,
-  "Dependencies": [
-    1155
-  ]
+  "Price": 10
 }
