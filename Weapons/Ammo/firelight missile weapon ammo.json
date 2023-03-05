@@ -5,7 +5,7 @@
     "Type": 1,
     "Size": 1.0,
     "Velocity": 16.0,
-    "Range": 48.0,
+    "Range": 96.0,
     "Weight": 0.2,
     "HitPoints": 60,
     "BulletPrefab": 1276,

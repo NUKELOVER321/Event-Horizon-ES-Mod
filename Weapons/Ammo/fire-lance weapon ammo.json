@@ -20,11 +20,6 @@
     {
       "DamageType": 2,
       "Power": 20.0
-    },
-    {
-      "Type": 3,
-      "DamageType": 2,
-      "Power": 4.8
     }
   ]
 }
