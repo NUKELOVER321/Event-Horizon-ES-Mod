@@ -1,0 +1,13 @@
+{
+  "ItemType": 2,
+  "Id": 9000,
+  "DeviceClass": 12,
+  "EnergyConsumption": 1.2,
+  "PassiveEnergyConsumption": 1.0,
+  "Power": 1.0,
+  "Cooldown": 1.0,
+  "ActivationType": 1,
+  "Color": "#000000",
+  "EffectPrefab": "FlashAdditive",
+  "ControlButtonIcon": "unknown.png"
+}
