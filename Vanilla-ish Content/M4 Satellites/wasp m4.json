@@ -1,0 +1,17 @@
+{
+  "ItemType": 7,
+  "Id": 10007,
+  "Name": "Wasp M4",
+  "ModelImage": "satellite3",
+  "ModelScale": 0.8,
+  "SizeClass": 3,
+  "Layout": "0444024442244422141201110",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.3
+      },
+      "WeaponClass": "L"
+    }
+  ]
+}

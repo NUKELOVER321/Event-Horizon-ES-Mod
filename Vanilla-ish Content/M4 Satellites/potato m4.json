@@ -1,0 +1,17 @@
+{
+  "ItemType": 7,
+  "Id": 10013,
+  "Name": "Potato M4",
+  "ModelImage": "satellite5",
+  "ModelScale": 0.8,
+  "SizeClass": 3,
+  "Layout": "1444114441144412222200000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.5
+      },
+      "WeaponClass": "M"
+    }
+  ]
+}
