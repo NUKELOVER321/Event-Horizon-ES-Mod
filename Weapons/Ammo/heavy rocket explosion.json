@@ -6,8 +6,7 @@
     "Size": 1.0,
     "Lifetime": 0.5,
     "Color": "#BFBFBF",
-    "EnergyCost": 1.0,
-    "FriendlyFire": true
+    "EnergyCost": 1.0
   },
   "Triggers": [
     {

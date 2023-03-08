@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1305,
+  "Name": "Asteroid Scanner",
+  "DisplayCategory": 1,
+  "Availability": 1,
+  "ComponentStatsId": 1,
+  "Faction": 201,
+  "Level": 50,
+  "Icon": "asteroid scanner.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1305,
+  "AmmunitionId": 1305,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}
