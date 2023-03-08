@@ -503,15 +503,25 @@ Changelog:
   - Made Pug faction hostile (enigmatic precursors do not need the player to do missions for them)
   - Gave quest flavor text some more flavor
 
+### 0.14.4 ??? update
+
+Changelog:
+- Component Changes:
+  - Reverted the Ka'het primary cooling size change
+  - Reverted the friendly fire explosion change
+  - Added the Control Transceiver and Reasoning Node to Sestor and Mereti trees
+  - Added the Cloaking Device to the list of "rarely appears in smugglers" components
+- Ship Changes:
+  - Added the Courier to the Exiles faction
+- Tech Changes:
+  - Added Mark 4 variants of vanilla satellites to their respective tech trees
+- Other Changes:
 
 Planned changes:
 - Inclusion of scanners as drone and missile capturer weapons
 - Inclusion of Korath afterburner and reverser engines
-- Inclusion of Automata control devices as autopilots
 - Inclusion of the Shunt-Strike
 - Inclusion of plasma reverse thrusters
-- Inclusion of tiny Korath engines
-- Inclusion of Efreti ships to "dilute" the Exiles lineup
 - Inclusion of new factions and ships, including the ones that appear to be not fully in yet
 - Inclusion of Mark 4 satellites that contain 1 3x3 red slot per satellite
 - Inclusion of the Cloaking Device
@@ -522,7 +532,6 @@ Planned changes:
 - Remake firing and explode effects of human torpedoes and missiles
 - Inclusion of the following ships from Becca's Endless Expansion mod:
   - Blizzard (Wanderers)
-  - Courier (Exiles)
   - Robin, Swan (Remnant)
 - By player request:
   - Projectile speed increase for late-game C type weapons

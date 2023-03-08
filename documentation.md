@@ -170,6 +170,7 @@ X5700 Ion Thruster | 1019
 X5200 Ion Steering | 1020
 Boxwing | 3004
 Cooling Vent | 1077
+Asteroid Scanner | 1305
 
 Pirates
 Item Name | Item ID | Build IDs (if applicable)
@@ -199,6 +200,7 @@ Javelin Turret | 1274
 Barrage Turret | 1275
 Twin Blaster | 1296
 Twin Mod Blaster | 1297
+Cargo Scanner | 1306
 
 Syndicate
 Item Name | Item ID | Build IDs (if applicable)
@@ -225,6 +227,7 @@ S970 Regenerator | 1039
 Proton Gun | 2034
 Water Cooling System | 1078
 Anti-Missile Turret | 1081
+Outfit Scanner | 1307
 
 FW
 Item Name | Item ID | Build IDs (if applicable)
@@ -263,6 +266,7 @@ Liquid Nitrogen Cooling | 1079
 Plasma Repeater | 1084
 Quad Plasma Turret | 1246
 Capybara Plasma Engines | 1302
+Tactical Scanner | 1308
 
 Republic
 Item Name | Item ID | Build IDs (if applicable)
@@ -300,6 +304,7 @@ Liquid Helium Cooling | 1080
 Heavy Anti-Missile Turret | 1082
 Fusion Cannon | 1298
 Ion Beam Turret | 1301 (gun 2301)
+Surveillance Pod | 1309
 
 Hai
 Item Name | Item ID | Build IDs (if applicable)
@@ -485,6 +490,7 @@ Expeller | 1294
 Firestorm Battery | 1295
 Lagrange Heaver | 1299
 Shipper | 433 | 1397-1399
+Courier | 434 | 1400-1402
 
 Ka'het
 Item Name | Item ID | Build IDs (if applicable)
@@ -571,6 +577,7 @@ Heavy Repeater Turret | 1224 (Gun 2224)
 Detainer Turret | 1225 (Gun 2225)
 Piercer Launcher | 1226
 Plasma Packet Cannon | 1227
+Control Transceiver | 1303
 
 Kor Mereti
 Item Name | Item ID | Build IDs (if applicable)
@@ -587,6 +594,7 @@ Minelayer | 1228 (submunition | 3228)
 Slicer Turret | 1229 (Gun 2229)
 Disruptor Turret | 1230 (Gun 2230)
 Super Minelayer | 1233
+Reasoning Node | 1304
 
 Quarg
 Item Name | Item ID | Build IDs (if applicable)
@@ -632,10 +640,11 @@ Item Name | Item / Stat / Device ID
 Huge Systems Core | 1231
 Quad Plasma Core | 1232
 Reality Vector Engines | 1196
-Nullifier | 1185
 Dead Ringer | 5000
 Nuke on a Cart | 6000
 Jump Drive | 7000
+Shooting Star explosion device | 8000
+Cloaking Device | 9000
 
 Pug
 Item Name | Item ID | Build IDs (if applicable)
@@ -695,9 +704,9 @@ Tree Skeleton Key Stone | 1287
 First nused IDs:
 .json file type | ID
 --- | ---
-Component | 1303
-Ship | 434
-Build | 1400
+Component | 1312
+Ship | 435
+Build | 1403
 Drone | 3027
 Quest | 1035
 
