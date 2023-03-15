@@ -3,7 +3,7 @@
   "Id": 1078,
   "Type": 1,
   "ArmorRepairCooldownModifier": -0.144,
-	"EnergyRechargeCooldownModifier": -0.144,
+  "EnergyRechargeCooldownModifier": -0.144,
   "ShieldRechargeCooldownModifier": -0.144,
   "Weight": 25.0
 }
