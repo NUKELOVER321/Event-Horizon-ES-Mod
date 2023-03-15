@@ -3,7 +3,7 @@
   "Id": 1000,
   "ShipCategory": 3,
   "Name": "Super Kestrel",
-  "IconImage": "kestrel_icon.png",
+  "IconImage": "kestrel icon.png",
   "IconScale": 1.2,
   "ModelImage": "kestrel.png",
   "ModelScale": 13.0,
