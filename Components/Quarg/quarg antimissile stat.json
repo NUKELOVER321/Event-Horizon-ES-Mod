@@ -5,7 +5,7 @@
   "EnergyConsumption": 0.6,
   "Power": 25.0,
   "Range": 200.0,
-  "Size": 3.0,
+  "Size": 25.0,
   "Cooldown": 0.16,
   "Lifetime": 0.1,
   "ActivationType": 2,
