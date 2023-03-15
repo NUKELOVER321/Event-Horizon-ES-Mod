@@ -9,5 +9,8 @@
   "Level": 200,
   "Icon": "cooling module.png",
   "Layout": "1",
-  "CellType": "2"
+  "CellType": "2",
+  "PossibleModifications": [
+    2
+  ]
 }

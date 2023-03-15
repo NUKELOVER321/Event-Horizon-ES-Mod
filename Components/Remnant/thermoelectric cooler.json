@@ -9,5 +9,8 @@
   "Level": 300,
   "Icon": "thermoelectric cooler.png",
   "Layout": "1",
-  "CellType": "2"
+  "CellType": "2",
+  "PossibleModifications": [
+    2
+  ]
 }

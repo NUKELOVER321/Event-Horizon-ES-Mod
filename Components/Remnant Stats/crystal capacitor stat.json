@@ -4,7 +4,8 @@
   "Type": 1,
   "EnergyPoints": 22.65,
   "EnergyRechargeRate": -1.5,
-  "EnergyRechargeCooldownModifier": 0.016,
+  "ArmorRepairCooldownModifier": 0.016,
+	"EnergyRechargeCooldownModifier": 0.016,
   "ShieldRechargeCooldownModifier": 0.016,
   "Weight": 25.0
 }

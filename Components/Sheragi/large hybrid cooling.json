@@ -9,5 +9,8 @@
   "Level": 350,
   "Icon": "large hybrid cooling.png",
   "Layout": "1111111111111111",
-  "CellType": "2"
+  "CellType": "2",
+  "PossibleModifications": [
+    2
+  ]
 }

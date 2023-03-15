@@ -3,7 +3,8 @@
   "Id": 1134,
   "Type": 1,
   "EnergyRechargeRate": 6.91,
-  "EnergyRechargeCooldownModifier": 0.018,
+  "ArmorRepairCooldownModifier": 0.018,
+	"EnergyRechargeCooldownModifier": 0.018,
   "ShieldRechargeCooldownModifier": 0.018,
   "Weight": 25.0
 }
