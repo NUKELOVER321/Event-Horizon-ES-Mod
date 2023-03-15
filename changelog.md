@@ -511,10 +511,22 @@ Changelog:
   - Reverted the friendly fire explosion change
   - Added the Control Transceiver and Reasoning Node to Sestor and Mereti trees
   - Added the Cloaking Device to the list of "rarely appears in smugglers" components
+  - Fixed missing image for button for Cool Breeze
+  - Tweaked damage and energy costs of some weapons to match source material latest updates
+    - Sunbeam Turret damage: 78.9 -> 81.6
+    - Electron Beam Turret energy cost: 18 -> 24
+    - Electron Beam energy cost: 9 -> 12
+  - Tweaked velocity of some projectile based weapons
+    - Bombardment Cannon: 12 -> 24
+    - Thrasher Cannon: 9 -> 18
+  - Fixed the issue of anti-missile turrets not having the ranges they are supposed to
 - Ship Changes:
   - Added the Courier to the Exiles faction
 - Tech Changes:
   - Added Mark 4 variants of vanilla satellites to their respective tech trees
+  - Moved Dark Storm to a more accessible location on the Wanderers tech tree
+  - Moved Barb and Ionic Afterburner to more accessible locations on Syndicate tech tree
+  - Slightly reduced cost of smaller Remnant engines
 - Other Changes:
 
 Planned changes:

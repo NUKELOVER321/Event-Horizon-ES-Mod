@@ -78,6 +78,8 @@ Energy costs | Cost (/ 10 for high costs)
 Projectile, beam, torpedo, rocket range | Range / 10
 Missile range | Range / 50
 Missile, torpedo reload | Reload / 5 (and / 2.25 for pods)
+Scanner range | ???
+Anti-missile range | Range / 20 (Put the value in "Size" field)
 
 Non-weapon stats | Conversion
 --- | ---
@@ -718,3 +720,4 @@ Firelight | -90% energy cost, +100% range, uses the torpedo/rocket equation
 Heaver | -50% fire rate, energy cost = firing energy + firing fuel
 Point defenses | range multiplied by power of 2, 10x energy cost
 Detainer, Inhibitor | (Pending)
+Bombardment Cannon and many others | +100% projectile speed
