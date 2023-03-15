@@ -1,0 +1,33 @@
+{
+  "ItemType": 25,
+  "Id": 2305,
+  "Body": {
+    "Type": 2,
+    "Size": 15.0,
+    "Lifetime": 0.1,
+    "Weight": 0.1,
+    "HitPoints": 12,
+    "EnergyCost": 3.0
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 2,
+      "Color": "#00000000",
+      "Size": 1.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 0.1
+    },
+    {
+      "Type": 6,
+      "DamageType": 1,
+      "Power": 1.0
+    }
+  ]
+}
