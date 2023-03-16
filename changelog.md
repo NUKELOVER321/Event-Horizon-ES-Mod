@@ -519,12 +519,19 @@ Changelog:
   - Tweaked velocity of some projectile based weapons
     - Bombardment Cannon: 12 -> 24
     - Thrasher Cannon: 9 -> 18
+    - Thunderhead Missile: 8 -> 16
   - Fixed the issue of improperly implemented range for anti-missile turrets
   - Fixed missing shield cooldown value for Liquid Sodium Cooler
-  - Gave armor regeneration cooldown modifiers to all modules that generate heat
+  - Gave armor regeneration cooldown modifiers to all modules that generate or remove heat
+  - Reduced level of batteries and solar panels so that they can be crafted without stars
+  - Made most components with Special availability Rare
+    - Pug, Quarg, Sheragi, Coalition, and Ka'het components will now rarely appear in smugglers
 - Ship Changes:
   - Added the Courier to the Exiles faction
   - Gave Coalition Civilians a starbase
+  - Reduced shields, armor, and energy regen of all Automata ships
+  - Reduced energy regen of Wanderer ships
+  - Reduced shields and armor of Derecho and Hurricane
 - Tech Changes:
   - Added Mark 4 variants of vanilla satellites to their respective tech trees
   - Moved Dark Storm to a more accessible location on the Wanderers tech tree
@@ -541,8 +548,6 @@ Planned changes:
 - Inclusion of dynamic impact effects for lasers
   - impact effects that isn't just one image that lasts for 0.1 seconds
 - Make batteries and 1x1 components cheaper in terms of star costs
-- Reduction of modded drone energy costs by 50%
-- Reduction of energy regeneration of Wanderer ships
 - Remake firing and explode effects of human torpedoes and missiles
 - Inclusion of the following ships from Becca's Endless Expansion mod:
   - Blizzard (Wanderers)

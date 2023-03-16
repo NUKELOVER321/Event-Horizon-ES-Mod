@@ -554,17 +554,17 @@ Sunbeam Turret | 1207 (gun 2207)
 Thunderhead Launcher | 1208 (fragment 3208)
 Wanderer AM | 1209
 Wanderer Heavy AM | 1210
-Type | 0 Radiant Engines | 1211
-Type | 1 Radiant Thruster | 1212
-Type | 1 Radiant Steering | 1213
-Type | 2 Radiant Thruster | 1214
-Type | 2 Radiant Steering | 1215
-Type | 3 Radiant Thruster | 1216
-Type | 3 Radiant Steering | 1217
-Type | 4 Radiant Thruster | 1218
-Type | 4 Radiant Steering | 1219
-Type | 5 Radiant Thruster | 1220
-Type | 5 Radiant Steering | 1221
+Type 0 Radiant Engines | 1211
+Type 1 Radiant Thruster | 1212
+Type 1 Radiant Steering | 1213
+Type 2 Radiant Thruster | 1214
+Type 2 Radiant Steering | 1215
+Type 3 Radiant Thruster | 1216
+Type 3 Radiant Steering | 1217
+Type 4 Radiant Thruster | 1218
+Type 4 Radiant Steering | 1219
+Type 5 Radiant Thruster | 1220
+Type 5 Radiant Steering | 1221
 Moonbeam | 1222 (Gun 2222)
 
 Kor Sestor
@@ -724,6 +724,6 @@ Item Name | Differences
 Firestorm | -90% energy cost and energy storage
 Firelight | -90% energy cost, +100% range, uses the torpedo/rocket equation
 Heaver | -50% fire rate, energy cost = firing energy + firing fuel
-Point defenses | range multiplied by power of 2, 10x energy cost
+Point defenses | 10x energy cost
 Detainer, Inhibitor | (Pending)
-Bombardment Cannon and many others | +100% projectile speed
+Bombardment, Thrasher, Thunderhead | +100% projectile speed
