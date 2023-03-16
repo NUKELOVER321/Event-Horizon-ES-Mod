@@ -3,10 +3,10 @@
   "Id": 1087,
   "Name": "Ravine Battery Pack",
   "DisplayCategory": 3,
-  "Availability": 3,
+  "Availability": 2,
   "ComponentStatsId": 1087,
   "Faction": 206,
-  "Level": 285,
+  "Level": 60,
   "Icon": "ravine battery.png",
   "Layout": "1111111111111111",
   "PossibleModifications": [

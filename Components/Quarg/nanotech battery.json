@@ -3,7 +3,7 @@
   "Id": 1234,
   "Name": "Nanotech Battery",
   "DisplayCategory": 3,
-  "Availability": 3,
+  "Availability": 2,
   "ComponentStatsId": 1234,
   "Faction": 214,
   "Level": 500,

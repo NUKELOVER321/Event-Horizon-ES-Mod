@@ -3,10 +3,10 @@
   "Id": 1085,
   "Name": "Fissure Battery Pack",
   "DisplayCategory": 3,
-  "Availability": 3,
+  "Availability": 2,
   "ComponentStatsId": 1085,
   "Faction": 206,
-  "Level": 260,
+  "Level": 30,
   "Icon": "fissure battery.png",
   "Layout": "1111",
   "PossibleModifications": [

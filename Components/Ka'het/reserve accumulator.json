@@ -3,10 +3,10 @@
   "Id": 1171,
   "Name": "Reserve Accumulator",
   "DisplayCategory": 3,
-  "Availability": 3,
+  "Availability": 2,
   "ComponentStatsId": 1171,
   "Faction": 210,
-  "Level": 350,
+  "Level": 70,
   "Icon": "reserve accumulator.png",
   "Layout": "1",
   "PossibleModifications": [

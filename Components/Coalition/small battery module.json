@@ -3,10 +3,10 @@
   "Id": 1136,
   "Name": "Small Battery Module",
   "DisplayCategory": 3,
-  "Availability": 3,
+  "Availability": 2,
   "ComponentStatsId": 1136,
   "Faction": 218,
-  "Level": 250,
+  "Level": 25,
   "Icon": "small battery module.png",
   "Layout": "1",
   "PossibleModifications": [

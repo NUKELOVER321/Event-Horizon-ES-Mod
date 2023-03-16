@@ -3,10 +3,10 @@
   "Id": 1086,
   "Name": "Gorge Battery Pack",
   "DisplayCategory": 3,
-  "Availability": 3,
+  "Availability": 2,
   "ComponentStatsId": 1086,
   "Faction": 206,
-  "Level": 270,
+  "Level": 45,
   "Icon": "gorge battery.png",
   "Layout": "111111111",
   "PossibleModifications": [
