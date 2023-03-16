@@ -115,6 +115,7 @@ Quad Plasma | 0.25 | 8.75
 Reality Vector | 0.104 | 2.496
 Small Shunt | -0.231 | -0.924
 Large Shunt | -0.27 | -2.43
+Liquid Sodium | -0.819 | -13.104
 
 Wanderers
 Item | Heat Per Square | Heat Per Module

@@ -519,31 +519,35 @@ Changelog:
   - Tweaked velocity of some projectile based weapons
     - Bombardment Cannon: 12 -> 24
     - Thrasher Cannon: 9 -> 18
-  - Fixed the issue of anti-missile turrets not having the ranges they are supposed to
+  - Fixed the issue of improperly implemented range for anti-missile turrets
+  - Fixed missing shield cooldown value for Liquid Sodium Cooler
+  - Gave armor regeneration cooldown modifiers to all modules that generate heat
 - Ship Changes:
   - Added the Courier to the Exiles faction
+  - Gave Coalition Civilians a starbase
 - Tech Changes:
   - Added Mark 4 variants of vanilla satellites to their respective tech trees
   - Moved Dark Storm to a more accessible location on the Wanderers tech tree
   - Moved Barb and Ionic Afterburner to more accessible locations on Syndicate tech tree
   - Slightly reduced cost of smaller Remnant engines
+  - Moved Bombardment Cannon and Turret to Coalition Civilians tech tree
 - Other Changes:
 
 Planned changes:
 - Inclusion of scanners as drone and missile capturer weapons
-- Inclusion of Korath afterburner and reverser engines
 - Inclusion of the Shunt-Strike
-- Inclusion of plasma reverse thrusters
 - Inclusion of new factions and ships, including the ones that appear to be not fully in yet
 - Inclusion of Mark 4 satellites that contain 1 3x3 red slot per satellite
-- Inclusion of the Cloaking Device
 - Inclusion of dynamic impact effects for lasers
   - impact effects that isn't just one image that lasts for 0.1 seconds
 - Make batteries and 1x1 components cheaper in terms of star costs
 - Reduction of modded drone energy costs by 50%
+- Reduction of energy regeneration of Wanderer ships
 - Remake firing and explode effects of human torpedoes and missiles
 - Inclusion of the following ships from Becca's Endless Expansion mod:
   - Blizzard (Wanderers)
   - Robin, Swan (Remnant)
+- Inclusion of the following vanilla ships:
+  - Pirate scrap ships
 - By player request:
   - Projectile speed increase for late-game C type weapons

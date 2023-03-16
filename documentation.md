@@ -203,6 +203,11 @@ Barrage Turret | 1275
 Twin Blaster | 1296
 Twin Mod Blaster | 1297
 Cargo Scanner | 1306
+Nighthawk | 435 | 1403-1405
+Cutthroat | 436 | 1406-1408
+Valkyrie | 437 | 1409-1411
+Bulwark | 438 | 1412-1414
+Mammoth | 439 | 1415-1418
 
 Syndicate
 Item Name | Item ID | Build IDs (if applicable)
@@ -628,13 +633,14 @@ FW | 2204
 Republic | 2205
 Hai | 2206 (size 32)
 Remnant | 2207 (size 35)
-Coalition | 2208 (size 42)
+Heliarchs | 2208 (size 42)
 Korath Exiles | 2209 (size 35)
 Ka'het | 2210
 Wanderers | 2211 (size 40)
 Mereti | 2212
 Sestor | 2213
 Quarg | 2214 (size 45)
+Coalition | 2215 (size 33)
 
 Exclusive items (no technology files)
 Item Name | Item / Stat / Device ID
