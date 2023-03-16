@@ -2,9 +2,9 @@
   "ItemType": 10,
   "Id": 2153,
   "ItemId": 2153,
-  "Faction": 208,
+  "Faction": 218,
   "Price": 5,
   "Dependencies": [
-    383
+    1135
   ]
 }
