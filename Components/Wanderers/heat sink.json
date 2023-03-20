@@ -9,5 +9,8 @@
   "Level": 350,
   "Icon": "wanderer heat sink.png",
   "Layout": "1111",
-  "CellType": "2"
+  "CellType": "2",
+  "PossibleModifications": [
+    1
+  ]
 }

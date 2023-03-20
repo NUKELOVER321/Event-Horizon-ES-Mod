@@ -9,5 +9,8 @@
   "Level": 250,
   "Icon": "williwaw cooling.png",
   "Layout": "1",
-  "CellType": "2"
+  "CellType": "2",
+  "PossibleModifications": [
+    1
+  ]
 }

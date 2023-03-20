@@ -9,5 +9,8 @@
   "Level": 325,
   "Icon": "large heat shunt.png",
   "Layout": "111111111",
-  "CellType": "2"
+  "CellType": "2",
+  "PossibleModifications": [
+    1
+  ]
 }
