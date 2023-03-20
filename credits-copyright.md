@@ -41,9 +41,9 @@ There are a couple of images for whom their origin or author are unknown. Their 
 (The following is an attempt to emulate the `debian/copyright` file format. This section may or may not be refined in the future and/or moved to a different file. Until this disclaimer is no longer present, the text below should be treated as a work in progress.)
 
 ______________________________________________________________________________
-Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: Event-Horizon-ES-Mod
-Upstream-Contact: Jason Wu (-)
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/   
+Upstream-Name: Event-Horizon-ES-Mod   
+Upstream-Contact: Jason Wu (-)   
 Source: https://github.com/JasonWu00/Event-Horizon-ES-Mod
 
 Files: *.json   
