@@ -526,6 +526,13 @@ Changelog:
   - Reduced level of batteries and solar panels so that they can be crafted without stars
   - Made most components with Special availability Rare
     - Pug, Quarg, Sheragi, Coalition, and Ka'het components will now rarely appear in smugglers
+  - Fixed bad hit detection for a few superweapons
+    - Fusion Cannon: ImpactType: HitAllTargets -> HitFirstTarget
+    - Plasma Packet Cannon: moved push effect from projectile to explosion
+    - Dragonflame Cannon: reduced projectile speed, changed bullet prefab
+    - Dragonflame Cannon: added a spawn trigger on hit
+  - Gave most shield generators the Energy Recharge modifier
+  - Gave all passive coolers the Weight modifier
 - Ship Changes:
   - Added the Courier to the Exiles faction
   - Gave Coalition Civilians a starbase
@@ -538,21 +545,45 @@ Changelog:
   - Moved Barb and Ionic Afterburner to more accessible locations on Syndicate tech tree
   - Slightly reduced cost of smaller Remnant engines
   - Moved Bombardment Cannon and Turret to Coalition Civilians tech tree
+  - Moved D-67 and D-91 shields to FW tech tree
+  - Added the Asteroid Scanner as a proof of concept to the Merchants tech tree
+    - Scanner type weapons capture drones, missiles, and some projectiles near the ship when fired
 - Other Changes:
 
-Planned changes:
-- Inclusion of scanners as drone and missile capturer weapons
-- Inclusion of the Shunt-Strike
-- Inclusion of new factions and ships, including the ones that appear to be not fully in yet
-- Inclusion of Mark 4 satellites that contain 1 3x3 red slot per satellite
-- Inclusion of dynamic impact effects for lasers
+
+### Planned changes:
+- Incorporate scanners as drone and missile capturer weapons
+- Incorporate the Shunt-Strike
+- Incorporate new factions and ships, including the ones that appear to be not fully in yet
+- Incorporate dynamic impact effects for lasers
   - impact effects that isn't just one image that lasts for 0.1 seconds
-- Make batteries and 1x1 components cheaper in terms of star costs
 - Remake firing and explode effects of human torpedoes and missiles
-- Inclusion of the following ships from Becca's Endless Expansion mod:
+- Incorporate the following ships from Becca's Endless Expansion mod:
   - Blizzard (Wanderers)
   - Robin, Swan (Remnant)
-- Inclusion of the following vanilla ships:
+- Incorporate the following ships and outfits from Korath Exiles PA:
+  - Detainer FO
+  - Ionizer FO
+  - Screener
+  - Ionizer (and effects)
+- Incorporate the following vanilla ships:
   - Pirate scrap ships
+- Incorporate the IBS as a C type weapon firing triple HIPC rounds
+- Incorporate the HIPC from Ursa Polaris
+- Incorporate the following from Enigma Corp:
+  - (letter) class platings as all-resistance armors
+  - Antimatter Engines
+- More unique quests for specific factions
+  - Pirates: raiding Merchant convoys
+    - rewards: assorted "cargo" sellable items
+  - Merchants, Syndicate, FW, Republic: cull Pirates
+    - enemy difficulty scales with faction
+    - rewards: various
+  - Remnant, Syndicate, Hai: repel Exiles raider force
+    - rewards: some scattered components, some money
+  - Wanderers: repel scattered Automata force
+    - rewards: some scattered components
+  - Heliarchs: acquire Yottrite
+    - rewards: lots of money, more trust than other missions provide
 - By player request:
   - Projectile speed increase for late-game C type weapons

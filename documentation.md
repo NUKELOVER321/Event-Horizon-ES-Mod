@@ -79,7 +79,7 @@ Projectile, beam, torpedo, rocket range | Range / 10
 Missile range | Range / 50
 Missile, torpedo reload | Reload / 5 (and / 2.25 for pods)
 Scanner range | ???
-Anti-missile range | Range / 20 (Put the value in "Size" field)
+Anti-missile range | Range / 25 (Put the value in "Size" field)
 
 Non-weapon stats | Conversion
 --- | ---

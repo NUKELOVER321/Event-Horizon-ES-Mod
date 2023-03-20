@@ -37,3 +37,51 @@ Korath Automation Upgrade (Kriegstofu) | Pillager
 There are a couple of images for whom their origin or author are unknown. Their names are listed below.
 
 * Gatling Turret
+
+(The following is an attempt to emulate the `debian/copyright` file format. This section may or may not be refined in the future and/or moved to a different file. Until this disclaimer is no longer present, the text below should be treated as a work in progress.)
+
+______________________________________________________________________________
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Event-Horizon-ES-Mod
+Upstream-Contact: Jason Wu (-)
+Source: https://github.com/JasonWu00/Event-Horizon-ES-Mod
+
+Files: *.json   
+Copyright:   
+License: GPL-3+   
+Comment:
+
+Files:   
+  Component?Images/*   
+  Ship?Images/*   
+  Station?Images/*   
+  Turret?Sprites/*   
+  Weapons/Ammo?Images/*   
+  Weapons/Buttons/*   
+  Weapons/Impact?Effect?Images/*   
+  Weapons/*.png   
+Copyright: 
+License: CC-BY-SA-4.0   
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:   
+Copyright:   
+License:   
+Comment:   
+
+License: GPL-3+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation; either version 3 of the License, or
+  (at your option) any later version.
+  .   
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+  .   
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+  .   
+  On Debian systems, the complete text of the GNU General Public
+  License version 3 can be found in "/usr/share/common-licenses/GPL-3".
