@@ -8,5 +8,5 @@
   "ActivationType": 1,
   "ShotSound": "detainer",
   "ShotEffectPrefab": "FlashAdditive",
-  "ControlButtonIcon": "controls_shot"
+  "ControlButtonIcon": "plasma packet cannon.png"
 }

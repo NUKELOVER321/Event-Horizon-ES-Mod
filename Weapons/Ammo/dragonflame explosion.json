@@ -3,7 +3,7 @@
   "Id": 2272,
   "Body": {
     "Type": 2,
-    "Size": 15.0,
+    "Size": 10.0,
     "Lifetime": 0.5,
     "Color": "#FF9400",
     "EnergyCost": 1.0
@@ -28,6 +28,11 @@
       "Type": 3,
       "DamageType": 2,
       "Power": 500.0
+    },
+    {
+      "Type": 1,
+      "DamageType": 2,
+      "Power": 0.1
     }
   ]
 }

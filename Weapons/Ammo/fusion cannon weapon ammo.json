@@ -7,25 +7,16 @@
     "Range": 132.0,
     "HitPoints": 10,
     "BulletPrefab": 1298,
-    "EnergyCost": 50.0,
-    "CanBeDisarmed": true
+    "EnergyCost": 50.0
   },
   "Triggers": [
-    {
-      "Condition": 2,
-      "EffectType": 2,
-      "Ammunition": 2298,
-      "Color": "#00000000",
-      "Quantity": 1,
-      "Size": 0.9
-    },
     {
       "Condition": 4,
       "EffectType": 2,
       "Ammunition": 2298,
       "Color": "#00000000",
       "Quantity": 1,
-      "Size": 0.9
+      "Size": 1.0
     },
     {
       "Condition": 5,
@@ -33,14 +24,20 @@
       "Ammunition": 2298,
       "Color": "#00000000",
       "Quantity": 1,
-      "Size": 0.9
+      "Size": 1.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "Ammunition": 2298,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0
     }
   ],
-  "ImpactType": 1,
   "Effects": [
     {
-      "Type": 1,
-      "Power": 0.1
+      "Type": 1
     }
   ]
 }

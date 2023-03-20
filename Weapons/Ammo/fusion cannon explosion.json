@@ -3,11 +3,10 @@
   "Id": 2298,
   "Body": {
     "Type": 2,
-    "Size": 15.0,
+    "Size": 5.0,
     "Lifetime": 0.5,
     "Color": "#FF9400",
-    "EnergyCost": 1.0,
-    "FriendlyFire": true
+    "EnergyCost": 1.0
   },
   "Triggers": [
     {

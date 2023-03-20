@@ -2,29 +2,33 @@
   "ItemType": 25,
   "Id": 1305,
   "Body": {
-    "Type": 1,
-    "Size": 1.0,
-    "Velocity": 14.0,
-    "Range": 98.0,
+    "Type": 2,
+    "Size": 20.0,
+    "Range": 10.0,
+    "Lifetime": 1.0,
     "Weight": 0.1,
-    "HitPoints": 12,
-    "EnergyCost": 3.0,
-    "CanBeDisarmed": true
+    "EnergyCost": 100.0
   },
   "Triggers": [
     {
       "Condition": 1,
-      "EffectType": 2,
-      "Ammunition": 2305,
+      "EffectType": 1,
+      "VisualEffect": 1305,
       "Color": "#00000000",
-      "Quantity": 1,
-      "Size": 1.0
+      "Size": 1.0,
+      "Lifetime": 1.0
     }
   ],
+  "ImpactType": 1,
   "Effects": [
     {
-      "DamageType": 2,
+      "DamageType": 1,
       "Power": 0.1
+    },
+    {
+      "Type": 6,
+      "DamageType": 1,
+      "Power": 1.0
     }
   ]
 }

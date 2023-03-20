@@ -7,19 +7,7 @@
       "Image": "wave",
       "ColorMode": 2,
       "Size": 1.0,
-      "Lifetime": 1.0
-    },
-    {
-      "Type": 1,
-      "Image": "star",
-      "ColorMode": 2,
-      "Size": 1.0,
-      "Lifetime": 1.0
-    },
-    {
-      "Type": 5,
-      "Size": 1.0,
-      "Lifetime": 1.0
+      "Lifetime": 2.0
     }
   ]
 }
