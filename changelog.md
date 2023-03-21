@@ -533,6 +533,10 @@ Changelog:
     - Dragonflame Cannon: added a spawn trigger on hit
   - Gave most shield generators the Energy Recharge modifier
   - Gave all passive coolers the Weight modifier
+  - Added Inteference Plating to Pirates tech tree
+  - Added Command Center to Exiles tech tree
+  - Added Research Laboratory to Remnant tech tree
+  - Updated sprites for the Thunderhead Launcher and Wanderer Anti-Missile Turret
 - Ship Changes:
   - Added the Courier to the Exiles faction
   - Gave Coalition Civilians a starbase
@@ -552,6 +556,7 @@ Changelog:
 
 
 ### Planned changes:
+- Make most or all components Common instead of Rare so they are sold in faction shops
 - Incorporate scanners as drone and missile capturer weapons
 - Incorporate the Shunt-Strike
 - Incorporate new factions and ships, including the ones that appear to be not fully in yet

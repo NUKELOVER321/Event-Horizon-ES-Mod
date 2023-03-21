@@ -208,6 +208,10 @@ Cutthroat | 436 | 1406-1408
 Valkyrie | 437 | 1409-1411
 Bulwark | 438 | 1412-1414
 Mammoth | 439 | 1415-1418
+Small Interference Plating | 1312
+Medium Interference Plating | 1313
+Large Interference Plating | 1314
+Extra Large Interference Plating | 1315
 
 Syndicate
 Item Name | Item ID | Build IDs (if applicable)
@@ -394,6 +398,7 @@ Inhibitor Turret | 1129
 EMP Torpedo Bay | 1130 (Pod 2130)
 Penguin | 369 | 1205-1207
 Ember Tear | 1278
+Research Laboratory | 1317
 
 Coalition
 Item Name | Item ID | Build IDs (if applicable)
@@ -498,6 +503,7 @@ Firestorm Battery | 1295
 Lagrange Heaver | 1299
 Shipper | 433 | 1397-1399
 Courier | 434 | 1400-1402
+Command Center | 1316
 
 Ka'het
 Item Name | Item ID | Build IDs (if applicable)
@@ -712,7 +718,7 @@ Tree Skeleton Key Stone | 1287
 First nused IDs:
 .json file type | ID
 --- | ---
-Component | 1312
+Component | 1318
 Ship | 435
 Build | 1403
 Drone | 3027
