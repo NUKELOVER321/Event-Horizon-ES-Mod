@@ -557,6 +557,7 @@ Changelog:
 
 ### Planned changes:
 - Make most or all components Common instead of Rare so they are sold in faction shops
+- Provide credits to Enigma Corp author for the pirate armors
 - Incorporate scanners as drone and missile capturer weapons
 - Incorporate the Shunt-Strike
 - Incorporate new factions and ships, including the ones that appear to be not fully in yet
