@@ -1,0 +1,13 @@
+{
+  "ItemType": 11,
+  "Id": 1316,
+  "Type": 1,
+  "EnergyRechargeRate": -1.0,
+  "Weight": 25.0,
+  "DroneRangeModifier": 0.1375,
+  "DroneDamageModifier": 0.1375,
+  "DroneDefenseModifier": 0.1375,
+  "DroneSpeedModifier": 0.1375,
+  "DronesBuiltPerSecond": 0.1,
+  "DroneBuildTimeModifier": 0.025
+}

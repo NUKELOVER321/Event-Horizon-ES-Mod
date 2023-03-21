@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1313,
+  "Name": "Medium Interference Plating",
+  "DisplayCategory": 2,
+  "Availability": 2,
+  "ComponentStatsId": 1313,
+  "Faction": 202,
+  "Level": 75,
+  "Icon": "d class plating.png",
+  "Layout": "1111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3
+  ]
+}

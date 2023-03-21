@@ -3,10 +3,10 @@
   "Id": 1114,
   "Name": "Crystal Capacitor",
   "DisplayCategory": 3,
-  "Availability": 2,
+  "Availability": 1,
   "ComponentStatsId": 1114,
   "Faction": 207,
-  "Level": 300,
+  "Level": 150,
   "Icon": "crystal capacitor.png",
   "Layout": "1111",
   "PossibleModifications": [

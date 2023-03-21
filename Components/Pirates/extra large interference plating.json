@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1315,
+  "Name": "Extra Large Interference Plating",
+  "DisplayCategory": 2,
+  "Availability": 2,
+  "ComponentStatsId": 1315,
+  "Faction": 202,
+  "Level": 100,
+  "Icon": "s class plating.png",
+  "Layout": "1111111111111111",
+  "CellType": "1",
+  "PossibleModifications": [
+    3
+  ]
+}

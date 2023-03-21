@@ -1,0 +1,10 @@
+{
+  "ItemType": 11,
+  "Id": 1312,
+  "Type": 1,
+  "Weight": 25.0,
+  "EnergyAbsorption": 8.0,
+  "KineticResistance": 8.0,
+  "EnergyResistance": 8.0,
+  "ThermalResistance": 8.0
+}

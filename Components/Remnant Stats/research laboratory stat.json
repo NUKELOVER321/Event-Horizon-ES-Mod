@@ -1,0 +1,11 @@
+{
+  "ItemType": 11,
+  "Id": 1317,
+  "Type": 1,
+  "EnergyRechargeRate": -0.3,
+  "Weight": 25.0,
+  "WeaponFireRateModifier": 0.175,
+  "WeaponDamageModifier": 0.175,
+  "WeaponRangeModifier": 0.0625,
+  "WeaponEnergyCostModifier": 0.175
+}

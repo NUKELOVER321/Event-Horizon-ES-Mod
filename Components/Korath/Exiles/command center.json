@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 1316,
+  "Name": "Command Center",
+  "DisplayCategory": 5,
+  "Availability": 2,
+  "ComponentStatsId": 1316,
+  "Faction": 209,
+  "Level": 400,
+  "Icon": "command center.png",
+  "Layout": "1111111111111111",
+  "CellType": "2",
+  "PossibleModifications": [
+    19,
+    18,
+    17,
+    20
+  ]
+}
