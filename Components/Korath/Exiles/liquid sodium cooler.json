@@ -6,9 +6,9 @@
   "Availability": 2,
   "ComponentStatsId": 1291,
   "Faction": 209,
-  "Level": 375,
+  "Level": 350,
   "Icon": "liquid sodium cooler.png",
-  "Layout": "1111111111111111",
+  "Layout": "0000111111110000",
   "CellType": "2",
   "PossibleModifications": [
     2

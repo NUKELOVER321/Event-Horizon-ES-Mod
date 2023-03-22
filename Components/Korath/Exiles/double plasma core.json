@@ -8,7 +8,7 @@
   "Faction": 209,
   "Level": 400,
   "Icon": "double plasma core.png",
-  "Layout": "0111011111111111111101110",
+  "Layout": "0000011111111111111100000",
   "CellType": "2",
   "PossibleModifications": [
     12
