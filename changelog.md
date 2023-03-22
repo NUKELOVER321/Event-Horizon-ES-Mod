@@ -503,7 +503,7 @@ Changelog:
   - Made Pug faction hostile (enigmatic precursors do not need the player to do missions for them)
   - Gave quest flavor text some more flavor
 
-### 0.14.4 ??? update
+### 0.14.4 "Remote Blue" update
 
 Changelog:
 - Component Changes:
@@ -537,6 +537,11 @@ Changelog:
   - Added Command Center to Exiles tech tree
   - Added Research Laboratory to Remnant tech tree
   - Updated sprites for the Thunderhead Launcher and Wanderer Anti-Missile Turret
+  - Subject to revert: remade the layout of these components to better fit their shape
+    - Plasma Core
+    - Double Plasma Core
+    - Liquid Sodium Cooler
+    - Extra Large Interference Plating
 - Ship Changes:
   - Added the Courier to the Exiles faction
   - Gave Coalition Civilians a starbase
