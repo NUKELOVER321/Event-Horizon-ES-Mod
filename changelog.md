@@ -559,9 +559,23 @@ Changelog:
     - Scanner type weapons capture drones, missiles, and some projectiles near the ship when fired
 - Other Changes:
 
+### 0.14.5 ??? update
+
+Changelog:
+- Component Changes
+  - Reduced crafting cost of interference plating
+  - Made healing rays capable of auto-firing
+- Ship Changes
+  - Tweaked some Ka'het builds
+  - Remade Automata builds to account for the reduced size of some outfits
+  - Made the 2vet Heliarch Punisher not have instant repair and regen
+- Tech Changes
+- Other Changes
 
 ### Planned changes:
+- Nerf Model 64
 - Make most or all components Common instead of Rare so they are sold in faction shops
+  - Alternatively: undo the special -> rare change for some factions
 - Provide credits to Enigma Corp author for the pirate armors
 - Incorporate scanners as drone and missile capturer weapons
 - Incorporate the Shunt-Strike
