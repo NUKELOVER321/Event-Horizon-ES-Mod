@@ -176,22 +176,6 @@
       "KeyBinding": 2
     },
     {
-      "ComponentId": 10,
-      "Locked": true,
-      "X": 22,
-      "Y": 14,
-      "BarrelId": -1,
-      "KeyBinding": 2
-    },
-    {
-      "ComponentId": 10,
-      "Locked": true,
-      "X": 15,
-      "Y": 14,
-      "BarrelId": -1,
-      "KeyBinding": 2
-    },
-    {
       "ComponentId": 1165,
       "Locked": true,
       "X": 22,
