@@ -1,7 +1,7 @@
 {
   "ItemType": 1,
   "Id": 171,
-  "Name": "$RepairBeam_M_1",
+  "Name": "Medium Repair Ray",
   "DisplayCategory": 1,
   "ComponentStatsId": 1,
   "Faction": 11,
