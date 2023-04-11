@@ -17,24 +17,13 @@
       "Color": "#00000000",
       "Size": 12.5,
       "Lifetime": 1.0
-    },
-    {
-      "Condition": 1,
-      "EffectType": 2,
-      "Ammunition": 1272,
-      "Color": "#00000000",
-      "Quantity": 1,
-      "Size": 1.0
     }
   ],
   "ImpactType": 1,
   "Effects": [
+    {},
     {
-      "Power": 0.1
-    },
-    {
-      "Type": 1,
-      "Power": 0.1
+      "Type": 1
     }
   ]
 }

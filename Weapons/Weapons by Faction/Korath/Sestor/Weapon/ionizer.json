@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1318,
+  "Name": "Ionizer",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1318,
+  "Faction": 213,
+  "Level": 450,
+  "Icon": "Ionizer.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1318,
+  "AmmunitionId": 1318,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

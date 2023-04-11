@@ -4,12 +4,19 @@
   "Body": {
     "Type": 2,
     "Size": 2.5,
-    "Velocity": 75.0,
+    "Velocity": 150.0,
     "Range": 200.0,
     "Weight": 0.1,
     "BulletPrefab": 1269
   },
   "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 3272,
+      "Color": "#00000000",
+      "Quantity": 1
+    },
     {
       "Condition": 2,
       "EffectType": 2,
@@ -38,7 +45,7 @@
   "ImpactType": 1,
   "Effects": [
     {
-      "Type": 1
+      "Power": 0.1
     }
   ]
 }

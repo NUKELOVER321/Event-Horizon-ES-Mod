@@ -5,7 +5,6 @@
     "Size": 2.5,
     "Velocity": 66.0,
     "Range": 132.0,
-    "HitPoints": 10,
     "BulletPrefab": 1298,
     "EnergyCost": 50.0
   },
@@ -37,7 +36,7 @@
   ],
   "Effects": [
     {
-      "Type": 1
+      "Power": 0.1
     }
   ]
 }
