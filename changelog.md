@@ -565,18 +565,31 @@ Changelog:
 - Component Changes
   - Reduced crafting cost of interference plating
   - Made healing rays capable of auto-firing
+  - Made Fusion Cannon projectile not collide with other projectiles
+  - Gave names to these formerly AI only components:
+    - Medium Repair Ray
+    - AI Heavy Vampyric Ray
+  - Tweaked velocity of some projectile based weapons
+    - Bombardment Cannon: 24 -> 18
+    - Thrasher Cannon: 18 -> 13.5
+    - Thunderhead Missile: 16 -> 12
+  - Added the Ionizer to the Kor Sestor faction
 - Ship Changes
   - Tweaked some Ka'het builds
   - Remade Automata builds to account for the reduced size of some outfits
   - Made the 2vet Heliarch Punisher not have instant repair and regen
+  - Fixed bad faction assignment for Ka'het and Coalition Civilian starbases
+  - Fixed empty builds for the Courier
+  - Increased speed of Strong Wind veteran versions slightly
+  - Added the Blizzard to the Wanderers faction
+  - Added the FO Detainer and FO Ionizer to Kor Sestor faction
 - Tech Changes
+  - Added tech for Small and Medium Repair Rays in the Unknowns and Empire tech trees
 - Other Changes
 
 ### Planned changes:
-- Nerf Model 64
 - Make most or all components Common instead of Rare so they are sold in faction shops
   - Alternatively: undo the special -> rare change for some factions
-- Provide credits to Enigma Corp author for the pirate armors
 - Incorporate scanners as drone and missile capturer weapons
 - Incorporate the Shunt-Strike
 - Incorporate new factions and ships, including the ones that appear to be not fully in yet
@@ -584,19 +597,12 @@ Changelog:
   - impact effects that isn't just one image that lasts for 0.1 seconds
 - Remake firing and explode effects of human torpedoes and missiles
 - Incorporate the following ships from Becca's Endless Expansion mod:
-  - Blizzard (Wanderers)
   - Robin, Swan (Remnant)
-- Incorporate the following ships and outfits from Korath Exiles PA:
-  - Detainer FO
-  - Ionizer FO
-  - Screener
-  - Ionizer (and effects)
 - Incorporate the following vanilla ships:
   - Pirate scrap ships
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
 - Incorporate the HIPC from Ursa Polaris
 - Incorporate the following from Enigma Corp:
-  - (letter) class platings as all-resistance armors
   - Antimatter Engines
 - More unique quests for specific factions
   - Pirates: raiding Merchant convoys

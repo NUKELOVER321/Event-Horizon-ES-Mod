@@ -572,6 +572,7 @@ Type 4 Radiant Steering | 1219
 Type 5 Radiant Thruster | 1220
 Type 5 Radiant Steering | 1221
 Moonbeam | 1222 (Gun 2222)
+Blizzard | 435 | 1419-1421
 
 Kor Sestor
 Item Name | Item ID | Build IDs (if applicable)
@@ -591,6 +592,10 @@ Detainer Turret | 1225 (Gun 2225)
 Piercer Launcher | 1226
 Plasma Packet Cannon | 1227
 Control Transceiver | 1303
+Screener | 3027
+FO Detainer | 3028
+FO Ionizer | 3029
+Ionizer | 1318
 
 Kor Mereti
 Item Name | Item ID | Build IDs (if applicable)
@@ -718,10 +723,10 @@ Tree Skeleton Key Stone | 1287
 First nused IDs:
 .json file type | ID
 --- | ---
-Component | 1318
-Ship | 435
-Build | 1403
-Drone | 3027
+Component | 1319
+Ship | 436
+Build | 1422
+Drone | 3030
 Quest | 1035
 
 Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.
