@@ -1,14 +1,14 @@
 {
   "ItemType": 16,
-  "Id": 1040,
+  "Id": 10481,
   "Loot": {
     "Type": 21,
     "Items": [
       {
-        "Weight": 1.0,
         "Loot": {
-          "Type": 30,
-          "ItemId": 1358
+          "Type": 3,
+          "MinAmount": 1000000,
+          "MaxAmount": 1000000
         }
       }
     ]

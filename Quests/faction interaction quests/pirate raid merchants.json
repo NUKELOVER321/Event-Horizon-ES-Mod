@@ -1,0 +1,119 @@
+{
+  "ItemType": 15,
+  "Id": 1043,
+  "Name": "Raid Merchant Convoy",
+  "StartCondition": 3,
+  "Weight": 1.0,
+  "Origin": {
+    "Factions": {
+      "Type": 1,
+      "List": [
+        202
+      ]
+    }
+  },
+  "Nodes": [
+    {
+      "Id": 1,
+      "Type": 10,
+      "Message": "Some Merchant Alliance ships escaped our ambush earlier. Go clean them up and we might let you keep some loot.",
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 2,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 3,
+          "Requirement": {
+            "Type": 7,
+            "MinValue": 3,
+            "MaxValue": 4
+          }
+        }
+      ]
+    },
+    {
+      "Id": 3,
+      "Type": 10,
+      "Message": "There they are. Get them!",
+      "Enemy": 1043,
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 4,
+          "ButtonText": "Attack"
+        }
+      ]
+    },
+    {
+      "Id": 4,
+      "Type": 20,
+      "DefaultTransition": 11,
+      "FailureTransition": 6,
+      "Enemy": 1043
+    },
+    {
+      "Id": 11,
+      "Type": 17,
+      "Transitions": [
+        {
+          "TargetNode": 5,
+          "Requirement": {
+            "Type": 30
+          }
+        }
+      ]
+    },
+    {
+      "Id": 5,
+      "Type": 10,
+      "Message": "Excellent work.",
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 7,
+          "ButtonText": "$Continue"
+        }
+      ]
+    },
+    {
+      "Id": 6,
+      "Type": 10,
+      "Message": "Look what you have done.",
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 8,
+          "ButtonText": "$Continue"
+        }
+      ]
+    },
+    {
+      "Id": 7,
+      "Type": 56,
+      "DefaultTransition": 9,
+      "Value": 10
+    },
+    {
+      "Id": 8,
+      "Type": 56,
+      "DefaultTransition": 10,
+      "Value": -5
+    },
+    {
+      "Id": 9,
+      "Type": 40
+    },
+    {
+      "Id": 10,
+      "Type": 41
+    }
+  ]
+}
