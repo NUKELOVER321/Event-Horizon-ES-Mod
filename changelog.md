@@ -565,6 +565,7 @@ Changelog:
 - Component Changes
   - Reduced crafting cost of interference plating
   - Made healing rays capable of auto-firing
+  - Made the vanilla fortification and frontal shield modules capable of auto-firing
   - Made Fusion Cannon projectile not collide with other projectiles
   - Gave names to these formerly AI only components:
     - Medium Repair Ray
@@ -573,7 +574,7 @@ Changelog:
     - Bombardment Cannon: 24 -> 18
     - Thrasher Cannon: 18 -> 13.5
     - Thunderhead Missile: 16 -> 12
-  - Added the Ionizer to the Kor Sestor faction
+  - Added the Ionizer to the Kor Sestor
 - Ship Changes
   - Tweaked some Ka'het builds
   - Remade Automata builds to account for the reduced size of some outfits
@@ -582,10 +583,15 @@ Changelog:
   - Fixed empty builds for the Courier
   - Increased speed of Strong Wind veteran versions slightly
   - Added the Blizzard to the Wanderers faction
-  - Added the FO Detainer and FO Ionizer to Kor Sestor faction
+  - Added the FO Detainer and FO Ionizer to the Kor Sestor
+  - Nerfed the FL 14
+    - No longer has almost as much firepower as larger drones
 - Tech Changes
   - Added tech for Small and Medium Repair Rays in the Unknowns and Empire tech trees
 - Other Changes
+  - KIV 750 and Model 1024 quests now correctly drop builds with unlocked superweapons
+  - Added a couple of faction mission quests to Pirates and Syndicate
+  - Added a number of faction quests
 
 ### Planned changes:
 - Make most or all components Common instead of Rare so they are sold in faction shops

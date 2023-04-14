@@ -14,7 +14,7 @@ The first few versions were released informally on the official Discord server f
 
 Note that the account uploading to the itch.io page uses a personal username instead of my actual name. This is because I was initially not keen on allowing random people on the Internet to know my real name.
 
-## Pre-emptive question answering
+## Questions
 
 Q: "This isn't technically impressive. It doesn't show off any flashy or marketable skills. It won't matter for whether you get into an internship or job or not. Why are you pinning it to your profile?"
 
@@ -22,14 +22,14 @@ A: These statements are true and I am aware of this. I pinned this repo on my pr
 
 Q: "What do all of these `.json` files do?"
 
-A: Some helpful people over at the Event Horizon official Discord server compiled this ["Database User Manual"](https://docs.google.com/document/d/1TsxbbtUkF_OKdpotKNQEiPqvW3xi8CTUipUiFz51CZY/edit?usp=sharing) that details exactly what everything does. This manual explains everything far better than I possibly could, but it is a bit of a long read. Alternatively, you can refer to the `README.md` files in each folder containing data files for an idea of what the `.json` files in the relevant folders mean.
+A: Some helpful people over at the Event Horizon official Discord server compiled this ["Database User Manual"](https://docs.google.com/document/d/1TsxbbtUkF_OKdpotKNQEiPqvW3xi8CTUipUiFz51CZY/edit?usp=sharing) that details exactly what everything does. This manual explains everything far better than I possibly could, but it is a bit of a long read. Alternatively, you can refer to the `README.md` files in a couple of the data folders for an idea of what the `.json` files in the relevant folders mean. Note that most data folders don't have readmes.
 
-Q: "How do I download and use your mod?"
+Q: "How do I download and use this mod?"
 
 A: To do that you will have to download Event Horizon, place the mod file into the correct location, and play the game. The steps to do this are as follows:
 
 1. Download Event Horizon.
-   - Android: from the Google Play Store
+   - Android: from the Google Play Store.
    - PC: from [here](https://github.com/PavelZinchenko/EventHorizon-Issues/releases/tag/latest_build). Download `EventHorizon_win64.zip` to your device and extract it to a folder of your choosing.
 2. Go to the location where the Event Horizon game files are stored at.
    - Android: `storage/Android/data/com.ZipasGames.EventHorizon/files`
@@ -38,14 +38,15 @@ A: To do that you will have to download Event Horizon, place the mod file into t
 3. Create a folder at that location named `Mods`. Capitalization matters.
 4. Download whichever version of this mod you want and move the mod file to the `Mods` folder.
 5. Launch Event Horizon.
-   - Android: press on the Event Horizon app icon on your devoce.
+   - Android: press on the Event Horizon app icon on your device.
    - PC: Double-click on `Event Horizon.exe`.
+      - Note: `Event Horizon.exe` must be in the same directory as the `Mods` folder.
 6. Activate the mod.
    - Select the `"Settings"` button on the bottom right of the game's main menu.
    - Out of the six buttons on the left side of the settings menu, select the wrench and screwdriver symbol.
    - You will be shown a list of "Available modifications". Select this mod (usually titled `Endless Sky [version number]`), then select the "Yes" button on the popup warning window.
    - Wait until the game finishes activating the mod.
-7. End.
+7. The mod is now loaded.
 
 ## Credits, Copyrights, Documentation
 

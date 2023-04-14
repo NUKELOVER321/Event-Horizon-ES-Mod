@@ -727,7 +727,7 @@ Component | 1319
 Ship | 436
 Build | 1422
 Drone | 3030
-Quest | 1035
+Quest | 1049
 
 Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.
 Item Name | Differences
