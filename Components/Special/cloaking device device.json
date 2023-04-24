@@ -6,7 +6,7 @@
   "PassiveEnergyConsumption": 1.0,
   "Power": 1.0,
   "Cooldown": 1.0,
-  "ActivationType": 1,
+  "ActivationType": 2,
   "Color": "#000000",
   "EffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "unknown.png"
