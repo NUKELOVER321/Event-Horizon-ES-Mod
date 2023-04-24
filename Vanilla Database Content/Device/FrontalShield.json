@@ -9,7 +9,7 @@
   "Offset": {
     "x": 0.4
   },
-  "ActivationType": 1,
+  "ActivationType": 2,
   "Color": "#FF6D5A",
   "ObjectPrefab": "Shield",
   "ControlButtonIcon": "controls_shield"

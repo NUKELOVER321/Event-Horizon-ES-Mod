@@ -4,6 +4,17 @@
   "Name": "$Mission_DestroyPirates",
   "StartCondition": 3,
   "Weight": 1.0,
+  "Origin": {
+    "Factions": {
+      "List": [
+        206,
+        202,
+        203,
+        211,
+        207
+      ]
+    }
+  },
   "Nodes": [
     {
       "Id": 1,

@@ -5,7 +5,7 @@
   "EnergyConsumption": 1.0,
   "PassiveEnergyConsumption": 2.0,
   "Cooldown": 4.0,
-  "ActivationType": 1,
+  "ActivationType": 2,
   "Color": "#C04A4CFF",
   "Sound": "hit_04",
   "ControlButtonIcon": "controls_laser"
