@@ -575,6 +575,7 @@ Changelog:
     - Thrasher Cannon: 18 -> 13.5
     - Thunderhead Missile: 16 -> 12
   - Added the Ionizer to the Kor Sestor
+  - Halved healing power of Medium Repair Ray
 - Ship Changes
   - Tweaked some Ka'het builds
   - Remade Automata builds to account for the reduced size of some outfits
@@ -586,14 +587,26 @@ Changelog:
   - Added the FO Detainer and FO Ionizer to the Kor Sestor
   - Nerfed the FL 14
     - No longer has almost as much firepower as larger drones
+  - Renamed Doomstar to Object 279
+  - Renamed some Heliarch ships
 - Tech Changes
   - Added tech for Small and Medium Repair Rays in the Unknowns and Empire tech trees
+  - Rearranged Heliarch tech tree to not be as top heavy
 - Other Changes
   - KIV 750 and Model 1024 quests now correctly drop builds with unlocked superweapons
-  - Added a couple of faction mission quests to Pirates and Syndicate
-  - Added a number of faction quests
+  - Fixed issue with KIV 750 and Model 1024 encounters appearing on incorrect places
+  - Added a number of faction missions
+    - Pirates: destroy Merchant convoy (payout: various minerals)
+    - Pirates: destroy competitors
+    - Syndicate: cull pirates
+    - Hai: repel Unfettered Hai attackers
+    - Remnant: drive off Exiles raiders
+    - Wanderers: defend against Automata ships
+    - Heliarchs: provide Yottrite (payout: 1 million credits)
 
 ### Planned changes:
+- Add Bombardment Cannon to Coalition builds
+- Add Piercer Launcher to Sestor builds
 - Make most or all components Common instead of Rare so they are sold in faction shops
   - Alternatively: undo the special -> rare change for some factions
 - Incorporate scanners as drone and missile capturer weapons
