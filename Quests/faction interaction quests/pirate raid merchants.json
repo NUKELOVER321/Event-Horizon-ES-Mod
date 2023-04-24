@@ -5,6 +5,7 @@
   "StartCondition": 3,
   "Weight": 1.0,
   "Origin": {
+    "Type": 1,
     "Factions": {
       "Type": 1,
       "List": [
@@ -12,12 +13,16 @@
       ]
     }
   },
+  "Requirement": {
+    "Type": 20,
+    "Faction": 202
+  },
   "Nodes": [
     {
       "Id": 1,
       "Type": 10,
       "Message": "Some Merchant Alliance ships escaped our ambush earlier. Go clean them up and we might let you keep some loot.",
-      "Character": 3,
+      "Character": 1043,
       "Actions": [
         {
           "TargetNode": 2,
@@ -44,7 +49,7 @@
       "Type": 10,
       "Message": "There they are. Get them!",
       "Enemy": 1043,
-      "Character": 3,
+      "Character": 1043,
       "Actions": [
         {
           "TargetNode": 4,
@@ -74,12 +79,13 @@
     {
       "Id": 5,
       "Type": 10,
-      "Message": "Excellent work.",
-      "Character": 3,
+      "Message": "Excellent work. Here's your share of the loot.",
+      "Loot": 1043,
+      "Character": 1043,
       "Actions": [
         {
-          "TargetNode": 7,
-          "ButtonText": "$Continue"
+          "TargetNode": 15,
+          "ButtonText": "Collect loot"
         }
       ]
     },
@@ -87,7 +93,7 @@
       "Id": 6,
       "Type": 10,
       "Message": "Look what you have done.",
-      "Character": 3,
+      "Character": 1043,
       "Actions": [
         {
           "TargetNode": 8,
@@ -114,6 +120,12 @@
     {
       "Id": 10,
       "Type": 41
+    },
+    {
+      "Id": 15,
+      "Type": 35,
+      "DefaultTransition": 7,
+      "Loot": 1043
     }
   ]
 }

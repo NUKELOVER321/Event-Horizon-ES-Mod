@@ -5,12 +5,17 @@
   "StartCondition": 3,
   "Weight": 1.0,
   "Origin": {
+    "Type": 1,
     "Factions": {
       "Type": 1,
       "List": [
         202
       ]
     }
+  },
+  "Requirement": {
+    "Type": 20,
+    "Faction": 202
   },
   "Nodes": [
     {

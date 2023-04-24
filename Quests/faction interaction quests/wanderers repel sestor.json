@@ -1,16 +1,21 @@
 {
   "ItemType": 15,
   "Id": 10471,
-  "Name": "Repel Mereti attack",
+  "Name": "Repel Sestor attack",
   "StartCondition": 3,
   "Weight": 1.0,
   "Origin": {
+    "Type": 1,
     "Factions": {
       "Type": 1,
       "List": [
         211
       ]
     }
+  },
+  "Requirement": {
+    "Type": 20,
+    "Faction": 211
   },
   "Nodes": [
     {

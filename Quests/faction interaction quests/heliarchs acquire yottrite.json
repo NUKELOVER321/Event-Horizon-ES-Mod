@@ -5,12 +5,17 @@
   "StartCondition": 3,
   "Weight": 1.0,
   "Origin": {
+    "Type": 1,
     "Factions": {
       "Type": 1,
       "List": [
         208
       ]
     }
+  },
+  "Requirement": {
+    "Type": 20,
+    "Faction": 208
   },
   "Nodes": [
     {
@@ -31,8 +36,8 @@
       "Id": 2,
       "Type": 10,
       "Message": "$Mission_Resources_Intro",
-      "Loot": 8,
-      "Character": 3,
+      "Loot": 1048,
+      "Character": 1048,
       "Actions": [
         {
           "TargetNode": 5,
@@ -48,7 +53,7 @@
       "Id": 3,
       "Type": 10,
       "Message": "$Mission_Resources_Intro",
-      "Loot": 8,
+      "Loot": 1048,
       "Character": 1048,
       "Actions": [
         {

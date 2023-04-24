@@ -1,0 +1,70 @@
+{
+  "ItemType": 16,
+  "Id": 1043,
+  "Loot": {
+    "Type": 21,
+    "Items": [
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 25,
+          "ItemId": 11,
+          "MinAmount": 5,
+          "MaxAmount": 10
+        }
+      },
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 25,
+          "ItemId": 14,
+          "MaxAmount": 5
+        }
+      },
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 25,
+          "ItemId": 6,
+          "MinAmount": 20,
+          "MaxAmount": 40
+        }
+      },
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 25,
+          "ItemId": 5,
+          "MinAmount": 40,
+          "MaxAmount": 80
+        }
+      },
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 25,
+          "ItemId": 7,
+          "MinAmount": 5,
+          "MaxAmount": 10
+        }
+      },
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 25,
+          "ItemId": 12,
+          "MaxAmount": 5
+        }
+      },
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 25,
+          "ItemId": 13,
+          "MinAmount": 5,
+          "MaxAmount": 10
+        }
+      }
+    ]
+  }
+}
