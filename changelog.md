@@ -559,7 +559,7 @@ Changelog:
     - Scanner type weapons capture drones, missiles, and some projectiles near the ship when fired
 - Other Changes:
 
-### 0.14.5 ??? update
+### 0.14.5 "Smuggler's Den" update
 
 Changelog:
 - Component Changes

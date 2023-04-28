@@ -1,20 +1,7 @@
-Faction Name | Minimum Distance Required
---- | ---
-Merchants | 0
-Pirates | 50
-Syndicate | 100
-FW | 150
-Republic | 200
-Hai, Coalition | 250
-Remnant, Exiles | 300
-Wanderers, Ka'het | 350
-Mereti, Sestor | 400
-Heliarchs | 450
-Quarg, Pug | 500
-
 Ammunition, Bullet Prefab, and Impact Effect IDs will take the IDs of the weapon.
 
 Special ships:
+
 Ship Name | Ship ID | Build IDs
 --- | --- | ---
 Super Kestrel | 1000 | 10000
@@ -34,6 +21,7 @@ Navy Battleship | 5007 | 5007
 First unusued quest ID for special ships:
 
 Vanilla-ish items:
+
 Item Name | Item, Stat, Tech IDs
 --- | ---
 4x4 Titanium | 2100
@@ -124,6 +112,7 @@ Gun version of turret weapons start at 2000 and correspond to their turret varia
 Submunitions for weapons start at 3000 and correspond to their weapon.   
 
 Merchants
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Shuttle | 301 | 1001-1003
@@ -175,6 +164,7 @@ Cooling Vent | 1077
 Asteroid Scanner | 1305
 
 Pirates
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Marauder Arrow | 324 | 1070-1072
@@ -214,6 +204,7 @@ Large Interference Plating | 1314
 Extra Large Interference Plating | 1315
 
 Syndicate
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Headhunter | 325 | 1073-1075
@@ -241,6 +232,7 @@ Anti-Missile Turret | 1081
 Outfit Scanner | 1307
 
 FW
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Firebird | 337 | 1109-1111
@@ -280,6 +272,7 @@ Capybara Plasma Engines | 1302
 Tactical Scanner | 1308
 
 Republic
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Rainmaker | 346 | 1136-1138
@@ -318,6 +311,7 @@ Ion Beam Turret | 1301 (gun 2301)
 Surveillance Pod | 1309
 
 Hai
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Aphid | 354 | 1160-1162
@@ -367,6 +361,7 @@ Ionic Turret | 1245
 Tri-pulse Shredder | 1293
 
 Remnant
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Starling | 363 | 1187-1189
@@ -401,6 +396,7 @@ Ember Tear | 1278
 Research Laboratory | 1317
 
 Coalition
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Arach Courier | 370 | 1208-1210
@@ -435,6 +431,7 @@ Ion Rain Gun | 2154
 Ion Hail Turret | 1154
 
 Heliarchs
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Breacher | 383 | 1247-1249
@@ -458,6 +455,7 @@ Bombardment Turret | 1153
 Finisher Maegrolain | 1277
 
 Korath Exiles
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Raider | 389 | 1265-1267
@@ -506,6 +504,7 @@ Courier | 434 | 1400-1402
 Command Center | 1316
 
 Ka'het
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Maeri' | 392 | 1274-1276
@@ -531,6 +530,7 @@ MHD Deployer | 1184
 Nullifier | 1185
 
 Wanderers
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Earth Shaper | 396 | 1286-1288
@@ -575,6 +575,7 @@ Moonbeam | 1222 (Gun 2222)
 Blizzard | 435 | 1419-1421
 
 Kor Sestor
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 MPT 53 | 406 | 1316-1318
@@ -598,6 +599,7 @@ FO Ionizer | 3029
 Ionizer | 1318
 
 Kor Mereti
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Model 8 | 413 | 1337-1339
@@ -615,6 +617,7 @@ Super Minelayer | 1233
 Reasoning Node | 1304
 
 Quarg
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Skylark | 421 | 1361-1363
@@ -635,6 +638,7 @@ Skylance | 1243
 Quarg Antimissile | 1244
 
 Starbases
+
 Item Name | Item ID
 --- | ---
 Merchant | 2201 (size 30)
@@ -654,6 +658,7 @@ Quarg | 2214 (size 45)
 Coalition | 2215 (size 33)
 
 Exclusive items (no technology files)
+
 Item Name | Item / Stat / Device ID
 --- | ---
 Huge Systems Core | 1231
@@ -666,6 +671,7 @@ Shooting Star explosion device | 8000
 Cloaking Device | 9000
 
 Pug
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Zibruka | 426 | 1376-1378
@@ -695,6 +701,7 @@ Zalgi | 3026
 Zalgi Stats | 1282
 
 Sheragi
+
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Emerald Sword | 4000
@@ -712,6 +719,7 @@ Dragonflame Cannon | 1272
 Sheragi AM | 1273
 
 Shooting Star
+
 Item Name | Item and Build ID
 --- | ---
 Crystal Projector | 1283
@@ -720,7 +728,8 @@ Crystalline Formation | 1285
 Hexagonal Crystal | 1286
 Tree Skeleton Key Stone | 1287
 
-First nused IDs:
+First unused IDs:
+
 .json file type | ID
 --- | ---
 Component | 1319
@@ -730,6 +739,7 @@ Drone | 3030
 Quest | 1049
 
 Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.
+
 Item Name | Differences
 --- | ---
 Firestorm | -90% energy cost and energy storage

@@ -4,6 +4,7 @@ All values are in "per square" format.
 
 
 Merchants
+
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
 nGVF-AA | 0.0228 | 0.0228
@@ -20,6 +21,7 @@ X5200/5700 | 0.0192 | 0.288
 Cooling Vent | -0.06 | -0.06
 
 Syndicate
+
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
 Dwarf Core | 0.093 | 0.372
@@ -31,6 +33,7 @@ S-970 | 0.0388 | 0.6208
 Water Cooling | -0.144 | -0.576
 
 FW
+
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
 Fission | 0.092 | 0.828
@@ -44,6 +47,7 @@ Tyrant set | 0.031 | 0.465
 Liquid Nitrogen | -0.174 | -1.566
 
 Republic
+
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
 A120/125 | 0.046 | 0.046
@@ -56,6 +60,7 @@ Armageddon | 0.129 | 3.096
 Liquid Helium | -0.207 | -3.312
 
 Hai
+
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
 Baellie | 0.033 | 0.033
@@ -73,6 +78,7 @@ Diamond | 0.044 | 0.704
 Williwaw | -0.09 | -0.09
 
 Remnant
+
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
 Anvil | 0.04 | 0.04
@@ -86,6 +92,7 @@ Crystal Cap | 0.016 | 0.064
 Thermoelectric | -0.24 | -0.24
 
 Ka'Het
+
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
 Compact | 0.02 | 0.02
@@ -98,6 +105,7 @@ Primary cooling | -1.418 | -22.688
 Support cooling | -1.28 | -5.12
 
 Korath Exiles
+
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
 Asteroid | 0.054 | 0.054
@@ -118,6 +126,7 @@ Large Shunt | -0.27 | -2.43
 Liquid Sodium | -0.819 | -13.104
 
 Wanderers
+
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
 Type 0 | -0.032 | -0.032
@@ -136,6 +145,7 @@ Heat Sink | -0.19 | -0.76
 Large Heat Sink | -0.221 | -3.546
 
 Coalition
+
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
 Small Cogeneration | 0.018 | 0.072
@@ -153,6 +163,7 @@ Large engines | 0.0725 | 0.29
 Cooling Module | -0.504 | -0.504
 
 Quarg
+
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
 Antimatter Core | 0.06 | 0.9
@@ -161,6 +172,7 @@ Medium Graviton | 0.0372 | 0.5952
 Large Graviton | 0.037 | 0.555
 
 Pug
+
 Item | Heat Per Square | Heat Per Module
 --- | --- | ---
 Akfar set | 0.016 | 0.064
