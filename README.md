@@ -1,6 +1,6 @@
 # Event-Horizon-ES-mod
 
-Author: [JasonWu00](https://github.com/JasonWu00).
+[Author profile](https://github.com/JasonWu00)
 
 ## Description
 
