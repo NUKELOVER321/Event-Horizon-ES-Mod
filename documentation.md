@@ -203,6 +203,24 @@ Medium Interference Plating | 1313
 Large Interference Plating | 1314
 Extra Large Interference Plating | 1315
 
+Marauder Pirates
+
+Item Name | Item ID | Build ID (if applicable)
+--- | --- | ---
+Marauder Quicksilver | 436 | 1422-1424
+Marauder Raven | 437 | 1425-1427
+Marauder Manta | 438 | 1428-1430
+Marauder Firebird | 439 | 1431-1433
+Marauder Splinter | 440 | 1434-1436
+Marauder Leviathan | 441 | 1437-1439
+Marauder Falcon | 442 | 1440-1442
+Scrapper | 443 | 1443-1445
+Nighthawk | 444 | 1446-1448
+Cutthroat | 445 | 1449-1451
+Bulwark | 446 | 1452-1454
+Valkyrie | 447 | 1455-1457
+Mammoth | 448 | 1458-1460
+
 Syndicate
 
 Item Name | Item ID | Build IDs (if applicable)

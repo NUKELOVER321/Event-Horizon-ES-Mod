@@ -604,6 +604,20 @@ Changelog:
     - Wanderers: defend against Automata ships
     - Heliarchs: provide Yottrite (payout: 1 million credits)
 
+
+### 0.16.1 ??? update
+
+Changelog:
+- Component Changes
+- Ship Changes
+- Tech Changes
+- Other Changes
+  - Added a background quest to give a star map every time the player arrives at a star
+  - Rewrote the tutorial mission to give a couple of cosmetic quest items
+  - Rewrote the tutorial mission to give the player a loan of 480000 credits
+  - Modified existing encounter quests to properly implement light year limits
+  - Corrected erroneous cooling values for Liquid Sodium Cooler in documentation
+
 ### Planned changes:
 - Add Bombardment Cannon to Coalition builds
 - Add Piercer Launcher to Sestor builds
@@ -619,21 +633,10 @@ Changelog:
   - Robin, Swan (Remnant)
 - Incorporate the following vanilla ships:
   - Pirate scrap ships
+  - Mammoth, Scrapper, Nighthawk, Cutthroat, Valkyrie, Bulwark
+- Put marauder ships into Marauder Pirates
+- Add modified Merchant builds for normal Pirates to fill out their lineup
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
 - Incorporate the HIPC from Ursa Polaris
 - Incorporate the following from Enigma Corp:
   - Antimatter Engines
-- More unique quests for specific factions
-  - Pirates: raiding Merchant convoys
-    - rewards: assorted "cargo" sellable items
-  - Merchants, Syndicate, FW, Republic: cull Pirates
-    - enemy difficulty scales with faction
-    - rewards: various
-  - Remnant, Syndicate, Hai: repel Exiles raider force
-    - rewards: some scattered components, some money
-  - Wanderers: repel scattered Automata force
-    - rewards: some scattered components
-  - Heliarchs: acquire Yottrite
-    - rewards: lots of money, more trust than other missions provide
-- By player request:
-  - Projectile speed increase for late-game C type weapons
