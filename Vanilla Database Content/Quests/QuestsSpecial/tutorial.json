@@ -1,72 +1,118 @@
 {
   "ItemType": 15,
   "Id": 1,
-  "Name": "$Quest_Tutorial",
+  "Name": "Game start debrief",
   "QuestType": 2,
   "StartCondition": 4,
   "Nodes": [
     {
       "Id": 1,
       "Type": 10,
-      "Message": "$TUTORIAL_Start",
+      "Message": "Greetings, pilot. Welcome to the other side of the wormhole. Before you go off to see what lays ahead, we need to get some paperwork out of the way.",
       "Character": 3,
       "Actions": [
         {
           "TargetNode": 2,
-          "ButtonText": "$ACTION_Continue"
+          "ButtonText": "Continue"
         }
       ]
     },
     {
       "Id": 2,
       "Type": 10,
-      "Message": "$TUTORIAL_Info1",
+      "Message": "Here is an interface to the Galactic Positioning System. We only recently set it up so it might not work perfectly, but it should provide you with some deep space scanning capabilities.",
+      "Loot": 300,
       "Character": 3,
       "Actions": [
         {
-          "TargetNode": 3,
-          "ButtonText": "$ACTION_Continue"
+          "TargetNode": 7,
+          "ButtonText": "Continue"
         }
       ]
     },
     {
       "Id": 3,
       "Type": 10,
-      "Message": "$TUTORIAL_Training",
+      "Message": "I assume that you know the basics of combat, so we will dispense with training missions.",
       "Character": 3,
       "Actions": [
         {
-          "TargetNode": 4,
-          "ButtonText": "$TUTORIAL_ACTION_Training"
-        },
-        {
-          "TargetNode": 5,
-          "ButtonText": "$TUTORIAL_ACTION_Skip"
+          "TargetNode": 10,
+          "ButtonText": "Continue"
         }
       ]
     },
     {
-      "Id": 4,
-      "Type": 20,
-      "DefaultTransition": 5,
-      "FailureTransition": 3,
-      "Enemy": 1
-    },
-    {
       "Id": 5,
       "Type": 10,
-      "Message": "$TUTORIAL_End",
+      "Message": "Best of luck to you, pilot. Now please proceed to the hangar and to your ship. We have more people coming through this wormhole to process.",
       "Character": 3,
       "Actions": [
         {
           "TargetNode": 6,
-          "ButtonText": "$ACTION_Continue"
+          "ButtonText": "Exit"
         }
       ]
     },
     {
       "Id": 6,
       "Type": 40
+    },
+    {
+      "Id": 7,
+      "Type": 35,
+      "DefaultTransition": 8,
+      "Loot": 300
+    },
+    {
+      "Id": 8,
+      "Type": 10,
+      "Message": "Here is your pilot's license back. We took it earlier to verify it against our databases, It's a safety precaution, in case some wanted criminal tries to sneak past us.",
+      "Loot": 301,
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 9,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 9,
+      "Type": 35,
+      "DefaultTransition": 11,
+      "Loot": 301
+    },
+    {
+      "Id": 10,
+      "Type": 10,
+      "Message": "Be warned that the situation here is different from the way it is back home. The major governments are wary of everything on this side, you and other pilots included. Try not to cause too much trouble.",
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 5,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 11,
+      "Type": 10,
+      "Message": "I have a message here from some Syndicated Systems mega-bank. They say you borrowed 480,000 credits from them and that the money is being transferred into your account now. They didn't say how you are supposed to repay that, but I'm sure you can figure that out yourself.",
+      "Loot": 302,
+      "Character": 3,
+      "Actions": [
+        {
+          "TargetNode": 12,
+          "ButtonText": "Continue"
+        }
+      ]
+    },
+    {
+      "Id": 12,
+      "Type": 35,
+      "DefaultTransition": 3,
+      "Loot": 302
     }
   ]
 }
