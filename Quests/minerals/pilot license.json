@@ -1,0 +1,7 @@
+{
+  "ItemType": 20,
+  "Id": 301,
+  "Name": "Pilot License",
+  "Description": "Generic license. Every pilot has one of these.",
+  "Icon": "license.png"
+}

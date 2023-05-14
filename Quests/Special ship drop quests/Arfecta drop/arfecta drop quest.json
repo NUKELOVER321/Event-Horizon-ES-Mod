@@ -16,8 +16,18 @@
     "MaxDistance": 1000
   },
   "Requirement": {
-    "Type": 20,
-    "Faction": 216
+    "Type": 2,
+    "Requirements": [
+      {
+        "Type": 20,
+        "Faction": 216
+      },
+      {
+        "Type": 6,
+        "MinValue": 500,
+        "MaxValue": 1000
+      }
+    ]
   },
   "Level": 500,
   "Nodes": [

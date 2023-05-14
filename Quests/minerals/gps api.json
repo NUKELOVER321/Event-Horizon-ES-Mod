@@ -1,0 +1,7 @@
+{
+  "ItemType": 20,
+  "Id": 300,
+  "Name": "Galactic Positional System Interface",
+  "Description": "Reveals stars near you wherever you go. If it stops working, try shutting it off and turning it on again.",
+  "Icon": "map.png"
+}

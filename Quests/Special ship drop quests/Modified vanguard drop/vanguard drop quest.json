@@ -15,6 +15,11 @@
     "MinDistance": 200,
     "MaxDistance": 350
   },
+  "Requirement": {
+    "Type": 6,
+    "MinValue": 200,
+    "MaxValue": 350
+  },
   "Level": 200,
   "Nodes": [
     {

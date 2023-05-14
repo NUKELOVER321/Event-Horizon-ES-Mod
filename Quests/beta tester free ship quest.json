@@ -1,21 +1,20 @@
 {
   "ItemType": 15,
   "Id": 10001,
-  "QuestType": 2,
-  "StartCondition": 4,
+  "StartCondition": 6,
   "Origin": {
-    "Type": 3
+    "Type": 4
   },
   "Nodes": [
     {
       "Id": 1,
       "Type": 10,
-      "Message": "Free ship",
+      "Message": "Free ship!",
       "Loot": 10000,
       "Actions": [
         {
           "TargetNode": 2,
-          "ButtonText": "Collect loot"
+          "ButtonText": "Free ship!"
         }
       ]
     },

@@ -5,26 +5,60 @@
     "Type": 21,
     "Items": [
       {
-        "Weight": 1.0,
         "Loot": {
           "Type": 30,
-          "ItemId": 10000
+          "ItemId": 10001
+        }
+      },
+      {
+        "Loot": {
+          "Type": 30,
+          "ItemId": 5001
+        }
+      },
+      {
+        "Loot": {
+          "Type": 30,
+          "ItemId": 5003
+        }
+      },
+      {
+        "Loot": {
+          "Type": 30,
+          "ItemId": 5006
+        }
+      },
+      {
+        "Loot": {
+          "Type": 30,
+          "ItemId": 4000
+        }
+      },
+      {
+        "Loot": {
+          "Type": 30,
+          "ItemId": 5005
+        }
+      },
+      {
+        "Loot": {
+          "Type": 30,
+          "ItemId": 5004
+        }
+      },
+      {
+        "Loot": {
+          "Type": 30,
+          "ItemId": 3000
         }
       },
       {
         "Weight": 1.0,
         "Loot": {
-          "Type": 3,
-          "MinAmount": 10000000,
-          "MaxAmount": 10000000
-        }
-      },
-      {
-        "Weight": 1.0,
-        "Loot": {
-          "Type": 4,
-          "MinAmount": 1000,
-          "MaxAmount": 1000
+          "Type": 35,
+          "ItemId": 9000,
+          "MinAmount": 3,
+          "MaxAmount": 3
         }
       }
     ]

@@ -1,0 +1,31 @@
+{
+  "ItemType": 15,
+  "Id": 10004,
+  "Name": "free map",
+  "StartCondition": 6,
+  "Weight": 100.0,
+  "Nodes": [
+    {
+      "Id": 2,
+      "Type": 10,
+      "Message": "map",
+      "Loot": 10004,
+      "Actions": [
+        {
+          "TargetNode": 2,
+          "ButtonText": "map"
+        }
+      ]
+    },
+    {
+      "Id": 1,
+      "Type": 35,
+      "DefaultTransition": 3,
+      "Loot": 10004
+    },
+    {
+      "Id": 3,
+      "Type": 42
+    }
+  ]
+}
