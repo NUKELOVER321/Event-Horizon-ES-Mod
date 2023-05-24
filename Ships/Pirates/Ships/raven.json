@@ -1,12 +1,12 @@
 {
   "ItemType": 6,
   "Id": 328,
-  "Name": "Marauder Raven",
+  "Name": "Raven",
   "Faction": 202,
   "SizeClass": 1,
-  "IconImage": "marauder raven icon.png",
+  "IconImage": "raven icon.png",
   "IconScale": 1.0,
-  "ModelImage": "marauder raven.png",
+  "ModelImage": "raven.png",
   "ModelScale": 2.5,
   "EnginePosition": {
     "x": -0.8

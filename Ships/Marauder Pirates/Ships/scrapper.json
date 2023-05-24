@@ -1,0 +1,38 @@
+{
+    "ItemType": 6,
+    "Id": 443,
+    "Name": "Scrapper",
+    "Faction": 216,
+    "IconImage": "scrapper icon.png",
+    "IconScale": 0.75,
+    "ModelImage": "scrapper.png",
+    "ModelScale": 2.0,
+    "EnginePosition": {
+      "x": -0.8
+    },
+    "EngineColor": "#FFE100",
+    "EngineSize": 0.1,
+    "Engines": [
+      {
+        "Position": {
+          "x": -0.8,
+          "y": -0.2
+        }
+      },
+      {
+        "Position": {
+          "x": -0.8,
+          "y": 0.2
+        }
+      }
+    ],
+    "Layout": "0000440000000044000000012210000001221000000122100000032230000003223000001122110000112211000005555000",
+    "Barrels": [
+      {
+        "Position": {
+          "x": 0.8
+        },
+        "PlatformType": 3
+      }
+    ]
+  }

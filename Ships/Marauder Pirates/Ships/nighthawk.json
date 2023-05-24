@@ -1,0 +1,46 @@
+{
+  "ItemType": 6,
+  "Id": 444,
+  "Name": "Nighthawk",
+  "Faction": 216,
+  "IconImage": "nighthawk icon.png",
+  "IconScale": 0.75,
+  "ModelImage": "nighthawk.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#FFE100",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.2
+      }
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.2
+      }
+    }
+  ],
+  "Layout": "000000000000000001100000000012210000000012210000000112211000001112211100005442244500115442244511115522225511115522225511000011110000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": -0.15,
+        "y": 0.35
+      },
+      "PlatformType": 2
+    },
+    {
+      "Position": {
+        "x": -0.15,
+        "y": -0.35
+      },
+      "PlatformType": 2
+    }
+  ]
+}

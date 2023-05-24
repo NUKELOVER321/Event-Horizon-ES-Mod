@@ -1,0 +1,60 @@
+{
+  "ItemType": 6,
+  "Id": 445,
+  "Name": "Cutthroat",
+  "Faction": 216,
+  "IconImage": "cutthroat icon.png",
+  "IconScale": 0.75,
+  "ModelImage": "cutthroat.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#FFE100",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.2
+      }
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.2
+      }
+    }
+  ],
+  "Layout": "0000000000000000000011000000000000110000000000003300000000044222244000000442222440000001122221100000011122111000000111221110000001112211100044111322311144441553333551440005505505500000000055000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.4,
+        "y": 0.35
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": -0.35
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": 0.8
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -0.8
+      },
+      "PlatformType": 3
+    }
+  ]
+}

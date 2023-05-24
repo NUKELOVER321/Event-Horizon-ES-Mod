@@ -1,0 +1,48 @@
+{
+  "ItemType": 6,
+  "Id": 438,
+  "Name": "Marauder Manta",
+  "Faction": 216,
+  "IconImage": "marauder manta icon.png",
+  "IconScale": 0.75,
+  "ModelImage": "marauder manta.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#FFE100",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.2
+      }
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.2
+      }
+    }
+  ],
+  "Layout": "000000020000000000000020000000000000020000000000000020000000000004424400000011114424411110011132222231110011132222231110001552222255100000552222255000000552222255000000000222000000000000020000000000000020000000000000020000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.4,
+        "y": 0.3
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": -0.3
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}
