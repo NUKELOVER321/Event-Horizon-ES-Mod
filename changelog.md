@@ -609,6 +609,7 @@ Changelog:
 
 Changelog:
 - Component Changes
+  - Fixed issue with Dragonflame Cannon having 0 energy consumption
 - Ship Changes
 - Tech Changes
 - Other Changes

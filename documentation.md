@@ -175,7 +175,7 @@ Modified Blaster | 2023
 Laser Turret | 1024
 Heavy Laser Turret | 1025
 Modified Argosy | 327 | 1079-1081
-Marauder Raven | 328 | 1082-1084
+Raven | 328 | 1082-1084
 Marauder Fury | 329 | 1085-1087
 Meteor Missile Launcher | 1026 (Pod 2026)
 Sidewinder Missile Launcher | 1027 (Pod 2027)
@@ -674,6 +674,7 @@ Mereti | 2212
 Sestor | 2213
 Quarg | 2214 (size 45)
 Coalition | 2215 (size 33)
+Marauder Pirates | 2216 (size 20)
 
 Exclusive items (no technology files)
 
