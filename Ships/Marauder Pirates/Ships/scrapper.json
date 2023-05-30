@@ -1,38 +1,39 @@
 {
-    "ItemType": 6,
-    "Id": 443,
-    "Name": "Scrapper",
-    "Faction": 216,
-    "IconImage": "scrapper icon.png",
-    "IconScale": 0.75,
-    "ModelImage": "scrapper.png",
-    "ModelScale": 2.0,
-    "EnginePosition": {
-      "x": -0.8
-    },
-    "EngineColor": "#FFE100",
-    "EngineSize": 0.1,
-    "Engines": [
-      {
-        "Position": {
-          "x": -0.8,
-          "y": -0.2
-        }
+  "ItemType": 6,
+  "Id": 443,
+  "Name": "Scrapper",
+  "Faction": 219,
+  "IconImage": "scrapper icon.png",
+  "IconScale": 0.75,
+  "ModelImage": "scrapper.png",
+  "ModelScale": 1.5,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#FFE100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
       },
-      {
-        "Position": {
-          "x": -0.8,
-          "y": 0.2
-        }
-      }
-    ],
-    "Layout": "0000440000000044000000012210000001221000000122100000032230000003223000001122110000112211000005555000",
-    "Barrels": [
-      {
-        "Position": {
-          "x": 0.8
-        },
-        "PlatformType": 3
-      }
-    ]
-  }
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000444000000004440000000044400000001222100000012221000001122211000011222110000112221100001122211000015525510000055255000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9
+      },
+      "PlatformType": 3
+    }
+  ]
+}

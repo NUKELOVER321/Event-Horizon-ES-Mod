@@ -1,38 +1,71 @@
 {
-    "ItemType": 6,
-    "Id": 437,
-    "Name": "Marauder Raven",
-    "Faction": 216,
-    "IconImage": "marauder raven icon.png",
-    "IconScale": 0.75,
-    "ModelImage": "marauder raven.png",
-    "ModelScale": 2.0,
-    "EnginePosition": {
-      "x": -0.8
+  "ItemType": 6,
+  "Id": 437,
+  "Name": "Marauder Raven",
+  "Faction": 219,
+  "IconImage": "marauder raven icon.png",
+  "IconScale": 0.75,
+  "ModelImage": "marauder raven.png",
+  "ModelScale": 2.0,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#FFE100",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.2
+      }
     },
-    "EngineColor": "#FFE100",
-    "EngineSize": 0.1,
-    "Engines": [
-      {
-        "Position": {
-          "x": -0.8,
-          "y": -0.2
-        }
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.2
+      }
+    }
+  ],
+  "Layout": "000000000000000000000000000000000000000000000000000020000000000000000044222440000000000000044222440000000000000000222000000000000000044222440000000000000044222440000000000011122222221110000111111122222221111111111111122222221111111000011122222221110000000000022444220000000000000001444100000000000000011444110000000000000055515550000000000000055515550000000000000055515550000000000000000000000000000000000000000000000000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.4,
+        "y": 0.1
       },
-      {
-        "Position": {
-          "x": -0.8,
-          "y": 0.2
-        }
-      }
-    ],
-    "Layout": "000000000000000000000000000000000000000000000000000000000000002200000000000000002200000000000000002200000000000000442244000000011111442244111110011111122221111110000111122221111000000001122221100000000000015510000000000000015510000000000000115511000000000000110011000000000000000000000000000000000000000000000000000000000000",
-    "Barrels": [
-      {
-        "Position": {
-          "x": 0.9
-        },
-        "PlatformType": 3
-      }
-    ]
-  }
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": -0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": 0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.3,
+        "y": -0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": -0.1
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    }
+  ]
+}

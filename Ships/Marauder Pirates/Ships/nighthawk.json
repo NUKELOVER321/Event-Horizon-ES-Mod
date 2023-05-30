@@ -2,45 +2,54 @@
   "ItemType": 6,
   "Id": 444,
   "Name": "Nighthawk",
-  "Faction": 216,
+  "Faction": 219,
+  "SizeClass": 1,
   "IconImage": "nighthawk icon.png",
-  "IconScale": 0.75,
+  "IconScale": 1.0,
   "ModelImage": "nighthawk.png",
-  "ModelScale": 2.0,
+  "ModelScale": 2.5,
   "EnginePosition": {
     "x": -0.8
   },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
         "x": -0.8,
-        "y": -0.2
+        "y": -0.3
       }
     },
     {
       "Position": {
         "x": -0.8,
-        "y": 0.2
+        "y": 0.3
       }
     }
   ],
-  "Layout": "000000000000000001100000000012210000000012210000000112211000001112211100005442244500115442244511115522225511115522225511000011110000000000000000",
+  "Layout": "000000000000000000000020000000000000222000000000002222200000000002222200000000002444200000000022444220000000122444221000001144222441100011144222441110111122222221111111122222221111111155525551111000055505550000000055505550000",
   "Barrels": [
+    {
+      "Position": {
+        "x": 0.1
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
+    },
     {
       "Position": {
         "x": -0.15,
         "y": 0.35
       },
-      "PlatformType": 2
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": -0.15,
         "y": -0.35
       },
-      "PlatformType": 2
+      "PlatformType": 2,
+      "WeaponClass": "CLTM"
     }
   ]
 }

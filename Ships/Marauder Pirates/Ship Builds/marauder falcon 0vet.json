@@ -2,7 +2,5 @@
   "ItemType": 8,
   "Id": 1440,
   "ShipId": 442,
-  "DifficultyClass": 0,
-  "Components": [
-  ]
+  "Components": []
 }
