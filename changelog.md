@@ -608,16 +608,23 @@ Changelog:
 ### 0.16.1 ??? update
 
 Changelog:
+- Major Changes
+  - **Added the Marauder Pirates as a faction, alongside their ships and outfits**
 - Component Changes
   - Fixed issue with Dragonflame Cannon having 0 energy consumption
+  - Made standard Gatling Gun and Gatling Turret less accurate
+  - Added Stabilized Gatling Gun to Marauder Pirates
 - Ship Changes
+  - Tweaked cell layouts of Raven and Aerie
+  - Added the Screener drone to Kor Sestor
 - Tech Changes
 - Other Changes
   - Added a background quest to give a star map every time the player arrives at a star
   - Rewrote the tutorial mission to give a couple of cosmetic quest items
-  - Rewrote the tutorial mission to give the player a loan of 480000 credits
+  - Rewrote the tutorial mission to give the player a "loan" of 480000 credits
   - Modified existing encounter quests to properly implement light year limits
   - Corrected erroneous cooling values for Liquid Sodium Cooler in documentation
+  - Staggered impact effects to make them look less choppy
 
 ### Planned changes:
 - Add Bombardment Cannon to Coalition builds

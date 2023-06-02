@@ -193,15 +193,11 @@ Barrage Turret | 1275
 Twin Blaster | 1296
 Twin Mod Blaster | 1297
 Cargo Scanner | 1306
-Nighthawk | 435 | 1403-1405
-Cutthroat | 436 | 1406-1408
-Valkyrie | 437 | 1409-1411
-Bulwark | 438 | 1412-1414
-Mammoth | 439 | 1415-1418
 Small Interference Plating | 1312
 Medium Interference Plating | 1313
 Large Interference Plating | 1314
 Extra Large Interference Plating | 1315
+Small Radar Jammer | 1321
 
 Marauder Pirates
 
@@ -220,6 +216,9 @@ Cutthroat | 445 | 1449-1451
 Bulwark | 446 | 1452-1454
 Valkyrie | 447 | 1455-1457
 Mammoth | 448 | 1458-1460
+RT-II Radiothermal | 1319
+Accurate Gatling | 1320
+Large Radar Jammer | 1322
 
 Syndicate
 
@@ -751,7 +750,7 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1319
+Component | 1323
 Ship | 436
 Build | 1422
 Drone | 3030

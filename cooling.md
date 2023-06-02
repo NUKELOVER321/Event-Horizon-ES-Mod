@@ -20,6 +20,12 @@ X4200/4700 | 0.0173 | 0.2768
 X5200/5700 | 0.0192 | 0.288
 Cooling Vent | -0.06 | -0.06
 
+Marauder Pirates
+
+Item | Heat Per Square | Heat Per Module
+--- | --- | ---
+RT-II | 0.103 | 1.648
+
 Syndicate
 
 Item | Heat Per Square | Heat Per Module
