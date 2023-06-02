@@ -1,0 +1,17 @@
+{
+  "ItemType": 2,
+  "Id": 1321,
+  "DeviceClass": 1,
+  "EnergyConsumption": 12.5,
+  "PassiveEnergyConsumption": 1.25,
+  "Power": 6.0,
+  "Range": 5.0,
+  "Size": 0.5,
+  "Cooldown": 15.0,
+  "Lifetime": 20.0,
+  "ActivationType": 1,
+  "Color": "#C3D395",
+  "Sound": "launch_05",
+  "ObjectPrefab": "Decoy",
+  "ControlButtonIcon": "small radar jammer.png"
+}

@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1303,
   "Name": "Control Transceiver",
-  "DisplayCategory": 2,
+  "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 1303,
   "Faction": 213,
@@ -11,8 +11,6 @@
   "Layout": "1",
   "CellType": "2",
   "PossibleModifications": [
-    2,
-    3,
-    9
+    1
   ]
 }

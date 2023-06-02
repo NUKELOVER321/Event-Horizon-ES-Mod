@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1322,
+  "Name": "Large Radar Jammer",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 1322,
+  "Faction": 219,
+  "Level": 175,
+  "Icon": "large radar jammer.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "DeviceId": 1322,
+  "PossibleModifications": [
+    1
+  ]
+}

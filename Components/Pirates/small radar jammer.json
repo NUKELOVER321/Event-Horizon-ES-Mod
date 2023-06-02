@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1321,
+  "Name": "Small Radar Jammer",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 1321,
+  "Faction": 202,
+  "Level": 50,
+  "Icon": "small radar jammer.png",
+  "Layout": "1111",
+  "CellType": "2",
+  "DeviceId": 1321,
+  "PossibleModifications": [
+    1
+  ]
+}
