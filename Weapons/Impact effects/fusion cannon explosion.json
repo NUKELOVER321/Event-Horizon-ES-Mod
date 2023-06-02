@@ -25,44 +25,44 @@
     },
     {
       "Image": "static+0.png",
-      "Size": 0.25,
-      "Lifetime": 0.05
+      "Size": 1.25,
+      "Lifetime": 0.1
     },
     {
       "Image": "static+1.png",
-      "Size": 0.25,
+      "Size": 1.25,
       "StartTime": 0.05,
-      "Lifetime": 0.05
+      "Lifetime": 0.1
     },
     {
       "Image": "static+2.png",
-      "Size": 0.25,
+      "Size": 1.25,
       "StartTime": 0.1,
-      "Lifetime": 0.05
+      "Lifetime": 0.1
     },
     {
       "Image": "static+3.png",
-      "Size": 0.25,
+      "Size": 1.25,
       "StartTime": 0.15,
-      "Lifetime": 0.05
+      "Lifetime": 0.1
     },
     {
       "Image": "static+4.png",
-      "Size": 0.25,
+      "Size": 1.25,
       "StartTime": 0.2,
-      "Lifetime": 0.05
+      "Lifetime": 0.1
     },
     {
       "Image": "static+5.png",
-      "Size": 0.25,
+      "Size": 1.25,
       "StartTime": 0.25,
-      "Lifetime": 0.05
+      "Lifetime": 0.1
     },
     {
       "Image": "static+6.png",
       "Size": 0.25,
       "StartTime": 0.3,
-      "Lifetime": 0.05
+      "Lifetime": 0.1
     },
     {
       "Image": "finisher sparks~0.png",

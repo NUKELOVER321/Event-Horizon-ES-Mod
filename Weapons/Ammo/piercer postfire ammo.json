@@ -1,0 +1,28 @@
+{
+  "ItemType": 25,
+  "Id": 3226,
+  "Body": {
+    "Size": 1.0,
+    "Weight": 0.1
+  },
+  "Triggers": [
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 2226,
+      "Color": "#00000000",
+      "Size": 2.0,
+      "Lifetime": 1.0
+    }
+  ],
+  "ImpactType": 1,
+  "Effects": [
+    {
+      "Power": 0.1
+    },
+    {
+      "Type": 1,
+      "Power": 0.1
+    }
+  ]
+}

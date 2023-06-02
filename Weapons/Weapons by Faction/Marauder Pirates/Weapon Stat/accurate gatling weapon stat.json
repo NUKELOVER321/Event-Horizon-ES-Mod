@@ -1,8 +1,8 @@
 {
   "ItemType": 3,
-  "Id": 1029,
-  "FireRate": 15.0,
-  "Spread": 4.0,
+  "Id": 1320,
+  "FireRate": 20.0,
+  "Spread": 2.0,
   "ActivationType": 1,
   "ShotSound": "gatling",
   "ShotEffectPrefab": "OrbAdditive",

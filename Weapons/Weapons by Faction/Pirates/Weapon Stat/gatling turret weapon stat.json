@@ -3,7 +3,7 @@
   "Id": 2029,
   "WeaponClass": 4,
   "FireRate": 15.0,
-  "Spread": 3.0,
+  "Spread": 6.0,
   "Magazine": 3,
   "ActivationType": 1,
   "ShotSound": "gatling",

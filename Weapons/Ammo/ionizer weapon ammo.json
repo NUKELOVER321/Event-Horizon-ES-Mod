@@ -14,7 +14,8 @@
       "Condition": 3,
       "EffectType": 1,
       "VisualEffect": 1318,
-      "Size": 2.0
+      "Size": 2.0,
+      "Lifetime": 0.5
     },
     {
       "Condition": 3,
