@@ -59,3 +59,13 @@ An unorganized list of information on various mod elements can be found in [docu
 ## Licensing
 
 Most source files in Event-Horizon-ES-Mod are licensed under a Creative Commons Attribution Share-Alike 4.0 License (see [LICENSE.md](../master/LICENSE.md)). Exceptions to this statement can be found in [credits-copyright.md](../master/credits-copyright.md).
+
+## Branches
+
+Here is a list of open branches and their purposes.
+
+Branch | Purpose
+--- | ---
+master | self explanatory.
+marauder-pirates | implementing the Marauder Pirates faction
+kalthelm | implementing the Kaltheim faction from the Enclave mod
