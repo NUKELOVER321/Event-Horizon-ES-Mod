@@ -41,7 +41,9 @@
         "y": 0.3
       },
       "PlatformType": 2,
-      "WeaponClass": "CL"
+      "WeaponClass": "CL",
+      "Image": "pug gridfire turret sprite.png",
+      "Size": 0.12
     },
     {
       "Position": {
@@ -49,14 +51,18 @@
         "y": -0.3
       },
       "PlatformType": 2,
-      "WeaponClass": "CL"
+      "WeaponClass": "CL",
+      "Image": "pug gridfire turret sprite.png",
+      "Size": 0.12
     },
     {
       "Position": {
         "x": -0.25
       },
       "PlatformType": 2,
-      "WeaponClass": "CL"
+      "WeaponClass": "CL",
+      "Image": "pug t3 am turret sprite.png",
+      "Size": 0.12
     },
     {
       "Position": {
@@ -64,7 +70,9 @@
         "y": 0.4
       },
       "PlatformType": 2,
-      "WeaponClass": "CL"
+      "WeaponClass": "CL",
+      "Image": "pug gridfire turret sprite.png",
+      "Size": 0.12
     },
     {
       "Position": {
@@ -72,7 +80,9 @@
         "y": -0.4
       },
       "PlatformType": 2,
-      "WeaponClass": "CL"
+      "WeaponClass": "CL",
+      "Image": "pug gridfire turret sprite.png",
+      "Size": 0.12
     }
   ]
 }

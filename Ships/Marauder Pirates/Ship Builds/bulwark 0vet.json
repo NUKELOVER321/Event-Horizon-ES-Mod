@@ -18,15 +18,6 @@
       "BarrelId": 2
     },
     {
-      "ComponentId": 1081,
-      "Locked": true,
-      "X": 10,
-      "Y": 18,
-      "BarrelId": 6,
-      "Behaviour": -1,
-      "KeyBinding": -3
-    },
-    {
       "ComponentId": 1017,
       "Locked": true,
       "X": 12,
