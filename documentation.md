@@ -1,3 +1,25 @@
+Faction distances
+
+Faction | Min distance to appear
+--- | ---
+Merchant Alliance | 0
+Pirates | 50
+Syndicated Systems | 100
+Confederation of Free Worlds | 150
+Marauder Pirates | 175
+Republic of Earth | 200
+Hai | 250
+Trisolar Coalition | 250
+Remnants | 300
+Korath Exiles | 300
+Wanderers | 350
+Ka'het | 350
+Korath Mereti | 400
+Korath Sestor | 400
+Heliarchs Security Forces | 450
+Quarg | 500
+Pug | 500
+
 Ammunition, Bullet Prefab, and Impact Effect IDs will take the IDs of the weapon.
 
 Special ships:
