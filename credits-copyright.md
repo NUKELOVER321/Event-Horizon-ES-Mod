@@ -31,7 +31,7 @@ Czartrak's Ship Pack | plugin Pug ships
 Amalgamation | Type 5 Radiant Engines, ASB turret
 Korath Exiles PA | KIV 750, FO Detainer, FO Ionizer, Ionizer
 Adde Korath Exiles Expansion (Darcy Manoel) | Vector Engines, Type 0 Radiant Engines, Disruptor Gun, Model 1024
-Becca Tomaso | (double) Detainer Turret, Double Slicer Turret, FET 243, Wanderer Heavy AM, Ionic Blaster and Turret, Javelin and Barrage turrets, Ion Beam (and turret), HPC, Blizzard, Courier, Sea Scorpion, Shipper, Modified Radiothermal
+Becca Tomaso | (double) Detainer Turret, Double Slicer Turret, FET 243, Wanderer Heavy AM, Ionic Blaster and Turret, Javelin and Barrage turrets, Ion Beam (and turret), HPC, Blizzard, Courier, Sea Scorpion, Shipper, Modified Radiothermal, Stabilized Gatling Gun
 Korath Automation Upgrade (Kriegstofu) | Pillager
 Enigma Corp (Jonathan Steck (Amazinite)) | Interference Plating images
 

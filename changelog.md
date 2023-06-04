@@ -617,6 +617,7 @@ Changelog:
 - Ship Changes
   - Tweaked cell layouts of Raven and Aerie
   - Added the Screener drone to Kor Sestor
+  - Added turret sprites to the Arfecta
 - Tech Changes
 - Other Changes
   - Added a background quest to give a star map every time the player arrives at a star
