@@ -25,37 +25,37 @@
     },
     {
       "Image": "static+0.png",
-      "Size": 1.25,
+      "Size": 0.75,
       "Lifetime": 0.1
     },
     {
       "Image": "static+1.png",
-      "Size": 1.25,
+      "Size": 0.75,
       "StartTime": 0.05,
       "Lifetime": 0.1
     },
     {
       "Image": "static+2.png",
-      "Size": 1.25,
+      "Size": 0.75,
       "StartTime": 0.1,
       "Lifetime": 0.1
     },
     {
       "Image": "static+3.png",
-      "Size": 1.25,
+      "Size": 0.75,
       "StartTime": 0.15,
       "Lifetime": 0.1
     },
     {
       "Image": "static+4.png",
-      "Size": 1.25,
+      "Size": 0.75,
       "StartTime": 0.2,
       "Lifetime": 0.1
     },
     {
       "Image": "static+5.png",
       "Size": 1.25,
-      "StartTime": 0.25,
+      "StartTime": 0.75,
       "Lifetime": 0.1
     },
     {
