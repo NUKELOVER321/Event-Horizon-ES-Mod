@@ -4,5 +4,7 @@
   "ItemId": 1320,
   "Faction": 219,
   "Price": 5,
-  "Dependencies": []
+  "Dependencies": [
+    443
+  ]
 }
