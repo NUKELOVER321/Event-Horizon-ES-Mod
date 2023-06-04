@@ -605,7 +605,7 @@ Changelog:
     - Heliarchs: provide Yottrite (payout: 1 million credits)
 
 
-### 0.16.1 ??? update
+### 0.16.1 "Algenib" update
 
 Changelog:
 - Major Changes
