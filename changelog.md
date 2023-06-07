@@ -610,6 +610,7 @@ Changelog:
 Changelog:
 - Major Changes
   - **Added the Marauder Pirates as a faction, alongside their ships and outfits**
+  - Marauder Pirates can be found past 175 light years
 - Component Changes
   - Fixed issue with Dragonflame Cannon having 0 energy consumption
   - Made standard Gatling Gun and Gatling Turret less accurate
@@ -626,6 +627,16 @@ Changelog:
   - Modified existing encounter quests to properly implement light year limits
   - Corrected erroneous cooling values for Liquid Sodium Cooler in documentation
   - Staggered impact effects to make them look less choppy
+  
+### 0.16.2 ??? update
+
+Changelog:
+- Major Changes
+  - **Reduced Archon health and shield by yet another 90%**
+- Component Changes
+- Ship Changes
+- Tech Changes
+- Other Changes
 
 ### Planned changes:
 - Add Bombardment Cannon to Coalition builds
