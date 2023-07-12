@@ -3,7 +3,7 @@
   "Id": 215,
   "Name": "Drak",
   "Color": "#7F7F7F",
-  "HomeStarDistance": 1000,
-  "WanderingShipsDistance": 1000,
+  "HomeStarDistance": 750,
+  "WanderingShipsDistance": 750,
   "Hostile": true
 }
