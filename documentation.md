@@ -20,6 +20,23 @@ Heliarchs Security Forces | 450
 Quarg | 500
 Pug | 500
 
+Special ships and encounter distances
+
+Ship | Minimum | Maximum
+--- | --- | ---
+Arfecta | 500 | 1000
+Republic Navy Battleship | 350 | 500
+Emerald Sword | 250 | 500
+Heron | 350 | 500
+Kestrel | 150 | 300
+KIV 750 | 400 | 600
+Marauder Bactrian | 300 | 500
+Model 1024 | 400 | 600
+Modified Boxwing | 100 | 250
+Modified Vanguard | 200 | 350
+Shooting Star | 350 | 500
+Ursa Polaris | 350 | 500
+
 Ammunition, Bullet Prefab, and Impact Effect IDs will take the IDs of the weapon.
 
 Special ships:
