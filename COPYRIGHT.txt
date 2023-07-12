@@ -74,6 +74,13 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
+  Component?Images/Kaltheim/*
+  Ship?Images/Kaltheim/*
+Copyright: Makuta-Miras (https://github.com/Makuta-Miras)
+License: CC-BY-SA-4.0
+Comment:
+
+Files:
   Component?Images/Korath/Sestor/detainer?turret*
   Component?Images/Korath/Sestor/double?detainer?turret*
   Component?Images/Korath/Mereti/double?slicer?turret*
