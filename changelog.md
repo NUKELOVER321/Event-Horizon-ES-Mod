@@ -605,7 +605,7 @@ Changelog:
     - Heliarchs: provide Yottrite (payout: 1 million credits)
 
 
-### 0.16.1 "Algenib" update
+### 0.15.1 "Algenib" update
 
 Changelog:
 - Major Changes
@@ -628,15 +628,19 @@ Changelog:
   - Corrected erroneous cooling values for Liquid Sodium Cooler in documentation
   - Staggered impact effects to make them look less choppy
   
-### 0.16.2 ??? update
+### 0.15.2 ??? update
 
 Changelog:
 - Major Changes
   - **Reduced Archon health and shield by yet another 90%**
+  - Reduced Drak distance from 1000 to 750 in preparation for an upcoming remake of the faction
+  - Fixed an issue where the free star map quest blocks special ship encounter quests
+	- Bug reported by Discord user aurora_7137
 - Component Changes
 - Ship Changes
 - Tech Changes
 - Other Changes
+  - Fixed an issue where the deep space scanner mission interferes with special ship encounter missions
 
 ### Planned changes:
 - Add Bombardment Cannon to Coalition builds
