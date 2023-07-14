@@ -55,15 +55,15 @@ The steps to install Event Horizon and this mod are as follows:
 
 ## Credits, Copyrights, Documentation
 
-Specific information on credits and copyrights for this project can be found in [credits-copyright.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/credits-copyright.md).  
-A list of all changes to the mod can be found in [changelog.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/changelog.md).  
-An unorganized list of information on various mod elements can be found in [documentation.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/documentation.md).  
+Specific information on credits and copyrights for this project can be found in [credits-copyright.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/credits-copyright).  
+A list of all changes to the mod can be found in [changelog.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/changelog).  
+An unorganized list of information on various mod elements can be found in [documentation.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/documentation).  
 
 ## Licensing
 
 Most source files in Event-Horizon-ES-Mod are licensed under a Creative Commons Attribution Share-Alike 4.0 License.  
-See [LICENSE.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/LICENSE.md).  
-Exceptions to this statement can be found in [credits-copyright.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/credits-copyright.md).
+See [LICENSE.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/LICENSE).  
+Exceptions to this statement can be found in [credits-copyright.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/credits-copyright).
 
 ## Branches
 
