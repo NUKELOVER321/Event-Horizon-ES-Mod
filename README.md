@@ -1,8 +1,10 @@
-# Event-Horizon-ES-mod
+# Event-Horizon-ES-Mod
 
 [GitHub repo](https://github.com/JasonWu00/Event-Horizon-ES-Mod)
 
-[github.io page](https://jasonwu00.github.io/Event-Horizon-ES-mod/)
+[github.io page](https://jasonwu00.github.io/Event-Horizon-ES-Mod/)
+
+Note that links in this README page leads to the github.io page versions of various files and not their github.com versions.
 
 ## Description
 
@@ -12,7 +14,7 @@
 
 At around June of 2021 I decided that this project would be a good idea and started collecting assets and learning how mods for Event Horizon work. On July 14, 2021 I compiled the first version of the mod.
 
-The first few versions were released informally on the official Discord server for Event Horizon. Later versions were released on an [itch.io page](https://404-found.itch.io/event-horizon-es-mod).
+The first few versions were released informally on the official Discord server for Event Horizon. Later versions were released on an [itch.io page](https://404-found.itch.io/event-horizon-ES-Mod).
 
 Note that the account uploading to the itch.io page uses a personal username instead of my actual name. This is because I was initially not keen on allowing random people on the Internet to know my real name.
 
@@ -26,9 +28,9 @@ Q: "What do all of these `.json` files do?"
 
 A: Some helpful people over at the Event Horizon official Discord server compiled this ["Database User Manual"](https://docs.google.com/document/d/1TsxbbtUkF_OKdpotKNQEiPqvW3xi8CTUipUiFz51CZY/edit?usp=sharing) that details exactly what everything does. This manual explains everything far better than I possibly could, but it is a bit of a long read. Alternatively, you can refer to the `README.md` files in a couple of the data folders for an idea of what the `.json` files in the relevant folders mean. Note that most data folders don't have readmes.
 
-Q: "How do I download and use this mod?"
+## Installation instructions
 
-A: To do that you will have to download Event Horizon, place the mod file into the correct location, and play the game. The steps to do this are as follows:
+The steps to install Event Horizon and this mod are as follows:
 
 1. Download Event Horizon.
    - Android: from the Google Play Store.
@@ -38,7 +40,8 @@ A: To do that you will have to download Event Horizon, place the mod file into t
      - Some Android devices do not allow the user to access these files through the built-in file manager. You may wish to download a file manager of your choice from the Google Play Store to aid in this step.
    - PC: wherever you placed the unzipped folder.
 3. Create a folder at that location named `Mods`. Capitalization matters.
-4. Download whichever version of this mod you want and move the mod file to the `Mods` folder.
+4. Download whichever version of this mod you want from the Versions folder and move the mod file to the `Mods` folder.
+   - WARNING: Changing from a later version to an earlier version of the mod might lead to unforeseen damage to your save files.
 5. Launch Event Horizon.
    - Android: press on the Event Horizon app icon on your device.
    - PC: Double-click on `Event Horizon.exe`.
@@ -52,13 +55,15 @@ A: To do that you will have to download Event Horizon, place the mod file into t
 
 ## Credits, Copyrights, Documentation
 
-Specific information on credits and copyrights for this project can be found in [credits-copyright.md](../master/credits-copyright.md).  
-A list of all changes to the mod can be found in [changelog.md](../master/changelog.md).  
-An unorganized list of information on various mod elements can be found in [documentation.md](../master/documentation.md).  
+Specific information on credits and copyrights for this project can be found in [credits-copyright.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/credits-copyright.md).  
+A list of all changes to the mod can be found in [changelog.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/changelog.md).  
+An unorganized list of information on various mod elements can be found in [documentation.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/documentation.md).  
 
 ## Licensing
 
-Most source files in Event-Horizon-ES-Mod are licensed under a Creative Commons Attribution Share-Alike 4.0 License (see [LICENSE.md](../master/LICENSE.md)). Exceptions to this statement can be found in [credits-copyright.md](../master/credits-copyright.md).
+Most source files in Event-Horizon-ES-Mod are licensed under a Creative Commons Attribution Share-Alike 4.0 License.  
+See [LICENSE.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/LICENSE.md).  
+Exceptions to this statement can be found in [credits-copyright.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/credits-copyright.md).
 
 ## Branches
 
