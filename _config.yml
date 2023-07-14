@@ -2,4 +2,4 @@ remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: "Event Horizon / Endless Sky Mod"
-description: "Placeholder"
+description: "Open-source Mod(ification) for the Mobile/PC game 'Event Horizon'"
