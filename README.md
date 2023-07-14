@@ -1,6 +1,6 @@
 # Event-Horizon-ES-mod
 
-[GitHub repo](https://github.com/JasonWu00/Event-Horizon-Es-Mod)
+[GitHub repo](https://github.com/JasonWu00/Event-Horizon-ES-Mod)
 
 [github.io page](https://jasonwu00.github.io/Event-Horizon-ES-mod/)
 
