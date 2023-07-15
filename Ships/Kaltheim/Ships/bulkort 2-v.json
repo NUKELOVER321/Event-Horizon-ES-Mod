@@ -1,0 +1,50 @@
+{
+  "ItemType": 6,
+  "Id": 3030,
+  "ShipCategory": 6,
+  "Name": "Bulkort 2-V",
+  "Faction": 220,
+  "IconImage": "Bulkort 2-V.png",
+  "IconScale": 1.0,
+  "ModelImage": "Bulkort 2-V.png",
+  "ModelScale": 0.85,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#008888",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0044224400004422440000002200000001221000000122100000012210000001221000011122111001112211100005555000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.7,
+        "y": 0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.7,
+        "y": -0.2
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    }
+  ]
+}

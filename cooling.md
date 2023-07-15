@@ -1,7 +1,8 @@
+# Cooling values
+
 This is a list of outfits and their respective "cooling" or "heat" values.   
 These heat values influence the shield and energy cooldown periods.   
 All values are in "per square" format.   
-
 
 Merchants
 

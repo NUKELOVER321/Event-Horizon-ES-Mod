@@ -1,3 +1,5 @@
+# Documentation
+
 Faction distances
 
 Faction | Min distance to appear
@@ -14,6 +16,7 @@ Remnants | 300
 Korath Exiles | 300
 Wanderers | 350
 Ka'het | 350
+Kaltheim | 375
 Korath Mereti | 400
 Korath Sestor | 400
 Heliarchs Security Forces | 450
@@ -585,6 +588,27 @@ EMP Deployer | 1183
 MHD Deployer | 1184
 Nullifier | 1185
 
+Kaltheim
+
+Item Name | Item ID | Build IDs (if applicable)
+--- | --- | ---
+Bulkort 2-V | 3030 | 3030
+Holzst'nak 11-P | 450 | 1461-1463
+Kru'urlin 89-P | 451 | 1464-1466
+Lenmig'sraor 52-T | 452 | 1467-1469
+Tyar'linhalf 67-G | 453 | 1470-1472
+Polar Battery | 1323
+Tundra Shield Generator | 1324
+Glacial Shield Generator | 1325
+Boreal Shield Generator | 1326
+Floe Reactor | 1327
+Iceberg Reactor | 1328
+Engine Destabilizer Turret | 1329 (gun 2329)
+Hyperborean Anti-Missile | 1330
+Kelvin Beam Turret | 1331 (gun 2331)
+Phase Missile Launcher | 1332
+Slush Beam | 1333 
+
 Wanderers
 
 Item Name | Item ID | Build IDs (if applicable)
@@ -790,9 +814,9 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1323
-Ship | 436
-Build | 1422
-Drone | 3030
+Ship | 449
+Build | 1461
+Drone | 3031
 Quest | 1049
 
 Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.

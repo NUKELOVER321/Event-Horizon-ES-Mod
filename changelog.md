@@ -1,3 +1,5 @@
+# Changelog
+
 ### 0.1.1 "Sol" update
 
 Changelog:
@@ -635,7 +637,7 @@ Changelog:
   - **Reduced Archon health and shield by yet another 90%**
   - Reduced Drak distance from 1000 to 750 in preparation for an upcoming remake of the faction
   - Fixed an issue where the free star map quest blocks special ship encounter quests
-	- Bug reported by Discord user aurora_7137
+	  - Bug reported by Discord user aurora_7137
 - Component Changes
 - Ship Changes
 - Tech Changes

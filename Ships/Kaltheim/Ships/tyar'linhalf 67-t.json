@@ -1,0 +1,84 @@
+{
+  "ItemType": 6,
+  "Id": 453,
+  "ShipCategory": 1,
+  "Name": "Lenmig'sraor 52-T",
+  "Faction": 220,
+  "SizeClass": 2,
+  "IconImage": "Lenmig'sraor 52-T.png",
+  "IconScale": 1.0,
+  "ModelImage": "Lenmig'sraor 52-T.png",
+  "ModelScale": 3.75,
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineColor": "#008888",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000000442244000000000000004422440000000000000113223110000000000001132231100000000000144422444100000000001444224441000000000014442244410000000000111122111100000000001444224441000000000014442244410000000000144422444100000000001113223111000000000011132231110000000000111322311100000000001113223111000000000011132231110000000000055522555000000000000555225550000000000005552255500000000000000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.1
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": 0.15
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.4,
+        "y": -0.15
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": 0.15
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": -0.15
+      },
+      "PlatformType": 2,
+      "WeaponClass": "CL"
+    }
+  ]
+}
