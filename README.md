@@ -20,13 +20,13 @@ Note that the account uploading to the itch.io page uses a personal username ins
 
 ## Questions
 
-Q: "This isn't technically impressive. It doesn't show off any flashy or marketable skills. It won't matter for whether you get into an internship or job or not. Why are you pinning it to your profile?"
+Q: "This isn't technically impressive. It doesn't show off any flashy or marketable skills. Why are you showing this to us?"
 
-A: These statements are true and I am aware of this. I pinned this repo on my profile because it's something I put effort into and am sort of proud of.
+A: It's work that I am proud of.
 
 Q: "What do all of these `.json` files do?"
 
-A: Some helpful people over at the Event Horizon official Discord server compiled this ["Database User Manual"](https://docs.google.com/document/d/1TsxbbtUkF_OKdpotKNQEiPqvW3xi8CTUipUiFz51CZY/edit?usp=sharing) that details exactly what everything does. This manual explains everything far better than I possibly could, but it is a bit of a long read. Alternatively, you can refer to the `README.md` files in a couple of the data folders for an idea of what the `.json` files in the relevant folders mean. Note that most data folders don't have readmes.
+A: Some helpful people over at the Event Horizon official Discord server compiled this ["Database User Manual"](https://docs.google.com/document/d/1TsxbbtUkF_OKdpotKNQEiPqvW3xi8CTUipUiFz51CZY/edit?usp=sharing) that details exactly what everything does. This manual explains everything far better than I possibly can, but it is a bit of a long read.
 
 ## Installation instructions
 
@@ -50,20 +50,19 @@ The steps to install Event Horizon and this mod are as follows:
    - Select the `"Settings"` button on the bottom right of the game's main menu.
    - Out of the six buttons on the left side of the settings menu, select the wrench and screwdriver symbol.
    - You will be shown a list of "Available modifications". Select this mod (usually titled `Endless Sky [version number]`), then select the "Yes" button on the popup warning window.
-   - Wait until the game finishes activating the mod.
+   - Wait until the game finishes loading the mod.
 7. The mod is now loaded.
 
 ## Credits, Copyrights, Documentation
 
-Specific information on credits and copyrights for this project can be found in [credits-copyright.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/credits-copyright).  
+Specific information on credits and copyrights for this project can be found in [COPYRIGHT.txt](https://jasonwu00.github.io/Event-Horizon-ES-Mod/COPYRIGHT.txt).  
 A list of all changes to the mod can be found in [changelog.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/changelog).  
 An unorganized list of information on various mod elements can be found in [documentation.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/documentation).  
 
 ## Licensing
 
 Most source files in Event-Horizon-ES-Mod are licensed under a Creative Commons Attribution Share-Alike 4.0 License.  
-See [LICENSE.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/LICENSE).  
-Exceptions to this statement can be found in [credits-copyright.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/credits-copyright).
+See [LICENSE.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/LICENSE). 
 
 ## Branches
 
