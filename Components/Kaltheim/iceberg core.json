@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1328,
+  "Name": "Iceberg Core",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1328,
+  "Faction": 220,
+  "Level": 425,
+  "Icon": "iceberg core.png",
+  "Layout": "1111111111111111",
+  "PossibleModifications": [
+    12
+  ]
+}
