@@ -636,13 +636,16 @@ Changelog:
 - Major Changes
   - **Reduced Archon health and shield by yet another 90%**
   - Reduced Drak distance from 1000 to 750 in preparation for an upcoming remake of the faction
-  - Fixed an issue where the free star map quest blocks special ship encounter quests
-	  - Bug reported by Discord user aurora_7137
+  - **Added the Kaltheim as a faction, alongside appropriate ships and outfits**
 - Component Changes
 - Ship Changes
+  - Added the Fetri'sei to the Ka'het
 - Tech Changes
 - Other Changes
   - Fixed an issue where the deep space scanner mission interferes with special ship encounter missions
+    - Bug reported by Discord user aurora_7137
+  - Fixed an issue where the deep space scanner mission breaks when defeating enemies at a node
+    - Updated StartCondition from ArrivedAtStar to NewStarExplored
 
 ### Planned changes:
 - Add Bombardment Cannon to Coalition builds

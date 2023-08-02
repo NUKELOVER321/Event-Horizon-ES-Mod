@@ -566,11 +566,12 @@ Ka'het
 
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Maeri' | 392 | 1274-1276
-Telis' | 393 | 1277-1279
-Vareti' | 394 | 1280-1282
-Faes' | 3016
-Selii' | 3017
+Maeri'het | 392 | 1274-1276
+Telis'het | 393 | 1277-1279
+Vareti'het | 394 | 1280-1282
+Faes'mar | 3016
+Selii'mar | 3017
+Fetri'sei | 449 | 1461-1463
 MHD Generator | 1170
 Reserve Accumulator | 1171
 Shield Restorer | 1172
@@ -593,7 +594,7 @@ Kaltheim
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
 Bulkort 2-V | 3030 | 3030
-Holzst'nak 11-P | 450 | 1461-1463
+Holzst'nak 11-P | 450 | 1473-1475
 Kru'urlin 89-P | 451 | 1464-1466
 Lenmig'sraor 52-T | 452 | 1467-1469
 Tyar'linhalf 67-G | 453 | 1470-1472
@@ -814,8 +815,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1323
-Ship | 449
-Build | 1461
+Ship | 450
+Build | 1476
 Drone | 3031
 Quest | 1049
 
