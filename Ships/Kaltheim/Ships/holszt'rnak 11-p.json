@@ -1,36 +1,19 @@
 {
   "ItemType": 6,
   "Id": 450,
-  "ShipCategory": 1,
-  "Name": "Holszt'rnak 11-P",
+  "Name": "Holzst'rnak 11-P",
   "Faction": 220,
-  "SizeClass": 2,
-  "IconImage": "Holszt'rnak 11-P.png",
+  "SizeClass": 1,
+  "IconImage": "Holzst'rnak 11-P.png",
   "IconScale": 1.0,
-  "ModelImage": "Holszt'rnak 11-P.png",
-  "ModelScale": 3.75,
+  "ModelImage": "Holzst'rnak 11-P.png",
+  "ModelScale": 3.25,
   "EnginePosition": {
     "x": -0.9
   },
   "EngineColor": "#008888",
   "EngineSize": 0.1,
-  "Engines": [
-    {
-      "Position": {
-        "x": -0.9,
-        "y": -0.2
-      },
-      "Size": 0.1
-    },
-    {
-      "Position": {
-        "x": -0.9,
-        "y": 0.2
-      },
-      "Size": 0.1
-    }
-  ],
-  "Layout": "0000000442244000000000000004422440000000000000113223110000000000001132231100000000000144422444100000000001444224441000000000014442244410000000000111122111100000000001444224441000000000014442244410000000000144422444100000000001113223111000000000011132231110000000000111322311100000000001113223111000000000011132231110000000000055522555000000000000555225550000000000005552255500000000000000000000000000",
+  "Layout": "0000004440044400000000000044422444000000000000444224440000000000000132231000000000000001322310000000000000013223100000000000000132231000000000004443222234440000000044432222344400000000444322223444000000000013222231000000000444113223114440000004441132231144400000044411322311444000000001113223111000000000011155551110000000001111555511110000000111115555111110000001111055550111100000011000000000011000",
   "Barrels": [
     {
       "Position": {
@@ -38,7 +21,7 @@
         "y": 0.1
       },
       "PlatformType": 3,
-      "WeaponClass": "CLMT"
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
@@ -46,39 +29,39 @@
         "y": -0.1
       },
       "PlatformType": 3,
-      "WeaponClass": "CLMT"
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
-        "x": 0.4,
-        "y": 0.15
+        "x": -0.1,
+        "y": 0.35
       },
-      "PlatformType": 2,
-      "WeaponClass": "CL"
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
-        "x": 0.4,
-        "y": -0.15
+        "x": -0.1,
+        "y": -0.35
       },
-      "PlatformType": 2,
-      "WeaponClass": "CL"
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
-        "x": 0.2,
-        "y": 0.15
+        "x": -0.1,
+        "y": 0.45
       },
-      "PlatformType": 2,
-      "WeaponClass": "CL"
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
-        "x": 0.2,
-        "y": -0.15
+        "x": -0.1,
+        "y": -0.45
       },
-      "PlatformType": 2,
-      "WeaponClass": "CL"
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
     }
   ]
 }
