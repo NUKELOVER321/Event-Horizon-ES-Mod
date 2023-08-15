@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1330,
+  "Name": "Hyperborean Anti-Missile",
+  "DisplayCategory": 6,
+  "Availability": 1,
+  "ComponentStatsId": 3,
+  "Faction": 220,
+  "Level": 450,
+  "Icon": "hyperborean antimissile.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "DeviceId": 1330,
+  "Restrictions": {
+    "UniqueComponentTag": "pointdefense"
+  },
+  "PossibleModifications": [
+    2,
+    6,
+    7
+  ]
+}
