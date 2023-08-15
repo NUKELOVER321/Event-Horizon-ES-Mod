@@ -608,7 +608,7 @@ Engine Destabilizer Turret | 1329 (gun 2329)
 Hyperborean Anti-Missile | 1330
 Kelvin Beam Turret | 1331 (gun 2331)
 Phase Missile Launcher | 1332
-Slush Beam | 1333 
+Slush Beam | 1333
 
 Wanderers
 
