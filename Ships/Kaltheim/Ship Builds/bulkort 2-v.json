@@ -1,6 +1,77 @@
 {
   "ItemType": 8,
   "Id": 3030,
+  "Disabled": false,
   "ShipId": 3030,
-  "Components": []
+  "NotAvailableInGame": false,
+  "DifficultyClass": 0,
+  "BuildFaction": 0,
+  "Components": [
+    {
+      "ComponentId": 1106,
+      "Modification": 0,
+      "Quality": 0,
+      "Locked": true,
+      "X": 6,
+      "Y": 10,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 0
+    },
+    {
+      "ComponentId": 1105,
+      "Modification": 0,
+      "Quality": 0,
+      "Locked": true,
+      "X": 4,
+      "Y": 10,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 0
+    },
+    {
+      "ComponentId": 10,
+      "Modification": 0,
+      "Quality": 0,
+      "Locked": true,
+      "X": 8,
+      "Y": 8,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 0
+    },
+    {
+      "ComponentId": 65,
+      "Modification": 0,
+      "Quality": 0,
+      "Locked": true,
+      "X": 1,
+      "Y": 8,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 0
+    },
+    {
+      "ComponentId": 1327,
+      "Modification": 0,
+      "Quality": 0,
+      "Locked": true,
+      "X": 5,
+      "Y": 0,
+      "BarrelId": -1,
+      "Behaviour": 0,
+      "KeyBinding": 0
+    },
+    {
+      "ComponentId": 2329,
+      "Modification": 0,
+      "Quality": 0,
+      "Locked": true,
+      "X": 7,
+      "Y": 1,
+      "BarrelId": 1,
+      "Behaviour": 0,
+      "KeyBinding": 0
+    }
+  ]
 }
