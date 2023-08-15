@@ -1,0 +1,10 @@
+{
+  "ItemType": 27,
+  "Id": 1332,
+  "Shape": 1,
+  "Image": "phase missile.png",
+  "Size": 1.0,
+  "Margins": 0.7,
+  "SecondColor": "#FEFF7F",
+  "SecondColorMode": 1
+}
