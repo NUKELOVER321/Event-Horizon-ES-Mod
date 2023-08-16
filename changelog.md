@@ -646,6 +646,8 @@ Changelog:
     - Bug reported by Discord user aurora_7137
   - Fixed an issue where the deep space scanner mission breaks when defeating enemies at a node
     - Updated StartCondition from ArrivedAtStar to NewStarExplored
+  - Increased the image quality of the Stack Core, Quantum Shield Generator, Heliarch Overclocked Shields, Large Co-generator, and S-970 Regenerator.
+    - Images sourced from Endless Sky High DPI.
 
 ### Planned changes:
 - Add Bombardment Cannon to Coalition builds
