@@ -2,14 +2,16 @@
   "ItemType": 1,
   "Id": 1324,
   "Name": "Tundra Shield Generator",
-  "DisplayCategory": 3,
+  "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1324,
   "Faction": 220,
   "Level": 375,
   "Icon": "tundra shields.png",
   "Layout": "1111",
+  "CellType": "1",
   "PossibleModifications": [
-    12
+    12,
+    3
   ]
 }

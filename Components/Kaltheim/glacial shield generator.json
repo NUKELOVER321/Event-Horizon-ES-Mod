@@ -2,14 +2,16 @@
   "ItemType": 1,
   "Id": 1325,
   "Name": "Glacial Shield Generator",
-  "DisplayCategory": 3,
+  "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1325,
   "Faction": 220,
   "Level": 400,
   "Icon": "glacial shields.png",
   "Layout": "111111111",
+  "CellType": "1",
   "PossibleModifications": [
-    12
+    12,
+    3
   ]
 }
