@@ -2,11 +2,11 @@
   "ItemType": 15,
   "Id": 10004,
   "Name": "free map",
-  "StartCondition": 6,
+  "StartCondition": 5,
   "Weight": 1.0,
   "Requirement": {
     "Type": 6,
-    "MaxValue": 250
+    "MaxValue": 300
   },
   "Nodes": [
     {
