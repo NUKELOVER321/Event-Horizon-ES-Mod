@@ -56,8 +56,8 @@ The steps to install Event Horizon and this mod are as follows:
 ## Credits, Copyrights, Documentation
 
 Specific information on credits and copyrights for this project can be found in [COPYRIGHT.txt](https://jasonwu00.github.io/Event-Horizon-ES-Mod/COPYRIGHT.txt).  
-A list of all changes to the mod can be found in [changelog.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/changelog).  
-An unorganized list of information on various mod elements can be found in [documentation.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/documentation).  
+A list of all changes to the mod can be found in [changelog.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/Documentation/changelog).  
+An unorganized list of information on various mod elements can be found in [documentation.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/Documentation/documentation).  
 
 ## Licensing
 
