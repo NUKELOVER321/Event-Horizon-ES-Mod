@@ -38,11 +38,17 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 2329,
+      "ComponentId": 1333,
       "Locked": true,
       "X": 7,
       "Y": 1,
       "BarrelId": 1
+    },
+    {
+      "ComponentId": 1333,
+      "Locked": true,
+      "X": 3,
+      "Y": 1
     }
   ]
 }
