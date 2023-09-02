@@ -34,7 +34,7 @@
     {
       "Image": "seeker impact~5.png",
       "Size": 1.0,
-      "StartTime": 0.55,
+      "StartTime": 0.25,
       "Lifetime": 0.1
     }
   ]
