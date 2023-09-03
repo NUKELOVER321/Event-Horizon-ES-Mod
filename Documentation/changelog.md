@@ -630,7 +630,7 @@ Changelog:
   - Corrected erroneous cooling values for Liquid Sodium Cooler in documentation
   - Staggered impact effects to make them look less choppy
   
-### 0.15.2 ??? update
+### 0.15.2 "Era'lgin'bl" update
 
 Changelog:
 - Major Changes
