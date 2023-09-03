@@ -640,6 +640,11 @@ Changelog:
 - Component Changes
 - Ship Changes
   - Added the Fetri'sei to the Ka'het
+  - Given the Korath Sestor ships their unabbreviated names
+  - Added Korath Piercer Launcher to some Sestor 1vet builds
+  - Added Bombardment Cannon / Turret to Coalition 2vet builds
+  - Increased engine slot count of Heliarch Hunter
+  - Added more engine components to Heliarch Hunter builds
 - Tech Changes
   - Reduced Vareti'het research cost from 80 to 75
 - Other Changes
@@ -657,9 +662,9 @@ Changelog:
   - Give the Drak the Ember Host space organisms as lesser ships
   - Make the Drak the abandoned stations faction
 - **Add the new aliens**
-  - Bunrodea? Gegno? I think that's them
+  - Bunrodea? Gegno?
 - **Add the unused Vyu-ira as an encounter**
-- Rename Korath ships to reflect their full names and not abbreviations
+- Rename Korath Exiles ships to reflect their new names
 - Add Bombardment Cannon to Coalition builds
 - Add Piercer Launcher to Sestor builds
 - Make most or all components Common instead of Rare so they are sold in faction shops
