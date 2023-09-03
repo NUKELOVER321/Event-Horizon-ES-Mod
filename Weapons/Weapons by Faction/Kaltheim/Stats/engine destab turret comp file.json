@@ -8,7 +8,7 @@
   "Faction": 220,
   "Level": 450,
   "Icon": "destabilizer turret.png",
-  "Layout": "1111",
+  "Layout": "111111111",
   "CellType": "4",
   "WeaponId": 1329,
   "AmmunitionId": 1329,
