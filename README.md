@@ -66,10 +66,4 @@ See [LICENSE.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/LICENSE).
 
 ## Branches
 
-Here is a list of open branches and their purposes.
-
-Branch | Purpose
---- | ---
-master | self explanatory.
-marauder-pirates | implementing the Marauder Pirates faction
-kalthelm | implementing the Kaltheim faction from the Enclave mod
+See [a list of all branches](https://github.com/JasonWu00/Event-Horizon-ES-Mod/branches) via the link provided. Most work on this project occurs in a branch separate from main.
