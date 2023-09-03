@@ -5,48 +5,7 @@
     "Type": 21,
     "Items": [
       {
-        "Loot": {
-          "Type": 30,
-          "ItemId": 10001
-        }
-      },
-      {
-        "Loot": {
-          "Type": 30,
-          "ItemId": 5001
-        }
-      },
-      {
-        "Loot": {
-          "Type": 30,
-          "ItemId": 5003
-        }
-      },
-      {
-        "Loot": {
-          "Type": 30,
-          "ItemId": 5006
-        }
-      },
-      {
-        "Loot": {
-          "Type": 30,
-          "ItemId": 4000
-        }
-      },
-      {
-        "Loot": {
-          "Type": 30,
-          "ItemId": 5005
-        }
-      },
-      {
-        "Loot": {
-          "Type": 30,
-          "ItemId": 5004
-        }
-      },
-      {
+        "Weight": 1.0,
         "Loot": {
           "Type": 30,
           "ItemId": 3000
@@ -55,10 +14,22 @@
       {
         "Weight": 1.0,
         "Loot": {
-          "Type": 35,
-          "ItemId": 9000,
-          "MinAmount": 3,
-          "MaxAmount": 3
+          "Type": 30,
+          "ItemId": 1385
+        }
+      },
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 30,
+          "ItemId": 4000
+        }
+      },
+      {
+        "Weight": 1.0,
+        "Loot": {
+          "Type": 30,
+          "ItemId": 5006
         }
       }
     ]

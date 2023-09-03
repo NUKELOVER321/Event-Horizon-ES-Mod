@@ -1,0 +1,10 @@
+{
+  "ItemType": 3,
+  "Id": 1332,
+  "FireRate": 1.0,
+  "Spread": 1.0,
+  "ActivationType": 1,
+  "ShotSound": "tracker",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "phase.png"
+}

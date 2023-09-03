@@ -1,0 +1,45 @@
+{
+  "ItemType": 6,
+  "Id": 449,
+  "Name": "Fetri'sei",
+  "Faction": 210,
+  "IconImage": "fetri'sei icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "fetri'sei.png",
+  "ModelScale": 1.0,
+  "EnginePosition": {
+    "x": -0.8,
+    "y": 0.2
+  },
+  "EngineColor": "#8700FF",
+  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Regeneration": true,
+  "Layout": "0044004400004422440000132231000013223100001322310000132231000013223100001322310000115511000000550000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8,
+        "y": 0.4
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    },
+    {
+      "Position": {
+        "x": 0.8,
+        "y": -0.4
+      },
+      "PlatformType": 3,
+      "WeaponClass": "CLTM"
+    }
+  ]
+}

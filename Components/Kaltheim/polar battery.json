@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1323,
+  "Name": "Polar Battery",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1323,
+  "Faction": 220,
+  "Level": 70,
+  "Icon": "polar battery.png",
+  "Layout": "1111",
+  "PossibleModifications": [
+    12
+  ]
+}

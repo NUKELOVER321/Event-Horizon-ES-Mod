@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1327,
+  "Name": "Floe Core",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1327,
+  "Faction": 220,
+  "Level": 375,
+  "Icon": "floe core.png",
+  "Layout": "1111",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}

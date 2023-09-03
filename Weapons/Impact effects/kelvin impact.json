@@ -1,0 +1,11 @@
+{
+  "ItemType": 26,
+  "Id": 1331,
+  "Elements": [
+    {
+      "Image": "kelvin hit.png",
+      "Size": 0.5,
+      "Lifetime": 0.2
+    }
+  ]
+}
