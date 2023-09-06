@@ -111,6 +111,13 @@ MHD | 0.069 | 0.276
 Primary cooling | -1.418 | -22.688
 Support cooling | -1.28 | -5.12
 
+Kaltheim
+
+Item | Heat Per Square | Heat Per Module
+--- | --- | ---
+Floe Core | -0.04 | -0.16
+Iceberg Core | -0.05 | -0.8
+
 Korath Exiles
 
 Item | Heat Per Square | Heat Per Module
