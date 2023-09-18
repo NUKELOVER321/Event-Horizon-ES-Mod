@@ -656,17 +656,41 @@ Changelog:
   - Increased the image quality of Stack Core, Quantum Shield Generator, Heliarch Overclocked Shields, Large Co-generator, and S-970 Regenerator
     - Images sourced from Endless Sky High DPI
 
+### 0.15.3 ??? update
+
+Changelog:
+- Major Changes
+  - **Reworked the Drak faction**
+
 ### Planned changes:
 - **Remake the Drak**
   - Give the Drak their Antimatter Cannons, Repulsor Fields, and other such weapons
-  - Give the Drak the Ember Host space organisms as lesser ships
+  - Give the Drak the Ember Waste space organisms as lesser ships
+    - Ember Waste Node
+    - Embershade
+    - Embersylth
+    - Void Sprites
+    - Vyrmeids
+    - Astral Cetacean
+  - Give the space organisms:
+    - mouthparts/jaws type weapons
+    - short range tractor beams to simulate biting on
+    - (super)stealth (so they cam get up close and personal safely)
+    - mine launchers that shoot out bioroids
+    - cloning devices that let them spawn several copies to attack at once
+      - devices are ready to use immediately
+      - devices are restricted to certain ship types
+      - device size scales with restricted ship class
+        - battleship cloners are larger than frigate cloners, for example
+        - no capital cloners
   - Make the Drak the abandoned stations faction
 - **Add the new aliens**
-  - Bunrodea? Gegno?
-- **Add the unused Vyu-ira as an encounter**
+  - Bunrodea
+  - Gegno (all 3 subfactions at once)
+  - Mega Freignt ships (as random quest fleet encounters)
+  - Vyu-ira and other misc alien ships
+  - Decompression of the faction light year requirement list
 - Rename Korath Exiles ships to reflect their new names
-- Add Bombardment Cannon to Coalition builds
-- Add Piercer Launcher to Sestor builds
 - Make most or all components Common instead of Rare so they are sold in faction shops
   - Alternatively: undo the special -> rare change for some factions
 - Incorporate scanners as drone and missile capturer weapons
