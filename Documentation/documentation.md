@@ -22,6 +22,7 @@ Korath Sestor | 400
 Heliarchs Security Forces | 450
 Quarg | 500
 Pug | 500
+Drak | 750
 
 Special ships and encounter distances
 
@@ -51,7 +52,6 @@ Kestrel | 1001 | 10001
 Star Fortress | 2000 | 20000
 Heron | 3000 | 30000
 Emerald Sword | 4000 | 40000
-Gatekeeper Archon | 5000 | 50000
 Modified Boxwing | 5001 | 5001
 Modified Vanguard | 5003 | 5003
 Marauder Bactrian | 5004 | 5004
@@ -782,6 +782,34 @@ Zambor Stats | 1281
 Zalgi | 3026
 Zalgi Stats | 1282
 
+Drak
+Item Name | Item ID | Build IDs (if applicable)
+--- | --- | ---
+Void Sprite | 450 | 1476-1478
+Void Sprite Infant | 451 | 1479-1481
+Embershade | 452 | 1482-1484
+Astral Cetacean | 453 | 1485-1487
+Ember Waste Node | 454 | 1488-1490
+Jje | 455 | 1491-1493
+Ayym | 456 | 1494-1496
+Embersylph | 457 | 1497-1499
+Embersylph 2 | 458 | 1500-1502
+Squid | 459 | 1503-1505
+Boomerang | 460 | 1506-1508
+Plankton | 461 | 1509-1511
+Archon | 5000 | 50000
+Antimatter Cannon | 1324
+AM Field | 1333
+Distancer | 1334
+Draining Field | 1335
+Drak Turret | 1336
+Mouthparts | 1337
+Unspecified tractor beam | 1338
+Bioroid Mine Launcher | 1339
+Absorption Organ | 1340
+
+Squid, Boomerang, Plankton, Jje -> Embersylph -> Void Sprite Infant -> Void Sprite -> Ayym -> Astral Cetacean -> Ember Waste Node -> Archon
+
 Sheragi
 
 Item Name | Item ID | Build IDs (if applicable)
@@ -814,9 +842,9 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1323
-Ship | 450
-Build | 1476
+Component | 1340
+Ship | 462
+Build | 1512
 Drone | 3031
 Quest | 1049
 
