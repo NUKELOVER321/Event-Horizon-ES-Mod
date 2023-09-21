@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2034,
   "Name": "Proton Gun",
+  "Description": "A shotgunning weapon that shoots out blasts of red proton bolts.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

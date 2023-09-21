@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2072,
   "Name": "Particle Cannon",
+  "Description": "A slow firing weapon with a forceful push.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

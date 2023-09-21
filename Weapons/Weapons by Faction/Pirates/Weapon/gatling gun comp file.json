@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1029,
   "Name": "Gatling Gun",
+  "Description": "A rotary cannon that spits out a stream of lead.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

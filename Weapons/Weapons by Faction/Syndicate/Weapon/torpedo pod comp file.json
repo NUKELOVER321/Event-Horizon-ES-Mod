@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2035,
   "Name": "Torpedo Pod",
+  "Description": "A pod of very explosive torpedoes.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1024,
   "Name": "Laser Beam Turret",
+  "Description": "Two laser beams on a turret.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

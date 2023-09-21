@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2025,
   "Name": "Heavy Laser Beam",
+  "Description": "A more powerful laser beam for civilian, pirate, and militia use.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,
