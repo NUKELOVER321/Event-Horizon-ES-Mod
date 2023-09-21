@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1076,
   "Name": "Armageddon Core",
+  "Description": "A gigantic fusion reactor rated for Republic Navy Carriers.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1076,

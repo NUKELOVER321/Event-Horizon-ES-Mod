@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1071,
   "Name": "D91-YV Shield Generator",
+  "Description": "The largest human shield generator providing respectable protection to capital ships.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1071,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1091,
   "Name": "Geode Reactor",
+  "Description": "A Hai nuclear reactor that is a little better than its human counterpart.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1091,

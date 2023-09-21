@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1066,
   "Name": "A520 Atomic Thruster",
+  "Description": "Large atomic thrusters that push much harder than plasma engines of a comparable size.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1066,

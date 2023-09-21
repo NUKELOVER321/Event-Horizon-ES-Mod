@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1038,
   "Name": "S-270 Regenerator",
+  "Description": "An improved shield generator reverse engineered from alien tech.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1038,

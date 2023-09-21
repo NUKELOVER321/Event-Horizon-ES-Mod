@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1058,
   "Name": "D41-HY Shield Generator",
+  "Description": "A still larger human shield generator that provides some protection.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1058,

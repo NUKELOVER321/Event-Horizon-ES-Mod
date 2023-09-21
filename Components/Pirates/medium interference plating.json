@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1313,
   "Name": "Medium Interference Plating",
+  "Description": "A jack of all trades resistance armor in a slightly larger size.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1313,

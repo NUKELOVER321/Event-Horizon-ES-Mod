@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1056,
   "Name": "D14-RN Shield Generator",
+  "Description": "The smallest human shield. It doesn't protect much, but it also doesn't take up much space.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1056,

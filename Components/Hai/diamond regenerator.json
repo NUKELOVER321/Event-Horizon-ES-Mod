@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1094,
   "Name": "Diamond Regenerator",
+  "Description": "A large Hai shield generator that looks a lot like the Syndicate S-970.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1094,

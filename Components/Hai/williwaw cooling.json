@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1095,
   "Name": "Williwaw Cooling",
+  "Description": "A tiny heat dispersal device that reduces cooldown delay slightly.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 1095,

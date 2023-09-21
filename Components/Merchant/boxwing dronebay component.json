@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 3004,
   "Name": "Boxwing",
+  "Description": "A Boxwing drone loaded up with an anti-missile device.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3004,

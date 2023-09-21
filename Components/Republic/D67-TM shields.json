@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1070,
   "Name": "D67-TM Shield Generator",
+  "Description": "A large human shield providing acceptable protection.",
   "DisplayCategory": 2,
   "Availability": 1,
   "ComponentStatsId": 1070,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1046,
   "Name": "Orca Plasma Thruster",
+  "Description": "Large plasma thrusters that burn hotter and push harder than ions.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1046,
