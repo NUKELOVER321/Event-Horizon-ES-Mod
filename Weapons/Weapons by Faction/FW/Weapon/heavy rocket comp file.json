@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1050,
   "Name": "Heavy Rocket Launcher",
+  "Description": "Dedicated launch tubes for unguided but very explosive Heavy Rockets.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

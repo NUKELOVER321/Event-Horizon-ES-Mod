@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1026,
   "Name": "Meteor Missile Launcher",
+  "Description": "Slower but harder hitting Meteor missiles.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

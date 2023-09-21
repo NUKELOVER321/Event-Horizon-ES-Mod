@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1035,
   "Name": "Torpedo Launcher",
-  "Description": "Dedicated launch tubes for explosive torpedoes.",
+  "Description": "Dedicated launch tubes for explosive guided torpedoes.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

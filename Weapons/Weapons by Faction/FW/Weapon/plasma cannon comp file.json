@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2051,
   "Name": "Plasma Cannon",
+  "Description": "Shoots a stream of purple plasma bolts.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,
