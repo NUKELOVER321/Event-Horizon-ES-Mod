@@ -661,6 +661,8 @@ Changelog:
 Changelog:
 - Major Changes
   - **Reworked the Drak faction**
+  - Added descriptions to a large number of outfits
+    - Descriptions are visible to players using EH:CE or Inverse Mod
 
 ### Planned changes:
 - **Remake the Drak**
