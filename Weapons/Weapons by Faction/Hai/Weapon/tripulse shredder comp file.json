@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1293,
   "Name": "Tri-pulse Shredder",
+  "Description": "Three pulse cannons on a turret, for when two doesn't put out enough damage.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

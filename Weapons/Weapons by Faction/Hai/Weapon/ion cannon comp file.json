@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1099,
   "Name": "Ion Cannon",
+  "Description": "A large ion cannon that drains energy with every hit.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,
