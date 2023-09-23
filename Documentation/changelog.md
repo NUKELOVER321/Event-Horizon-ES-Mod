@@ -663,6 +663,13 @@ Changelog:
   - **Reworked the Drak faction**
   - Added descriptions to a large number of outfits
     - Descriptions are visible to players using EH:CE or Inverse Mod
+  - Ship Changes
+    - Buffed the 2vet Raven (laser beams -> heavy laser beams)
+    - Nerfed the 2vet Flivver (reduced health, sidewinder pod -> laser beam)
+    - Nerfed the 2vet Modified Argosy (reduced health)
+    - Buffed the 1vet Marauder Fury (blaster -> mod blaster)
+    - Buffed the 2vet Marauder Fury (javelin pods -> heavy lasers)
+    - Buffed the 2vet Marauder Bounder (replaced 1 laser beam with heavy laser beam)
 
 ### Planned changes:
 - **Remake the Drak**
