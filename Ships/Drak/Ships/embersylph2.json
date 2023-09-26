@@ -1,0 +1,48 @@
+{
+  "ItemType": 6,
+  "Id": 458,
+  "Name": "Embersylph",
+  "Faction": 215,
+  "SizeClass": 1,
+  "IconImage": "embersylph.png",
+  "IconScale": 1.0,
+  "ModelImage": "embersylph.png",
+  "ModelScale": 1.5,
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineColor": "#00BFFF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8,
+        "y": -0.4
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.4
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0000001000000000000100000000000222000000000022200000000012221000000011222110000001322231000004422222440000442222244000011111111100001155155110000115515511000000000000000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.1,
+        "y": 0.4
+      },
+      "PlatformType": 3
+    },
+    {
+      "Position": {
+        "x": 0.1,
+        "y": -0.4
+      },
+      "PlatformType": 3
+    }
+  ]
+}
