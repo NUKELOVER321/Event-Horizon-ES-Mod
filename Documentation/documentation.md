@@ -115,8 +115,8 @@ Non-weapon stats | Conversion
 --- | ---
 Battery energy storage | (Energy / space) * 10 (and * 2 for Syscores and Sun Reactors)
 Reactor energy output | Power output / space 
-Engine thrust |
-Engine steering |
+Engine thrust | (Thrust / size) / (ion engine thrust / size)
+Engine steering | (Steering / size) / (ion engine thrust / size)
 Module heat production | Heat / size / 250
 Module cooling | Cooling / size / 500 (or / 250 for active cooling)
 Active cooling energy cost | Energy / size / 2.5
@@ -139,7 +139,7 @@ calculate power per unit of corresponding ion engine. divide former by latter.
 multiply value by power consumption of ion engine.   
 
 For referencing values directly from the data files:   
-Multiply turn by 60 and thrust by 3600.   
+Multiply turn by 3600 and thrust by 60.   
 Multiply energy consumption and cooling by 60.   
 Multiply shield generation by 60.   
 
@@ -785,10 +785,10 @@ Zalgi Stats | 1282
 Drak
 Item Name | Item ID | Build IDs (if applicable)
 --- | --- | ---
-Void Sprite | 450 | 1476-1478
-Void Sprite Infant | 451 | 1479-1481
-Embershade | 452 | 1482-1484
-Astral Cetacean | 453 | 1485-1487
+Void Sprite | 462 | 1476-1478
+Void Sprite Infant | 463 | 1479-1481
+Embershade | 464 | 1482-1484
+Astral Cetacean | 465 | 1485-1487
 Ember Waste Node | 454 | 1488-1490
 Jje | 455 | 1491-1493
 Ayym | 456 | 1494-1496
@@ -807,8 +807,10 @@ Mouthparts | 1337
 Unspecified tractor beam | 1338
 Bioroid Mine Launcher | 1339
 Absorption Organ | 1340
+Antimatter Thruster | 1341
+Antimatter Steering | 1342
 
-Squid, Boomerang, Plankton, Jje -> Embersylph -> Void Sprite Infant -> Void Sprite -> Ayym -> Astral Cetacean -> Ember Waste Node -> Archon
+Squid, Boomerang, Plankton, Jje -> Embersylph -> Void Sprite Infant, Embershade -> Void Sprite -> Ayym -> Astral Cetacean -> Ember Waste Node -> Archon
 
 Sheragi
 
@@ -843,7 +845,7 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1340
-Ship | 462
+Ship | 466
 Build | 1512
 Drone | 3031
 Quest | 1049

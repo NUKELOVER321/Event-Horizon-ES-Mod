@@ -8,7 +8,7 @@
   "Faction": 203,
   "Level": 1000,
   "Icon": "nuclear missile.png",
-  "Layout": "1111111111111111",
+  "Layout": "0111011111111111111101110",
   "CellType": "4",
   "WeaponId": 1036,
   "AmmunitionId": 1036,

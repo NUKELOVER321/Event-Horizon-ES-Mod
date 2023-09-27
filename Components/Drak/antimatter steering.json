@@ -1,0 +1,16 @@
+{
+  "ItemType": 1,
+  "Id": 1342,
+  "Name": "Antimatter Steering",
+  "DisplayCategory": 4,
+  "Availability": 2,
+  "ComponentStatsId": 1342,
+  "Faction": 215,
+  "Level": 1000,
+  "Icon": "antimatter steering.png",
+  "Layout": "000000111111111111111111111111000000",
+  "CellType": "5",
+  "PossibleModifications": [
+    11
+  ]
+}

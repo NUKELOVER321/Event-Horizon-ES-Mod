@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1086,
   "Name": "Gorge Battery Pack",
+  "Description": "A middle of the line Hai battery pack.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1086,

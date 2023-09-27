@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1087,
   "Name": "Ravine Battery Pack",
+  "Description": "A large Hai battery pack.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1087,
