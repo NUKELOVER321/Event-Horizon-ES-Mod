@@ -128,10 +128,28 @@ Hull regeneration | Regen / size
 Determining stats:
 
 == Engines ==   
-Ion Engines serve as a baseline.   
-For every engine other than Ionics, divide its thrust/steering power by its size.   
-Then divide this value by the corresponding value on the corresponding Ion engine.   
-This new value determines the multiplier for that specific engine.   
+Ion Engines have arbitrarily determined stats and serve as a baseline.   
+For every engine other than Ionics:   
+1: Calculate its thrust/turn per unit of outfit space.  
+2: Calculate the thrust/turn per unit of the corresponding ion engine (e.g. A860/865 -> X5200/5700).
+3: Divide the result of Step 1 by Step 2.   
+4: Multiply the value of Step 3 by the in-mod arbitrary stats of the corresponding ion engine.
+
+NOTE: Due to changes to the ion engine stats in base ES, it is important to use the values provided below (sourced from the Endless Sky GitHub repo before 16 April 2022) for the above calculations. These values will be obsoleted in a future update that adjusts all engines to match these changes.
+
+Engine | Thrust | Turn | Outfit space
+--- | --- | --- | ---
+X1050 | 14400 | 6600 | 20
+X1700 | 21600 | - | 16
+X2700 | 41400| - | 27
+X3700 | 79560 | - | 46
+X4700 | 153000 | - | 79
+X5700 | 293400 | - | 134
+X1200 | - | 9600 | 12
+X2200 | - | 12420 | 20
+X3200 | - | 35400 | 35 
+X4200 | - | 67920 | 59
+X5200 | - | 130440 | 100
 
 Calculating engine power consumption:   
 calculate power per unit of outfit space for desired single or pair of engine(s).   

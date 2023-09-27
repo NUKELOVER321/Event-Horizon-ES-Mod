@@ -699,7 +699,7 @@ Changelog:
   - Mega Freignt ships (as random quest fleet encounters)
   - Vyu-ira and other misc alien ships
   - Decompression of the faction light year requirement list
-- Rebalance human engines based on recent changes to base game
+- Rebalance human engines based on most recent engines stat
 - Rename Korath Exiles ships to reflect their new names
 - Make most or all components Common instead of Rare so they are sold in faction shops
   - Alternatively: undo the special -> rare change for some factions
