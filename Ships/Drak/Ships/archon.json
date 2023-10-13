@@ -5,9 +5,9 @@
   "Name": "Archon",
   "Faction": 215,
   "SizeClass": 4,
-  "IconImage": "archon.png",
+  "IconImage": "archon icon.png",
   "IconScale": 1.2,
-  "ModelImage": "archon icon.png",
+  "ModelImage": "archon.png",
   "ModelScale": 20.0,
   "EnginePosition": {
     "x": -0.5
