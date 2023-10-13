@@ -4,7 +4,7 @@
   "Body": {
     "Type": 1,
     "Size": 1.0,
-    "Velocity": 6.0,
+    "Velocity": 12.0,
     "Range": 300.0,
     "Weight": 0.25,
     "HitPoints": 40,
