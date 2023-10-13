@@ -661,8 +661,11 @@ Changelog:
 Changelog:
 - Major Changes
   - **Reworked the Drak faction**
+    - Changed abandoned station faction to Drak
   - Added descriptions to a large number of outfits
     - Descriptions are visible to players using EH:CE or Inverse Mod
+  - Component Changes
+    - Fixed the missing autopilot feature on the Control Transceiver and Reasoning Node
   - Ship Changes
     - Buffed the 2vet Raven (laser beams -> heavy laser beams)
     - Nerfed the 2vet Flivver (reduced health, sidewinder pod -> laser beam)
@@ -670,8 +673,29 @@ Changelog:
     - Buffed the 1vet Marauder Fury (blaster -> mod blaster)
     - Buffed the 2vet Marauder Fury (javelin pods -> heavy lasers)
     - Buffed the 2vet Marauder Bounder (replaced 1 laser beam with heavy laser beam)
+    - Buffed the 1vet and 2vet Corvette (equipped with javelin and barrage turrets)
+    - Buffed the Rainmaker (+2 engine slots)
+    - Remade the 1vet and 2vet Rainmaker (equipped with javelin and barrage turrets)
+    - Remade the 1vet and 2vet Freighter (removed anti-missile, added shields to 2vet)
+  - Tech Changes
+    - Temporarily moved human shield tech to Merchants tech tree
+  - Other Changes
+    - Decreased Korath Piercer projectile weight (0.15 -> 0.1)
+    - Increased velocity of Torpedo, Typhoon Torpedo, EMP Torpedo, EMP Deployer, Teciimach Torpedo, Javelin Rocket, Firestorm Missile by 100%
+    - Increased velocity of Finisher Torpedo by 50%
+    - Doubled energy cost of Javelin rockets
 
 ### Planned changes:
+- Balance changes
+  - Make the 2vet Corvette and 2vet Rainmaker not run away while spitting out torpedoes
+  - Make torpedoes in general faster
+  - Fix an issue with the freighter being able to anti-missile everything
+  - Either buff the Mule or make it swap places with Firebird
+  - Make the Haulers less capable of going fast
+  - Make Javelin missiles go faster
+  - Give starbases a torpedo launcher slot at the center
+- Create 3vet Merchants builds to be used in Pirates
+- Create Syndicate Extremists faction to contain the regenerators and nuclear missile
 - **Remake the Drak**
   - Give the Drak their Antimatter Cannons, Repulsor Fields, and other such weapons
   - Give the Drak the Ember Waste space organisms as lesser ships
