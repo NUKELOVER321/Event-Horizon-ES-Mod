@@ -878,3 +878,7 @@ Heaver | -50% fire rate, energy cost = firing energy + firing fuel
 Point defenses | 10x energy cost
 Detainer, Inhibitor | (Pending)
 Bombardment, Thrasher, Thunderhead | +100% projectile speed
+Torpedo, Typhoon Torpedo, EMP Torpedo, EMP Deployer, Teciimach Torpedo, Javelin Rocket, Firestorm Missile | +100% projectile speed
+Finisher Torpedo | +50% projectile speed
+Javelin Rocket | +100% energy cost
+Korath Piercer Missile | -33% projectile mass
