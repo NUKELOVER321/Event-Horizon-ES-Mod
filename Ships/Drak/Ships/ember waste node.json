@@ -3,11 +3,11 @@
   "Id": 454,
   "Name": "Ember Waste Node",
   "Faction": 215,
-  "SizeClass": 1,
+  "SizeClass": 3,
   "IconImage": "ember waste node.png",
   "IconScale": 1.0,
   "ModelImage": "ember waste node.png",
-  "ModelScale": 1.5,
+  "ModelScale": 5.0,
   "EnginePosition": {
     "x": -0.8
   },

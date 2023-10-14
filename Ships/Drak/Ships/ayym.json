@@ -3,11 +3,11 @@
   "Id": 456,
   "Name": "Ayym",
   "Faction": 215,
-  "SizeClass": 1,
+  "SizeClass": 2,
   "IconImage": "ayym.png",
   "IconScale": 1.0,
   "ModelImage": "ayym.png",
-  "ModelScale": 1.5,
+  "ModelScale": 4.0,
   "EnginePosition": {
     "x": -0.8
   },

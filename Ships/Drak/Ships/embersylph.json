@@ -4,10 +4,10 @@
   "Name": "Embersylph",
   "Faction": 215,
   "SizeClass": 1,
-  "IconImage": "embersylph.png",
+  "IconImage": "embersylph1.png",
   "IconScale": 1.0,
-  "ModelImage": "embersylph.png",
-  "ModelScale": 1.5,
+  "ModelImage": "embersylph1.png",
+  "ModelScale": 2.0,
   "EnginePosition": {
     "x": -0.8
   },

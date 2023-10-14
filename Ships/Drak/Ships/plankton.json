@@ -3,7 +3,6 @@
   "Id": 461,
   "Name": "Plankton",
   "Faction": 215,
-  "SizeClass": 1,
   "IconImage": "plankton.png",
   "IconScale": 1.0,
   "ModelImage": "plankton.png",

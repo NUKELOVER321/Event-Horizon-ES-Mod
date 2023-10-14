@@ -4,10 +4,10 @@
   "Name": "Void Sprite Infant",
   "Faction": 215,
   "SizeClass": 1,
-  "IconImage": "void sprite infant.png",
+  "IconImage": "void sprite infant icon.png",
   "IconScale": 1.0,
-  "ModelImage": "void sprite infant icon.png",
-  "ModelScale": 1.5,
+  "ModelImage": "void sprite infant.png",
+  "ModelScale": 2.5,
   "EnginePosition": {
     "x": -0.8
   },

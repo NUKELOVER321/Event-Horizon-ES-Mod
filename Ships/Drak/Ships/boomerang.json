@@ -3,7 +3,6 @@
   "Id": 460,
   "Name": "Boomerang",
   "Faction": 215,
-  "SizeClass": 1,
   "IconImage": "boomerang.png",
   "IconScale": 1.0,
   "ModelImage": "boomerang.png",

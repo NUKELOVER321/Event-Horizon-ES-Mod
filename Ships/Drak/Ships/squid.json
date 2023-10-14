@@ -3,7 +3,6 @@
   "Id": 459,
   "Name": "Squid",
   "Faction": 215,
-  "SizeClass": 1,
   "IconImage": "squid.png",
   "IconScale": 1.0,
   "ModelImage": "squid.png",

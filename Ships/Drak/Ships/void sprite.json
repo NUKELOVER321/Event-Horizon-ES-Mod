@@ -3,11 +3,11 @@
   "Id": 462,
   "Name": "Void Sprite",
   "Faction": 215,
-  "SizeClass": 1,
-  "IconImage": "void sprite.png",
+  "SizeClass": 2,
+  "IconImage": "void sprite adult icon.png",
   "IconScale": 1.0,
-  "ModelImage": "void sprite icon.png",
-  "ModelScale": 1.5,
+  "ModelImage": "void sprite adult.png",
+  "ModelScale": 3.5,
   "EnginePosition": {
     "x": -0.8
   },
