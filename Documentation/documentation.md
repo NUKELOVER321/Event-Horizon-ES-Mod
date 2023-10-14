@@ -357,7 +357,9 @@ Gunboat | 347 | 1139-1141
 Frigate | 348 | 1142-1144
 Cruiser | 349 | 1145-1147
 Carrier | 350 | 1148-1150
-Auxiliary | 351 | 1151-1153
+Auxiliary C | 351 | 1151-1153
+Auxiliary H | 3511 | 11511-11513
+Auxiliary T | 3512 | 11514-11516
 Lance | 3005
 Dropship | 3006
 Combat Drone | 3007
@@ -822,11 +824,12 @@ Distancer | 1334
 Draining Field | 1335
 Drak Turret | 1336
 Mouthparts | 1337
-Unspecified tractor beam | 1338
+Bio-tractor-beam | 1338
 Bioroid Mine Launcher | 1339
 Absorption Organ | 1340
 Antimatter Thruster | 1341
 Antimatter Steering | 1342
+Short Bio-tractor-beam | 1343
 
 Squid, Boomerang, Plankton, Jje -> Embersylph -> Void Sprite Infant, Embershade -> Void Sprite -> Ayym -> Astral Cetacean -> Ember Waste Node -> Archon
 

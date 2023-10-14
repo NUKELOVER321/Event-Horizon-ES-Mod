@@ -661,6 +661,7 @@ Changelog:
 Changelog:
 - Major Changes
   - **Reworked the Drak faction**
+    - Added a number of living organism ships to the Drak faction
     - Changed abandoned station faction to Drak
   - Added descriptions to a large number of outfits
     - Descriptions are visible to players using EH:CE or Inverse Mod
@@ -677,6 +678,7 @@ Changelog:
     - Buffed the Rainmaker (+2 engine slots)
     - Remade the 1vet and 2vet Rainmaker (equipped with javelin and barrage turrets)
     - Remade the 1vet and 2vet Freighter (removed anti-missile, added shields to 2vet)
+  - Added AI-only variants of the Republic of Earth Navy Auxiliary
   - Tech Changes
     - Temporarily moved human shield tech to Merchants tech tree
   - Other Changes
