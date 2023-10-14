@@ -8,7 +8,7 @@
   "IconImage": "archon icon.png",
   "IconScale": 1.2,
   "ModelImage": "archon.png",
-  "ModelScale": 20.0,
+  "ModelScale": 10.0,
   "EnginePosition": {
     "x": -0.5
   },
