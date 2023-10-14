@@ -2,12 +2,12 @@
   "ItemType": 6,
   "Id": 351,
   "ShipCategory": 2,
-  "Name": "Auxiliary",
+  "Name": "Auxiliary (C)",
   "Faction": 205,
   "SizeClass": 4,
-  "IconImage": "auxiliary icon.png",
+  "IconImage": "auxiliaryc icon.png",
   "IconScale": 1.0,
-  "ModelImage": "auxiliary.png",
+  "ModelImage": "auxiliaryc.png",
   "ModelScale": 6.0,
   "EnginePosition": {
     "x": -0.8
