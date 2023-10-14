@@ -1,0 +1,46 @@
+{
+  "ItemType": 25,
+  "Id": 1339,
+  "Body": {
+    "Type": 1,
+    "Size": 1.0,
+    "Velocity": 10.0,
+    "Range": 0.1,
+    "Weight": 0.2,
+    "HitPoints": 35,
+    "BulletPrefab": 1228,
+    "EnergyCost": 9.0,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 4,
+      "EffectType": 2,
+      "AudioClip": "mine deploy",
+      "Ammunition": 3339,
+      "Color": "#00000000",
+      "Quantity": 15,
+      "RandomFactor": 1.0
+    },
+    {
+      "Condition": 5,
+      "EffectType": 2,
+      "AudioClip": "mine deploy",
+      "Ammunition": 3339,
+      "Quantity": 15,
+      "RandomFactor": 1.0
+    },
+    {
+      "Condition": 2,
+      "EffectType": 2,
+      "AudioClip": "mine deploy",
+      "Ammunition": 3339,
+      "Color": "#00000000",
+      "Quantity": 15,
+      "RandomFactor": 1.0
+    }
+  ],
+  "Effects": [
+    {}
+  ]
+}
