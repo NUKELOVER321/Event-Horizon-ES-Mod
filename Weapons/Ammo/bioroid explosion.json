@@ -15,6 +15,14 @@
       "VisualEffect": 1339,
       "Size": 1.0,
       "Lifetime": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 2,
+      "Ammunition": 6339,
+      "Color": "#00000000",
+      "Quantity": 1,
+      "Size": 1.0
     }
   ],
   "ImpactType": 1,

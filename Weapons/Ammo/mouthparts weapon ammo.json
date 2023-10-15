@@ -20,13 +20,14 @@
   "ImpactType": 1,
   "Effects": [
     {
-      "DamageType": 3,
-      "Power": 6.0
-    },
-    {
       "Type": 2,
       "DamageType": 3,
       "Power": 0.2
+    },
+    {
+      "Type": 4,
+      "DamageType": 3,
+      "Power": 6.0
     }
   ]
 }
