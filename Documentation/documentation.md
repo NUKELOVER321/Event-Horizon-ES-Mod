@@ -830,6 +830,8 @@ Absorption Organ | 1340
 Antimatter Thruster | 1341
 Antimatter Steering | 1342
 Short Bio-tractor-beam | 1343
+Siphon Ray | 1344 (gun 2344)
+Acid Sprayer | 1345
 
 Squid, Boomerang, Plankton, Jje -> Embersylph -> Void Sprite Infant, Embershade -> Void Sprite -> Ayym -> Astral Cetacean -> Ember Waste Node -> Archon
 
@@ -883,5 +885,6 @@ Detainer, Inhibitor | (Pending)
 Bombardment, Thrasher, Thunderhead | +100% projectile speed
 Torpedo, Typhoon Torpedo, EMP Torpedo, EMP Deployer, Teciimach Torpedo, Javelin Rocket, Firestorm Missile | +100% projectile speed
 Finisher Torpedo | +50% projectile speed
+Ion Hail, Ion Rain | +33% speed
 Javelin Rocket | +100% energy cost
 Korath Piercer Missile | -33% projectile mass

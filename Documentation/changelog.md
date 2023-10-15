@@ -667,6 +667,7 @@ Changelog:
     - Descriptions are visible to players using EH:CE or Inverse Mod
   - Component Changes
     - Fixed the missing autopilot feature on the Control Transceiver and Reasoning Node
+    - Made the Flamethrower work (at last)
   - Ship Changes
     - Buffed the 2vet Raven (laser beams -> heavy laser beams)
     - Nerfed the 2vet Flivver (reduced health, sidewinder pod -> laser beam)
@@ -685,7 +686,9 @@ Changelog:
     - Decreased Korath Piercer projectile weight (0.15 -> 0.1)
     - Increased velocity of Torpedo, Typhoon Torpedo, EMP Torpedo, EMP Deployer, Teciimach Torpedo, Javelin Rocket, Firestorm Missile by 100%
     - Increased velocity of Finisher Torpedo by 50%
-    - Doubled energy cost of Javelin rockets
+    - Increased energy cost of Javelin rockets by 100%
+    - Increased energy cost of gatling gun bullets by 25%
+    - Increased velocity of Ion Hail and Ion Rain projectiles by 33%
 
 ### Planned changes:
 - Balance changes
