@@ -3,7 +3,7 @@
   "Id": 1337,
   "Body": {
     "Size": 2.0,
-    "Velocity": 50.0,
+    "Velocity": 10.0,
     "Range": 1.0,
     "Weight": 0.1,
     "EnergyCost": 3.5
@@ -17,17 +17,17 @@
       "Color": "#00000000"
     }
   ],
-  "ImpactType": 1,
   "Effects": [
     {
       "Type": 2,
       "DamageType": 3,
-      "Power": 0.2
+      "Power": 0.002
     },
     {
       "Type": 4,
       "DamageType": 3,
-      "Power": 6.0
+      "Power": 6.0,
+      "Factor": 1.0
     }
   ]
 }
