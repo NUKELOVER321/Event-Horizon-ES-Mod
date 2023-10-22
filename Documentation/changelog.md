@@ -659,16 +659,18 @@ Changelog:
 ### 0.15.3 ??? update
 
 Changelog:
-- Major Changes
-  - **Reworked the Drak faction**
-    - Added a number of living organism ships to the Drak faction
-    - Changed abandoned station faction to Drak
-  - Added descriptions to a large number of outfits
-    - Descriptions are visible to players using EH:CE or Inverse Mod
+- Changes
+  - Major Changes
+    - **Reworked the Drak faction**
+      - Added a number of living organism ships to the Drak faction
+      - Changed abandoned station faction to Drak
+    - Added descriptions to a large number of outfits
+      - Descriptions are visible to players using EH:CE or Inverse Mod
   - Component Changes
     - Fixed the missing autopilot feature on the Control Transceiver and Reasoning Node
     - Made the Flamethrower work (at last)
   - Ship Changes
+    - Added the Auxiliary (H) and Auxiliary (T) to the Republic of Earth
     - Buffed the 2vet Raven (laser beams -> heavy laser beams)
     - Nerfed the 2vet Flivver (reduced health, sidewinder pod -> laser beam)
     - Nerfed the 2vet Modified Argosy (reduced health)
@@ -681,7 +683,9 @@ Changelog:
     - Remade the 1vet and 2vet Freighter (removed anti-missile, added shields to 2vet)
   - Added AI-only variants of the Republic of Earth Navy Auxiliary
   - Tech Changes
-    - Temporarily moved human shield tech to Merchants tech tree
+    - Moved human shield tech to Merchants tech tree
+    - Reduced cost of Auxiliary (all variants) from 60 to 40
+    - Moved Interference Plating to Marauder Pirates tech tree
   - Other Changes
     - Decreased Korath Piercer projectile weight (0.15 -> 0.1)
     - Increased velocity of Torpedo, Typhoon Torpedo, EMP Torpedo, EMP Deployer, Teciimach Torpedo, Javelin Rocket, Firestorm Missile by 100%
@@ -691,6 +695,7 @@ Changelog:
     - Increased velocity of Ion Hail and Ion Rain projectiles by 33%
 
 ### Planned changes:
+- Resize the ship sizes (using Shuttle, Sparrow, Star Barge image dims as a 1.0 size baseline)
 - Balance changes
   - Make the 2vet Corvette and 2vet Rainmaker not run away while spitting out torpedoes
   - Make torpedoes in general faster
@@ -706,7 +711,7 @@ Changelog:
   - Give the Drak the Ember Waste space organisms as lesser ships
     - Ember Waste Node
     - Embershade
-    - Embersylth
+    - Embersylph
     - Void Sprites
     - Vyrmeids
     - Astral Cetacean

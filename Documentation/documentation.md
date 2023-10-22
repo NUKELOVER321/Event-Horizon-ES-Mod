@@ -769,6 +769,9 @@ Reality Vector Engines | 1196
 Dead Ringer | 5000
 Nuke on a Cart | 6000
 Jump Drive | 7000
+Organ Drive | 7001
+Hyperdrive | 7002
+Scram Drive | 7003
 Shooting Star explosion device | 8000
 Cloaking Device | 9000
 
@@ -832,6 +835,8 @@ Antimatter Steering | 1342
 Short Bio-tractor-beam | 1343
 Siphon Ray | 1344 (gun 2344)
 Acid Sprayer | 1345
+Drak Acid Cloud | 1346
+Plankton Siphon Beam | 1347
 
 Squid, Boomerang, Plankton, Jje -> Embersylph -> Void Sprite Infant, Embershade -> Void Sprite -> Ayym -> Astral Cetacean -> Ember Waste Node -> Archon
 
