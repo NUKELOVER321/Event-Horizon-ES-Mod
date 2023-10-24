@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 1348,
+  "WeaponClass": 2,
+  "ActivationType": 1,
+  "ShotSound": "*astral attack~",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "controls_laser"
+}

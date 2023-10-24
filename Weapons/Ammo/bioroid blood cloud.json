@@ -3,7 +3,7 @@
   "Id": 6339,
   "Body": {
     "Type": 2,
-    "Size": 1.0,
+    "Size": 5.0,
     "Lifetime": 10.0,
     "Weight": 0.05,
     "BulletPrefab": 4339
