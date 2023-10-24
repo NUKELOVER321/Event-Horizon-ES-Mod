@@ -826,9 +826,9 @@ AM Field | 1333
 Distancer | 1334
 Draining Field | 1335
 Drak Turret | 1336
-Mouthparts | 1337
+Mouthparts | 1337 (big version 2337)
 Bio-tractor-beam | 1338
-Bioroid Mine Launcher | 1339
+Bioroid Mine Launcher | 1339 (gun 2339)
 Absorption Organ | 1340
 Antimatter Thruster | 1341
 Antimatter Steering | 1342
@@ -837,6 +837,7 @@ Siphon Ray | 1344 (gun 2344)
 Acid Sprayer | 1345
 Drak Acid Cloud | 1346
 Plankton Siphon Beam | 1347
+Astral Cetacean Beam | 1348
 
 Squid, Boomerang, Plankton, Jje -> Embersylph -> Void Sprite Infant, Embershade -> Void Sprite -> Ayym -> Astral Cetacean -> Ember Waste Node -> Archon
 

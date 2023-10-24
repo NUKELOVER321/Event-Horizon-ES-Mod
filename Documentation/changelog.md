@@ -696,6 +696,7 @@ Changelog:
 
 ### Planned changes:
 - Resize the ship sizes (using Shuttle, Sparrow, Star Barge image dims as a 1.0 size baseline)
+  - Baseline image size is 80x80
 - Balance changes
   - Make the 2vet Corvette and 2vet Rainmaker not run away while spitting out torpedoes
   - Make torpedoes in general faster
