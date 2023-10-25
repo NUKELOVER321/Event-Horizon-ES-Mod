@@ -15,6 +15,13 @@
       "VisualEffect": 1337,
       "AudioClip": "crunch",
       "Color": "#00000000"
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 2337,
+      "Color": "#00000000",
+      "Quantity": 1
     }
   ],
   "Effects": [
