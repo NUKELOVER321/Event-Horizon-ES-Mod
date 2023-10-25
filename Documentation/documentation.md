@@ -768,6 +768,7 @@ Quad Plasma Core | 1232
 Reality Vector Engines | 1196
 Dead Ringer | 5000
 Nuke on a Cart | 6000
+Organ Bomb | 6001
 Jump Drive | 7000
 Organ Drive | 7001
 Hyperdrive | 7002
