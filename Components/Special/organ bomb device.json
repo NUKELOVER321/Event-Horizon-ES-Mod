@@ -1,17 +1,17 @@
 {
   "ItemType": 2,
-  "Id": 6000,
+  "Id": 6001,
   "DeviceClass": 8,
   "EnergyConsumption": 1.0,
   "PassiveEnergyConsumption": 1.0,
-  "Power": 10.0,
-  "Range": 30.0,
+  "Power": 5.0,
+  "Range": 15.0,
   "Size": 2.5,
   "Cooldown": 20.0,
   "Lifetime": 2.5,
   "ActivationType": 1,
-  "Color": "#FF5500",
-  "Sound": "alert",
+  "Color": "#FF0000",
+  "Sound": "astral cetacean~",
   "EffectPrefab": "Flash",
   "ControlButtonIcon": "bomb cart.png"
 }
