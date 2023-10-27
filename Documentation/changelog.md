@@ -695,6 +695,7 @@ Changelog:
     - Increased velocity of Ion Hail and Ion Rain projectiles by 33%
 
 ### Planned changes:
+- Adjust the blast radii of various explosive weapons
 - Resize the ship sizes (using Shuttle, Sparrow, Star Barge image dims as a 1.0 size baseline)
   - Baseline image size is 80x80
 - Balance changes
