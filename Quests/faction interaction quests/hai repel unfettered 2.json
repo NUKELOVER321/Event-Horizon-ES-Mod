@@ -1,7 +1,7 @@
 {
   "ItemType": 15,
-  "Id": 1043,
-  "Name": "Raid Merchant Convoy",
+  "Id": 1146,
+  "Name": "Repel Unfettered Warband",
   "StartCondition": 3,
   "Weight": 1.0,
   "Origin": {
@@ -9,20 +9,20 @@
     "Factions": {
       "Type": 1,
       "List": [
-        202
+        206
       ]
     }
   },
   "Requirement": {
     "Type": 20,
-    "Faction": 202
+    "Faction": 206
   },
   "Nodes": [
     {
       "Id": 1,
       "Type": 10,
-      "Message": "Some Merchant Alliance ships escaped our ambush earlier. Go clean them up and we might let you keep some loot.",
-      "Character": 1043,
+      "Message": "Our Unfettered brethren are once again threatening our borders. Please pursuade them to leave.",
+      "Character": 1046,
       "Actions": [
         {
           "TargetNode": 2,
@@ -47,9 +47,9 @@
     {
       "Id": 3,
       "Type": 10,
-      "Message": "There they are. Get them!",
-      "Enemy": 1043,
-      "Character": 1043,
+      "Message": "It seems they are not willing to listen to my words. Make them listen to your guns.",
+      "Enemy": 1146,
+      "Character": 1046,
       "Actions": [
         {
           "TargetNode": 4,
@@ -62,7 +62,7 @@
       "Type": 20,
       "DefaultTransition": 11,
       "FailureTransition": 6,
-      "Enemy": 1043
+      "Enemy": 1046
     },
     {
       "Id": 11,
@@ -79,21 +79,20 @@
     {
       "Id": 5,
       "Type": 10,
-      "Message": "Excellent work. Here's some of the loot we recovered from the ships. It's all yours.",
-      "Loot": 1043,
-      "Character": 1043,
+      "Message": "I hope they will learn the lesson this time.",
+      "Character": 1046,
       "Actions": [
         {
-          "TargetNode": 15,
-          "ButtonText": "Collect loot"
+          "TargetNode": 7,
+          "ButtonText": "$Continue"
         }
       ]
     },
     {
       "Id": 6,
       "Type": 10,
-      "Message": "Look what you have done.",
-      "Character": 1043,
+      "Message": "What a terrible tragedy.",
+      "Character": 1046,
       "Actions": [
         {
           "TargetNode": 8,
@@ -105,13 +104,13 @@
       "Id": 7,
       "Type": 56,
       "DefaultTransition": 9,
-      "Value": 10
+      "Value": 20
     },
     {
       "Id": 8,
       "Type": 56,
       "DefaultTransition": 10,
-      "Value": -5
+      "Value": -10
     },
     {
       "Id": 9,
@@ -120,12 +119,6 @@
     {
       "Id": 10,
       "Type": 41
-    },
-    {
-      "Id": 15,
-      "Type": 35,
-      "DefaultTransition": 7,
-      "Loot": 1043
     }
   ]
 }

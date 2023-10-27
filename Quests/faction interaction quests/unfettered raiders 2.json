@@ -1,6 +1,6 @@
 {
   "ItemType": 18,
-  "Id": 1046,
+  "Id": 1146,
   "Factions": {
     "Type": 1,
     "List": [
@@ -8,6 +8,6 @@
     ]
   },
   "SpecificShips": [
-    1180
+    1183
   ]
 }
