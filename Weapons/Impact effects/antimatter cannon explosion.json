@@ -1,0 +1,65 @@
+{
+  "ItemType": 26,
+  "Id": 5349,
+  "Elements": [
+    {
+      "Type": 2,
+      "Image": "nuke impact.png",
+      "ColorMode": 2,
+      "Color": "#ECFF00",
+      "Size": 2.0,
+      "Lifetime": 5.0
+    },
+    {
+      "Type": 1,
+      "Image": "star",
+      "ColorMode": 1,
+      "Color": "#FFF400",
+      "Size": 2.0,
+      "Lifetime": 5.0
+    },
+    {
+      "Type": 5,
+      "Color": "#D7FF00",
+      "Size": 2.0,
+      "Lifetime": 5.5
+    },
+    {
+      "Type": 3,
+      "Image": "CloudWhite",
+      "ColorMode": 1,
+      "Color": "#EEFF00",
+      "Size": 1.0,
+      "Lifetime": 4.0
+    },
+    {
+      "Image": "neutron~0.png",
+      "Size": 1.0,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "neutron~1.png",
+      "Size": 1.0,
+      "StartTime": 0.05,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "neutron~2.png",
+      "Size": 1.0,
+      "StartTime": 0.1,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "neutron~3.png",
+      "Size": 1.0,
+      "StartTime": 0.15,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "neutron~4.png",
+      "Size": 1.0,
+      "StartTime": 0.2,
+      "Lifetime": 0.1
+    }
+  ]
+}

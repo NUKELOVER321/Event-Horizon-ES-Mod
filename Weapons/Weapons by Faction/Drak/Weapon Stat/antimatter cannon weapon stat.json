@@ -1,0 +1,11 @@
+{
+  "ItemType": 3,
+  "Id": 1349,
+  "WeaponClass": 4,
+  "FireRate": 0.32,
+  "Spread": 1.0,
+  "Magazine": 3,
+  "ActivationType": 1,
+  "ShotEffectPrefab": "FlashAdditive",
+  "ControlButtonIcon": "unkmown.png"
+}

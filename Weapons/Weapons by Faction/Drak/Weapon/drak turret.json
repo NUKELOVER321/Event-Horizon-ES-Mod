@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1336,
+  "Name": "Drak Turret",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 213,
+  "Level": 1000,
+  "Icon": "unknown.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1336,
+  "AmmunitionId": 2349,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

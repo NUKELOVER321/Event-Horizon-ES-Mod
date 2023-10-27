@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1349,
+  "Name": "Antimatter Cannon",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 213,
+  "Level": 1000,
+  "Icon": "unknown.png",
+  "Layout": "0111011111111111111101110",
+  "CellType": "4",
+  "WeaponId": 1349,
+  "AmmunitionId": 1349,
+  "WeaponSlotType": "X",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}
