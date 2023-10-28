@@ -8,7 +8,7 @@ Note that links in this README page leads to the github.io page versions of vari
 
 ## Description
 
-`Event-Horizon-ES-Mod` is a mod for Event Horizon (the mobile/PC game, not the movie) using assets from the open source game [Endless Sky](https://github.com/endless-sky/endless-sky). This repository contains the source files for the mod and compiled files of past versions of the mod.
+`Event-Horizon-ES-Mod` is a mod for [Event Horizon](https://github.com/PavelZinchenko/event_horizon) (the mobile/PC game, not the movie) using assets from the open source game [Endless Sky](https://github.com/endless-sky/endless-sky). This repository contains the source files for the mod and compiled files of past versions of the mod.
 
 ## History
 
