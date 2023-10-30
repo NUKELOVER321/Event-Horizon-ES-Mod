@@ -1,9 +1,9 @@
 {
   "ItemType": 25,
-  "Id": 3349,
+  "Id": 2349,
   "Body": {
     "Size": 2.0,
-    "Velocity": 3.5,
+    "Velocity": 35.0,
     "Range": 108.0,
     "Weight": 0.1,
     "BulletPrefab": 2349,

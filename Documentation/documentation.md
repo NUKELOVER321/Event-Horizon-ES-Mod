@@ -823,7 +823,7 @@ Boomerang | 460 | 1506-1508
 Plankton | 461 | 1509-1511
 Archon | 5000 | 50000
 Antimatter Cannon | 1349
-AM Field | 1333
+AM Field | 1350
 Distancer | 1334
 Draining Field | 1335
 Drak Turret | 1336

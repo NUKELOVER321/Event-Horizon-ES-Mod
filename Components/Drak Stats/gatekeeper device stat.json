@@ -1,12 +1,14 @@
 {
   "ItemType": 11,
   "Id": 5001,
-  "ArmorPoints": 1000.0,
-  "ArmorRepairRate": 10.0,
+  "ArmorPoints": 5000.0,
+  "ArmorRepairRate": 100.0,
   "ArmorRepairCooldownModifier": -1.0,
-  "EnergyPoints": 5000.0,
-  "EnergyRechargeRate": 500.0,
-  "ShieldPoints": 1000.0,
-  "ShieldRechargeRate": 10.0,
-  "Weight": 1000.0
+  "EnergyPoints": 10000.0,
+  "EnergyRechargeRate": 1000.0,
+  "EnergyRechargeCooldownModifier": -5.0,
+  "ShieldPoints": 5000.0,
+  "ShieldRechargeRate": 100.0,
+  "ShieldRechargeCooldownModifier": -5.0,
+  "Weight": 10000.0
 }

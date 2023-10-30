@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1350,
+  "Name": "Drak Anti-Missile Field",
+  "DisplayCategory": 6,
+  "Availability": 3,
+  "ComponentStatsId": 3,
+  "Faction": 215,
+  "Level": 1000,
+  "Icon": "unknown.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "DeviceId": 1350,
+  "Restrictions": {
+    "UniqueComponentTag": "pointdefense"
+  },
+  "PossibleModifications": [
+    2,
+    6,
+    7
+  ]
+}
