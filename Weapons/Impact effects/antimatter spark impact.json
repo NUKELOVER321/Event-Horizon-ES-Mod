@@ -1,46 +1,34 @@
 {
   "ItemType": 26,
-  "Id": 2349,
+  "Id": 3349,
   "Elements": [
     {
-      "Image": "drak bolt impact~0.png",
-      "Size": 1.0,
+      "Image": "neutron~0.png",
+      "Size": 2.0,
       "Lifetime": 0.1
     },
     {
-      "Image": "drak bolt impact~1.png",
-      "Size": 1.0,
+      "Image": "neutron~1.png",
+      "Size": 2.0,
       "StartTime": 0.05,
       "Lifetime": 0.1
     },
     {
-      "Image": "drak bolt impact~2.png",
-      "Size": 1.0,
+      "Image": "neutron~2.png",
+      "Size": 2.0,
       "StartTime": 0.1,
       "Lifetime": 0.1
     },
     {
-      "Image": "drak bolt impact~3.png",
-      "Size": 1.0,
+      "Image": "neutron~3.png",
+      "Size": 2.0,
       "StartTime": 0.15,
       "Lifetime": 0.1
     },
     {
-      "Image": "drak bolt impact~4.png",
-      "Size": 1.0,
+      "Image": "neutron~4.png",
+      "Size": 2.0,
       "StartTime": 0.2,
-      "Lifetime": 0.1
-    },
-    {
-      "Image": "drak bolt impact~5.png",
-      "Size": 1.0,
-      "StartTime": 0.25,
-      "Lifetime": 0.1
-    },
-    {
-      "Image": "drak bolt impact~6.png",
-      "Size": 1.0,
-      "StartTime": 0.3,
       "Lifetime": 0.1
     }
   ]

@@ -1,0 +1,41 @@
+{
+  "ItemType": 25,
+  "Id": 2335,
+  "Body": {
+    "Type": 2,
+    "Size": 60.0,
+    "Lifetime": 1.0,
+    "Weight": 1.0,
+    "EnergyCost": 35.0
+  },
+  "Triggers": [
+    {
+      "Condition": 2,
+      "EffectType": 1,
+      "VisualEffect": 1029,
+      "Color": "#00000000"
+    }
+  ],
+  "ImpactType": 2,
+  "Effects": [
+    {
+      "Type": 1,
+      "DamageType": 3,
+      "Power": 15.0
+    },
+    {
+      "Type": 3,
+      "DamageType": 3,
+      "Power": 50.0
+    },
+    {
+      "DamageType": 3,
+      "Power": 50.0
+    },
+    {
+      "Type": 6,
+      "DamageType": 3,
+      "Power": 1.0
+    }
+  ]
+}

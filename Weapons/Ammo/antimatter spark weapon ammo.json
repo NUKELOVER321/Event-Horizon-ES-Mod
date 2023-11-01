@@ -13,7 +13,7 @@
     {
       "Condition": 3,
       "EffectType": 1,
-      "VisualEffect": 2349,
+      "VisualEffect": 3349,
       "Size": 0.5
     }
   ],
@@ -26,6 +26,11 @@
       "Type": 1,
       "DamageType": 3,
       "Power": 0.005
+    },
+    {
+      "Type": 3,
+      "DamageType": 3,
+      "Power": 12.8
     }
   ]
 }

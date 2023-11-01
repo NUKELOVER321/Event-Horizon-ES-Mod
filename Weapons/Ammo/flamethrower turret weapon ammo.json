@@ -1,0 +1,14 @@
+{
+  "ItemType": 4,
+  "Id": 2055,
+  "AmmunitionClass": 5,
+  "DamageType": 2,
+  "Size": 2.5,
+  "Damage": 7.5,
+  "Range": 20.0,
+  "Velocity": 20.0,
+  "LifeTime": 1.0,
+  "EnergyCost": 1.0,
+  "Color": "#80FFE2BA",
+  "BulletPrefab": "Flame"
+}
