@@ -55,6 +55,8 @@
     },
     {
       "ComponentId": 1313,
+      "Modification": 3,
+      "Quality": 5,
       "Locked": true,
       "X": 13,
       "Y": 9,
@@ -63,6 +65,8 @@
     },
     {
       "ComponentId": 1313,
+      "Modification": 3,
+      "Quality": 5,
       "Locked": true,
       "X": 5,
       "Y": 9,
