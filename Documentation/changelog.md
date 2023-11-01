@@ -656,7 +656,7 @@ Changelog:
   - Increased the image quality of Stack Core, Quantum Shield Generator, Heliarch Overclocked Shields, Large Co-generator, and S-970 Regenerator
     - Images sourced from Endless Sky High DPI
 
-### 0.15.3 ??? update
+### 0.15.3 "Watchful Gravetender" update
 
 Changelog:
 - Changes
@@ -681,7 +681,9 @@ Changelog:
     - Buffed the Rainmaker (+2 engine slots)
     - Remade the 1vet and 2vet Rainmaker (equipped with javelin and barrage turrets)
     - Remade the 1vet and 2vet Freighter (removed anti-missile, added shields to 2vet)
-  - Added AI-only variants of the Republic of Earth Navy Auxiliary
+    - Remade the 1vet Dreadnought (heavy lasers -> plasma turrets)
+    - Buffed the Mule (larger cell grid)
+  - Added researchable variants of the Republic of Earth Navy Auxiliary
   - Tech Changes
     - Moved human shield tech to Merchants tech tree
     - Reduced cost of Auxiliary (all variants) from 60 to 40

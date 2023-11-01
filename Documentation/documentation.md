@@ -338,7 +338,7 @@ Plasma Turret | 1051 (gun 2051)
 Fission Reactor | 1052
 Breeder Reactor | 1053
 Stack Core | 1054
-Flamethrower | 1055
+Flamethrower | 1055 (turret 2055)
 D14-RN | 1056
 D23-QP | 1057
 D41-HY | 1058
