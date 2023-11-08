@@ -2,27 +2,27 @@
 
 Faction distances
 
-Faction | Min distance to appear
---- | ---
-Merchant Alliance | 0
-Pirates | 50
-Syndicated Systems | 100
-Confederation of Free Worlds | 150
-Marauder Pirates | 175
-Republic of Earth | 200
-Hai | 250
-Trisolar Coalition | 250
-Remnants | 300
-Korath Exiles | 300
-Wanderers | 350
-Ka'het | 350
-Kaltheim | 375
-Korath Mereti | 400
-Korath Sestor | 400
-Heliarchs Security Forces | 450
-Quarg | 500
-Pug | 500
-Drak | 750
+Faction | Min distance to appear | ID
+--- | --- | ---
+Merchant Alliance | 0 | 201
+Pirates | 50 | 202
+Syndicated Systems | 100 | 203
+Confederation of Free Worlds | 150 | 204
+Marauder Pirates | 175 | 219
+Republic of Earth | 200 | 205
+Hai | 250 | 206
+Trisolar Coalition | 250 | 218
+Remnants | 300 | 207
+Korath Exiles | 300 | 209
+Wanderers | 350 | 211
+Ka'het | 350 | 210
+Kaltheim | 375 | 220
+Korath Mereti | 400 | 212
+Korath Sestor | 400 | 213
+Heliarchs Security Forces | 450 | 208
+Quarg | 500 | 214
+Pug | 500 | 216
+Drak | 750 | 215
 
 Special ships and encounter distances
 

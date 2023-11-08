@@ -4,6 +4,7 @@
   "ShipId": 413,
   "DifficultyClass": 1,
   "BuildFaction": -1,
+  "BuildFaction": 212,
   "Components": [
     {
       "ComponentId": 2229,

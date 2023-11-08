@@ -2,6 +2,7 @@
   "ItemType": 8,
   "Id": 1328,
   "ShipId": 410,
+  "BuildFaction": 213,
   "Components": [
     {
       "ComponentId": 1192,
