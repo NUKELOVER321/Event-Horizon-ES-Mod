@@ -8,7 +8,7 @@ Note that links in this README page leads to the github.io page versions of vari
 
 ## Description
 
-`Event-Horizon-ES-Mod` is a mod for Event Horizon (the mobile/PC game, not the movie) using assets from the open source game [Endless Sky](https://github.com/endless-sky/endless-sky). This repository contains the source files for the mod and compiled files of past versions of the mod.
+`Event-Horizon-ES-Mod` is a mod for [Event Horizon](https://github.com/PavelZinchenko/event_horizon) (the mobile/PC game, not the movie) using assets from the open source game [Endless Sky](https://github.com/endless-sky/endless-sky). This repository contains the source files for the mod and compiled files of past versions of the mod.
 
 ## History
 
@@ -53,6 +53,10 @@ The steps to install Event Horizon and this mod are as follows:
    - Wait until the game finishes loading the mod.
 7. The mod is now loaded.
 
+## Contributing to this Repository
+
+See [CONTRIBUTING.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/CONTRIBUTING).
+
 ## Credits, Copyrights, Documentation
 
 Specific information on credits and copyrights for this project can be found in [COPYRIGHT.txt](https://jasonwu00.github.io/Event-Horizon-ES-Mod/COPYRIGHT.txt).  
@@ -67,3 +71,7 @@ See [LICENSE.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/LICENSE).
 ## Branches
 
 See [a list of all branches](https://github.com/JasonWu00/Event-Horizon-ES-Mod/branches) via the link provided. Most work on this project occurs in a branch separate from main.
+
+## Previous Versions
+
+All prior compiled versions of Event-Horizon-ES-Mod has been moved to a dedicated repo [Event-Horizon-ES-Mod-Versions](https://github.com/JasonWu00/Event-Horizon-ES-Mod-Versions). This is intended to lighten the network stress on users downloading the repository directly to use in open source versions of Event Horizon that only accept uncompiled folders.

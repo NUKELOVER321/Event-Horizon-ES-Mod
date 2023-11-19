@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1027,
   "Name": "Sidewinder Missile Launcher",
+  "Description": "Faster but less painful Sidewinder missiles.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

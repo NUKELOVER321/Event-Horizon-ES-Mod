@@ -3,6 +3,7 @@
   "Id": 1334,
   "ShipId": 412,
   "NotAvailableInGame": true,
+  "BuildFaction": 213,
   "Components": [
     {
       "ComponentId": 1227,

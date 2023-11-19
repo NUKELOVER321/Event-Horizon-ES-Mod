@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1321,
   "Name": "Small Radar Jammer",
+  "Description": "A jammer device that launches radar decoys.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 1321,

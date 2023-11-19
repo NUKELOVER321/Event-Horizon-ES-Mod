@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2023,
   "Name": "Modified Blaster",
+  "Description": "A blaster that has been redneck engineered to hit a little harder.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

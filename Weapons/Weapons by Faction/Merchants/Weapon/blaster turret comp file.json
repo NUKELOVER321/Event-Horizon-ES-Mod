@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 4022,
   "Name": "Blaster Turret",
+  "Description": "The generic blaster, now on a turret.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

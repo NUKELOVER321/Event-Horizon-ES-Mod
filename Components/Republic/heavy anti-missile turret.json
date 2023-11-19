@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1082,
   "Name": "Heavy Anti-Missile Turret",
+  "Description": "A more powerful anti-missile turret used primarily by the Republic of Earth.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 3,

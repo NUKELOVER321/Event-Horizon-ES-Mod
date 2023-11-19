@@ -1,0 +1,5 @@
+# game database editor files
+*.dll
+GameDatabase.exe
+# shortcut to EH
+*.lnk

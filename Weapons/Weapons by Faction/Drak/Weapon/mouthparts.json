@@ -1,0 +1,20 @@
+{
+  "ItemType": 1,
+  "Id": 1337,
+  "Name": "Mouthparts",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Level": 1000,
+  "Icon": "mouthparts.png",
+  "Layout": "1111",
+  "CellType": "4",
+  "WeaponId": 1337,
+  "AmmunitionId": 1337,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

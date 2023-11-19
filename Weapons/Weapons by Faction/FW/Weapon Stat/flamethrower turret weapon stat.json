@@ -1,0 +1,11 @@
+{
+  "ItemType": 3,
+  "Id": 2055,
+  "WeaponClass": 3,
+  "FireRate": 0.5,
+  "Spread": 5.0,
+  "Magazine": 100,
+  "ActivationType": 1,
+  "ShotSound": "flamethrower~",
+  "ControlButtonIcon": "flame icon.png"
+}

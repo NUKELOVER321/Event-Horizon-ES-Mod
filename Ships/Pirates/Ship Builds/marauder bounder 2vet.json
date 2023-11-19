@@ -3,6 +3,7 @@
   "Id": 1078,
   "ShipId": 326,
   "DifficultyClass": 2,
+  "BuildFaction": 202,
   "Components": [
     {
       "ComponentId": 1043,
@@ -139,11 +140,6 @@
       "BarrelId": 1
     },
     {
-      "ComponentId": 2024,
-      "Locked": true,
-      "X": 7
-    },
-    {
       "ComponentId": 69,
       "Locked": true,
       "X": 5,
@@ -157,6 +153,12 @@
       "X": 10,
       "Y": 9,
       "BarrelId": -1,
+      "KeyBinding": 1
+    },
+    {
+      "ComponentId": 2025,
+      "Locked": true,
+      "X": 7,
       "KeyBinding": 1
     }
   ]

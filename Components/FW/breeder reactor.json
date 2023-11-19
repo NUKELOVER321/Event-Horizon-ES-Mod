@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1053,
   "Name": "Breeder Reactor",
+  "Description": "A nuclear reactor that generates its own fuel and a steady flow of power.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1053,

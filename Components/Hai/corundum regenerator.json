@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1093,
   "Name": "Corundum Regenerator",
+  "Description": "A small Hai shield generator that looks a lot like the Syndicate S-270.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1093,

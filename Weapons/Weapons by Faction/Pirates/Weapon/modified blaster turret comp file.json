@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1023,
   "Name": "Modified Blaster Turret",
+  "Description": "A redneck engineered blaster on a turret.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

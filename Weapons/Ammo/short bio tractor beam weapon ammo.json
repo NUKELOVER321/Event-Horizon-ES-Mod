@@ -1,0 +1,14 @@
+{
+  "ItemType": 4,
+  "Id": 1343,
+  "AmmunitionClass": 21,
+  "DamageType": 3,
+  "Size": 1.0,
+  "Damage": 1.0,
+  "Range": 3.5,
+  "LifeTime": 0.05,
+  "EnergyCost": 1.0,
+  "Color": "#A0A0A0",
+  "FireSound": "*flux_06",
+  "BulletPrefab": "TractorBeam"
+}

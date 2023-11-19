@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1315,
   "Name": "Extra Large Interference Plating",
+  "Description": "The largest jack of all trades resistance armor that can be found.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1315,

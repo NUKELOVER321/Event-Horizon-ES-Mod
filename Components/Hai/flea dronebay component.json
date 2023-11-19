@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 3008,
   "Name": "Flea",
+  "Description": "A tiny and annoying Hai drone.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3008,

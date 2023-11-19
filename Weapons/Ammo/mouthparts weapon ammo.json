@@ -1,0 +1,40 @@
+{
+  "ItemType": 25,
+  "Id": 1337,
+  "Body": {
+    "Size": 2.0,
+    "Velocity": 10.0,
+    "Range": 1.0,
+    "Weight": 0.1,
+    "EnergyCost": 3.5
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1337,
+      "AudioClip": "crunch",
+      "Color": "#00000000"
+    },
+    {
+      "Condition": 3,
+      "EffectType": 2,
+      "Ammunition": 2337,
+      "Color": "#00000000",
+      "Quantity": 1
+    }
+  ],
+  "Effects": [
+    {
+      "Type": 2,
+      "DamageType": 3,
+      "Power": 0.002
+    },
+    {
+      "Type": 4,
+      "DamageType": 3,
+      "Power": 6.0,
+      "Factor": 1.0
+    }
+  ]
+}

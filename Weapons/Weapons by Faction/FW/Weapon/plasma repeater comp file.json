@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1084,
   "Name": "Plasma Repeater",
+  "Description": "A sidegrade to the Plasma Cannon that trades damage per shot for more shots per second.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

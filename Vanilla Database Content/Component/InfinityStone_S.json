@@ -12,12 +12,6 @@
   "CellType": "2",
   "DeviceId": 23,
   "Restrictions": {
-    "ShipSizes": [
-      0,
-      1,
-      2,
-      3
-    ],
     "UniqueComponentTag": "safeguard"
   },
   "PossibleModifications": [

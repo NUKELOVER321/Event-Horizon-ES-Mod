@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1077,
   "Name": "Cooling Ducts",
+  "Description": "A small heat dispersal device that slightly reduces cooldown delay.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 1077,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1312,
   "Name": "Small Interference Plating",
+  "Description": "A jack of all trades resistance armor in small size.",
   "DisplayCategory": 2,
   "Availability": 2,
   "ComponentStatsId": 1312,

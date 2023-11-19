@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1101,
   "Name": "Railgun",
+  "Description": "A pestering weapon that shoots quickly but doesn't hurt much. Good for interrupting energy regen.",
   "DisplayCategory": 1,
   "Availability": 2,
   "ComponentStatsId": 1,

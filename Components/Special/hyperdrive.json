@@ -1,0 +1,19 @@
+{
+  "ItemType": 1,
+  "Id": 7002,
+  "Name": "Hyperdrive",
+  "DisplayCategory": 6,
+  "Availability": 2,
+  "ComponentStatsId": 3,
+  "Icon": "hyperdrive.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "DeviceId": 7002,
+  "Restrictions": {
+    "UniqueComponentTag": "teleporter"
+  },
+  "PossibleModifications": [
+    2,
+    6
+  ]
+}

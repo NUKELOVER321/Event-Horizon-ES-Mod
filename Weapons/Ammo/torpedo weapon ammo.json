@@ -4,7 +4,7 @@
   "Body": {
     "Type": 1,
     "Size": 1.0,
-    "Velocity": 7.0,
+    "Velocity": 14.0,
     "Range": 360.0,
     "Weight": 0.2,
     "HitPoints": 30,
@@ -38,11 +38,11 @@
     },
     {
       "Condition": 1,
-      "EffectType": 2,
-      "Ammunition": 3035,
+      "EffectType": 1,
+      "VisualEffect": 2035,
       "Color": "#00000000",
-      "Quantity": 1,
-      "Size": 1.0
+      "Size": 3.0,
+      "Lifetime": 1.0
     }
   ],
   "Effects": [

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1075,
   "Name": "Fusion Reactor",
+  "Description": "A generic fusion reactor running on deuterium and tritium.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1075,

@@ -1,0 +1,8 @@
+{
+  "ItemType": 3,
+  "Id": 1337,
+  "FireRate": 1.03,
+  "ActivationType": 1,
+  "ShotEffectPrefab": "FlashAdditive",
+  "ControlButtonIcon": "mouthparts.png"
+}

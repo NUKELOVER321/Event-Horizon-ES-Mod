@@ -1,0 +1,9 @@
+{
+  "ItemType": 3,
+  "Id": 1338,
+  "WeaponClass": 2,
+  "ActivationType": 1,
+  "ShotSound": "*heliarch attractor~",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "controls_laser"
+}

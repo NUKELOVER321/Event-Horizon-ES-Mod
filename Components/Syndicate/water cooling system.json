@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1078,
   "Name": "Water Cooling System",
+  "Description": "This device pumps heat from inside the ship to external radiators to reduce cooldown delay.",
   "DisplayCategory": 6,
   "Availability": 1,
   "ComponentStatsId": 1078,

@@ -3,6 +3,7 @@
   "Id": 1144,
   "ShipId": 348,
   "DifficultyClass": 2,
+  "BuildFaction": 205,
   "Components": [
     {
       "ComponentId": 1064,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1054,
   "Name": "Stack Core",
+  "Description": "A mass of nuclear reactors that burns hot and generates lots of power.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1054,

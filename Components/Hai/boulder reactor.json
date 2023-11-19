@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1092,
   "Name": "Boulder Reactor",
+  "Description": "A large Hai fusion reactor that is slightly more efficient than its human counterpart.",
   "DisplayCategory": 3,
   "Availability": 2,
   "ComponentStatsId": 1092,

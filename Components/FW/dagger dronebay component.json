@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 3002,
   "Name": "Dagger",
+  "Description": "A compact drone that runs fast and hits reasonably well.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3002,

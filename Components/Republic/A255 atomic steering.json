@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1063,
   "Name": "A255 Atomic Steering",
+  "Description": "Small but still powerful atomic turners that pack a heavy punch.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1063,

@@ -1,24 +1,14 @@
 {
-  "ItemType": 25,
+  "ItemType": 4,
   "Id": 1055,
-  "Body": {
-    "Size": 7.5,
-    "Velocity": 10.0,
-    "Range": 20.0,
-    "BulletPrefab": 1055,
-    "EnergyCost": 1.0
-  },
-  "Triggers": [
-    {
-      "Condition": 3,
-      "EffectType": 1
-    }
-  ],
-  "ImpactType": 1,
-  "Effects": [
-    {
-      "DamageType": 2,
-      "Power": 2.5
-    }
-  ]
+  "AmmunitionClass": 5,
+  "DamageType": 2,
+  "Size": 2.5,
+  "Damage": 5.0,
+  "Range": 10.0,
+  "Velocity": 10.0,
+  "LifeTime": 1.0,
+  "EnergyCost": 1.0,
+  "Color": "#80FFE2BA",
+  "BulletPrefab": "Flame"
 }

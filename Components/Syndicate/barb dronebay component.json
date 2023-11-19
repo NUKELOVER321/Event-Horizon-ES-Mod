@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 3001,
   "Name": "Barb",
+  "Description": "A large and unwieldy fighter that can still cause trouble.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3001,

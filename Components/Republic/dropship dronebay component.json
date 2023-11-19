@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 3006,
   "Name": "Dropship",
+  "Description": "A troop carrier repurposed for attacking other ships.",
   "DisplayCategory": 5,
   "Availability": 2,
   "ComponentStatsId": 3006,

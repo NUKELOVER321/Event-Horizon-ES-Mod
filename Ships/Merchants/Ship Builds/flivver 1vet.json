@@ -3,6 +3,7 @@
   "Id": 1017,
   "ShipId": 306,
   "DifficultyClass": 1,
+  "BuildFaction": 201,
   "Components": [
     {
       "ComponentId": 11,
@@ -129,7 +130,7 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 2022,
+      "ComponentId": 1296,
       "Locked": true,
       "X": 6,
       "Y": 7

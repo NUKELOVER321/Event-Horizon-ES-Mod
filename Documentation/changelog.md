@@ -656,17 +656,89 @@ Changelog:
   - Increased the image quality of Stack Core, Quantum Shield Generator, Heliarch Overclocked Shields, Large Co-generator, and S-970 Regenerator
     - Images sourced from Endless Sky High DPI
 
+### 0.15.3 "Watchful Gravetender" update
+
+Changelog:
+- Changes
+  - Major Changes
+    - **Reworked the Drak faction**
+      - Added a number of living organism ships to the Drak faction
+      - Changed abandoned station faction to Drak
+    - Added descriptions to a large number of outfits
+      - Descriptions are visible to players using EH:CE or Inverse Mod
+  - Component Changes
+    - Fixed the missing autopilot feature on the Control Transceiver and Reasoning Node
+    - Made the Flamethrower work (at last)
+  - Ship Changes
+    - Added the Auxiliary (H) and Auxiliary (T) to the Republic of Earth
+    - Buffed the 2vet Raven (laser beams -> heavy laser beams)
+    - Nerfed the 2vet Flivver (reduced health, sidewinder pod -> laser beam)
+    - Nerfed the 2vet Modified Argosy (reduced health)
+    - Buffed the 1vet Marauder Fury (blaster -> mod blaster)
+    - Buffed the 2vet Marauder Fury (javelin pods -> heavy lasers)
+    - Buffed the 2vet Marauder Bounder (replaced 1 laser beam with heavy laser beam)
+    - Buffed the 1vet and 2vet Corvette (equipped with javelin and barrage turrets)
+    - Buffed the Rainmaker (+2 engine slots)
+    - Remade the 1vet and 2vet Rainmaker (equipped with javelin and barrage turrets)
+    - Remade the 1vet and 2vet Freighter (removed anti-missile, added shields to 2vet)
+    - Remade the 1vet Dreadnought (heavy lasers -> plasma turrets)
+    - Buffed the Mule (larger cell grid)
+  - Added researchable variants of the Republic of Earth Navy Auxiliary
+  - Tech Changes
+    - Moved human shield tech to Merchants tech tree
+    - Reduced cost of Auxiliary (all variants) from 60 to 40
+    - Moved Interference Plating to Marauder Pirates tech tree
+  - Other Changes
+    - Decreased Korath Piercer projectile weight (0.15 -> 0.1)
+    - Increased velocity of Torpedo, Typhoon Torpedo, EMP Torpedo, EMP Deployer, Teciimach Torpedo, Javelin Rocket, Firestorm Missile by 100%
+    - Increased velocity of Finisher Torpedo by 50%
+    - Increased energy cost of Javelin rockets by 100%
+    - Increased energy cost of gatling gun bullets by 25%
+    - Increased velocity of Ion Hail and Ion Rain projectiles by 33%
+
 ### Planned changes:
+- Adjust the blast radii of various explosive weapons
+- Resize the ship sizes (using Shuttle, Sparrow, Star Barge image dims as a 1.0 size baseline)
+  - Baseline image size is 80x80
+- Balance changes
+  - Make the 2vet Corvette and 2vet Rainmaker not run away while spitting out torpedoes
+  - Make torpedoes in general faster
+  - Fix an issue with the freighter being able to anti-missile everything
+  - Either buff the Mule or make it swap places with Firebird
+  - Make the Haulers less capable of going fast
+  - Make Javelin missiles go faster
+  - Give starbases a torpedo launcher slot at the center
+- Create 3vet Merchants builds to be used in Pirates
+- Create Syndicate Extremists faction to contain the regenerators and nuclear missile
 - **Remake the Drak**
   - Give the Drak their Antimatter Cannons, Repulsor Fields, and other such weapons
-  - Give the Drak the Ember Host space organisms as lesser ships
+  - Give the Drak the Ember Waste space organisms as lesser ships
+    - Ember Waste Node
+    - Embershade
+    - Embersylph
+    - Void Sprites
+    - Vyrmeids
+    - Astral Cetacean
+  - Give the space organisms:
+    - mouthparts/jaws type weapons
+    - short range tractor beams to simulate biting on
+    - (super)stealth (so they cam get up close and personal safely)
+    - mine launchers that shoot out bioroids
+    - cloning devices that let them spawn several copies to attack at once
+      - devices are ready to use immediately
+      - devices are restricted to certain ship types
+      - device size scales with restricted ship class
+        - battleship cloners are larger than frigate cloners, for example
+        - no capital cloners
   - Make the Drak the abandoned stations faction
 - **Add the new aliens**
-  - Bunrodea? Gegno?
-- **Add the unused Vyu-ira as an encounter**
+  - Bunrodea
+  - Gegno (all 3 subfactions at once)
+  - Mega Freignt ships (as random quest fleet encounters)
+  - Vyu-ira and other misc alien ships
+  - Decompression of the faction light year requirement list
+- Rebalance human engines based on most recent engines stat
 - Rename Korath Exiles ships to reflect their new names
-- Add Bombardment Cannon to Coalition builds
-- Add Piercer Launcher to Sestor builds
 - Make most or all components Common instead of Rare so they are sold in faction shops
   - Alternatively: undo the special -> rare change for some factions
 - Incorporate scanners as drone and missile capturer weapons

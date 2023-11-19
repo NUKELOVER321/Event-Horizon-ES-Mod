@@ -2,7 +2,7 @@
   "ItemType": 1,
   "Id": 1033,
   "Name": "Dwarf Core",
-  "Description": "Filler",
+  "Description": "A miniaturized nuclear reactor designed to be crammed into whatever free space your ship has.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1033,

@@ -2,26 +2,27 @@
 
 Faction distances
 
-Faction | Min distance to appear
---- | ---
-Merchant Alliance | 0
-Pirates | 50
-Syndicated Systems | 100
-Confederation of Free Worlds | 150
-Marauder Pirates | 175
-Republic of Earth | 200
-Hai | 250
-Trisolar Coalition | 250
-Remnants | 300
-Korath Exiles | 300
-Wanderers | 350
-Ka'het | 350
-Kaltheim | 375
-Korath Mereti | 400
-Korath Sestor | 400
-Heliarchs Security Forces | 450
-Quarg | 500
-Pug | 500
+Faction | Min distance to appear | ID
+--- | --- | ---
+Merchant Alliance | 0 | 201
+Pirates | 50 | 202
+Syndicated Systems | 100 | 203
+Confederation of Free Worlds | 150 | 204
+Marauder Pirates | 175 | 219
+Republic of Earth | 200 | 205
+Hai | 250 | 206
+Trisolar Coalition | 250 | 218
+Remnants | 300 | 207
+Korath Exiles | 300 | 209
+Wanderers | 350 | 211
+Ka'het | 350 | 210
+Kaltheim | 375 | 220
+Korath Mereti | 400 | 212
+Korath Sestor | 400 | 213
+Heliarchs Security Forces | 450 | 208
+Quarg | 500 | 214
+Pug | 500 | 216
+Drak | 750 | 215
 
 Special ships and encounter distances
 
@@ -51,7 +52,6 @@ Kestrel | 1001 | 10001
 Star Fortress | 2000 | 20000
 Heron | 3000 | 30000
 Emerald Sword | 4000 | 40000
-Gatekeeper Archon | 5000 | 50000
 Modified Boxwing | 5001 | 5001
 Modified Vanguard | 5003 | 5003
 Marauder Bactrian | 5004 | 5004
@@ -115,8 +115,8 @@ Non-weapon stats | Conversion
 --- | ---
 Battery energy storage | (Energy / space) * 10 (and * 2 for Syscores and Sun Reactors)
 Reactor energy output | Power output / space 
-Engine thrust |
-Engine steering |
+Engine thrust | (Thrust / size) / (ion engine thrust / size)
+Engine steering | (Steering / size) / (ion engine thrust / size)
 Module heat production | Heat / size / 250
 Module cooling | Cooling / size / 500 (or / 250 for active cooling)
 Active cooling energy cost | Energy / size / 2.5
@@ -128,10 +128,28 @@ Hull regeneration | Regen / size
 Determining stats:
 
 == Engines ==   
-Ion Engines serve as a baseline.   
-For every engine other than Ionics, divide its thrust/steering power by its size.   
-Then divide this value by the corresponding value on the corresponding Ion engine.   
-This new value determines the multiplier for that specific engine.   
+Ion Engines have arbitrarily determined stats and serve as a baseline.   
+For every engine other than Ionics:   
+1: Calculate its thrust/turn per unit of outfit space.  
+2: Calculate the thrust/turn per unit of the corresponding ion engine (e.g. A860/865 -> X5200/5700).
+3: Divide the result of Step 1 by Step 2.   
+4: Multiply the value of Step 3 by the in-mod arbitrary stats of the corresponding ion engine.
+
+NOTE: Due to changes to the ion engine stats in base ES, it is important to use the values provided below (sourced from the Endless Sky GitHub repo before 16 April 2022) for the above calculations. These values will be obsoleted in a future update that adjusts all engines to match these changes.
+
+Engine | Thrust | Turn | Outfit space
+--- | --- | --- | ---
+X1050 | 14400 | 6600 | 20
+X1700 | 21600 | - | 16
+X2700 | 41400| - | 27
+X3700 | 79560 | - | 46
+X4700 | 153000 | - | 79
+X5700 | 293400 | - | 134
+X1200 | - | 9600 | 12
+X2200 | - | 12420 | 20
+X3200 | - | 35400 | 35 
+X4200 | - | 67920 | 59
+X5200 | - | 130440 | 100
 
 Calculating engine power consumption:   
 calculate power per unit of outfit space for desired single or pair of engine(s).   
@@ -139,7 +157,7 @@ calculate power per unit of corresponding ion engine. divide former by latter.
 multiply value by power consumption of ion engine.   
 
 For referencing values directly from the data files:   
-Multiply turn by 60 and thrust by 3600.   
+Multiply turn by 3600 and thrust by 60.   
 Multiply energy consumption and cooling by 60.   
 Multiply shield generation by 60.   
 
@@ -320,7 +338,7 @@ Plasma Turret | 1051 (gun 2051)
 Fission Reactor | 1052
 Breeder Reactor | 1053
 Stack Core | 1054
-Flamethrower | 1055
+Flamethrower | 1055 (turret 2055)
 D14-RN | 1056
 D23-QP | 1057
 D41-HY | 1058
@@ -339,7 +357,9 @@ Gunboat | 347 | 1139-1141
 Frigate | 348 | 1142-1144
 Cruiser | 349 | 1145-1147
 Carrier | 350 | 1148-1150
-Auxiliary | 351 | 1151-1153
+Auxiliary C | 351 | 1151-1153
+Auxiliary H | 3511 | 11511-11513
+Auxiliary T | 3512 | 11514-11516
 Lance | 3005
 Dropship | 3006
 Combat Drone | 3007
@@ -748,7 +768,11 @@ Quad Plasma Core | 1232
 Reality Vector Engines | 1196
 Dead Ringer | 5000
 Nuke on a Cart | 6000
+Organ Bomb | 6001
 Jump Drive | 7000
+Organ Drive | 7001
+Hyperdrive | 7002
+Scram Drive | 7003
 Shooting Star explosion device | 8000
 Cloaking Device | 9000
 
@@ -782,6 +806,42 @@ Zambor Stats | 1281
 Zalgi | 3026
 Zalgi Stats | 1282
 
+Drak
+Item Name | Item ID | Build IDs (if applicable)
+--- | --- | ---
+Void Sprite | 462 | 1476-1478
+Void Sprite Infant | 463 | 1479-1481
+Embershade | 464 | 1482-1484
+Astral Cetacean | 465 | 1485-1487
+Ember Waste Node | 454 | 1488-1490
+Jje | 455 | 1491-1493
+Ayym | 456 | 1494-1496
+Embersylph | 457 | 1497-1499
+Embersylph 2 | 458 | 1500-1502
+Squid | 459 | 1503-1505
+Boomerang | 460 | 1506-1508
+Plankton | 461 | 1509-1511
+Archon | 5000 | 50000
+Antimatter Cannon | 1349
+AM Field | 1350
+Distancer | 1334
+Draining Field | 1335
+Drak Turret | 1336
+Mouthparts | 1337 (big version 2337)
+Bio-tractor-beam | 1338
+Bioroid Mine Launcher | 1339 (gun 2339)
+Absorption Organ | 1340
+Antimatter Thruster | 1341
+Antimatter Steering | 1342
+Short Bio-tractor-beam | 1343
+Siphon Ray | 1344 (gun 2344)
+Acid Sprayer | 1345
+Drak Acid Cloud | 1346
+Plankton Siphon Beam | 1347
+Astral Cetacean Beam | 1348
+
+Squid, Boomerang, Plankton, Jje -> Embersylph -> Void Sprite Infant, Embershade -> Void Sprite -> Ayym -> Astral Cetacean -> Ember Waste Node -> Archon
+
 Sheragi
 
 Item Name | Item ID | Build IDs (if applicable)
@@ -814,9 +874,9 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1323
-Ship | 450
-Build | 1476
+Component | 1340
+Ship | 466
+Build | 1512
 Drone | 3031
 Quest | 1049
 
@@ -830,3 +890,8 @@ Heaver | -50% fire rate, energy cost = firing energy + firing fuel
 Point defenses | 10x energy cost
 Detainer, Inhibitor | (Pending)
 Bombardment, Thrasher, Thunderhead | +100% projectile speed
+Torpedo, Typhoon Torpedo, EMP Torpedo, EMP Deployer, Teciimach Torpedo, Javelin Rocket, Firestorm Missile | +100% projectile speed
+Finisher Torpedo | +50% projectile speed
+Ion Hail, Ion Rain | +33% speed
+Javelin Rocket | +100% energy cost
+Korath Piercer Missile | -33% projectile mass

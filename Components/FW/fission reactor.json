@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1052,
   "Name": "Fission Reactor",
+  "Description": "A generic but reliable reactor that runs on uranium.",
   "DisplayCategory": 3,
   "Availability": 1,
   "ComponentStatsId": 1052,

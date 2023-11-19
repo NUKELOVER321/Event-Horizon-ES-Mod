@@ -1,0 +1,21 @@
+{
+  "ItemType": 1,
+  "Id": 1335,
+  "Name": "Draining Field",
+  "DisplayCategory": 1,
+  "Availability": 3,
+  "ComponentStatsId": 1,
+  "Faction": 215,
+  "Level": 1000,
+  "Icon": "unknown.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1335,
+  "AmmunitionId": 1335,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

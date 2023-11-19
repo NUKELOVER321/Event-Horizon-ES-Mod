@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1096,
   "Name": "Bullfrog Anti-Missile",
+  "Description": "A small Hai anti-missile turret.",
   "DisplayCategory": 6,
   "Availability": 2,
   "ComponentStatsId": 3,

@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 2029,
   "Name": "Gatling Turret",
+  "Description": "Three gatling guns on a turret. Fill the sky with bullets.",
   "DisplayCategory": 1,
   "Availability": 1,
   "ComponentStatsId": 1,

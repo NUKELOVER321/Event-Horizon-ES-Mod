@@ -3,6 +3,7 @@
   "Id": 1081,
   "ShipId": 327,
   "DifficultyClass": 2,
+  "BuildFaction": 202,
   "Components": [
     {
       "ComponentId": 1007,
@@ -29,16 +30,6 @@
       "Locked": true,
       "X": 7,
       "Y": 11,
-      "BarrelId": -1,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 10,
-      "Modification": 3,
-      "Quality": 5,
-      "Locked": true,
-      "X": 7,
-      "Y": 1,
       "BarrelId": -1,
       "KeyBinding": 1
     },
@@ -122,6 +113,21 @@
       "Locked": true,
       "X": 5,
       "Y": 13,
+      "BarrelId": -1,
+      "KeyBinding": 2
+    },
+    {
+      "ComponentId": 10,
+      "Locked": true,
+      "X": 7,
+      "Y": 1,
+      "BarrelId": -1,
+      "KeyBinding": 2
+    },
+    {
+      "ComponentId": 12,
+      "Locked": true,
+      "X": 8,
       "BarrelId": -1,
       "KeyBinding": 2
     }

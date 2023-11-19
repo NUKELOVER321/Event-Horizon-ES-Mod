@@ -3,12 +3,12 @@
   "Id": 1028,
   "Body": {
     "Size": 1.0,
-    "Velocity": 10.0,
+    "Velocity": 20.0,
     "Range": 60.0,
     "Weight": 0.1,
     "HitPoints": 3,
     "BulletPrefab": 1028,
-    "EnergyCost": 0.2,
+    "EnergyCost": 0.4,
     "CanBeDisarmed": true
   },
   "Triggers": [
@@ -34,6 +34,13 @@
       "Ammunition": 5028,
       "Color": "#00000000",
       "Quantity": 1,
+      "Size": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "VisualEffect": 201,
+      "Color": "#00000000",
       "Size": 1.0
     }
   ],

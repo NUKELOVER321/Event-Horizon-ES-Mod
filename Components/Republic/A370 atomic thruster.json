@@ -2,6 +2,7 @@
   "ItemType": 1,
   "Id": 1064,
   "Name": "A370 Atomic Thruster",
+  "Description": "Medium atomic thrusters that push much harder than plasma engines of a comparable size.",
   "DisplayCategory": 4,
   "Availability": 1,
   "ComponentStatsId": 1064,

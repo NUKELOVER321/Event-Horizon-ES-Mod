@@ -1,0 +1,10 @@
+{
+  "ItemType": 27,
+  "Id": 3339,
+  "Shape": 6,
+  "Image": "bioroid.png",
+  "Size": 1.0,
+  "Margins": 0.7,
+  "SecondColor": "#FFCF32",
+  "SecondColorMode": 1
+}

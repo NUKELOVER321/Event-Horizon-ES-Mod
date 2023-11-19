@@ -1,0 +1,14 @@
+{
+  "ItemType": 4,
+  "Id": 1345,
+  "AmmunitionClass": 1,
+  "DamageType": 3,
+  "Size": 2.5,
+  "Damage": 10.0,
+  "Range": 7.5,
+  "Velocity": 7.5,
+  "LifeTime": 1.0,
+  "EnergyCost": 1.0,
+  "Color": "#C0DBFF00",
+  "BulletPrefab": "Cloud"
+}
