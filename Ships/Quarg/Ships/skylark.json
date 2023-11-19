@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 421,
-  "ShipCategory": 1,
+  "SizeClass": 1,
   "Name": "Skylark",
   "Faction": 214,
-  "SizeClass": 1,
   "IconImage": "skylark icon.png",
   "IconScale": 1.0,
   "ModelImage": "skylark.png",
   "ModelScale": 4.0,
-  "EnginePosition": {
-    "x": -0.8,
-    "y": 0.1
-  },
   "EngineColor": "#B200FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -49,5 +43,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8,
+    "y": 0.1
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 1
 }

@@ -7,11 +7,7 @@
   "IconScale": 0.5,
   "ModelImage": "flivver.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.5
-  },
   "EngineColor": "#00BFFF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -36,5 +32,9 @@
       },
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.5
+  },
+  "EngineSize": 0.1
 }

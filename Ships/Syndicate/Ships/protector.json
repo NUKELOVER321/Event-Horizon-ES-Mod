@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 336,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Protector",
   "Faction": 203,
-  "SizeClass": 4,
   "IconImage": "protector icon.png",
   "IconScale": 1.0,
   "ModelImage": "protector.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#009BFF",
   "Engines": [
     {
@@ -90,5 +86,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 2
 }

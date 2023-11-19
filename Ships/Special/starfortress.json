@@ -1,9 +1,8 @@
 {
   "ItemType": 6,
   "Id": 2000,
-  "ShipCategory": 3,
-  "Name": "Starbase",
   "SizeClass": 4,
+  "Name": "Starbase",
   "IconImage": "starfortress.png",
   "IconScale": 3.0,
   "ModelImage": "starfortress.png",
@@ -136,5 +135,6 @@
       "Rotation": 180.0,
       "PlatformType": 2
     }
-  ]
+  ],
+  "ShipCategory": 3
 }

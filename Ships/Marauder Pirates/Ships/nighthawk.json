@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 444,
+  "SizeClass": 1,
   "Name": "Nighthawk",
   "Faction": 219,
-  "SizeClass": 1,
   "IconImage": "nighthawk icon.png",
   "IconScale": 1.0,
   "ModelImage": "nighthawk.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -53,5 +50,8 @@
       "PlatformType": 2,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

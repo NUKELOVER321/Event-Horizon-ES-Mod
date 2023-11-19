@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 440,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Marauder Splinter",
   "Faction": 219,
-  "SizeClass": 3,
   "IconImage": "marauder splinter icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder splinter.png",
   "ModelScale": 4.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -86,5 +82,9 @@
       "PlatformType": 2,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 1
 }

@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 376,
+  "SizeClass": 1,
   "Name": "Kimek Briar",
   "Faction": 218,
-  "SizeClass": 1,
   "IconImage": "kimek briar icon.png",
   "IconScale": 1.0,
   "ModelImage": "kimek briar.png",
   "ModelScale": 3.5,
-  "EnginePosition": {
-    "x": -1.0
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -45,5 +41,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -1.0
+  },
+  "EngineSize": 0.1
 }

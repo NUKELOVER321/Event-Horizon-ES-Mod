@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 409,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Tek Far 109",
   "Faction": 213,
-  "SizeClass": 3,
   "IconImage": "tf 109 icon.png",
   "IconScale": 1.0,
   "ModelImage": "tf 109.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -0.95,
-    "y": 0.05
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -65,5 +59,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.95,
+    "y": 0.05
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 1
 }

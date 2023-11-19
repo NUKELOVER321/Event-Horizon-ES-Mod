@@ -7,9 +7,6 @@
   "IconScale": 1.0,
   "ModelImage": "earth shaper.png",
   "ModelScale": 2.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -36,5 +33,8 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

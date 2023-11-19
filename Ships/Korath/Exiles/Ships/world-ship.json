@@ -1,19 +1,14 @@
 {
   "ItemType": 6,
   "Id": 391,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Worldship",
   "Faction": 209,
-  "SizeClass": 4,
   "IconImage": "worldship icon.png",
   "IconScale": 1.0,
   "ModelImage": "worldship.png",
   "ModelScale": 15.0,
-  "EnginePosition": {
-    "x": -0.96
-  },
   "EngineColor": "#FFA100",
-  "EngineSize": 0.25,
   "Engines": [
     {
       "Position": {
@@ -110,5 +105,10 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.96
+  },
+  "EngineSize": 0.25,
+  "ShipCategory": 2
 }

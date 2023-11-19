@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 442,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Marauder Falcon",
   "Faction": 219,
-  "SizeClass": 4,
   "IconImage": "marauder falcon icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder falcon.png",
   "ModelScale": 5.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -109,5 +105,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 2
 }

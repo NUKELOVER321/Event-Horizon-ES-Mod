@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 360,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Shield Beetle",
   "Faction": 206,
-  "SizeClass": 4,
   "IconImage": "shield beetle icon.png",
   "IconScale": 1.0,
   "ModelImage": "shield beetle.png",
   "ModelScale": 5.25,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#0094FF",
   "Engines": [
     {
@@ -125,5 +121,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 2
 }

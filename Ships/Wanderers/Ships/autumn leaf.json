@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 400,
+  "SizeClass": 1,
   "Name": "Autumn Leaf",
   "Faction": 211,
-  "SizeClass": 1,
   "IconImage": "autumn leaf icon.png",
   "IconScale": 1.0,
   "ModelImage": "autumn leaf.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -53,5 +50,8 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

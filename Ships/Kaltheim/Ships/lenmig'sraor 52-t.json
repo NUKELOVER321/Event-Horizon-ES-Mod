@@ -1,19 +1,14 @@
 {
   "ItemType": 6,
   "Id": 452,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Lenmig'sraor 52-T",
   "Faction": 220,
-  "SizeClass": 3,
   "IconImage": "Lenmig'sraor 52-T.png",
   "IconScale": 1.0,
   "ModelImage": "Lenmig'sraor 52-T.png",
   "ModelScale": 5.25,
-  "EnginePosition": {
-    "x": -1.0
-  },
   "EngineColor": "#008888",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -101,5 +96,10 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -1.0
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 1
 }

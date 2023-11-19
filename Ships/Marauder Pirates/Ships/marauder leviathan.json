@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 441,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Marauder Leviathan",
   "Faction": 219,
-  "SizeClass": 4,
   "IconImage": "marauder leviathan icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder leviathan.png",
   "ModelScale": 6.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -95,5 +91,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 2
 }

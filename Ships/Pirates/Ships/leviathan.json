@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 353,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Leviathan",
   "Faction": 202,
-  "SizeClass": 4,
   "IconImage": "leviathan icon.png",
   "IconScale": 1.0,
   "ModelImage": "leviathan.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -79,5 +75,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 2
 }

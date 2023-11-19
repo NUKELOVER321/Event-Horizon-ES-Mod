@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 453,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Tyar'linhalf 67-G",
   "Faction": 220,
-  "SizeClass": 4,
   "IconImage": "Tyar'linhalf 67-G.png",
   "IconScale": 1.0,
   "ModelImage": "Tyar'linhalf 67-G.png",
   "ModelScale": 6.25,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#008888",
   "Engines": [
     {
@@ -116,5 +112,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "ShipCategory": 2
 }

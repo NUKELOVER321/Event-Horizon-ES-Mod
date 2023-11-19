@@ -1,10 +1,9 @@
 {
   "ItemType": 6,
   "Id": 2208,
-  "ShipCategory": 4,
+  "SizeClass": 4,
   "Name": "Starbase",
   "Faction": 208,
-  "SizeClass": 4,
   "IconImage": "coalition station.png",
   "IconScale": 1.0,
   "ModelImage": "coalition station.png",
@@ -52,5 +51,6 @@
       "Image": "heliarch repulsor turret sprite.png",
       "Size": 0.12
     }
-  ]
+  ],
+  "ShipCategory": 4
 }

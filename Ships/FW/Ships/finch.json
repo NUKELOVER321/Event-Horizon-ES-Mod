@@ -1,18 +1,13 @@
 {
   "ItemType": 6,
   "Id": 3003,
-  "ShipCategory": 6,
   "Name": "Finch",
   "Faction": 204,
   "IconImage": "Finch icon.png",
   "IconScale": 1.0,
   "ModelImage": "finch.png",
   "ModelScale": 0.8,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -38,5 +33,10 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 6
 }

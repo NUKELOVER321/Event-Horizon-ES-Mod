@@ -1,18 +1,13 @@
 {
   "ItemType": 6,
   "Id": 3014,
-  "ShipCategory": 6,
   "Name": "Stalker",
   "Faction": 208,
   "IconImage": "stalker icon.png",
   "IconScale": 1.0,
   "ModelImage": "stalker.png",
   "ModelScale": 0.9,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.1,
   "Layout": "0000222000000002220000000022200000011444110000014441000000144410000011111110000111111100001111111000011555110000000500000",
   "Barrels": [
     {
@@ -22,5 +17,10 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 6
 }

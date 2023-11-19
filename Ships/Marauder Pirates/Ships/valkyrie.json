@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 447,
+  "SizeClass": 1,
   "Name": "Valkyrie",
   "Faction": 219,
-  "SizeClass": 1,
   "IconImage": "valkyrie icon.png",
   "IconScale": 1.0,
   "ModelImage": "valkyrie.png",
   "ModelScale": 3.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -78,5 +75,8 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 5003,
-  "ShipCategory": 3,
+  "SizeClass": 3,
   "Name": "Modified Vanguard",
   "Faction": 203,
-  "SizeClass": 3,
   "IconImage": "vanguard icon.png",
   "IconScale": 1.0,
   "ModelImage": "pointedstick vanguard.png",
   "ModelScale": 5.5,
-  "EnginePosition": {
-    "x": -0.97,
-    "y": -0.25
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.4,
   "Engines": [
     {
       "Position": {
@@ -127,5 +121,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.97,
+    "y": -0.25
+  },
+  "EngineSize": 0.4,
+  "ShipCategory": 3
 }

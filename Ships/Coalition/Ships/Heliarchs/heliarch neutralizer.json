@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 384,
-  "ShipCategory": 1,
+  "SizeClass": 1,
   "Name": "Neutralizer",
   "Faction": 208,
-  "SizeClass": 1,
   "IconImage": "neutralizer icon.png",
   "IconScale": 1.0,
   "ModelImage": "neutralizer.png",
   "ModelScale": 3.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#4C00FF",
   "Engines": [
     {
@@ -63,5 +59,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 1
 }

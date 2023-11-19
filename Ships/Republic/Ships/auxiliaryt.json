@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 3512,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Auxiliary (T)",
   "Faction": 205,
-  "SizeClass": 4,
   "IconImage": "auxiliaryt icon.png",
   "IconScale": 1.0,
   "ModelImage": "auxiliaryt.png",
   "ModelScale": 6.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00B2FF",
   "Engines": [
     {
@@ -107,5 +103,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 2
 }

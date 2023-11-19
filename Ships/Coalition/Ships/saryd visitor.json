@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 380,
+  "SizeClass": 1,
   "Name": "Saryd Visitor",
   "Faction": 218,
-  "SizeClass": 1,
   "IconImage": "saryd visitor icon.png",
   "IconScale": 1.0,
   "ModelImage": "saryd visitor.png",
   "ModelScale": 3.5,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -47,5 +43,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.1
 }

@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 317,
+  "SizeClass": 1,
   "Name": "Scout",
   "Faction": 201,
-  "SizeClass": 1,
   "IconImage": "scout icon.png",
   "IconScale": 0.75,
   "ModelImage": "scout.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -44,5 +41,8 @@
       },
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

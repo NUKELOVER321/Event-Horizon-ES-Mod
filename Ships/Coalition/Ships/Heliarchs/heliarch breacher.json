@@ -1,19 +1,14 @@
 {
   "ItemType": 6,
   "Id": 383,
-  "ShipCategory": 1,
+  "SizeClass": 1,
   "Name": "Breacher",
   "Faction": 208,
-  "SizeClass": 1,
   "IconImage": "breacher icon.png",
   "IconScale": 1.0,
   "ModelImage": "breacher.png",
   "ModelScale": 3.5,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -52,5 +47,10 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 1
 }

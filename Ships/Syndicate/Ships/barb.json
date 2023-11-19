@@ -1,19 +1,13 @@
 {
   "ItemType": 6,
   "Id": 3001,
-  "ShipCategory": 6,
   "Name": "Barb",
   "Faction": 203,
   "IconImage": "barb icon.png",
   "IconScale": 1.0,
   "ModelImage": "barb.png",
   "ModelScale": 0.8,
-  "EnginePosition": {
-    "x": -0.9,
-    "y": 0.3
-  },
   "EngineColor": "#009BFF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -32,5 +26,11 @@
       },
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9,
+    "y": 0.3
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 6
 }

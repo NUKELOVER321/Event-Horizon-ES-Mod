@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 312,
+  "SizeClass": 1,
   "Name": "Freighter",
   "Faction": 201,
-  "SizeClass": 1,
   "IconImage": "freighter icon.png",
   "IconScale": 0.75,
   "ModelImage": "freighter.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -42,5 +39,8 @@
       },
       "PlatformType": 2
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

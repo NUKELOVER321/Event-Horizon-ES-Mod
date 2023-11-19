@@ -1,18 +1,13 @@
 {
   "ItemType": 6,
   "Id": 3027,
-  "ShipCategory": 6,
   "Name": "Screener",
   "Faction": 213,
   "IconImage": "screener icon.png",
   "IconScale": 1.0,
   "ModelImage": "screener.png",
   "ModelScale": 1.0,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFA100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -45,5 +40,10 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 6
 }

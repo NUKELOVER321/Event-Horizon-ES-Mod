@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 331,
+  "SizeClass": 2,
   "Name": "Corvette",
   "Faction": 203,
-  "SizeClass": 2,
   "IconImage": "corvette icon.png",
   "IconScale": 1.0,
   "ModelImage": "corvette.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#009BFF",
   "Engines": [
     {
@@ -46,5 +43,8 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  }
 }

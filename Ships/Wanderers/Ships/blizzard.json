@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 435,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Blizzard",
   "Faction": 211,
-  "SizeClass": 4,
   "IconImage": "blizzard.png",
   "IconScale": 1.0,
   "ModelImage": "blizzard.png",
   "ModelScale": 5.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -139,5 +135,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 2
 }

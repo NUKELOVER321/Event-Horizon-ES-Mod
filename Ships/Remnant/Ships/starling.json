@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 363,
+  "SizeClass": 1,
   "Name": "Starling",
   "Faction": 207,
-  "SizeClass": 1,
   "IconImage": "starling icon.png",
   "IconScale": 1.0,
   "ModelImage": "starling.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#3C2F6F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -26,10 +22,6 @@
         "y": 0.2
       }
     }
-  ],
-  "Regeneration": true,
-  "BuiltinDevices": [
-    14
   ],
   "Layout": "0000000220000000000004422440000000000442244000000000000220000000000004422440000000000442244000000000001221000000000000122100000000000012210000000000013223100000000011322311000000001132231100000000113223110000000001322310000000000155551000000000005555000000",
   "Barrels": [
@@ -70,5 +62,13 @@
         "x": -0.9
       }
     }
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.1,
+  "Regeneration": true,
+  "BuiltinDevices": [
+    14
   ]
 }

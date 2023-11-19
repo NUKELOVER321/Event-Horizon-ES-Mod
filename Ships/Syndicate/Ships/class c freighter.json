@@ -1,19 +1,14 @@
 {
   "ItemType": 6,
   "Id": 335,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Class C freighter",
   "Faction": 203,
-  "SizeClass": 4,
   "IconImage": "class c freighter icon.png",
   "IconScale": 1.0,
   "ModelImage": "class c freighter.png",
   "ModelScale": 7.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#009BFF",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -80,5 +75,10 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 2
 }

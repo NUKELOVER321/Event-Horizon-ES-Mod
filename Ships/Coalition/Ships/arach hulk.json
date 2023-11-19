@@ -1,19 +1,14 @@
 {
   "ItemType": 6,
   "Id": 374,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Arach Hulk",
   "Faction": 218,
-  "SizeClass": 4,
   "IconImage": "arach hulk icon.png",
   "IconScale": 1.0,
   "ModelImage": "arach hulk.png",
   "ModelScale": 6.5,
-  "EnginePosition": {
-    "x": -1.0
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -78,5 +73,10 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -1.0
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 2
 }

@@ -1,19 +1,14 @@
 {
   "ItemType": 6,
   "Id": 322,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Bulk Freighter",
   "Faction": 201,
-  "SizeClass": 4,
   "IconImage": "bulk freighter icon.png",
   "IconScale": 1.0,
   "ModelImage": "bulk freighter.png",
   "ModelScale": 8.0,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#00BFFF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -78,5 +73,10 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 2
 }

@@ -7,9 +7,6 @@
   "IconScale": 0.5,
   "ModelImage": "fury.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -57,5 +54,8 @@
       },
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

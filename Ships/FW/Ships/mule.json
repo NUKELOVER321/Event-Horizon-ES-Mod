@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 340,
+  "SizeClass": 2,
   "Name": "Mule",
   "Faction": 204,
-  "SizeClass": 2,
   "IconImage": "mule icon.png",
   "IconScale": 1.0,
   "ModelImage": "mule.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -52,5 +49,8 @@
       "PlatformType": 2,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

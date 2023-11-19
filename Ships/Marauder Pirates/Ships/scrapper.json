@@ -7,9 +7,6 @@
   "IconScale": 0.75,
   "ModelImage": "scrapper.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -35,5 +32,8 @@
       },
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

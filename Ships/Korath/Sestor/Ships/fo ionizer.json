@@ -1,16 +1,12 @@
 {
   "ItemType": 6,
   "Id": 3029,
-  "ShipCategory": 6,
   "Name": "Far Osk Ionizer",
   "Faction": 213,
   "IconImage": "fo ionizer icon.png",
   "IconScale": 1.0,
   "ModelImage": "fo ionizer.png",
   "ModelScale": 1.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFA100",
   "Engines": [
     {
@@ -46,5 +42,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 6
 }

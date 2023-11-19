@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 311,
+  "SizeClass": 1,
   "Name": "Argosy",
   "Faction": 201,
-  "SizeClass": 1,
   "IconImage": "argosy icon.png",
   "IconScale": 0.75,
   "ModelImage": "argosy.png",
   "ModelScale": 2.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -62,5 +59,8 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

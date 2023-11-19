@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 434,
+  "SizeClass": 2,
   "Name": "Courier",
   "Faction": 209,
-  "SizeClass": 2,
   "IconImage": "courier icon.png",
   "IconScale": 1.0,
   "ModelImage": "courier.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.4
-  },
   "EngineColor": "#FFA100",
   "Engines": [
     {
@@ -62,5 +59,8 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.4
+  }
 }

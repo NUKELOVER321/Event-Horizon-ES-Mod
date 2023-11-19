@@ -1,16 +1,12 @@
 {
   "ItemType": 6,
   "Id": 3006,
-  "ShipCategory": 6,
   "Name": "Combat Drone",
   "Faction": 205,
   "IconImage": "combat drone icon.png",
   "IconScale": 1.0,
   "ModelImage": "combat drone.png",
   "ModelScale": 0.6,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00B2FF",
   "Engines": [
     {
@@ -36,5 +32,9 @@
       },
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 6
 }

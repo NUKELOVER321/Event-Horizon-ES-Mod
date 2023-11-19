@@ -1,5 +1,6 @@
 {
   "ItemType": 101,
+  "DefaultStarbaseBuild": 192,
   "AbandonedStarbaseFaction": 215,
   "StartingShipBuilds": [
     1001,

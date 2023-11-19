@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 330,
+  "SizeClass": 1,
   "Name": "Quicksilver",
   "Faction": 203,
-  "SizeClass": 1,
   "IconImage": "quicksilver icon.png",
   "IconScale": 1.0,
   "ModelImage": "quicksilver.png",
   "ModelScale": 2.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#009BFF",
   "Engines": [
     {
@@ -46,5 +43,8 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

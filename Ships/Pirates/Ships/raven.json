@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 328,
+  "SizeClass": 1,
   "Name": "Raven",
   "Faction": 202,
-  "SizeClass": 1,
   "IconImage": "raven icon.png",
   "IconScale": 1.0,
   "ModelImage": "raven.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -36,5 +33,8 @@
       },
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

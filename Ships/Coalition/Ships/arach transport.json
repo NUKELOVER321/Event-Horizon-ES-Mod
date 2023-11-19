@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 371,
+  "SizeClass": 1,
   "Name": "Arach Transport",
   "Faction": 218,
-  "SizeClass": 1,
   "IconImage": "arach transport icon.png",
   "IconScale": 1.0,
   "ModelImage": "arach transport.png",
   "ModelScale": 3.5,
-  "EnginePosition": {
-    "x": -1.0
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -47,5 +43,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -1.0
+  },
+  "EngineSize": 0.1
 }

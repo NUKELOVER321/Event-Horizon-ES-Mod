@@ -7,9 +7,6 @@
   "IconScale": 0.5,
   "ModelImage": "star barge.png",
   "ModelScale": 1.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -32,5 +29,8 @@
     {
       "PlatformType": 2
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

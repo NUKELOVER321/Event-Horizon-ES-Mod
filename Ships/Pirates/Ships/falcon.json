@@ -1,19 +1,14 @@
 {
   "ItemType": 6,
   "Id": 352,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Falcon",
   "Faction": 202,
-  "SizeClass": 4,
   "IconImage": "falcon icon.png",
   "IconScale": 1.0,
   "ModelImage": "falcon.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -78,5 +73,10 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 2
 }

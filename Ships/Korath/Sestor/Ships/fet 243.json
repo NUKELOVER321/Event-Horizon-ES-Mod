@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 410,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Far Et Tek 243",
   "Faction": 213,
-  "SizeClass": 3,
   "IconImage": "fet 243 icon.png",
   "IconScale": 1.0,
   "ModelImage": "fet 243.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -0.9,
-    "y": 0.3
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -90,5 +84,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9,
+    "y": 0.3
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 1
 }

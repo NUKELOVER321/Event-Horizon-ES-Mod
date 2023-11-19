@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 315,
+  "SizeClass": 1,
   "Name": "Blackbird",
   "Faction": 201,
-  "SizeClass": 1,
   "IconImage": "blackbird icon.png",
   "IconScale": 0.75,
   "ModelImage": "blackbird.png",
   "ModelScale": 2.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -44,5 +41,8 @@
       },
       "PlatformType": 2
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

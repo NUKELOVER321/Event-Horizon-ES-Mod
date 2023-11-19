@@ -7,11 +7,7 @@
   "IconScale": 1.0,
   "ModelImage": "arach courier.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.4
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -46,5 +42,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.4
+  },
+  "EngineSize": 0.1
 }

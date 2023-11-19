@@ -7,11 +7,7 @@
   "IconScale": 0.75,
   "ModelImage": "arrow.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -34,5 +30,9 @@
       },
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineSize": 0.1
 }

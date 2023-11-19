@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 361,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Solifuge",
   "Faction": 206,
-  "SizeClass": 4,
   "IconImage": "solifuge icon.png",
   "IconScale": 1.0,
   "ModelImage": "solifuge.png",
   "ModelScale": 5.25,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#0094FF",
   "Engines": [
     {
@@ -95,5 +91,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 2
 }

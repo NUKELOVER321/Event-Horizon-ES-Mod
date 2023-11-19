@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 343,
+  "SizeClass": 2,
   "Name": "Roost",
   "Faction": 204,
-  "SizeClass": 2,
   "IconImage": "roost icon.png",
   "IconScale": 1.0,
   "ModelImage": "roost.png",
   "ModelScale": 4.5,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -63,5 +59,9 @@
       "PlatformType": 2,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.1
 }

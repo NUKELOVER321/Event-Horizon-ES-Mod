@@ -7,11 +7,7 @@
   "IconScale": 1.0,
   "ModelImage": "marauder raven.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -67,5 +63,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineSize": 0.1
 }

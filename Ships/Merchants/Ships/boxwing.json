@@ -1,16 +1,12 @@
 {
   "ItemType": 6,
   "Id": 3004,
-  "ShipCategory": 6,
   "Name": "Boxwing",
   "Faction": 201,
   "IconImage": "boxwing icon.png",
   "IconScale": 1.0,
   "ModelImage": "boxwing.png",
   "ModelScale": 1.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -45,5 +41,9 @@
     {
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 6
 }

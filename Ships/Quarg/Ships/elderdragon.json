@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 424,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Elderdragon",
   "Faction": 214,
-  "SizeClass": 4,
   "IconImage": "elderdragon.png",
   "IconScale": 1.0,
   "ModelImage": "elderdragon.png",
   "ModelScale": 7.0,
-  "EnginePosition": {
-    "x": -0.7,
-    "y": 0.2
-  },
   "EngineColor": "#B200FF",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -95,5 +89,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.7,
+    "y": 0.2
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 2
 }

@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 417,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Model 128",
   "Faction": 212,
-  "SizeClass": 3,
   "IconImage": "model 128 icon.png",
   "IconScale": 1.0,
   "ModelImage": "model 128.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -1.0,
-    "y": 0.08
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -82,5 +76,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -1.0,
+    "y": 0.08
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 1
 }

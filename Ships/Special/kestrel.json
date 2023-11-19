@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 1001,
-  "ShipCategory": 3,
+  "SizeClass": 3,
   "Name": "Kestrel",
   "Faction": 204,
-  "SizeClass": 3,
   "IconImage": "kestrel icon.png",
   "IconScale": 1.0,
   "ModelImage": "kestrel.png",
   "ModelScale": 5.5,
-  "EnginePosition": {
-    "x": -0.97,
-    "y": -0.065
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -106,5 +100,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.97,
+    "y": -0.065
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 3
 }

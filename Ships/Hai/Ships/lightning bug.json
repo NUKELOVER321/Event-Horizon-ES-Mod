@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 356,
+  "SizeClass": 1,
   "Name": "Lightning Bug",
   "Faction": 206,
-  "SizeClass": 1,
   "IconImage": "lightning bug icon.png",
   "IconScale": 1.0,
   "ModelImage": "lightning bug.png",
   "ModelScale": 2.25,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#0094FF",
   "Engines": [
     {
@@ -37,5 +34,8 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

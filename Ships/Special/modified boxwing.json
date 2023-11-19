@@ -1,18 +1,12 @@
 {
   "ItemType": 6,
   "Id": 5001,
-  "ShipCategory": 3,
   "Name": "Modified Boxwing",
   "IconImage": "modified boxwing icon.png",
   "IconScale": 1.0,
   "ModelImage": "modified boxwing.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.95,
-    "y": -0.25
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -119,5 +113,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.95,
+    "y": -0.25
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 3
 }

@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 350,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Carrier",
   "Faction": 205,
-  "SizeClass": 4,
   "IconImage": "carrier icon.png",
   "IconScale": 1.0,
   "ModelImage": "carrier.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00B2FF",
   "Engines": [
     {
@@ -91,5 +87,9 @@
       "PlatformType": 2,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 2
 }

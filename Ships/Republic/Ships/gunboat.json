@@ -7,9 +7,6 @@
   "IconScale": 1.0,
   "ModelImage": "gunboat.png",
   "ModelScale": 2.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00B2FF",
   "Engines": [
     {
@@ -45,5 +42,8 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 420,
-  "ShipCategory": 3,
+  "SizeClass": 4,
   "Name": "Model 1024",
   "Faction": 212,
-  "SizeClass": 4,
   "IconImage": "model 1024 icon.png",
   "IconScale": 1.0,
   "ModelImage": "model 1024.png",
   "ModelScale": 10.0,
-  "EnginePosition": {
-    "x": -0.52,
-    "y": 0.765
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.25,
   "Engines": [
     {
       "Position": {
@@ -151,5 +145,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.52,
+    "y": 0.765
+  },
+  "EngineSize": 0.25,
+  "ShipCategory": 3
 }

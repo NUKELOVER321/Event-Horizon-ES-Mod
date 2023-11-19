@@ -1,19 +1,14 @@
 {
   "ItemType": 6,
   "Id": 3000,
-  "ShipCategory": 3,
+  "SizeClass": 4,
   "Name": "Heron",
   "Faction": 207,
-  "SizeClass": 4,
   "IconImage": "heron.png",
   "IconScale": 1.0,
   "ModelImage": "heron.png",
   "ModelScale": 15.0,
-  "EnginePosition": {
-    "x": -0.88
-  },
   "EngineColor": "#6E00FF",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -122,5 +117,10 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.88
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 3
 }

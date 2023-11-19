@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 310,
+  "SizeClass": 1,
   "Name": "Clipper",
   "Faction": 201,
-  "SizeClass": 1,
   "IconImage": "clipper icon.png",
   "IconScale": 0.75,
   "ModelImage": "clipper.png",
   "ModelScale": 2.0,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -59,5 +55,9 @@
       },
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.1
 }

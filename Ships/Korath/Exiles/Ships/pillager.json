@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 395,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Pillager",
   "Faction": 209,
-  "SizeClass": 3,
   "IconImage": "pillager.png",
   "IconScale": 1.0,
   "ModelImage": "pillager.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -0.4
-  },
   "EngineColor": "#FFA100",
   "Engines": [
     {
@@ -95,5 +91,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.4
+  },
+  "ShipCategory": 1
 }

@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 426,
-  "ShipCategory": 1,
+  "SizeClass": 1,
   "Name": "Zibruka",
   "Faction": 216,
-  "SizeClass": 1,
   "IconImage": "zibruka icon.png",
   "IconScale": 1.0,
   "ModelImage": "zibruka.png",
   "ModelScale": 2.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#0094FF",
   "Engines": [
     {
@@ -29,7 +25,6 @@
       "Size": 0.1
     }
   ],
-  "Regeneration": true,
   "Layout": "000000000000000000000000002200000000000000002200000000000000002200000000000000442244000000000000442244000000000000122221000000000000122221000000000000122221000000000000122221000000000001122221100000000111122221111000000111155551111000000111155551111000000111100001111000000011000000110000000011000000110000000010000000010000",
   "Barrels": [
     {
@@ -48,5 +43,10 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 1,
+  "Regeneration": true
 }

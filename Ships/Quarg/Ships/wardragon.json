@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 422,
-  "ShipCategory": 1,
+  "SizeClass": 2,
   "Name": "Wardragon",
   "Faction": 214,
-  "SizeClass": 2,
   "IconImage": "wardragon icon.png",
   "IconScale": 1.0,
   "ModelImage": "wardragon.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -0.6,
-    "y": 0.25
-  },
   "EngineColor": "#B200FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -65,5 +59,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.6,
+    "y": 0.25
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 1
 }

@@ -7,14 +7,7 @@
   "IconScale": 1.0,
   "ModelImage": "plankton.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00FF21",
-  "Regeneration": true,
-  "BuiltinDevices": [
-    9000
-  ],
   "Layout": "0004404404400000044044044000000003333000000000033330000000000333000000000003330000000000033000000000003300000000000033000000000000330000000000003300000000000003300000000000035500000000000055000000",
   "Barrels": [
     {
@@ -37,5 +30,12 @@
       },
       "PlatformType": 3
     }
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "Regeneration": true,
+  "BuiltinDevices": [
+    9000
   ]
 }

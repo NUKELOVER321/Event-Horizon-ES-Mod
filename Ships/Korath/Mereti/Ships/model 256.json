@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 418,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Model 256",
   "Faction": 212,
-  "SizeClass": 3,
   "IconImage": "model 256 icon.png",
   "IconScale": 1.0,
   "ModelImage": "model 256.png",
   "ModelScale": 5.5,
-  "EnginePosition": {
-    "x": -0.78,
-    "y": 0.32
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -90,5 +84,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.78,
+    "y": 0.32
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 1
 }

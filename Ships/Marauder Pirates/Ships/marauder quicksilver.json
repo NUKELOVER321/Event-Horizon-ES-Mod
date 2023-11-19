@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 436,
+  "SizeClass": 1,
   "Name": "Marauder Quicksilver",
   "Faction": 219,
-  "SizeClass": 1,
   "IconImage": "marauder quicksilver icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder quicksilver.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -1.0
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -54,5 +50,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -1.0
+  },
+  "EngineSize": 0.1
 }

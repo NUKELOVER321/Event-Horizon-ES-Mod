@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 387,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Judicator",
   "Faction": 208,
-  "SizeClass": 3,
   "IconImage": "judicator icon.png",
   "IconScale": 1.0,
   "ModelImage": "judicator.png",
   "ModelScale": 5.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#4C00FF",
   "Engines": [
     {
@@ -51,5 +47,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 1
 }

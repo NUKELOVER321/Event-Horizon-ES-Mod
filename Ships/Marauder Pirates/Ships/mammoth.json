@@ -1,19 +1,14 @@
 {
   "ItemType": 6,
   "Id": 448,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Mammoth",
   "Faction": 219,
-  "SizeClass": 4,
   "IconImage": "mammoth icon.png",
   "IconScale": 1.0,
   "ModelImage": "mammoth.png",
   "ModelScale": 6.5,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -96,5 +91,10 @@
       "PlatformType": 2,
       "WeaponClass": "LC"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 2
 }

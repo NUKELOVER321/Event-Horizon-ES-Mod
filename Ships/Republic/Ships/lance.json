@@ -1,16 +1,12 @@
 {
   "ItemType": 6,
   "Id": 3005,
-  "ShipCategory": 6,
   "Name": "Lance",
   "Faction": 205,
   "IconImage": "lance icon.png",
   "IconScale": 1.0,
   "ModelImage": "lance.png",
   "ModelScale": 0.7,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00B2FF",
   "Engines": [
     {
@@ -44,5 +40,9 @@
       },
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 6
 }

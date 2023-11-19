@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 4000,
-  "ShipCategory": 3,
+  "SizeClass": 3,
   "Name": "Emerald Sword",
   "Faction": 217,
-  "SizeClass": 3,
   "IconImage": "emerald sword icon.png",
   "IconScale": 1.2,
   "ModelImage": "emerald sword.png",
   "ModelScale": 10.0,
-  "EnginePosition": {
-    "x": -0.9,
-    "y": 0.28
-  },
   "EngineColor": "#00B2FF",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -116,5 +110,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9,
+    "y": 0.28
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 3
 }

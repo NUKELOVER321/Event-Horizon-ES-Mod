@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 401,
+  "SizeClass": 2,
   "Name": "Winter Gale",
   "Faction": 211,
-  "SizeClass": 2,
   "IconImage": "winter gale icon.png",
   "IconScale": 1.0,
   "ModelImage": "winter gale.png",
   "ModelScale": 4.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -62,5 +59,8 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

@@ -7,11 +7,7 @@
   "IconScale": 1.0,
   "ModelImage": "penguin.png",
   "ModelScale": 1.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#3C2F6F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -26,9 +22,6 @@
       }
     }
   ],
-  "BuiltinDevices": [
-    14
-  ],
   "Layout": "0000000000000044000000004400000001221000000122100000012210000001221000000122100000005500000000000000",
   "Barrels": [
     {
@@ -38,5 +31,12 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineSize": 0.1,
+  "BuiltinDevices": [
+    14
   ]
 }

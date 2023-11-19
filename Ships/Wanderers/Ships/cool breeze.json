@@ -1,16 +1,12 @@
 {
   "ItemType": 6,
   "Id": 3019,
-  "ShipCategory": 6,
   "Name": "Cool Breeze",
   "Faction": 211,
   "IconImage": "cool breeze icon.png",
   "IconScale": 1.0,
   "ModelImage": "cool breeze.png",
   "ModelScale": 0.7,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -46,5 +42,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 6
 }

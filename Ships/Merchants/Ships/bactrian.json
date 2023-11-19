@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 323,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Bactrian",
   "Faction": 201,
-  "SizeClass": 4,
   "IconImage": "bactrian icon.png",
   "IconScale": 1.0,
   "ModelImage": "bactrian.png",
   "ModelScale": 15.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -103,5 +99,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 2
 }

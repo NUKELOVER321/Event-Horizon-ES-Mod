@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 430,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Marauder Raider",
   "Faction": 209,
-  "SizeClass": 3,
   "IconImage": "marauder raider icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder raider.png",
   "ModelScale": 5.5,
-  "EnginePosition": {
-    "x": -0.4
-  },
   "EngineColor": "#FFA100",
   "Engines": [
     {
@@ -95,5 +91,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.4
+  },
+  "ShipCategory": 1
 }

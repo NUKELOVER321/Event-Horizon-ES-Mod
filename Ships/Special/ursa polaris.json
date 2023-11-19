@@ -1,19 +1,13 @@
 {
   "ItemType": 6,
   "Id": 5005,
-  "ShipCategory": 3,
-  "Name": "Ursa Polaris",
   "SizeClass": 3,
+  "Name": "Ursa Polaris",
   "IconImage": "ursa polaris.png",
   "IconScale": 1.0,
   "ModelImage": "ursa polaris.png",
   "ModelScale": 12.0,
-  "EnginePosition": {
-    "x": -0.97,
-    "y": -0.065
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.4,
   "Engines": [
     {
       "Position": {
@@ -156,5 +150,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.97,
+    "y": -0.065
+  },
+  "EngineSize": 0.4,
+  "ShipCategory": 3
 }

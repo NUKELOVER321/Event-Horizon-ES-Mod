@@ -7,11 +7,7 @@
   "IconScale": 1.0,
   "ModelImage": "kimek thorn.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -49,5 +45,9 @@
         "x": -0.9
       }
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.1
 }

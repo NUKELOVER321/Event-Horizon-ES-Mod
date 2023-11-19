@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 403,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Tempest",
   "Faction": 211,
-  "SizeClass": 3,
   "IconImage": "tempest icon.png",
   "IconScale": 1.0,
   "ModelImage": "tempest.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -79,5 +75,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 1
 }

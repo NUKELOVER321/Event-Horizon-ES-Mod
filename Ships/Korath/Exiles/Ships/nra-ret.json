@@ -1,19 +1,14 @@
 {
   "ItemType": 6,
   "Id": 432,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "'nra'ret",
   "Faction": 209,
-  "SizeClass": 4,
   "IconImage": "-nra-ret icon.png",
   "IconScale": 1.0,
   "ModelImage": "-nra-ret.png",
   "ModelScale": 6.5,
-  "EnginePosition": {
-    "x": -0.5
-  },
   "EngineColor": "#FFA100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -119,5 +114,10 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.5
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 2
 }

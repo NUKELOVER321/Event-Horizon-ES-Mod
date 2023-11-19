@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 337,
+  "SizeClass": 2,
   "Name": "Firebird",
   "Faction": 204,
-  "SizeClass": 2,
   "IconImage": "firebird icon.png",
   "IconScale": 1.0,
   "ModelImage": "firebird.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -76,5 +73,8 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

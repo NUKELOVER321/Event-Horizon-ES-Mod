@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 341,
+  "SizeClass": 2,
   "Name": "Osprey",
   "Faction": 204,
-  "SizeClass": 2,
   "IconImage": "osprey icon.png",
   "IconScale": 1.0,
   "ModelImage": "osprey.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -60,5 +57,8 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

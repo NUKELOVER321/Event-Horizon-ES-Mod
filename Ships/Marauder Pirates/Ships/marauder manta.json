@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 438,
+  "SizeClass": 2,
   "Name": "Marauder Manta",
   "Faction": 219,
-  "SizeClass": 2,
   "IconImage": "marauder manta icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder manta.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -70,5 +66,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.1
 }

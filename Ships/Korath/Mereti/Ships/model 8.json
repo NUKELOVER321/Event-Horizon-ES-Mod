@@ -1,19 +1,13 @@
 {
   "ItemType": 6,
   "Id": 413,
-  "ShipCategory": 1,
   "Name": "Model 8",
   "Faction": 212,
   "IconImage": "model 8 icon.png",
   "IconScale": 1.0,
   "ModelImage": "model 8.png",
   "ModelScale": 2.0,
-  "EnginePosition": {
-    "x": -0.96,
-    "y": 0.24
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -41,5 +35,11 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.96,
+    "y": 0.24
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 1
 }

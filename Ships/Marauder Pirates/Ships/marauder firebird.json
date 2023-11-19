@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 439,
+  "SizeClass": 2,
   "Name": "Marauder Firebird",
   "Faction": 219,
-  "SizeClass": 2,
   "IconImage": "marauder firebird icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder firebird.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -79,5 +75,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.2
 }

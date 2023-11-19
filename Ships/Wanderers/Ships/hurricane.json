@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 405,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Hurricane",
   "Faction": 211,
-  "SizeClass": 4,
   "IconImage": "hurricane icon.png",
   "IconScale": 1.0,
   "ModelImage": "hurricane.png",
   "ModelScale": 6.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -116,5 +112,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 2
 }

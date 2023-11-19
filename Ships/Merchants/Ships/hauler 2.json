@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 319,
+  "SizeClass": 2,
   "Name": "Hauler 2",
   "Faction": 201,
-  "SizeClass": 2,
   "IconImage": "hauler 2 icon.png",
   "IconScale": 1.0,
   "ModelImage": "hauler 2.png",
   "ModelScale": 4.0,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -63,5 +59,9 @@
       "PlatformType": 2,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.1
 }

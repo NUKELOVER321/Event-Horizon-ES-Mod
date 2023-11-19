@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 399,
+  "SizeClass": 1,
   "Name": "Summer Leaf",
   "Faction": 211,
-  "SizeClass": 1,
   "IconImage": "summer leaf icon.png",
   "IconScale": 1.0,
   "ModelImage": "summer leaf.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -46,5 +43,8 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 338,
+  "SizeClass": 1,
   "Name": "Aerie",
   "Faction": 204,
-  "SizeClass": 1,
   "IconImage": "aerie icon.png",
   "IconScale": 1.0,
   "ModelImage": "aerie.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -62,5 +59,8 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

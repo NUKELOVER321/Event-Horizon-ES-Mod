@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 345,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Dreadnought",
   "Faction": 204,
-  "SizeClass": 4,
   "IconImage": "dreadnought icon.png",
   "IconScale": 1.0,
   "ModelImage": "dreadnought.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -95,5 +91,9 @@
       "PlatformType": 2,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "ShipCategory": 2
 }

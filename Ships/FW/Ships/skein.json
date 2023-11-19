@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 344,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Skein",
   "Faction": 204,
-  "SizeClass": 3,
   "IconImage": "skein icon.png",
   "IconScale": 1.0,
   "ModelImage": "skein.png",
   "ModelScale": 5.5,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -69,5 +65,9 @@
       "PlatformType": 2,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "ShipCategory": 1
 }

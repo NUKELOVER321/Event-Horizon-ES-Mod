@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 357,
+  "SizeClass": 2,
   "Name": "Water Bug",
   "Faction": 206,
-  "SizeClass": 2,
   "IconImage": "water bug icon.png",
   "IconScale": 1.0,
   "ModelImage": "water bug.png",
   "ModelScale": 3.25,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "Engines": [
     {
       "Position": {
@@ -52,5 +49,8 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  }
 }

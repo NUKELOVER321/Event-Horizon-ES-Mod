@@ -1,19 +1,14 @@
 {
   "ItemType": 6,
   "Id": 329,
-  "ShipCategory": 1,
+  "SizeClass": 1,
   "Name": "Marauder Fury",
   "Faction": 202,
-  "SizeClass": 1,
   "IconImage": "marauder fury icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder fury.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -58,5 +53,10 @@
       },
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 1
 }

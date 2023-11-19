@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 349,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Cruiser",
   "Faction": 205,
-  "SizeClass": 3,
   "IconImage": "cruiser icon.png",
   "IconScale": 1.0,
   "ModelImage": "cruiser.png",
   "ModelScale": 4.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00B2FF",
   "Engines": [
     {
@@ -79,5 +75,9 @@
       "PlatformType": 2,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 1
 }

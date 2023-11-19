@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 3511,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Auxiliary (H)",
   "Faction": 205,
-  "SizeClass": 4,
   "IconImage": "auxiliaryh icon.png",
   "IconScale": 1.0,
   "ModelImage": "auxiliaryh.png",
   "ModelScale": 6.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00B2FF",
   "Engines": [
     {
@@ -91,5 +87,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 2
 }

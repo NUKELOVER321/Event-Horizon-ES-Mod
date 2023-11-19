@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 359,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Geocoris",
   "Faction": 206,
-  "SizeClass": 3,
   "IconImage": "geocoris icon.png",
   "IconScale": 1.0,
   "ModelImage": "geocoris.png",
   "ModelScale": 8.25,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#0094FF",
   "Engines": [
     {
@@ -79,5 +75,9 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 1
 }

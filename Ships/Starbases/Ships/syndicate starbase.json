@@ -1,10 +1,9 @@
 {
   "ItemType": 6,
   "Id": 2203,
-  "ShipCategory": 4,
+  "SizeClass": 4,
   "Name": "Starbase",
   "Faction": 203,
-  "SizeClass": 4,
   "IconImage": "syndicate station.png",
   "IconScale": 1.0,
   "ModelImage": "syndicate station.png",
@@ -51,5 +50,6 @@
       "Image": "proton turret sprite.png",
       "Size": 0.12
     }
-  ]
+  ],
+  "ShipCategory": 4
 }

@@ -1,16 +1,12 @@
 {
   "ItemType": 6,
   "Id": 3015,
-  "ShipCategory": 6,
   "Name": "Chaser",
   "Faction": 209,
   "IconImage": "chaser icon.png",
   "IconScale": 1.0,
   "ModelImage": "chaser.png",
   "ModelScale": 0.7,
-  "EnginePosition": {
-    "x": -1.0
-  },
   "EngineColor": "#FFA100",
   "Engines": [
     {
@@ -37,5 +33,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -1.0
+  },
+  "ShipCategory": 6
 }

@@ -1,10 +1,9 @@
 {
   "ItemType": 6,
   "Id": 2213,
-  "ShipCategory": 4,
+  "SizeClass": 4,
   "Name": "Starbase",
   "Faction": 213,
-  "SizeClass": 4,
   "IconImage": "sestor station.png",
   "IconScale": 1.0,
   "ModelImage": "sestor station.png",
@@ -52,5 +51,6 @@
       "Image": "detainer turret sprite.png",
       "Size": 0.12
     }
-  ]
+  ],
+  "ShipCategory": 4
 }

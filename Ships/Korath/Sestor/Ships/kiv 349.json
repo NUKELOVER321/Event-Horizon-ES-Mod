@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 411,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Kar Ik Vot 349",
   "Faction": 213,
-  "SizeClass": 4,
   "IconImage": "kiv 349 icon.png",
   "IconScale": 1.0,
   "ModelImage": "kiv 349.png",
   "ModelScale": 7.0,
-  "EnginePosition": {
-    "x": -1.0,
-    "y": 0.1
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -122,5 +116,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -1.0,
+    "y": 0.1
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 2
 }

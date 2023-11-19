@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 414,
-  "ShipCategory": 1,
+  "SizeClass": 1,
   "Name": "Model 16",
   "Faction": 212,
-  "SizeClass": 1,
   "IconImage": "model 16 icon.png",
   "IconScale": 1.0,
   "ModelImage": "model 16.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -1.0,
-    "y": 0.11
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -49,5 +43,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -1.0,
+    "y": 0.11
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 1
 }

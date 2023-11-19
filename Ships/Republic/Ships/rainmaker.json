@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 346,
+  "SizeClass": 1,
   "Name": "Rainmaker",
   "Faction": 205,
-  "SizeClass": 1,
   "IconImage": "rainmaker icon.png",
   "IconScale": 1.0,
   "ModelImage": "rainmaker.png",
   "ModelScale": 2.0,
-  "EnginePosition": {
-    "x": -0.95
-  },
   "EngineColor": "#00B2FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -45,5 +41,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.95
+  },
+  "EngineSize": 0.1
 }

@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 5004,
-  "ShipCategory": 3,
+  "SizeClass": 3,
   "Name": "Marauder Bactrian",
   "Faction": 201,
-  "SizeClass": 3,
   "IconImage": "bactrian icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder bactrian.png",
   "ModelScale": 15.0,
-  "EnginePosition": {
-    "x": -0.97,
-    "y": -0.065
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.25,
   "Engines": [
     {
       "Position": {
@@ -107,5 +101,11 @@
       "WeaponClass": "CL",
       "Image": "dual sunbeam turret sprite.png"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.97,
+    "y": -0.065
+  },
+  "EngineSize": 0.25,
+  "ShipCategory": 3
 }

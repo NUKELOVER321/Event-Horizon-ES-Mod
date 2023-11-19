@@ -1,20 +1,14 @@
 {
   "ItemType": 6,
   "Id": 419,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "Model 512",
   "Faction": 212,
-  "SizeClass": 4,
   "IconImage": "model 512 icon.png",
   "IconScale": 1.0,
   "ModelImage": "model 512.png",
   "ModelScale": 7.0,
-  "EnginePosition": {
-    "x": -0.52,
-    "y": 0.77
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -98,5 +92,11 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.52,
+    "y": 0.77
+  },
+  "EngineSize": 0.2,
+  "ShipCategory": 2
 }

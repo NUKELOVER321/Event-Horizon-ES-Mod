@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 377,
+  "SizeClass": 2,
   "Name": "Kimek Thistle",
   "Faction": 218,
-  "SizeClass": 2,
   "IconImage": "kimek thistle icon.png",
   "IconScale": 1.0,
   "ModelImage": "kimek thistle.png",
   "ModelScale": 4.5,
-  "EnginePosition": {
-    "x": -1.0
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -63,5 +59,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -1.0
+  },
+  "EngineSize": 0.1
 }

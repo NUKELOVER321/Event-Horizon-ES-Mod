@@ -1,10 +1,9 @@
 {
   "ItemType": 6,
   "Id": 2212,
-  "ShipCategory": 4,
+  "SizeClass": 4,
   "Name": "Starbase",
   "Faction": 212,
-  "SizeClass": 4,
   "IconImage": "mereti station.png",
   "IconScale": 1.0,
   "ModelImage": "mereti station.png",
@@ -52,5 +51,6 @@
       "Image": "disruptor turret sprite.png",
       "Size": 0.12
     }
-  ]
+  ],
+  "ShipCategory": 4
 }

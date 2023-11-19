@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 334,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Vanguard",
   "Faction": 203,
-  "SizeClass": 3,
   "IconImage": "vanguard icon.png",
   "IconScale": 1.0,
   "ModelImage": "vanguard.png",
   "ModelScale": 4.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#009BFF",
   "Engines": [
     {
@@ -70,5 +66,9 @@
       "PlatformType": 3,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 1
 }

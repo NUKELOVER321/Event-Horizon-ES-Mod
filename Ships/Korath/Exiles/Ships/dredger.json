@@ -1,19 +1,14 @@
 {
   "ItemType": 6,
   "Id": 390,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Dredger",
   "Faction": 209,
-  "SizeClass": 3,
   "IconImage": "dredger icon.png",
   "IconScale": 1.0,
   "ModelImage": "dredger.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFA100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -87,5 +82,10 @@
       "PlatformType": 2,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.9
+  },
+  "EngineSize": 0.1,
+  "ShipCategory": 1
 }

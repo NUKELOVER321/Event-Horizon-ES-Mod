@@ -7,15 +7,7 @@
   "IconScale": 1.0,
   "ModelImage": "squid.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FF6A00",
-  "Regeneration": true,
-  "BuiltinDevices": [
-    9000,
-    1346
-  ],
   "Layout": "000000010000000000000222000000000001222100000000011222110000000111222111000001111222111100001144222441100000144222441000000011222110000000011222110000000005222500000000005222500000000000050000000000000050000000000000000000000",
   "Barrels": [
     {
@@ -32,5 +24,13 @@
       },
       "PlatformType": 2
     }
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "Regeneration": true,
+  "BuiltinDevices": [
+    9000,
+    1346
   ]
 }

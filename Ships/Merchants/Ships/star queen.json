@@ -1,17 +1,13 @@
 {
   "ItemType": 6,
   "Id": 318,
-  "ShipCategory": 1,
+  "SizeClass": 3,
   "Name": "Star Queen",
   "Faction": 201,
-  "SizeClass": 3,
   "IconImage": "star queen icon.png",
   "IconScale": 1.0,
   "ModelImage": "star queen.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -51,5 +47,9 @@
       },
       "PlatformType": 3
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "ShipCategory": 1
 }
