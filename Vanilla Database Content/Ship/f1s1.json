@@ -7,11 +7,7 @@
   "IconScale": 0.5,
   "ModelImage": "f1s1",
   "ModelScale": 1.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#40FFF096",
-  "EngineSize": 0.15,
   "Layout": "0004000001410000141000222220122222101555100005000",
   "Barrels": [
     {
@@ -20,5 +16,9 @@
       },
       "WeaponClass": "C"
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.8
+  },
+  "EngineSize": 0.15
 }

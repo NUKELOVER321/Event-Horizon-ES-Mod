@@ -1,17 +1,12 @@
 {
   "ItemType": 6,
   "Id": 79,
-  "ShipCategory": 3,
   "Name": "Invader",
   "IconImage": "space_invader",
   "IconScale": 0.5,
   "ModelImage": "space_invader",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.4
-  },
   "EngineColor": "#40FFFFFF",
-  "EngineSize": 0.3,
   "Layout": "111424151",
   "Barrels": [
     {
@@ -26,5 +21,10 @@
         "y": -0.9
       }
     }
-  ]
+  ],
+  "EnginePosition": {
+    "x": -0.4
+  },
+  "EngineSize": 0.3,
+  "ShipCategory": 3
 }
