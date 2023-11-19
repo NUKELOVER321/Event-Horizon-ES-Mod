@@ -7,10 +7,11 @@
   "Availability": 1,
   "ComponentStatsId": 1058,
   "Faction": 201,
-  "Level": 200,
+  "Level": 20,
   "Icon": "D41-HY.png",
   "Layout": "111111111",
   "CellType": "1",
+  "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     3,
     12
