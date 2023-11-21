@@ -1,19 +1,15 @@
 {
   "ItemType": 6,
   "Id": 393,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 3,
   "Name": "Telis'het",
   "Faction": 210,
-  "SizeClass": 3,
   "IconImage": "telis'het icon.png",
   "IconScale": 1.0,
   "ModelImage": "telis'het.png",
   "ModelScale": 4.75,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#8700FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -28,9 +24,14 @@
         "y": 0.2
       },
       "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.1
     }
   ],
-  "Regeneration": true,
   "Layout": "0000004440440440444000000000000444144144144400000000000044411111114440000000000001111111111111000000000000111111111111100000000000444144424441444000000000044414442444144400000000004441444244414440000000000111112222211111000000000011111222221111100000000001111124442111110000000000011112444211110000000000001111244421111000000000000011122222111000000000000000112222211000000000000000011222221100000000000000001122222110000000000000001112222211100000000000000111222221110000000000000011155555111000000000000001115555511100000000000000111555551110000000000000011155555111000000000000001115505511100000000000000000550550000000000",
   "Barrels": [
     {
@@ -38,7 +39,7 @@
         "x": 0.8,
         "y": 0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -46,7 +47,7 @@
         "x": 0.9,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -54,7 +55,7 @@
         "x": 0.9,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -62,7 +63,7 @@
         "x": 0.8,
         "y": -0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -70,7 +71,7 @@
         "x": 0.5,
         "y": 0.4
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -78,7 +79,7 @@
         "x": 0.5,
         "y": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -86,7 +87,7 @@
         "x": 0.5,
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -94,15 +95,18 @@
         "x": 0.5,
         "y": -0.4
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "x": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "Features": {
+    "Regeneration": true
+  }
 }

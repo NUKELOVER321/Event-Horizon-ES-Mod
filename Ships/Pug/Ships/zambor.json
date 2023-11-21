@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 3025,
-  "ShipCategory": 6,
+  "ShipType": 1,
   "Name": "Zambor",
   "Faction": 216,
   "IconImage": "zambor.png",
   "IconScale": 1.0,
   "ModelImage": "zambor.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#0094FF",
   "Engines": [
     {
@@ -28,7 +25,6 @@
       "Size": 0.1
     }
   ],
-  "Regeneration": true,
   "Layout": "0000002200000000004422440000000044224400000000132231000000001322310000000013223100000001132231100000011322311000000113223110000001132231100000011322311000000113223110000001155551100000000555500000",
   "Barrels": [
     {
@@ -36,7 +32,7 @@
         "x": 0.8,
         "y": 0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -44,8 +40,11 @@
         "x": 0.8,
         "y": -0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "Features": {
+    "Regeneration": true
+  }
 }

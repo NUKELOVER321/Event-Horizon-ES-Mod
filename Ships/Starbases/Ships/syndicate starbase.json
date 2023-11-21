@@ -1,10 +1,10 @@
 {
   "ItemType": 6,
   "Id": 2203,
-  "ShipCategory": 4,
+  "ShipType": 2,
+  "SizeClass": 5,
   "Name": "Starbase",
   "Faction": 203,
-  "SizeClass": 4,
   "IconImage": "syndicate station.png",
   "IconScale": 1.0,
   "ModelImage": "syndicate station.png",
@@ -18,7 +18,7 @@
         "y": 0.43
       },
       "Rotation": 45.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "proton turret sprite.png",
       "Size": 0.12
     },
@@ -28,7 +28,7 @@
         "y": -0.68
       },
       "Rotation": 300.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "proton turret sprite.png",
       "Size": 0.12
     },
@@ -37,7 +37,7 @@
         "x": 0.4,
         "y": -0.17
       },
-      "PlatformType": 1,
+      "AutoAimingArc": 360.0,
       "Image": "proton turret sprite.png",
       "Size": 0.12
     },
@@ -47,7 +47,7 @@
         "y": -0.15
       },
       "Rotation": 180.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "proton turret sprite.png",
       "Size": 0.12
     }

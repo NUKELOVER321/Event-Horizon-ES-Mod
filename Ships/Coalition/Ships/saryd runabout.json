@@ -7,9 +7,6 @@
   "IconScale": 1.0,
   "ModelImage": "saryd runabout.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#4C00FF",
   "Engines": [
     {
@@ -34,7 +31,7 @@
         "x": 0.8,
         "y": 0.2
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -42,7 +39,7 @@
         "x": 0.8,
         "y": -0.2
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
   ]

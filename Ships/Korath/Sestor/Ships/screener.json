@@ -1,30 +1,20 @@
 {
   "ItemType": 6,
   "Id": 3027,
-  "ShipCategory": 6,
+  "ShipType": 1,
   "Name": "Screener",
   "Faction": 213,
   "IconImage": "screener icon.png",
   "IconScale": 1.0,
   "ModelImage": "screener.png",
   "ModelScale": 1.0,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFA100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
-        "x": -0.7,
-        "y": -0.2
-      }
-    },
-    {
-      "Position": {
-        "x": -0.7,
-        "y": 0.2
-      }
+        "x": -0.9
+      },
+      "Size": 0.1
     }
   ],
   "Layout": "0444004440044422444004442244400112222110011222211001122221100112222110011222211000155551000005555000",
@@ -34,7 +24,7 @@
         "x": 0.6,
         "y": 0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -42,7 +32,7 @@
         "x": 0.6,
         "y": -0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

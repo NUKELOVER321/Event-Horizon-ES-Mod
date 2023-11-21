@@ -1,25 +1,29 @@
 {
   "ItemType": 6,
   "Id": 3009,
-  "ShipCategory": 6,
+  "ShipType": 1,
   "Name": "Violin Spider",
   "Faction": 206,
   "IconImage": "violin spider icon.png",
   "IconScale": 1.0,
   "ModelImage": "violin spider.png",
   "ModelScale": 0.8,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#0094FF",
-  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "000444000001444100001444100011222110011222110011222110011222110001222100000555000",
   "Barrels": [
     {
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

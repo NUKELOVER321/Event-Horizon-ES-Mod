@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 342,
+  "SizeClass": 1,
   "Name": "Nest",
   "Faction": 204,
-  "SizeClass": 1,
   "IconImage": "nest icon.png",
   "IconScale": 1.0,
   "ModelImage": "nest.png",
   "ModelScale": 3.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -41,7 +38,7 @@
         "x": 0.3,
         "y": 0.15
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -49,7 +46,7 @@
         "x": 0.3,
         "y": -0.15
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -57,7 +54,7 @@
         "x": -0.5,
         "y": 0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -65,7 +62,7 @@
         "x": -0.5,
         "y": -0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     }
   ]

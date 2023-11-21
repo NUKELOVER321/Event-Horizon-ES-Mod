@@ -1,25 +1,27 @@
 {
   "ItemType": 6,
   "Id": 5004,
-  "ShipCategory": 3,
+  "ShipType": 3,
+  "SizeClass": 3,
   "Name": "Marauder Bactrian",
   "Faction": 201,
-  "SizeClass": 3,
   "IconImage": "bactrian icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder bactrian.png",
   "ModelScale": 15.0,
-  "EnginePosition": {
-    "x": -0.97,
-    "y": -0.065
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.25,
   "Engines": [
     {
       "Position": {
         "x": -0.97,
         "y": 0.065
+      },
+      "Size": 0.25
+    },
+    {
+      "Position": {
+        "x": -0.97,
+        "y": -0.065
       },
       "Size": 0.25
     }
@@ -31,7 +33,7 @@
         "x": 0.78,
         "y": 0.15
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL",
       "Image": "dual sunbeam turret sprite.png"
     },
@@ -40,7 +42,7 @@
         "x": 0.78,
         "y": -0.15
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL",
       "Image": "dual sunbeam turret sprite.png"
     },
@@ -49,7 +51,7 @@
         "x": 0.62,
         "y": -0.09
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL",
       "Image": "dual sunbeam turret sprite.png"
     },
@@ -58,7 +60,7 @@
         "x": 0.35,
         "y": -0.125
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL",
       "Image": "dual sunbeam turret sprite.png"
     },
@@ -67,7 +69,7 @@
         "x": -0.05,
         "y": 0.02
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL",
       "Image": "dual sunbeam turret sprite.png"
     },
@@ -76,7 +78,7 @@
         "x": -0.3,
         "y": 0.08
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL",
       "Image": "dual sunbeam turret sprite.png"
     },
@@ -85,7 +87,7 @@
         "x": -0.3,
         "y": -0.15
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL",
       "Image": "dual sunbeam turret sprite.png"
     },
@@ -94,7 +96,7 @@
         "x": -0.625,
         "y": -0.125
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL",
       "Image": "dual sunbeam turret sprite.png"
     },
@@ -103,7 +105,7 @@
         "x": -0.8,
         "y": 0.18
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL",
       "Image": "dual sunbeam turret sprite.png"
     }

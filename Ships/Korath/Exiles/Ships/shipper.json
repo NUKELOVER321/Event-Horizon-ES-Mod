@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 433,
+  "SizeClass": 1,
   "Name": "Shipper",
   "Faction": 209,
-  "SizeClass": 1,
   "IconImage": "shipper icon.png",
   "IconScale": 1.0,
   "ModelImage": "shipper.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.4
-  },
   "EngineColor": "#FFA100",
   "Engines": [
     {
@@ -34,14 +31,14 @@
       "Position": {
         "y": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

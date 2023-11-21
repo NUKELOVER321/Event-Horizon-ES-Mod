@@ -7,11 +7,7 @@
   "IconScale": 1.0,
   "ModelImage": "kimek thorn.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -24,6 +20,12 @@
         "x": -0.9,
         "y": 0.2
       }
+    },
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.1
     }
   ],
   "Layout": "000442244000000442244000000002200000000032230000000032230000000032230000000002200000000112211000000002200000001112211100000115511000000055550000",
@@ -33,7 +35,7 @@
         "x": 0.8,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -41,7 +43,7 @@
         "x": 0.8,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {

@@ -7,9 +7,6 @@
   "IconScale": 0.5,
   "ModelImage": "star barge.png",
   "ModelScale": 1.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -30,7 +27,7 @@
   "Layout": "0000110000000144100000014410000011221100001122110000112211000113223110011322311000112211000005555000",
   "Barrels": [
     {
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     }
   ]
 }

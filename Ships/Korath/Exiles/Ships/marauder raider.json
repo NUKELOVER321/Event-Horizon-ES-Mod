@@ -1,17 +1,14 @@
 {
   "ItemType": 6,
   "Id": 430,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 3,
   "Name": "Marauder Raider",
   "Faction": 209,
-  "SizeClass": 3,
   "IconImage": "marauder raider icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder raider.png",
   "ModelScale": 5.5,
-  "EnginePosition": {
-    "x": -0.4
-  },
   "EngineColor": "#FFA100",
   "Engines": [
     {
@@ -36,7 +33,7 @@
         "x": 0.9,
         "y": 0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -44,7 +41,7 @@
         "x": 0.9,
         "y": -0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -52,7 +49,7 @@
         "x": 0.4,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -60,7 +57,7 @@
         "x": 0.4,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -68,7 +65,7 @@
         "x": -0.4,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -76,7 +73,7 @@
         "x": -0.4,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -84,7 +81,7 @@
         "x": -0.7,
         "y": 0.4
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -92,7 +89,7 @@
         "x": -0.7,
         "y": -0.4
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

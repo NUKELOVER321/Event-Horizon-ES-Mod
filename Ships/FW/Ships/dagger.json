@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 3002,
-  "ShipCategory": 6,
+  "ShipType": 1,
   "Name": "Dagger",
   "Faction": 204,
   "IconImage": "dagger icon.png",
   "IconScale": 1.0,
   "ModelImage": "dagger.png",
   "ModelScale": 0.7,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -35,7 +32,7 @@
         "x": 0.6,
         "y": 0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -43,7 +40,7 @@
         "x": 0.6,
         "y": -0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 439,
+  "SizeClass": 2,
   "Name": "Marauder Firebird",
   "Faction": 219,
-  "SizeClass": 2,
   "IconImage": "marauder firebird icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder firebird.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -27,6 +23,12 @@
         "y": 0.4
       },
       "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.2
     }
   ],
   "Layout": "0000000022220000000000000000222200000000000000002222000000000000044022220440000000000440222204400000000000002222000000000000044022220440000000000440222204400000000000002222000000000000444022220444000000114443222234441100001144432222344411000011111322223111110000111113222231111100001111132222311111000001111322223111100000005553222235550000000055532222355500000000555055550555000000000000555500000000",
@@ -36,7 +38,7 @@
         "x": 0.4,
         "y": 0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -44,7 +46,7 @@
         "x": 0.4,
         "y": -0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -52,7 +54,7 @@
         "x": 0.3,
         "y": 0.45
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -60,7 +62,7 @@
         "x": 0.3,
         "y": -0.45
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -68,7 +70,7 @@
         "x": 0.2,
         "y": 0.5
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -76,7 +78,7 @@
         "x": 0.2,
         "y": -0.5
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

@@ -1,9 +1,8 @@
 {
   "ItemType": 6,
   "Id": 112,
-  "ShipCategory": 5,
-  "Name": "$f14_Battleship",
   "SizeClass": 3,
+  "Name": "$f14_Battleship",
   "IconImage": "f14s1",
   "IconScale": 1.0,
   "ModelImage": "f14s1",
@@ -43,5 +42,6 @@
       "Rotation": -10.0,
       "WeaponClass": "M"
     }
-  ]
+  ],
+  "ShipCategory": 5
 }

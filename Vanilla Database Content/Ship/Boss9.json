@@ -1,10 +1,9 @@
 {
   "ItemType": 6,
   "Id": 10,
-  "ShipCategory": 2,
+  "SizeClass": 4,
   "Name": "$f9_Flagship",
   "Faction": 11,
-  "SizeClass": 4,
   "IconImage": "flagship9",
   "IconScale": 1.2,
   "ModelImage": "flagship9",
@@ -89,5 +88,6 @@
       "PlatformType": 3,
       "WeaponClass": "CH"
     }
-  ]
+  ],
+  "ShipCategory": 2
 }

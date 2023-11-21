@@ -1,10 +1,10 @@
 {
   "ItemType": 6,
   "Id": 2205,
-  "ShipCategory": 4,
+  "ShipType": 2,
+  "SizeClass": 5,
   "Name": "Starbase",
   "Faction": 205,
-  "SizeClass": 4,
   "IconImage": "republic station.png",
   "IconScale": 1.0,
   "ModelImage": "republic station.png",
@@ -18,7 +18,7 @@
         "y": 0.3
       },
       "Rotation": 30.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "electron turret sprite.png",
       "Size": 0.12
     },
@@ -28,7 +28,7 @@
         "y": -0.82
       },
       "Rotation": 270.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "electron turret sprite.png",
       "Size": 0.12
     },
@@ -38,7 +38,7 @@
         "y": -0.45
       },
       "Rotation": 240.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "electron turret sprite.png",
       "Size": 0.12
     },
@@ -48,7 +48,7 @@
         "y": 0.46
       },
       "Rotation": 150.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "electron turret sprite.png",
       "Size": 0.12
     }

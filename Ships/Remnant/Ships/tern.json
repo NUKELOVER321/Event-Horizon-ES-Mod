@@ -1,27 +1,33 @@
 {
   "ItemType": 6,
   "Id": 3011,
-  "ShipCategory": 6,
+  "ShipType": 1,
   "Name": "Tern",
   "Faction": 207,
   "IconImage": "tern icon.png",
   "IconScale": 1.0,
   "ModelImage": "tern.png",
   "ModelScale": 0.7,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#3C2F6F",
-  "EngineSize": 0.1,
-  "Regeneration": true,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "0000440000000044000000012210000001221000000122100000012210000001221000000155100000000000000000000000",
   "Barrels": [
     {
       "Position": {
         "x": 0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "Features": {
+    "Regeneration": true
+  }
 }

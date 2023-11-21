@@ -1,35 +1,21 @@
 {
   "ItemType": 6,
   "Id": 364,
+  "SizeClass": 1,
   "Name": "Gull",
   "Faction": 207,
-  "SizeClass": 1,
   "IconImage": "gull icon.png",
   "IconScale": 1.0,
   "ModelImage": "gull.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#3C2F6F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
-        "x": -0.9,
-        "y": -0.2
-      }
-    },
-    {
-      "Position": {
-        "x": -0.9,
-        "y": 0.2
-      }
+        "x": -0.8
+      },
+      "Size": 0.1
     }
-  ],
-  "Regeneration": true,
-  "BuiltinDevices": [
-    14
   ],
   "Layout": "000000442244000000000000442244000000000000004400000000000000004400000000000000002200000000000000012210000000000000012210000000000000012210000000000000112211000000000001122221100000000001122221100000000011122221110000000011122221110000000011122221110000000011155551110000000011055550110000000010000000010000000000000000000000",
   "Barrels": [
@@ -38,7 +24,7 @@
         "x": 0.9,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -46,15 +32,21 @@
         "x": 0.9,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ]
+  ],
+  "Features": {
+    "Regeneration": true,
+    "BuiltinDevices": [
+      14
+    ]
+  }
 }

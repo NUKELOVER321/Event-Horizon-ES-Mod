@@ -1,9 +1,8 @@
 {
   "ItemType": 6,
   "Id": 94,
-  "ShipCategory": 4,
-  "Name": "starbase",
   "SizeClass": 4,
+  "Name": "starbase",
   "IconImage": "starbase",
   "IconScale": 1.0,
   "ModelImage": "starbase",
@@ -40,5 +39,6 @@
       "Image": "turret",
       "Size": 0.12
     }
-  ]
+  ],
+  "ShipCategory": 4
 }

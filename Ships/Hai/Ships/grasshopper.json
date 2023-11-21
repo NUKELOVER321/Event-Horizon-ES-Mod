@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 355,
+  "SizeClass": 1,
   "Name": "Grasshopper",
   "Faction": 206,
-  "SizeClass": 1,
   "IconImage": "grasshopper icon.png",
   "IconScale": 1.0,
   "ModelImage": "grasshopper.png",
   "ModelScale": 2.25,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#0094FF",
   "Engines": [
     {
@@ -27,7 +24,7 @@
         "x": 0.8,
         "y": 0.15
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -35,7 +32,7 @@
         "x": 0.8,
         "y": -0.15
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
   ]

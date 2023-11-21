@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 358,
+  "SizeClass": 2,
   "Name": "Centipede",
   "Faction": 206,
-  "SizeClass": 2,
   "IconImage": "centipede icon.png",
   "IconScale": 1.0,
   "ModelImage": "centipede.png",
   "ModelScale": 5.25,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#0094FF",
   "Engines": [
     {
@@ -35,7 +32,7 @@
         "x": 0.9,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -43,14 +40,14 @@
         "x": 0.9,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
       "Position": {
         "x": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -58,7 +55,7 @@
         "x": -0.5,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -66,7 +63,7 @@
         "x": -0.5,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 398,
+  "SizeClass": 2,
   "Name": "Riptide",
   "Faction": 211,
-  "SizeClass": 2,
   "IconImage": "riptide icon.png",
   "IconScale": 1.0,
   "ModelImage": "riptide.png",
   "ModelScale": 6.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -34,7 +31,7 @@
       "Position": {
         "x": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -42,7 +39,7 @@
         "x": -0.6,
         "y": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -50,7 +47,7 @@
         "x": -0.6,
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

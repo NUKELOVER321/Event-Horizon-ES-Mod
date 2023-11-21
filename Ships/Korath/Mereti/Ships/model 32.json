@@ -1,25 +1,27 @@
 {
   "ItemType": 6,
   "Id": 415,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 1,
   "Name": "Model 32",
   "Faction": 212,
-  "SizeClass": 1,
   "IconImage": "model 32 icon.png",
   "IconScale": 1.0,
   "ModelImage": "model 32.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -1.0,
-    "y": 0.09
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
         "x": -1.0,
         "y": -0.09
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -1.0,
+        "y": 0.09
       },
       "Size": 0.1
     }
@@ -30,7 +32,7 @@
       "Position": {
         "x": 1.0
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -38,7 +40,7 @@
         "x": 0.2,
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -46,7 +48,7 @@
         "x": 0.07,
         "y": 0.25
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -54,7 +56,7 @@
         "x": -0.15,
         "y": -0.17
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

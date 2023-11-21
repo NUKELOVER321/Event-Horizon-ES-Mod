@@ -1,19 +1,15 @@
 {
   "ItemType": 6,
   "Id": 366,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 2,
   "Name": "Peregrine",
   "Faction": 207,
-  "SizeClass": 2,
   "IconImage": "peregrine icon.png",
   "IconScale": 1.0,
   "ModelImage": "peregrine.png",
   "ModelScale": 3.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#3C2F6F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -28,9 +24,14 @@
         "y": 0.2
       },
       "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
     }
   ],
-  "Regeneration": true,
   "Layout": "0000000000000000000000000000000000000000000000000000442244000000000000000044224400000000000000000022000000000000000000442244000000000000000044224400000000000000000222200000000000000000022220000000000000000002222000000000000000000222200000000000000000022220000000000000000012222100000000000000001222210000000000000011122221110000000000011444224441100000000011144422444111000000001114442244411100000000111155555511110000000111105555550111100000000000555555000000000000000000000000000000",
   "Barrels": [
     {
@@ -38,7 +39,7 @@
         "x": 0.7,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -46,7 +47,7 @@
         "x": 0.7,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -54,7 +55,7 @@
         "x": 0.5,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -62,7 +63,7 @@
         "x": 0.5,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -70,7 +71,7 @@
         "x": -0.5,
         "y": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -78,8 +79,11 @@
         "x": -0.5,
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "Features": {
+    "Regeneration": true
+  }
 }

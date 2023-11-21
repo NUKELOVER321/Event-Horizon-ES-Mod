@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 337,
+  "SizeClass": 2,
   "Name": "Firebird",
   "Faction": 204,
-  "SizeClass": 2,
   "IconImage": "firebird icon.png",
   "IconScale": 1.0,
   "ModelImage": "firebird.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -49,7 +46,7 @@
         "x": 0.4,
         "y": 0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -57,7 +54,7 @@
         "x": 0.4,
         "y": -0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -65,7 +62,7 @@
         "x": 0.2,
         "y": 0.5
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -73,7 +70,7 @@
         "x": 0.2,
         "y": -0.5
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

@@ -1,25 +1,27 @@
 {
   "ItemType": 6,
   "Id": 420,
-  "ShipCategory": 3,
+  "ShipType": 3,
+  "SizeClass": 4,
   "Name": "Model 1024",
   "Faction": 212,
-  "SizeClass": 4,
   "IconImage": "model 1024 icon.png",
   "IconScale": 1.0,
   "ModelImage": "model 1024.png",
   "ModelScale": 10.0,
-  "EnginePosition": {
-    "x": -0.52,
-    "y": 0.765
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.25,
   "Engines": [
     {
       "Position": {
         "x": -0.52,
         "y": -0.765
+      },
+      "Size": 0.25
+    },
+    {
+      "Position": {
+        "x": -0.52,
+        "y": 0.765
       },
       "Size": 0.25
     }
@@ -30,7 +32,7 @@
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -38,7 +40,7 @@
         "x": 0.8,
         "y": -0.45
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -46,7 +48,7 @@
         "x": 0.7,
         "y": 0.12
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -54,7 +56,7 @@
         "x": 0.7,
         "y": 0.48
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -62,7 +64,7 @@
         "x": 0.53,
         "y": -0.48
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -70,7 +72,7 @@
         "x": 0.5,
         "y": 0.48
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -78,7 +80,7 @@
         "x": 0.3,
         "y": -0.65
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -86,7 +88,7 @@
         "x": 0.17,
         "y": 0.68
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -94,14 +96,14 @@
         "x": -0.01,
         "y": 0.32
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "x": -0.075
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTMX"
     },
     {
@@ -109,7 +111,7 @@
         "x": -0.02,
         "y": -0.33
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -117,7 +119,7 @@
         "x": -0.1,
         "y": -0.74
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -125,7 +127,7 @@
         "x": -0.44,
         "y": 0.64
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -133,7 +135,7 @@
         "x": -0.72,
         "y": -0.28
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -141,14 +143,14 @@
         "x": -0.75,
         "y": 0.32
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "x": -0.86
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

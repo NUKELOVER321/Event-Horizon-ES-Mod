@@ -1,19 +1,15 @@
 {
   "ItemType": 6,
   "Id": 452,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 3,
   "Name": "Lenmig'sraor 52-T",
   "Faction": 220,
-  "SizeClass": 3,
   "IconImage": "Lenmig'sraor 52-T.png",
   "IconScale": 1.0,
   "ModelImage": "Lenmig'sraor 52-T.png",
   "ModelScale": 5.25,
-  "EnginePosition": {
-    "x": -1.0
-  },
   "EngineColor": "#008888",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
@@ -28,6 +24,12 @@
         "y": 0.35
       },
       "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -1.0
+      },
+      "Size": 0.2
     }
   ],
   "Layout": "000000000044424440000000000000000000044424440000000000000000000044424440000000000000000000000222000000000000000000000000222000000000000000004440444222444044400000000004440444222444044400000000004440444222444044400000000000011102222201110000000000000011112222211110000000000000011112222211110000000000000011112222211110000000000000111112222211111000000000000111112222211111000000000000111112222211111000000000000122313222313221000000000000122313222313221000000000000122313222313221000000000001122313222313221100000000001122313222313221100000000011122313222313221110000000011122313222313221110000000011122313222313221110000000011555513222315555110000000000555500222005555000000000000555500222005555000000000000555500222005555000000",
@@ -37,7 +39,7 @@
         "x": 0.7,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -45,7 +47,7 @@
         "x": 0.7,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -53,7 +55,7 @@
         "x": 0.5,
         "y": 0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -61,7 +63,7 @@
         "x": 0.5,
         "y": 0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -69,7 +71,7 @@
         "x": 0.5,
         "y": -0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -77,28 +79,28 @@
         "x": 0.5,
         "y": -0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "x": -0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "x": -0.5
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

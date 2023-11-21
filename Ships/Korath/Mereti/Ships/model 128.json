@@ -1,25 +1,27 @@
 {
   "ItemType": 6,
   "Id": 417,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 3,
   "Name": "Model 128",
   "Faction": 212,
-  "SizeClass": 3,
   "IconImage": "model 128 icon.png",
   "IconScale": 1.0,
   "ModelImage": "model 128.png",
   "ModelScale": 5.0,
-  "EnginePosition": {
-    "x": -1.0,
-    "y": 0.08
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
         "x": -1.0,
         "y": -0.08
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -1.0,
+        "y": 0.08
       },
       "Size": 0.1
     }
@@ -31,7 +33,7 @@
         "x": 0.9,
         "y": 0.07
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -39,7 +41,7 @@
         "x": 0.9,
         "y": -0.07
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -47,7 +49,7 @@
         "x": 0.45,
         "y": -0.13
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -55,7 +57,7 @@
         "x": 0.3,
         "y": 0.15
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -63,7 +65,7 @@
         "x": -0.2,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -71,7 +73,7 @@
         "x": -0.5,
         "y": -0.27
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -79,7 +81,7 @@
         "x": -0.63,
         "y": 0.13
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

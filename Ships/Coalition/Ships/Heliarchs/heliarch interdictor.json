@@ -1,17 +1,14 @@
 {
   "ItemType": 6,
   "Id": 386,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 2,
   "Name": "Interdictor",
   "Faction": 208,
-  "SizeClass": 2,
   "IconImage": "interdictor icon.png",
   "IconScale": 1.0,
   "ModelImage": "interdictor.png",
   "ModelScale": 4.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#4C00FF",
   "Engines": [
     {
@@ -36,7 +33,7 @@
         "x": 0.9,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -44,21 +41,21 @@
         "x": 0.9,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
       "Position": {
         "y": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

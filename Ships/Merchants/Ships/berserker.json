@@ -7,11 +7,7 @@
   "IconScale": 0.5,
   "ModelImage": "berserker.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -24,6 +20,12 @@
         "x": -0.8,
         "y": 0.2
       }
+    },
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
     }
   ],
   "Layout": "000002200000000002200000000002200000000002200000000002200000000002200000000002200000440122221044441122221144111155551111000055550000000000000000",
@@ -33,14 +35,14 @@
         "x": -0.1,
         "y": 0.9
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": -0.1,
         "y": -0.9
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
   ]
 }

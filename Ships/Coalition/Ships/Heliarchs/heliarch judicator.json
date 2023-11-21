@@ -1,17 +1,14 @@
 {
   "ItemType": 6,
   "Id": 387,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 3,
   "Name": "Judicator",
   "Faction": 208,
-  "SizeClass": 3,
   "IconImage": "judicator icon.png",
   "IconScale": 1.0,
   "ModelImage": "judicator.png",
   "ModelScale": 5.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#4C00FF",
   "Engines": [
     {
@@ -36,7 +33,7 @@
         "x": 0.8,
         "y": 0.05
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -44,11 +41,11 @@
         "x": 0.8,
         "y": -0.05
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

@@ -7,9 +7,6 @@
   "IconScale": 0.5,
   "ModelImage": "heavy shuttle.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -33,7 +30,7 @@
       "Position": {
         "x": 0.8
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
   ]
 }

@@ -1,28 +1,25 @@
 {
   "ItemType": 6,
   "Id": 3029,
-  "ShipCategory": 6,
+  "ShipType": 1,
   "Name": "Far Osk Ionizer",
   "Faction": 213,
   "IconImage": "fo ionizer icon.png",
   "IconScale": 1.0,
   "ModelImage": "fo ionizer.png",
   "ModelScale": 1.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFA100",
   "Engines": [
     {
       "Position": {
-        "x": -0.7,
-        "y": -0.2
+        "x": -0.9,
+        "y": -0.1
       },
       "Size": 0.1
     },
     {
       "Position": {
-        "x": -0.7,
+        "x": -0.9,
         "y": 0.2
       },
       "Size": 0.1
@@ -32,10 +29,10 @@
   "Barrels": [
     {
       "Position": {
-        "x": 0.3,
-        "y": -0.1
+        "x": 0.9,
+        "y": -0.05
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -43,7 +40,7 @@
         "x": 0.2,
         "y": -0.25
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

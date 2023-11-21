@@ -7,13 +7,22 @@
   "IconScale": 1.0,
   "ModelImage": "boomerang.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#21007F",
-  "Regeneration": true,
-  "BuiltinDevices": [
-    9000
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.5
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -0.2
+      },
+      "Size": 0.1
+    }
   ],
   "Layout": "000000000000000000022221100000000222221110000002222221111000002442221111000022442221122200022222200122200022222000022200011322000011000011120000551000011100000550000005500000000000005500000000000000000000000000000000000000000",
   "Barrels": [
@@ -22,7 +31,13 @@
         "x": 0.3,
         "y": 0.5
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     }
-  ]
+  ],
+  "Features": {
+    "Regeneration": true,
+    "BuiltinDevices": [
+      9000
+    ]
+  }
 }

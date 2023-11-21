@@ -1,25 +1,29 @@
 {
   "ItemType": 6,
   "Id": 3012,
-  "ShipCategory": 6,
+  "ShipType": 1,
   "Name": "Pursuer",
   "Faction": 208,
   "IconImage": "pursuer icon.png",
   "IconScale": 1.0,
   "ModelImage": "pursuer.png",
   "ModelScale": 0.7,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "000004400000000004400000000002200000000002200000000012210000000012210000000012210000000112211000000112211000000112211000000112211000000055550000",
   "Barrels": [
     {
       "Position": {
         "x": 0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

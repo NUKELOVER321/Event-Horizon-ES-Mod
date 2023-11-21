@@ -7,9 +7,6 @@
   "IconScale": 1.0,
   "ModelImage": "Bulkort 2-V.png",
   "ModelScale": 1.25,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#008888",
   "Engines": [
     {
@@ -34,7 +31,7 @@
         "x": 0.7,
         "y": 0.2
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -42,7 +39,7 @@
         "x": 0.7,
         "y": -0.2
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
   ]

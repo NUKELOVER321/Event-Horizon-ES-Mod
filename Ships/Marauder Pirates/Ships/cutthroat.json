@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 445,
+  "SizeClass": 1,
   "Name": "Cutthroat",
   "Faction": 219,
-  "SizeClass": 1,
   "IconImage": "cutthroat icon.png",
   "IconScale": 1.0,
   "ModelImage": "cutthroat.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -35,7 +32,7 @@
         "x": 0.7,
         "y": 0.15
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -43,7 +40,7 @@
         "x": 0.7,
         "y": -0.15
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -51,7 +48,7 @@
         "x": 0.3,
         "y": 0.375
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -59,7 +56,7 @@
         "x": 0.3,
         "y": -0.375
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -67,7 +64,7 @@
         "x": -0.5,
         "y": 0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -75,7 +72,7 @@
         "x": -0.5,
         "y": -0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

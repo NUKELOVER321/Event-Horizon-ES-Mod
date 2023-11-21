@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 332,
+  "SizeClass": 2,
   "Name": "Manta",
   "Faction": 203,
-  "SizeClass": 2,
   "IconImage": "manta icon.png",
   "IconScale": 1.0,
   "ModelImage": "manta.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#009BFF",
   "Engines": [
     {
@@ -35,7 +32,7 @@
         "x": 0.4,
         "y": 0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -43,7 +40,7 @@
         "x": 0.4,
         "y": -0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

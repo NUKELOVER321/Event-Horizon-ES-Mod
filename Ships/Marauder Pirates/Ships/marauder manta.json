@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 438,
+  "SizeClass": 2,
   "Name": "Marauder Manta",
   "Faction": 219,
-  "SizeClass": 2,
   "IconImage": "marauder manta icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder manta.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -27,6 +23,12 @@
         "y": 0.4
       },
       "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.1
     }
   ],
   "Layout": "0000000222000000000000002220000000000000022200000000000440444044000004404404440440440044000044400004400111132222231111001111322222311110011113222223111100011132222231110000015552225551000000055522255500000000555222555000000000000200000000000000055500000000000000555000000000000005550000000",
@@ -36,14 +38,14 @@
         "x": 0.4,
         "y": 0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -51,7 +53,7 @@
         "x": 0.4,
         "y": -0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -59,7 +61,7 @@
         "x": 0.3,
         "y": -0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -67,7 +69,7 @@
         "x": 0.3,
         "y": 0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

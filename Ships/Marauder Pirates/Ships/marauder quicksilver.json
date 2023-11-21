@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 436,
+  "SizeClass": 1,
   "Name": "Marauder Quicksilver",
   "Faction": 219,
-  "SizeClass": 1,
   "IconImage": "marauder quicksilver icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder quicksilver.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -1.0
-  },
   "EngineColor": "#FFE100",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -27,6 +23,12 @@
         "y": 0.3
       },
       "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -1.0
+      },
+      "Size": 0.1
     }
   ],
   "Layout": "0000000000000000000000044044000000000001440441000000000012202210000000001122022110000000011220221100000000112202211000000001122222110000000011222221100000000012222210000000000122222100000000011244421100000001112444211100000011124442111000000115555555110000000055555550000000000005550000000",
@@ -36,7 +38,7 @@
         "x": 0.8,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -44,14 +46,14 @@
         "x": 0.8,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": -0.5
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

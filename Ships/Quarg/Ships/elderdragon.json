@@ -1,25 +1,27 @@
 {
   "ItemType": 6,
   "Id": 424,
-  "ShipCategory": 2,
+  "ShipType": 4,
+  "SizeClass": 4,
   "Name": "Elderdragon",
   "Faction": 214,
-  "SizeClass": 4,
   "IconImage": "elderdragon.png",
   "IconScale": 1.0,
   "ModelImage": "elderdragon.png",
   "ModelScale": 7.0,
-  "EnginePosition": {
-    "x": -0.7,
-    "y": 0.2
-  },
   "EngineColor": "#B200FF",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
         "x": -0.7,
         "y": -0.2
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.7,
+        "y": 0.2
       },
       "Size": 0.2
     }
@@ -30,7 +32,7 @@
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -38,7 +40,7 @@
         "x": 0.1,
         "y": 0.05
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -46,21 +48,21 @@
         "x": 0.1,
         "y": -0.05
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "y": 0.05
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "y": -0.05
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -68,7 +70,7 @@
         "x": -0.1,
         "y": 0.05
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -76,7 +78,7 @@
         "x": -0.1,
         "y": -0.05
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -84,7 +86,7 @@
         "x": -0.25,
         "y": 0.25
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -92,7 +94,7 @@
         "x": -0.25,
         "y": -0.25
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

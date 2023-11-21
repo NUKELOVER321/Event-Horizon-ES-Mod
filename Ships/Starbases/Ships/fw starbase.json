@@ -1,10 +1,10 @@
 {
   "ItemType": 6,
   "Id": 2204,
-  "ShipCategory": 4,
+  "ShipType": 2,
+  "SizeClass": 5,
   "Name": "Starbase",
   "Faction": 204,
-  "SizeClass": 4,
   "IconImage": "fw station.png",
   "IconScale": 1.0,
   "ModelImage": "fw station.png",
@@ -18,7 +18,7 @@
         "y": 0.3
       },
       "Rotation": 30.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "plasma turret sprite.png",
       "Size": 0.12
     },
@@ -28,7 +28,7 @@
         "y": -0.85
       },
       "Rotation": 300.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "heavy laser turret sprite.png",
       "Size": 0.12
     },
@@ -38,7 +38,7 @@
         "y": 0.85
       },
       "Rotation": 120.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "heavy laser turret sprite.png",
       "Size": 0.12
     },
@@ -48,7 +48,7 @@
         "y": -0.45
       },
       "Rotation": 210.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "plasma turret sprite.png",
       "Size": 0.12
     }

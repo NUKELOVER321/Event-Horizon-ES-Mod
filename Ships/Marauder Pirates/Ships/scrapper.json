@@ -7,9 +7,6 @@
   "IconScale": 0.75,
   "ModelImage": "scrapper.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -33,7 +30,7 @@
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
   ]
 }

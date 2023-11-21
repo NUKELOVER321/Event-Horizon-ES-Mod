@@ -1,25 +1,27 @@
 {
   "ItemType": 6,
   "Id": 406,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 1,
   "Name": "Met Par Tek 53",
   "Faction": 213,
-  "SizeClass": 1,
   "IconImage": "mpt 53 icon.png",
   "IconScale": 1.0,
   "ModelImage": "mpt 53.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -1.0,
-    "y": 0.2
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
         "x": -1.0,
         "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -1.0,
+        "y": 0.2
       },
       "Size": 0.1
     }
@@ -31,7 +33,7 @@
         "x": 0.9,
         "y": 0.2
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -39,14 +41,14 @@
         "x": 0.9,
         "y": -0.2
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": 0.7
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -54,7 +56,7 @@
         "x": 0.5,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -62,7 +64,7 @@
         "x": 0.5,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -70,7 +72,7 @@
         "x": 0.1,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -78,7 +80,7 @@
         "x": 0.1,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -86,7 +88,7 @@
         "x": -0.4,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -94,7 +96,7 @@
         "x": -0.4,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

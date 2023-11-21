@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 402,
+  "SizeClass": 2,
   "Name": "Strong Wind",
   "Faction": 211,
-  "SizeClass": 2,
   "IconImage": "strong wind icon.png",
   "IconScale": 1.0,
   "ModelImage": "strong wind.png",
   "ModelScale": 4.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -35,7 +32,7 @@
         "x": 0.8,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -43,7 +40,7 @@
         "x": 0.8,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -51,7 +48,7 @@
         "x": -0.1,
         "y": 0.5
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -59,7 +56,7 @@
         "x": -0.1,
         "y": 0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -67,7 +64,7 @@
         "x": -0.1,
         "y": -0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -75,7 +72,7 @@
         "x": -0.1,
         "y": -0.5
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
   ]

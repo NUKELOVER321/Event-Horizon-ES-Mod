@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 3021,
-  "ShipCategory": 6,
+  "ShipType": 1,
   "Name": "Far Lek 14",
   "Faction": 213,
   "IconImage": "fl 14 icon.png",
   "IconScale": 1.0,
   "ModelImage": "fl 14.png",
   "ModelScale": 0.8,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFA100",
   "Engines": [
     {
@@ -27,7 +24,7 @@
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

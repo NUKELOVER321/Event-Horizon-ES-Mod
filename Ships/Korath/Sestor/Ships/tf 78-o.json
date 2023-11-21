@@ -1,20 +1,15 @@
 {
   "ItemType": 6,
   "Id": 408,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 2,
   "Name": "Tek Far 78-Ost",
   "Faction": 213,
-  "SizeClass": 2,
   "IconImage": "tf 78-o icon.png",
   "IconScale": 1.0,
   "ModelImage": "tf 78-o.png",
   "ModelScale": 4.0,
-  "EnginePosition": {
-    "x": -1.0,
-    "y": 0.05
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -25,8 +20,8 @@
     },
     {
       "Position": {
-        "x": -1.1,
-        "y": -0.1
+        "x": -1.0,
+        "y": 0.05
       },
       "Size": 0.1
     }
@@ -37,7 +32,7 @@
       "Position": {
         "x": 1.0
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -45,7 +40,7 @@
         "x": 0.6,
         "y": -0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -53,14 +48,14 @@
         "x": 0.4,
         "y": -0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "y": -0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -68,7 +63,7 @@
         "x": -0.7,
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

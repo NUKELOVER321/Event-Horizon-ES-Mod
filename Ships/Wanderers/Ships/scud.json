@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 3020,
-  "ShipCategory": 6,
+  "ShipType": 1,
   "Name": "Scud",
   "Faction": 211,
   "IconImage": "scud icon.png",
   "IconScale": 1.0,
   "ModelImage": "scud.png",
   "ModelScale": 0.8,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -34,7 +31,7 @@
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

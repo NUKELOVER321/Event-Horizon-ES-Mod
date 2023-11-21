@@ -24,7 +24,6 @@
       "Locked": true,
       "X": 15,
       "Y": 17,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
@@ -32,7 +31,6 @@
       "Locked": true,
       "X": 10,
       "Y": 10,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
@@ -40,7 +38,6 @@
       "Locked": true,
       "X": 21,
       "Y": 11,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
@@ -48,7 +45,6 @@
       "Locked": true,
       "X": 22,
       "Y": 20,
-      "BarrelId": -1,
       "KeyBinding": 1
     },
     {
@@ -56,7 +52,6 @@
       "Locked": true,
       "X": 6,
       "Y": 9,
-      "BarrelId": -1,
       "KeyBinding": 1
     }
   ]

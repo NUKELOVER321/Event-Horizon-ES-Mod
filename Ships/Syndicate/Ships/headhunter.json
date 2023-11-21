@@ -7,11 +7,15 @@
   "IconScale": 1.0,
   "ModelImage": "headhunter.png",
   "ModelScale": 1.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFCA00",
-  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "0000000220000000000000022000000000000002200000000000044224400000000004422440000000000002200000000000044224400000000004422440000000000132231000000000013223100000000011355311000000011325523110000001322552231000001122255222110000100000000001000000000000000000",
   "Barrels": [
     {
@@ -19,28 +23,28 @@
         "x": 0.5,
         "y": 0.2
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.5,
         "y": -0.2
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.3,
         "y": 0.3
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.3,
         "y": -0.3
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
   ]
 }

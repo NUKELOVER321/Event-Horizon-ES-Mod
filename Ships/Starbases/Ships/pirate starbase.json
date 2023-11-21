@@ -1,10 +1,10 @@
 {
   "ItemType": 6,
   "Id": 2202,
-  "ShipCategory": 4,
+  "ShipType": 2,
+  "SizeClass": 5,
   "Name": "Starbase",
   "Faction": 202,
-  "SizeClass": 4,
   "IconImage": "pirate station.png",
   "IconScale": 1.0,
   "ModelImage": "pirate station.png",
@@ -18,7 +18,7 @@
         "y": -0.55
       },
       "Rotation": 300.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "quad blaster turret sprite.png",
       "Size": 0.12
     },
@@ -28,7 +28,7 @@
         "y": 0.25
       },
       "Rotation": 30.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "laser turret sprite.png",
       "Size": 0.12
     },
@@ -38,7 +38,7 @@
         "y": -0.25
       },
       "Rotation": 200.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "laser turret sprite.png",
       "Size": 0.12
     },
@@ -48,7 +48,7 @@
         "y": 0.55
       },
       "Rotation": 150.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "quad blaster turret sprite.png",
       "Size": 0.12
     }

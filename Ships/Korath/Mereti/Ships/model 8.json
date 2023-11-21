@@ -1,24 +1,26 @@
 {
   "ItemType": 6,
   "Id": 413,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
   "Name": "Model 8",
   "Faction": 212,
   "IconImage": "model 8 icon.png",
   "IconScale": 1.0,
   "ModelImage": "model 8.png",
   "ModelScale": 2.0,
-  "EnginePosition": {
-    "x": -0.96,
-    "y": 0.24
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
         "x": -0.96,
         "y": -0.21
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.96,
+        "y": 0.24
       },
       "Size": 0.1
     }
@@ -30,7 +32,7 @@
         "x": 0.7,
         "y": -0.2
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -38,7 +40,7 @@
         "x": 0.4,
         "y": 0.2
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

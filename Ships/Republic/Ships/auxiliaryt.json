@@ -1,17 +1,14 @@
 {
   "ItemType": 6,
   "Id": 3512,
-  "ShipCategory": 2,
+  "ShipType": 4,
+  "SizeClass": 4,
   "Name": "Auxiliary (T)",
   "Faction": 205,
-  "SizeClass": 4,
   "IconImage": "auxiliaryt icon.png",
   "IconScale": 1.0,
   "ModelImage": "auxiliaryt.png",
   "ModelScale": 6.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00B2FF",
   "Engines": [
     {
@@ -36,7 +33,7 @@
         "x": 0.95,
         "y": 0.05
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -44,14 +41,14 @@
         "x": 0.95,
         "y": -0.05
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": 0.4
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -59,14 +56,14 @@
         "x": 0.15,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "x": 0.15
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -74,14 +71,14 @@
         "x": 0.15,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "x": -0.15
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -89,7 +86,7 @@
         "x": -0.35,
         "y": -0.4
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -97,14 +94,14 @@
         "x": -0.35,
         "y": 0.4
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "x": -0.4
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

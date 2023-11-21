@@ -1,17 +1,14 @@
 {
   "ItemType": 6,
   "Id": 453,
-  "ShipCategory": 2,
+  "ShipType": 4,
+  "SizeClass": 4,
   "Name": "Tyar'linhalf 67-G",
   "Faction": 220,
-  "SizeClass": 4,
   "IconImage": "Tyar'linhalf 67-G.png",
   "IconScale": 1.0,
   "ModelImage": "Tyar'linhalf 67-G.png",
   "ModelScale": 6.25,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#008888",
   "Engines": [
     {
@@ -49,7 +46,7 @@
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -57,7 +54,7 @@
         "x": 0.65,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -65,7 +62,7 @@
         "x": 0.65,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -73,7 +70,7 @@
         "x": 0.6,
         "y": 0.05
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -81,7 +78,7 @@
         "x": 0.6,
         "y": -0.05
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -89,7 +86,7 @@
         "x": -0.15,
         "y": 0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -97,7 +94,7 @@
         "x": -0.15,
         "y": -0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -105,7 +102,7 @@
         "x": -0.35,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -113,7 +110,7 @@
         "x": -0.35,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

@@ -10,6 +10,7 @@
   "Icon": "cooling module.png",
   "Layout": "1",
   "CellType": "2",
+  "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     2
   ]

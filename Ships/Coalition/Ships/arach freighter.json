@@ -1,18 +1,14 @@
 {
   "ItemType": 6,
   "Id": 372,
+  "SizeClass": 2,
   "Name": "Arach Freighter",
   "Faction": 218,
-  "SizeClass": 2,
   "IconImage": "arach freighter icon.png",
   "IconScale": 1.0,
   "ModelImage": "arach freighter.png",
   "ModelScale": 4.5,
-  "EnginePosition": {
-    "x": -1.0
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -27,6 +23,12 @@
         "y": 0.1
       },
       "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -1.0
+      },
+      "Size": 0.1
     }
   ],
   "Layout": "0000000442244000000000000004422440000000000000001221000000000000000012210000000000000000022000000000000000443333440000000000004433334400000000000003333330000000000000033333300000000000000333333000000000000000111100000000000000033333300000000000000333333000000000000003333330000000000000003333000000000000000002200000000000000000022000000000000000005555000000000000000055550000000000000000555500000000",
@@ -36,7 +38,7 @@
         "x": 0.9,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -44,7 +46,7 @@
         "x": 0.9,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -52,7 +54,7 @@
         "x": 0.4,
         "y": 0.2
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -60,7 +62,7 @@
         "x": 0.4,
         "y": -0.2
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
   ]

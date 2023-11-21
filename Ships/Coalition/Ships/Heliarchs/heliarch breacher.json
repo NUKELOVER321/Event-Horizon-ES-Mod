@@ -1,19 +1,15 @@
 {
   "ItemType": 6,
   "Id": 383,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 1,
   "Name": "Breacher",
   "Faction": 208,
-  "SizeClass": 1,
   "IconImage": "breacher icon.png",
   "IconScale": 1.0,
   "ModelImage": "breacher.png",
   "ModelScale": 3.5,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#4C00FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
@@ -28,6 +24,12 @@
         "y": 0.2
       },
       "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.1
     }
   ],
   "Layout": "000000044424440000000000000044424440000000000000044424440000000000000000222000000000000000000222000000000000000000222000000000000000003222300000000000000013222310000000000000013222310000000000000011444110000000000000011444110000000000000011444110000000000000013222310000000000000013222310000000000000013222310000000000000113222311000000000001113222311100000000001113222311100000000001155222551100000000005555222555500000000005500020005500000",
@@ -37,7 +39,7 @@
         "x": 0.8,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -45,11 +47,11 @@
         "x": 0.8,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

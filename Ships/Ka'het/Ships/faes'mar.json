@@ -1,25 +1,29 @@
 {
   "ItemType": 6,
   "Id": 3016,
-  "ShipCategory": 6,
+  "ShipType": 1,
   "Name": "Faes'mar",
   "Faction": 210,
   "IconImage": "faes'mar icon.png",
   "IconScale": 1.0,
   "ModelImage": "faes'mar.png",
   "ModelScale": 0.8,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#8700FF",
-  "EngineSize": 0.1,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "0001441000000144100000011110000001111000000111100000022220000002222000000222200000055550000000000000",
   "Barrels": [
     {
       "Position": {
         "x": 0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ]

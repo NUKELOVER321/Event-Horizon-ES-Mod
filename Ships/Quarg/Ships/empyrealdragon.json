@@ -1,25 +1,27 @@
 {
   "ItemType": 6,
   "Id": 423,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 3,
   "Name": "Empyrealdragon",
   "Faction": 214,
-  "SizeClass": 3,
   "IconImage": "empyrealdragon.png",
   "IconScale": 1.0,
   "ModelImage": "empyrealdragon.png",
   "ModelScale": 6.0,
-  "EnginePosition": {
-    "x": -0.6,
-    "y": 0.2
-  },
   "EngineColor": "#B200FF",
-  "EngineSize": 0.15,
   "Engines": [
     {
       "Position": {
         "x": -0.6,
         "y": -0.2
+      },
+      "Size": 0.15
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": 0.2
       },
       "Size": 0.15
     }
@@ -30,7 +32,7 @@
       "Position": {
         "x": 0.6
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -38,7 +40,7 @@
         "x": 0.1,
         "y": 0.05
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -46,7 +48,7 @@
         "x": 0.1,
         "y": -0.05
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -54,7 +56,7 @@
         "x": -0.1,
         "y": 0.05
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -62,7 +64,7 @@
         "x": -0.1,
         "y": -0.05
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -70,7 +72,7 @@
         "x": -0.25,
         "y": 0.25
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -78,7 +80,7 @@
         "x": -0.25,
         "y": -0.25
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

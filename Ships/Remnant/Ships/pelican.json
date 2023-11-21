@@ -1,35 +1,37 @@
 {
   "ItemType": 6,
   "Id": 367,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 3,
   "Name": "Pelican",
   "Faction": 207,
-  "SizeClass": 3,
   "IconImage": "pelican icon.png",
   "IconScale": 1.0,
   "ModelImage": "pelican.png",
   "ModelScale": 4.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#3C2F6F",
   "Engines": [
     {
       "Position": {
-        "x": -0.9,
-        "y": -0.2
+        "x": -0.7,
+        "y": -0.1
       },
       "Size": 0.1
     },
     {
       "Position": {
-        "x": -0.9,
-        "y": 0.2
+        "x": -0.7,
+        "y": 0.1
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.8
       },
       "Size": 0.1
     }
   ],
-  "Regeneration": true,
   "Layout": "0000000000000000000000000000000022000000000000000000002200000000000000000000220000000000000000000022000000000000000004442244400000000000000444224440000000000000044422444000000000000000022220000000000000000444224440000000000000044422444000000000000004442244400000000000001112222111000000000000111222211100000000000011122221110000000000011112222111100000000001111222211110000000000111055550111000000000111005555001110000000111100055000111100000001100000000001100000000000000000000000000",
   "Barrels": [
     {
@@ -37,7 +39,7 @@
         "x": 0.6,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -45,7 +47,7 @@
         "x": 0.6,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -53,7 +55,7 @@
         "x": -0.2,
         "y": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -61,8 +63,11 @@
         "x": -0.2,
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ]
+  ],
+  "Features": {
+    "Regeneration": true
+  }
 }

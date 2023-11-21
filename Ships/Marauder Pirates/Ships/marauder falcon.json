@@ -1,17 +1,14 @@
 {
   "ItemType": 6,
   "Id": 442,
-  "ShipCategory": 2,
+  "ShipType": 4,
+  "SizeClass": 4,
   "Name": "Marauder Falcon",
   "Faction": 219,
-  "SizeClass": 4,
   "IconImage": "marauder falcon icon.png",
   "IconScale": 1.0,
   "ModelImage": "marauder falcon.png",
   "ModelScale": 5.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -50,7 +47,7 @@
         "x": 0.7,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -58,7 +55,7 @@
         "x": 0.7,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -66,7 +63,7 @@
         "x": 0.4,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -74,7 +71,7 @@
         "x": 0.4,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -82,7 +79,7 @@
         "x": 0.2,
         "y": 0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -90,7 +87,7 @@
         "x": 0.2,
         "y": -0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -98,7 +95,7 @@
         "x": -0.25,
         "y": 0.35
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -106,7 +103,7 @@
         "x": -0.25,
         "y": -0.35
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

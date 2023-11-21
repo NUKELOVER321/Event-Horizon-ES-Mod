@@ -7,9 +7,6 @@
   "IconScale": 1.0,
   "ModelImage": "aphid.png",
   "ModelScale": 1.25,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#0094FF",
   "Engines": [
     {
@@ -33,7 +30,7 @@
       "Position": {
         "x": 0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
   ]

@@ -1,17 +1,14 @@
 {
   "ItemType": 6,
   "Id": 344,
-  "ShipCategory": 1,
+  "ShipRarity": 1,
+  "SizeClass": 3,
   "Name": "Skein",
   "Faction": 204,
-  "SizeClass": 3,
   "IconImage": "skein icon.png",
   "IconScale": 1.0,
   "ModelImage": "skein.png",
   "ModelScale": 5.5,
-  "EnginePosition": {
-    "x": -0.9
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -42,7 +39,7 @@
         "x": 0.5,
         "y": 0.15
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -50,7 +47,7 @@
         "x": 0.5,
         "y": -0.15
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -58,7 +55,7 @@
         "x": -0.5,
         "y": 0.15
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -66,7 +63,7 @@
         "x": -0.5,
         "y": -0.15
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     }
   ]

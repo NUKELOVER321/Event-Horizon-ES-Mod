@@ -1,19 +1,22 @@
 {
   "ItemType": 6,
   "Id": 3010,
-  "ShipCategory": 6,
+  "ShipType": 1,
   "Name": "Petrel",
   "Faction": 207,
   "IconImage": "petrel icon.png",
   "IconScale": 1.0,
   "ModelImage": "petrel.png",
   "ModelScale": 0.7,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#3C2F6F",
-  "EngineSize": 0.1,
-  "Regeneration": true,
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "0044004400004422440000012210000011221100001122110000112211000011221100000122100000005500000000000000",
   "Barrels": [
     {
@@ -21,7 +24,7 @@
         "x": 0.8,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -29,8 +32,11 @@
         "x": 0.8,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ]
+  ],
+  "Features": {
+    "Regeneration": true
+  }
 }

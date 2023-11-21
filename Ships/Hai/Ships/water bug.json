@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 357,
+  "SizeClass": 2,
   "Name": "Water Bug",
   "Faction": 206,
-  "SizeClass": 2,
   "IconImage": "water bug icon.png",
   "IconScale": 1.0,
   "ModelImage": "water bug.png",
   "ModelScale": 3.25,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "Engines": [
     {
       "Position": {
@@ -33,7 +30,7 @@
       "Position": {
         "x": 0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -41,7 +38,7 @@
         "x": 0.1,
         "y": 0.5
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -49,7 +46,7 @@
         "x": 0.1,
         "y": -0.5
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

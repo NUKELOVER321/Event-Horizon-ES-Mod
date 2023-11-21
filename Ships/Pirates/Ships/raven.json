@@ -1,21 +1,18 @@
 {
   "ItemType": 6,
   "Id": 328,
+  "SizeClass": 1,
   "Name": "Raven",
   "Faction": 202,
-  "SizeClass": 1,
   "IconImage": "raven icon.png",
   "IconScale": 1.0,
   "ModelImage": "raven.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
       "Position": {
-        "x": -0.4
+        "x": -0.6
       },
       "Size": 0.1
     }
@@ -27,14 +24,14 @@
         "x": 0.3,
         "y": 0.15
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.3,
         "y": -0.15
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
   ]
 }

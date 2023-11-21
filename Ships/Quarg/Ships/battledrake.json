@@ -1,24 +1,26 @@
 {
   "ItemType": 6,
   "Id": 3023,
-  "ShipCategory": 6,
+  "ShipType": 1,
   "Name": "Battledrake",
   "Faction": 214,
   "IconImage": "battledrake.png",
   "IconScale": 1.0,
   "ModelImage": "battledrake.png",
   "ModelScale": 1.0,
-  "EnginePosition": {
-    "x": -0.6,
-    "y": 0.2
-  },
   "EngineColor": "#B200FF",
-  "EngineSize": 0.1,
   "Engines": [
     {
       "Position": {
         "x": -0.6,
         "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": 0.2
       },
       "Size": 0.1
     }
@@ -29,7 +31,7 @@
       "Position": {
         "x": 0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CL"
     }
   ]

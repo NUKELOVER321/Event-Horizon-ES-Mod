@@ -7,9 +7,6 @@
   "IconScale": 0.5,
   "ModelImage": "wasp.png",
   "ModelScale": 1.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -25,21 +22,21 @@
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.7,
         "y": 0.3
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.7,
         "y": -0.3
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
   ]
 }

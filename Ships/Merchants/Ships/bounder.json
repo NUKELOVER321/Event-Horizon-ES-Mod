@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 316,
+  "SizeClass": 1,
   "Name": "Bounder",
   "Faction": 201,
-  "SizeClass": 1,
   "IconImage": "bounder icon.png",
   "IconScale": 0.75,
   "ModelImage": "bounder.png",
   "ModelScale": 2.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#00BFFF",
   "Engines": [
     {
@@ -26,13 +23,13 @@
       "Position": {
         "y": 0.4
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
         "y": -0.4
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     }
   ]
 }

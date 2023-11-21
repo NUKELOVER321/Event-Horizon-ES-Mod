@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 400,
+  "SizeClass": 1,
   "Name": "Autumn Leaf",
   "Faction": 211,
-  "SizeClass": 1,
   "IconImage": "autumn leaf icon.png",
   "IconScale": 1.0,
   "ModelImage": "autumn leaf.png",
   "ModelScale": 3.0,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -35,7 +32,7 @@
         "x": 0.3,
         "y": 0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -43,14 +40,14 @@
         "x": 0.3,
         "y": -0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
       "Position": {
         "x": -0.4
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

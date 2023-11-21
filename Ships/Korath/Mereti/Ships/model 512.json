@@ -1,25 +1,27 @@
 {
   "ItemType": 6,
   "Id": 419,
-  "ShipCategory": 2,
+  "ShipType": 4,
+  "SizeClass": 4,
   "Name": "Model 512",
   "Faction": 212,
-  "SizeClass": 4,
   "IconImage": "model 512 icon.png",
   "IconScale": 1.0,
   "ModelImage": "model 512.png",
   "ModelScale": 7.0,
-  "EnginePosition": {
-    "x": -0.52,
-    "y": 0.77
-  },
   "EngineColor": "#7DEF9F0F",
-  "EngineSize": 0.2,
   "Engines": [
     {
       "Position": {
         "x": -0.53,
         "y": -0.77
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": -0.52,
+        "y": 0.77
       },
       "Size": 0.2
     }
@@ -31,7 +33,7 @@
         "x": 0.8,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -39,7 +41,7 @@
         "x": 0.8,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -47,7 +49,7 @@
         "x": 0.7,
         "y": 0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -55,7 +57,7 @@
         "x": 0.53,
         "y": -0.48
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -63,7 +65,7 @@
         "x": 0.3,
         "y": -0.65
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -71,7 +73,7 @@
         "x": 0.18,
         "y": 0.7
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -79,7 +81,7 @@
         "x": -0.1,
         "y": -0.73
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -87,7 +89,7 @@
         "x": -0.45,
         "y": 0.65
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -95,7 +97,7 @@
         "x": -0.72,
         "y": -0.29
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ]

@@ -1,20 +1,49 @@
 {
   "ItemType": 6,
   "Id": 462,
+  "SizeClass": 2,
   "Name": "Void Sprite",
   "Faction": 215,
-  "SizeClass": 2,
   "IconImage": "void sprite adult icon.png",
   "IconScale": 1.0,
   "ModelImage": "void sprite adult.png",
   "ModelScale": 3.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#C7FF00",
-  "Regeneration": true,
-  "BuiltinDevices": [
-    9000
+  "Engines": [
+    {
+      "Position": {
+        "x": 0.2,
+        "y": 0.5
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": 0.2,
+        "y": -0.5
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": 0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.4,
+        "y": -0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -1.0
+      },
+      "Size": 0.2
+    }
   ],
   "Layout": "0000044044004404400000000114414411441440000000000112224422211111000111111222442221110000000011122222222111000000000112222222211111000000001122222211000000000000001322310000000000005511132231115500000000551113223111550000000000011322311000000000000000112211000000000000000011221100000000000000001122110000000000000005512215500000000000000551221550000000000000000022000000000000000000002200000000000000000000220000000000000000000022000000000000000000002200000000000000000000220000000000",
   "Barrels": [
@@ -23,34 +52,40 @@
         "x": 0.9,
         "y": 0.1
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.9,
         "y": 0.033
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.9,
         "y": -0.033
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.9,
         "y": -0.1
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.8
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
-  ]
+  ],
+  "Features": {
+    "Regeneration": true,
+    "BuiltinDevices": [
+      9000
+    ]
+  }
 }

@@ -1,16 +1,13 @@
 {
   "ItemType": 6,
   "Id": 444,
+  "SizeClass": 1,
   "Name": "Nighthawk",
   "Faction": 219,
-  "SizeClass": 1,
   "IconImage": "nighthawk icon.png",
   "IconScale": 1.0,
   "ModelImage": "nighthawk.png",
   "ModelScale": 2.5,
-  "EnginePosition": {
-    "x": -0.8
-  },
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -34,7 +31,7 @@
       "Position": {
         "x": 0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -42,7 +39,7 @@
         "x": -0.15,
         "y": 0.35
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -50,7 +47,7 @@
         "x": -0.15,
         "y": -0.35
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     }
   ]

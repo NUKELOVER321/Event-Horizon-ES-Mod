@@ -1,10 +1,10 @@
 {
   "ItemType": 6,
   "Id": 2215,
-  "ShipCategory": 4,
+  "ShipType": 2,
+  "SizeClass": 5,
   "Name": "Starbase",
   "Faction": 218,
-  "SizeClass": 4,
   "IconImage": "coalition station.png",
   "IconScale": 1.0,
   "ModelImage": "coalition station.png",
@@ -18,7 +18,7 @@
         "y": -0.1
       },
       "Rotation": 320.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "heliarch attractor turret sprite.png",
       "Size": 0.12
     },
@@ -28,7 +28,7 @@
         "y": 0.68
       },
       "Rotation": 70.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "heliarch repulsor turret sprite.png",
       "Size": 0.12
     },
@@ -38,7 +38,7 @@
         "y": 0.15
       },
       "Rotation": 140.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "heliarch attractor turret sprite.png",
       "Size": 0.12
     },
@@ -48,7 +48,7 @@
         "y": -0.3
       },
       "Rotation": 210.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "heliarch repulsor turret sprite.png",
       "Size": 0.12
     }
