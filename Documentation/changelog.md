@@ -689,6 +689,18 @@ Changelog:
     - Remade the 1vet and 2vet Freighter (removed anti-missile, added shields to 2vet)
     - Remade the 1vet Dreadnought (heavy lasers -> plasma turrets)
     - Buffed the Mule (larger cell grid)
+    - Buffed the Vanguard (it can fit S970 shield regeneraotrs when expanded)
+    - Buffed the Lightning Bug (+2 engine cells)
+    - Added cells to these ships to make the cell layout match the ship image
+      - Corvette
+      - Bactrian
+      - Splinter
+      - Protector
+      - Flivver
+      - Hawk
+      - Sparrow
+      - Pug ships
+    - Fixed Sestor and Heliarchs starbases appearing in incorrect factions
   - Added researchable variants of the Republic of Earth Navy Auxiliary
   - Tech Changes
     - Moved human shield tech to Merchants tech tree
