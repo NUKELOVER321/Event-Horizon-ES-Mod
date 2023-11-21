@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 2000,
+  "ShipType": 3,
   "SizeClass": 4,
   "Name": "Starbase",
   "IconImage": "starfortress.png",
@@ -13,7 +14,7 @@
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -21,7 +22,7 @@
         "y": 0.3
       },
       "Rotation": 22.5,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -29,7 +30,7 @@
         "y": -0.3
       },
       "Rotation": -22.5,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -37,7 +38,7 @@
         "y": 0.6
       },
       "Rotation": 45.0,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -45,7 +46,7 @@
         "y": -0.6
       },
       "Rotation": -45.0,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -53,7 +54,7 @@
         "y": 0.8
       },
       "Rotation": 67.5,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -61,24 +62,24 @@
         "y": -0.8
       },
       "Rotation": -67.5,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
         "y": 0.9
       },
       "Rotation": 90.0,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
-      "PlatformType": 1
+      "AutoAimingArc": 360.0
     },
     {
       "Position": {
         "y": -0.9
       },
       "Rotation": -90.0,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -86,7 +87,7 @@
         "y": 0.8
       },
       "Rotation": 112.5,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -94,7 +95,7 @@
         "y": -0.8
       },
       "Rotation": -112.5,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -102,7 +103,7 @@
         "y": 0.6
       },
       "Rotation": 135.0,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -110,7 +111,7 @@
         "y": -0.6
       },
       "Rotation": -135.0,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -118,7 +119,7 @@
         "y": 0.3
       },
       "Rotation": 157.5,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -126,15 +127,14 @@
         "y": -0.3
       },
       "Rotation": -157.5,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
         "x": -0.9
       },
       "Rotation": 180.0,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     }
-  ],
-  "ShipCategory": 3
+  ]
 }

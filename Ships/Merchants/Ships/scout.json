@@ -12,14 +12,14 @@
   "Engines": [
     {
       "Position": {
-        "x": -0.8,
+        "x": -0.9,
         "y": -0.4
       },
       "Size": 0.1
     },
     {
       "Position": {
-        "x": -0.8,
+        "x": -0.9,
         "y": 0.4
       },
       "Size": 0.1
@@ -32,17 +32,14 @@
         "x": 0.1,
         "y": 0.4
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.1,
         "y": -0.4
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  }
+  ]
 }

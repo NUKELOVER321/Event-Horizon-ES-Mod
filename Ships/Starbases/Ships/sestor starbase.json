@@ -1,7 +1,8 @@
 {
   "ItemType": 6,
   "Id": 2213,
-  "SizeClass": 4,
+  "ShipType": 2,
+  "SizeClass": 5,
   "Name": "Starbase",
   "Faction": 213,
   "IconImage": "sestor station.png",
@@ -17,7 +18,7 @@
         "y": -0.4
       },
       "Rotation": 340.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "detainer turret sprite.png",
       "Size": 0.12
     },
@@ -27,7 +28,7 @@
         "y": 0.8
       },
       "Rotation": 60.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "repeater turret sprite.png",
       "Size": 0.12
     },
@@ -37,7 +38,7 @@
         "y": -0.8
       },
       "Rotation": 240.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "repeater turret sprite.png",
       "Size": 0.12
     },
@@ -47,10 +48,9 @@
         "y": 0.4004193
       },
       "Rotation": 160.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "detainer turret sprite.png",
       "Size": 0.12
     }
-  ],
-  "ShipCategory": 4
+  ]
 }

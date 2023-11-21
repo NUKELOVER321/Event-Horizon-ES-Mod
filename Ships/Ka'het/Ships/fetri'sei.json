@@ -15,6 +15,13 @@
         "y": -0.2
       },
       "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.8,
+        "y": 0.2
+      },
+      "Size": 0.1
     }
   ],
   "Layout": "0044004400004422440000132231000013223100001322310000132231000013223100001322310000115511000000550000",
@@ -24,7 +31,7 @@
         "x": 0.8,
         "y": 0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -32,14 +39,11 @@
         "x": 0.8,
         "y": -0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
   ],
-  "EnginePosition": {
-    "x": -0.8,
-    "y": 0.2
-  },
-  "EngineSize": 0.1,
-  "Regeneration": true
+  "Features": {
+    "Regeneration": true
+  }
 }

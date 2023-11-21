@@ -1,7 +1,8 @@
 {
   "ItemType": 6,
   "Id": 2206,
-  "SizeClass": 4,
+  "ShipType": 2,
+  "SizeClass": 5,
   "Name": "Starbase",
   "Faction": 206,
   "IconImage": "hai station.png",
@@ -17,7 +18,7 @@
         "y": -0.2
       },
       "Rotation": 330.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "pulse turret sprite.png",
       "Size": 0.12
     },
@@ -27,7 +28,7 @@
         "y": -0.55
       },
       "Rotation": 330.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "pulse turret sprite.png",
       "Size": 0.12
     },
@@ -37,7 +38,7 @@
         "y": 0.65
       },
       "Rotation": 150.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "pulse turret sprite.png",
       "Size": 0.12
     },
@@ -47,10 +48,9 @@
         "y": 0.16
       },
       "Rotation": 150.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "pulse turret sprite.png",
       "Size": 0.12
     }
-  ],
-  "ShipCategory": 4
+  ]
 }

@@ -8,6 +8,28 @@
   "ModelImage": "squid.png",
   "ModelScale": 1.5,
   "EngineColor": "#FF6A00",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": 0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.6,
+        "y": -0.3
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "000000010000000000000222000000000001222100000000011222110000000111222111000001111222111100001144222441100000144222441000000011222110000000011222110000000005222500000000005222500000000000050000000000000050000000000000000000000",
   "Barrels": [
     {
@@ -15,22 +37,21 @@
         "x": 0.1,
         "y": 0.4
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
         "x": 0.1,
         "y": -0.4
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     }
   ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "Regeneration": true,
-  "BuiltinDevices": [
-    9000,
-    1346
-  ]
+  "Features": {
+    "Regeneration": true,
+    "BuiltinDevices": [
+      9000,
+      1346
+    ]
+  }
 }

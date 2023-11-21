@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 329,
+  "ShipRarity": 1,
   "SizeClass": 1,
   "Name": "Marauder Fury",
   "Faction": 202,
@@ -23,6 +24,12 @@
         "y": -0.5
       },
       "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.2
     }
   ],
   "Layout": "000000010000000000000111000000000000111000000000044111440000000044222440000000112222211000000112222211000000112222211000000112222211000440112222211044441112222211144111112222211111111551555155111110551555155011000000555000000",
@@ -32,31 +39,26 @@
         "x": 0.6,
         "y": 0.4
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.6,
         "y": -0.4
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "y": 0.9
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "y": -0.9
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
-  ],
-  "EnginePosition": {
-    "x": -0.9
-  },
-  "EngineSize": 0.2,
-  "ShipCategory": 1
+  ]
 }

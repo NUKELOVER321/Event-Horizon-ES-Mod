@@ -5,7 +5,6 @@
   "XmasDaysAfter": 15,
   "EnableEasterEvent": true,
   "EasterQuest": 10,
-  "EnableHalloweenEvent": true,
   "HalloweenDaysBefore": 5,
   "HalloweenDaysAfter": 1
 }

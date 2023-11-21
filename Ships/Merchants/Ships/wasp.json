@@ -22,24 +22,21 @@
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.7,
         "y": 0.3
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.7,
         "y": -0.3
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  }
+  ]
 }

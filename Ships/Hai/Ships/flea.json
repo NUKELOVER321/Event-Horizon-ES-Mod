@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 3008,
+  "ShipType": 1,
   "Name": "Flea",
   "Faction": 206,
   "IconImage": "flea icon.png",
@@ -8,19 +9,22 @@
   "ModelImage": "flea.png",
   "ModelScale": 0.7,
   "EngineColor": "#0094FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "0004400000144100013223100132231001322310011551100015510000000000",
   "Barrels": [
     {
       "Position": {
         "x": 0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "EngineSize": 0.1,
-  "ShipCategory": 6
+  ]
 }

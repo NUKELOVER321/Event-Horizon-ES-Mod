@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 345,
+  "ShipType": 4,
   "SizeClass": 4,
   "Name": "Dreadnought",
   "Faction": 204,
@@ -32,7 +33,7 @@
         "x": 0.9,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -40,7 +41,7 @@
         "x": 0.9,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -48,7 +49,7 @@
         "x": 0.95,
         "y": 0.05
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -56,7 +57,7 @@
         "x": 0.95,
         "y": -0.05
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -64,7 +65,7 @@
         "x": 0.4,
         "y": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -72,7 +73,7 @@
         "x": 0.4,
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -80,7 +81,7 @@
         "x": -0.3,
         "y": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -88,12 +89,8 @@
         "x": -0.3,
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.9
-  },
-  "ShipCategory": 2
+  ]
 }

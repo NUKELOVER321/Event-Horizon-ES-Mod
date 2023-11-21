@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 3025,
+  "ShipType": 1,
   "Name": "Zambor",
   "Faction": 216,
   "IconImage": "zambor.png",
@@ -31,7 +32,7 @@
         "x": 0.8,
         "y": 0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -39,13 +40,11 @@
         "x": 0.8,
         "y": -0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
   ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "ShipCategory": 6,
-  "Regeneration": true
+  "Features": {
+    "Regeneration": true
+  }
 }

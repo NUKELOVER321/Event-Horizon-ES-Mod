@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 385,
+  "ShipRarity": 1,
   "SizeClass": 2,
   "Name": "Hunter",
   "Faction": 208,
@@ -31,7 +32,7 @@
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -39,7 +40,7 @@
         "x": 0.8,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -47,7 +48,7 @@
         "x": 0.8,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -55,7 +56,7 @@
         "x": -0.1,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -63,12 +64,8 @@
         "x": -0.1,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "ShipCategory": 1
+  ]
 }

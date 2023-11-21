@@ -1,7 +1,8 @@
 {
   "ItemType": 6,
   "Id": 2201,
-  "SizeClass": 4,
+  "ShipType": 2,
+  "SizeClass": 5,
   "Name": "Starbase",
   "Faction": 201,
   "IconImage": "merchant station.png",
@@ -17,7 +18,7 @@
         "y": 0.46
       },
       "Rotation": 30.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "blaster turret sprite.png",
       "Size": 0.12
     },
@@ -26,7 +27,7 @@
         "x": 0.2,
         "y": -0.2
       },
-      "PlatformType": 1,
+      "AutoAimingArc": 360.0,
       "Image": "blaster turret sprite.png",
       "Size": 0.12
     },
@@ -35,7 +36,7 @@
         "y": -0.92
       },
       "Rotation": 270.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "blaster turret sprite.png",
       "Size": 0.12
     },
@@ -45,10 +46,9 @@
         "y": 0.46
       },
       "Rotation": 150.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "blaster turret sprite.png",
       "Size": 0.12
     }
-  ],
-  "ShipCategory": 4
+  ]
 }

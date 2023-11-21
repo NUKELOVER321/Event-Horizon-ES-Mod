@@ -32,7 +32,7 @@
         "x": 0.8,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -40,7 +40,7 @@
         "x": 0.8,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -48,7 +48,7 @@
         "x": -0.1,
         "y": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -56,11 +56,8 @@
         "x": -0.1,
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  }
+  ]
 }

@@ -32,7 +32,7 @@
         "x": 0.2,
         "y": 0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -40,11 +40,8 @@
         "x": 0.2,
         "y": -0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  }
+  ]
 }

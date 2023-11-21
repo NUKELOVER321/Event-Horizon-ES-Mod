@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 3007,
+  "ShipType": 1,
   "Name": "Dropship",
   "Faction": 205,
   "IconImage": "dropship icon.png",
@@ -31,18 +32,14 @@
         "x": 0.2,
         "y": 0.4
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.2,
         "y": -0.4
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "ShipCategory": 6
+  ]
 }

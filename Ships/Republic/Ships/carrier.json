@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 350,
+  "ShipType": 4,
   "SizeClass": 4,
   "Name": "Carrier",
   "Faction": 205,
@@ -32,7 +33,7 @@
         "x": 0.9,
         "y": 0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -40,7 +41,7 @@
         "x": 0.9,
         "y": -0.1
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -48,7 +49,7 @@
         "x": 0.85,
         "y": -0.15
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -56,40 +57,36 @@
         "x": 0.85,
         "y": 0.15
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": 0.25
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": -0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": -0.45
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": -0.7
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "ShipCategory": 2
+  ]
 }

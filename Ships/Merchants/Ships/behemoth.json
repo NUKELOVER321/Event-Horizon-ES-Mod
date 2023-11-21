@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 321,
+  "ShipType": 4,
   "SizeClass": 4,
   "Name": "Behemoth",
   "Faction": 201,
@@ -32,7 +33,7 @@
         "x": 0.3,
         "y": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "LC"
     },
     {
@@ -40,7 +41,7 @@
         "x": 0.3,
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "LC"
     },
     {
@@ -48,7 +49,7 @@
         "x": -0.4,
         "y": 0.58
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "LC"
     },
     {
@@ -56,12 +57,8 @@
         "x": -0.4,
         "y": -0.58
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "LC"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "ShipCategory": 2
+  ]
 }

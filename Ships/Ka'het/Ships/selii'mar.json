@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 3017,
+  "ShipType": 1,
   "Name": "Selii'mar",
   "Faction": 210,
   "IconImage": "selii'mar icon.png",
@@ -8,19 +9,22 @@
   "ModelImage": "selii'mar.png",
   "ModelScale": 0.7,
   "EngineColor": "#8700FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "0004400000144100013223100132231001322310013223100015510000155100",
   "Barrels": [
     {
       "Position": {
         "x": 0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "EngineSize": 0.1,
-  "ShipCategory": 6
+  ]
 }

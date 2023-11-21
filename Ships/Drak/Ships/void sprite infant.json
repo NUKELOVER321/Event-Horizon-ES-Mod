@@ -9,6 +9,28 @@
   "ModelImage": "void sprite infant.png",
   "ModelScale": 2.5,
   "EngineColor": "#C7FF00",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.1,
+        "y": 0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.1,
+        "y": -0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "000000440044000000000000440044000000000000004400000000000110004400011000000111122221111000011111122221111110111111122221111111001111122221111100000111022220111000000005522225500000000005522225500000000000022220000000000000022220000000000000022220000000000000002200000000000000002200000000000000000000000000000000000000000000",
   "Barrels": [
     {
@@ -16,27 +38,26 @@
         "x": 0.6,
         "y": 0.1
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.6,
         "y": -0.1
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.6
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
   ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "Regeneration": true,
-  "BuiltinDevices": [
-    9000
-  ]
+  "Features": {
+    "Regeneration": true,
+    "BuiltinDevices": [
+      9000
+    ]
+  }
 }

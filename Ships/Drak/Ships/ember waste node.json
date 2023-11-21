@@ -9,6 +9,28 @@
   "ModelImage": "ember waste node.png",
   "ModelScale": 5.0,
   "EngineColor": "#FF00DC",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": 0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.3,
+        "y": -0.2
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "0000000000000000000000000000000000000000000000000000000000000000004440044400000000000000000000444004440000000000000000000044400444000000000000000000000002200000000000000440000000000220000000000000044111110000222200000000000000000011112222222111111111440441111111222222211100000044044111111122222221111111440000011111112222222111111144004411111111222222211111111144440111111102222201111111114400011000000222220001111144000044000000552225500000004400004400000055222550000000000000000000005522255000000000000000000000552225500000000000000000000000222000000000000000000000000005500000000000000000000000000550000000000000000000000000055000000000000000000000000005500000000000000000000000004440000000000000000000000000444000000000000000000000000044400000000000000000000000000000000000000000",
   "Barrels": [
     {
@@ -16,14 +38,14 @@
         "x": 0.8,
         "y": 0.1
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
         "x": 0.8,
         "y": -0.1
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -31,8 +53,7 @@
         "y": 0.85
       },
       "Rotation": 60.0,
-      "PlatformType": 2,
-      "AutoAimingArc": 120.0
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -40,8 +61,7 @@
         "y": -0.85
       },
       "Rotation": 300.0,
-      "PlatformType": 2,
-      "AutoAimingArc": 120.0
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -49,8 +69,7 @@
         "y": 0.85
       },
       "Rotation": 90.0,
-      "PlatformType": 2,
-      "AutoAimingArc": 120.0
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -58,8 +77,7 @@
         "y": -0.75
       },
       "Rotation": 270.0,
-      "PlatformType": 2,
-      "AutoAimingArc": 120.0
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -67,8 +85,7 @@
         "y": 0.95
       },
       "Rotation": 90.0,
-      "PlatformType": 2,
-      "AutoAimingArc": 120.0
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -76,8 +93,7 @@
         "y": -0.75
       },
       "Rotation": 270.0,
-      "PlatformType": 2,
-      "AutoAimingArc": 120.0
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -85,8 +101,7 @@
         "y": 0.8
       },
       "Rotation": 150.0,
-      "PlatformType": 2,
-      "AutoAimingArc": 120.0
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
@@ -94,21 +109,19 @@
         "y": -0.7
       },
       "Rotation": 240.0,
-      "PlatformType": 2,
-      "AutoAimingArc": 120.0
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
         "x": -0.8
       },
-      "PlatformType": 1
+      "AutoAimingArc": 360.0
     }
   ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "Regeneration": true,
-  "BuiltinDevices": [
-    9000
-  ]
+  "Features": {
+    "Regeneration": true,
+    "BuiltinDevices": [
+      9000
+    ]
+  }
 }

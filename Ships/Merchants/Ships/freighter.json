@@ -31,16 +31,13 @@
       "Position": {
         "x": 0.3
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
         "x": -0.7
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  }
+  ]
 }

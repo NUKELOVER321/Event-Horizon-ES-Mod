@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 3018,
+  "ShipType": 1,
   "Name": "Flycatcher",
   "Faction": 211,
   "IconImage": "flycatcher icon.png",
@@ -8,16 +9,19 @@
   "ModelImage": "flycatcher.png",
   "ModelScale": 0.7,
   "EngineColor": "#FFE100",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "0001100000011000000110000004400000144100001221000052250000522500",
   "Barrels": [
     {
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "EngineSize": 0.1,
-  "ShipCategory": 6
+  ]
 }

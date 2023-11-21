@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 3003,
+  "ShipType": 1,
   "Name": "Finch",
   "Faction": 204,
   "IconImage": "Finch icon.png",
@@ -11,8 +12,9 @@
   "Engines": [
     {
       "Position": {
-        "y": -0.9
-      }
+        "x": -0.8
+      },
+      "Size": 0.1
     }
   ],
   "Layout": "0001100000011000001221000442244004422440000220000015510000055000",
@@ -22,7 +24,7 @@
         "x": 0.5,
         "y": 0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -30,13 +32,8 @@
         "x": 0.5,
         "y": -0.4
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "EngineSize": 0.1,
-  "ShipCategory": 6
+  ]
 }

@@ -31,7 +31,7 @@
       "Position": {
         "x": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -39,7 +39,7 @@
         "x": -0.6,
         "y": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -47,11 +47,8 @@
         "x": -0.6,
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  }
+  ]
 }

@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 318,
+  "ShipRarity": 1,
   "SizeClass": 3,
   "Name": "Star Queen",
   "Faction": 201,
@@ -31,25 +32,21 @@
       "Position": {
         "x": 0.5
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.1,
         "y": 0.2
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     },
     {
       "Position": {
         "x": 0.1,
         "y": -0.2
       },
-      "PlatformType": 3
+      "AutoAimingArc": 20.0
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "ShipCategory": 1
+  ]
 }

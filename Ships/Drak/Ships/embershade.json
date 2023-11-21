@@ -9,6 +9,28 @@
   "ModelImage": "embershade.png",
   "ModelScale": 2.5,
   "EngineColor": "#0076FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -1.0
+      },
+      "Size": 0.2
+    },
+    {
+      "Position": {
+        "x": 0.1,
+        "y": 0.4
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": 0.1,
+        "y": -0.4
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "000000004424400000000000000114424411000000000000112222211000000000001112222211100000000011112222211110000000111144222441111000000111144222441111000000011112222211110000000011112222211110000000005512222215500000000005502222205500000000000000222000000000000000000020000000000000000000050000000000000000000050000000000000000000050000000000000000000050000000000000000000050000000000000000000050000000000000000000050440000000000000000050440000000",
   "Barrels": [
     {
@@ -16,42 +38,41 @@
         "x": 0.8,
         "y": 0.2
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
         "x": 0.8,
         "y": -0.2
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
         "x": 0.4,
         "y": 0.2
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
         "x": 0.4,
         "y": -0.2
       },
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     },
     {
       "Position": {
         "x": -0.9
       },
       "Rotation": 180.0,
-      "PlatformType": 2
+      "AutoAimingArc": 80.0
     }
   ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "Regeneration": true,
-  "BuiltinDevices": [
-    9000
-  ]
+  "Features": {
+    "Regeneration": true,
+    "BuiltinDevices": [
+      9000
+    ]
+  }
 }

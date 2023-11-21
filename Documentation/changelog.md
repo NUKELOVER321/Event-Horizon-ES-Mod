@@ -666,6 +666,12 @@ Changelog:
       - Changed abandoned station faction to Drak
     - Added descriptions to a large number of outfits
       - Descriptions are visible to players using EH:CE or Inverse Mod
+    - **Updated mod for Event Horizon 0.10.2 compatibility**
+      - Increased regen perk to 5%, reduced weight reduction to 75%
+      - Improved attack, defense, and shield bonus skills to 15% base
+      - Improved merchant cost and crafting requirement reduction skills to 10%
+      - Improved exploration loot bonus skill to 25%
+      - Improved map travel speed and range skills to 50% and 10% respectively
   - Component Changes
     - Fixed the missing autopilot feature on the Control Transceiver and Reasoning Node
     - Made the Flamethrower work (at last)

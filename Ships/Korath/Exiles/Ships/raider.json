@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 389,
+  "ShipRarity": 1,
   "SizeClass": 2,
   "Name": "Raider",
   "Faction": 209,
@@ -32,7 +33,7 @@
         "x": 0.8,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -40,7 +41,7 @@
         "x": 0.8,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -48,7 +49,7 @@
         "x": -0.4,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -56,7 +57,7 @@
         "x": -0.4,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -64,7 +65,7 @@
         "x": -0.7,
         "y": 0.4
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -72,12 +73,8 @@
         "x": -0.7,
         "y": -0.4
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.4
-  },
-  "ShipCategory": 1
+  ]
 }

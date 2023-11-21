@@ -11,15 +11,9 @@
   "Engines": [
     {
       "Position": {
-        "x": -0.9,
-        "y": -0.2
-      }
-    },
-    {
-      "Position": {
-        "x": -0.9,
-        "y": 0.2
-      }
+        "x": -0.8
+      },
+      "Size": 0.1
     }
   ],
   "Layout": "0000000000000044000000004400000001221000000122100000012210000001221000000122100000005500000000000000",
@@ -28,15 +22,13 @@
       "Position": {
         "x": 0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     }
   ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "EngineSize": 0.1,
-  "BuiltinDevices": [
-    14
-  ]
+  "Features": {
+    "BuiltinDevices": [
+      14
+    ]
+  }
 }

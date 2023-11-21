@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 3013,
+  "ShipType": 1,
   "Name": "Rover",
   "Faction": 208,
   "IconImage": "rover icon.png",
@@ -8,19 +9,22 @@
   "ModelImage": "rover.png",
   "ModelScale": 0.8,
   "EngineColor": "#4C00FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.8
+      },
+      "Size": 0.1
+    }
+  ],
   "Layout": "0000440000000144100000132231000013223100001322310000132231000013223100011322311001152251100005225000",
   "Barrels": [
     {
       "Position": {
         "x": 0.8
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "EngineSize": 0.1,
-  "ShipCategory": 6
+  ]
 }

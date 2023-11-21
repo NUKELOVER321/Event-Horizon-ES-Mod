@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 405,
+  "ShipType": 4,
   "SizeClass": 4,
   "Name": "Hurricane",
   "Faction": 211,
@@ -32,7 +33,7 @@
         "x": 0.4,
         "y": 0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -40,28 +41,28 @@
         "x": 0.4,
         "y": -0.1
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "x": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "y": 0.35
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "y": -0.35
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -69,7 +70,7 @@
         "x": -0.1,
         "y": 0.45
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -77,7 +78,7 @@
         "x": -0.1,
         "y": -0.45
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -85,7 +86,7 @@
         "x": -0.2,
         "y": 0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -93,7 +94,7 @@
         "x": -0.2,
         "y": -0.3
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -101,7 +102,7 @@
         "x": -0.7,
         "y": 0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -109,12 +110,8 @@
         "x": -0.7,
         "y": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "ShipCategory": 2
+  ]
 }

@@ -1,13 +1,14 @@
 {
   "ItemType": 6,
   "Id": 435,
+  "ShipType": 4,
   "SizeClass": 4,
   "Name": "Blizzard",
   "Faction": 211,
   "IconImage": "blizzard.png",
   "IconScale": 1.0,
   "ModelImage": "blizzard.png",
-  "ModelScale": 5.5,
+  "ModelScale": 6.0,
   "EngineColor": "#FFE100",
   "Engines": [
     {
@@ -46,7 +47,7 @@
         "x": 0.83,
         "y": 0.07
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -54,7 +55,7 @@
         "x": 0.83,
         "y": -0.07
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -62,7 +63,7 @@
         "x": 0.7,
         "y": 0.125
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -70,14 +71,14 @@
         "x": 0.7,
         "y": -0.125
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": 0.25
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -85,7 +86,7 @@
         "x": 0.22,
         "y": 0.215
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -93,7 +94,7 @@
         "x": 0.22,
         "y": -0.215
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLMT"
     },
     {
@@ -101,7 +102,7 @@
         "x": 0.05,
         "y": 0.175
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -109,7 +110,7 @@
         "x": 0.05,
         "y": -0.175
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -117,14 +118,14 @@
         "x": -0.2,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
       "Position": {
         "x": -0.2
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -132,12 +133,8 @@
         "x": -0.2,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
-  ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "ShipCategory": 2
+  ]
 }

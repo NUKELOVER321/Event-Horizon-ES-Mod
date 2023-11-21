@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 431,
+  "ShipType": 4,
   "SizeClass": 4,
   "Name": "Zubera",
   "Faction": 216,
@@ -46,7 +47,7 @@
         "x": 0.9,
         "y": 0.05
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -54,7 +55,7 @@
         "x": 0.9,
         "y": -0.05
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -62,7 +63,7 @@
         "x": 0.6,
         "y": 0.2
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -70,7 +71,7 @@
         "x": 0.6,
         "y": -0.2
       },
-      "PlatformType": 3,
+      "AutoAimingArc": 20.0,
       "WeaponClass": "CLTM"
     },
     {
@@ -78,7 +79,7 @@
         "x": 0.3,
         "y": 0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -86,7 +87,7 @@
         "x": 0.3,
         "y": -0.3
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -94,7 +95,7 @@
         "x": -0.65,
         "y": 0.25
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     },
     {
@@ -102,13 +103,11 @@
         "x": -0.65,
         "y": -0.25
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "CL"
     }
   ],
-  "EnginePosition": {
-    "x": -0.8
-  },
-  "ShipCategory": 2,
-  "Regeneration": true
+  "Features": {
+    "Regeneration": true
+  }
 }
