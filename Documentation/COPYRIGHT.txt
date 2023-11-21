@@ -4,7 +4,7 @@ Upstream-Contact: Jason Wu <@404found on Discord>
 Source: https://github.com/JasonWu00/Event-Horizon-ES-Mod
 
 Files: *.json
-Copyright:
+Copyright: Jason Wu <@404found on Discord>
 License: GPL-3+
 Comment:
 
@@ -54,7 +54,7 @@ Files:
   Ship?Images/Korath/fo?ionizer*
   Ship?Images/Korath/fo?detainer*
   Component?Images/Korath/Sestor/ionizer*
-Copyright: EjoThims
+Copyright: Ejo Thims
 License: CC-BY-SA-4.0
 Comment:
 
@@ -79,6 +79,72 @@ Files:
 Copyright: Makuta-Miras (https://github.com/Makuta-Miras)
 License: CC-BY-SA-4.0
 Comment:
+
+Files:
+ Component?Images/dimensional?eraser*
+ Weapons/Buttons/dimentional?eraser*
+ Ship?Images/Republic/battleship*
+Copyright: Gefüllte Taubenbrust <jeaminer23@gmail.com>
+License: CC-BY-SA-4.0
+
+Files:
+ Ship?Images/hai?mantis*
+ Component?Images/hai?mantis*
+ Component?Images/penta?pulser*
+ Component?Images/octa?annihilator*
+ images/hardpoint/octa?annihilator*
+ Component?Images/pulse?sniper*
+ Component?Images/long?pulse?sniper*
+ images/hardpoint/penta?pulser*
+ Weapons/Ammo?Images/octa?annihilator?spin/octa?annihilator~*
+ Weapons/Ammo?Images/octa?annihilator?wobble/octa?annihilator~*
+Copyright: Ejo Thims
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ Ship?Images/hai?lycosidae*
+ Component?Images/hai?lycosidae*
+Copyright: Ejo Thims
+License: CC-BY-SA-4.0
+Comment: Derived from works by LocalGod, Becca Tommaso and Michael Zahniser (under the same license).
+
+Files:
+ icon*.png
+ Ship?Images/hai?tarantula*
+ Component?Images/hai?tarantula*
+ Component?Images/unfettered?bomb*
+ Weapons/Ammo?Images/unfettered?bomb*
+ Weapons/Buttons/unfettered?bomb*
+Copyright: Redpilot57
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ Component?Images/ruby?regenerator*
+Copyright: Ejo Thims
+License: CC-BY-SA-4.0
+Comment: Derived from works by Becca Tommaso (under the same license).
+
+Files:
+ Component?Images/predator?engine*
+Copyright: Daeridanii (https://github.com/Daeridanii1)
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ images/outfit/harasser?quadrail*
+Copyright: 1010todd
+Comment: Derived from works by Matthew Smestad (under the same license).
+License: CC-BY-SA-4.0
+
+Files:
+ images/outfit/monolith?reactor*
+ images/ship/hai?locust*
+ images/thumbnail/hai?locust*
+Copyright: Petersupes
+License: CC-BY-SA-4.0
+Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
   Component?Images/Korath/Sestor/detainer?turret*
