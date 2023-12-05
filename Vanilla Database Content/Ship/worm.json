@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 103,
+  "ShipRarity": 1,
   "SizeClass": 3,
   "Name": "$f12_Battleship",
   "Faction": 12,
@@ -18,8 +19,9 @@
       "WeaponClass": "L"
     }
   ],
-  "ShipCategory": 1,
-  "BuiltinDevices": [
-    20
-  ]
+  "Features": {
+    "BuiltinDevices": [
+      20
+    ]
+  }
 }

@@ -23,14 +23,16 @@
       "Position": {
         "x": 0.9
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "C"
     }
   ],
-  "KineticResistance": 5.0,
-  "Regeneration": true,
-  "BuiltinDevices": [
-    18
-  ],
-  "BaseWeightModifier": -0.75
+  "Features": {
+    "KineticResistance": 5.0,
+    "ShipWeightBonus": -0.75,
+    "Regeneration": true,
+    "BuiltinDevices": [
+      18
+    ]
+  }
 }

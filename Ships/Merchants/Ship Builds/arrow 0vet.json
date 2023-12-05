@@ -6,126 +6,108 @@
   "Components": [
     {
       "ComponentId": 57,
-      "Locked": true,
       "X": 9,
       "Y": 11,
       "BarrelId": -1
     },
     {
       "ComponentId": 57,
-      "Locked": true,
       "X": 6,
       "Y": 11,
       "BarrelId": -1
     },
     {
       "ComponentId": 57,
-      "Locked": true,
       "X": 6,
       "Y": 12,
       "BarrelId": -1
     },
     {
       "ComponentId": 57,
-      "Locked": true,
       "X": 9,
       "Y": 12,
       "BarrelId": -1
     },
     {
       "ComponentId": 57,
-      "Locked": true,
       "X": 6,
       "Y": 13,
       "BarrelId": -1
     },
     {
       "ComponentId": 57,
-      "Locked": true,
       "X": 9,
       "Y": 13,
       "BarrelId": -1
     },
     {
       "ComponentId": 57,
-      "Locked": true,
       "X": 9,
       "Y": 14,
       "BarrelId": -1
     },
     {
       "ComponentId": 57,
-      "Locked": true,
       "X": 6,
       "Y": 14,
       "BarrelId": -1
     },
     {
       "ComponentId": 11,
-      "Locked": true,
       "X": 7,
       "Y": 12,
       "BarrelId": -1
     },
     {
       "ComponentId": 77,
-      "Locked": true,
       "X": 7,
       "Y": 3,
       "BarrelId": -1
     },
     {
       "ComponentId": 77,
-      "Locked": true,
       "X": 7,
       "Y": 5,
       "BarrelId": -1
     },
     {
       "ComponentId": 67,
-      "Locked": true,
       "X": 7,
       "Y": 11,
       "BarrelId": -1
     },
     {
       "ComponentId": 67,
-      "Locked": true,
       "X": 8,
       "Y": 11,
       "BarrelId": -1
     },
     {
       "ComponentId": 67,
-      "Locked": true,
       "X": 5,
       "Y": 14,
       "BarrelId": -1
     },
     {
       "ComponentId": 67,
-      "Locked": true,
       "X": 10,
       "Y": 14,
       "BarrelId": -1
     },
     {
       "ComponentId": 77,
-      "Locked": true,
       "X": 7,
       "Y": 7,
       "BarrelId": -1
     },
     {
       "ComponentId": 66,
-      "Locked": true,
       "X": 7,
       "Y": 9,
       "BarrelId": -1
     },
     {
       "ComponentId": 129,
-      "Locked": true,
       "X": 7,
       "Y": 1
     }

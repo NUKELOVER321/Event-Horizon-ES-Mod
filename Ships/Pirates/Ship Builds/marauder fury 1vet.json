@@ -7,21 +7,18 @@
   "Components": [
     {
       "ComponentId": 1015,
-      "Locked": true,
       "X": 6,
       "Y": 12,
       "BarrelId": -1
     },
     {
       "ComponentId": 1014,
-      "Locked": true,
       "X": 10,
       "Y": 12,
       "BarrelId": -1
     },
     {
       "ComponentId": 1014,
-      "Locked": true,
       "X": 3,
       "Y": 12,
       "BarrelId": -1
@@ -30,48 +27,41 @@
       "ComponentId": 1005,
       "Modification": 12,
       "Quality": 5,
-      "Locked": true,
       "X": 5,
       "Y": 4,
       "BarrelId": -1
     },
     {
       "ComponentId": 1008,
-      "Locked": true,
       "X": 9,
       "Y": 9,
       "BarrelId": -1
     },
     {
       "ComponentId": 1008,
-      "Locked": true,
       "X": 3,
       "Y": 9,
       "BarrelId": -1
     },
     {
       "ComponentId": 10,
-      "Locked": true,
       "X": 6,
       "Y": 1,
       "BarrelId": -1
     },
     {
       "ComponentId": 11,
-      "Locked": true,
       "X": 13,
       "Y": 12,
       "BarrelId": -1
     },
     {
       "ComponentId": 11,
-      "Locked": true,
       "Y": 12,
       "BarrelId": -1
     },
     {
       "ComponentId": 71,
-      "Locked": true,
       "X": 6,
       "Y": 10,
       "BarrelId": -1,
@@ -79,7 +69,6 @@
     },
     {
       "ComponentId": 71,
-      "Locked": true,
       "X": 7,
       "Y": 8,
       "BarrelId": -1,
@@ -87,7 +76,6 @@
     },
     {
       "ComponentId": 69,
-      "Locked": true,
       "X": 8,
       "Y": 10,
       "BarrelId": -1,
@@ -95,7 +83,6 @@
     },
     {
       "ComponentId": 69,
-      "Locked": true,
       "X": 8,
       "Y": 11,
       "BarrelId": -1,
@@ -103,27 +90,23 @@
     },
     {
       "ComponentId": 2023,
-      "Locked": true,
       "X": 9,
       "Y": 3,
       "BarrelId": 1
     },
     {
       "ComponentId": 2023,
-      "Locked": true,
       "X": 4,
       "Y": 3
     },
     {
       "ComponentId": 2023,
-      "Locked": true,
       "X": 13,
       "Y": 9,
       "BarrelId": 3
     },
     {
       "ComponentId": 2023,
-      "Locked": true,
       "Y": 9,
       "BarrelId": 2
     }

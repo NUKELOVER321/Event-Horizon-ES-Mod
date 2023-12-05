@@ -6,21 +6,18 @@
   "Components": [
     {
       "ComponentId": 55,
-      "Locked": true,
       "X": 4,
       "Y": 9,
       "BarrelId": -1
     },
     {
       "ComponentId": 58,
-      "Locked": true,
       "X": 6,
       "Y": 9,
       "BarrelId": -1
     },
     {
       "ComponentId": 77,
-      "Locked": true,
       "X": 5,
       "Y": 5,
       "BarrelId": -1,
@@ -28,14 +25,12 @@
     },
     {
       "ComponentId": 66,
-      "Locked": true,
       "X": 5,
       "BarrelId": -1,
       "KeyBinding": 1
     },
     {
       "ComponentId": 67,
-      "Locked": true,
       "X": 5,
       "Y": 2,
       "BarrelId": -1,
@@ -43,7 +38,6 @@
     },
     {
       "ComponentId": 67,
-      "Locked": true,
       "X": 6,
       "Y": 2,
       "BarrelId": -1,
@@ -51,7 +45,6 @@
     },
     {
       "ComponentId": 77,
-      "Locked": true,
       "X": 4,
       "Y": 7,
       "BarrelId": -1,
@@ -59,7 +52,6 @@
     },
     {
       "ComponentId": 77,
-      "Locked": true,
       "X": 6,
       "Y": 7,
       "BarrelId": -1,
@@ -67,7 +59,6 @@
     },
     {
       "ComponentId": 67,
-      "Locked": true,
       "X": 3,
       "Y": 7,
       "BarrelId": -1,
@@ -75,7 +66,6 @@
     },
     {
       "ComponentId": 67,
-      "Locked": true,
       "X": 8,
       "Y": 7,
       "BarrelId": -1,
@@ -83,7 +73,6 @@
     },
     {
       "ComponentId": 11,
-      "Locked": true,
       "X": 8,
       "Y": 8,
       "BarrelId": -1,
@@ -91,7 +80,6 @@
     },
     {
       "ComponentId": 11,
-      "Locked": true,
       "X": 2,
       "Y": 8,
       "BarrelId": -1,
@@ -99,7 +87,6 @@
     },
     {
       "ComponentId": 77,
-      "Locked": true,
       "X": 5,
       "Y": 3,
       "BarrelId": -1,
@@ -107,27 +94,23 @@
     },
     {
       "ComponentId": 115,
-      "Locked": true,
       "X": 10,
       "Y": 7,
       "BarrelId": 1
     },
     {
       "ComponentId": 115,
-      "Locked": true,
       "X": 11,
       "Y": 7,
       "BarrelId": 1
     },
     {
       "ComponentId": 115,
-      "Locked": true,
       "X": 1,
       "Y": 7
     },
     {
       "ComponentId": 115,
-      "Locked": true,
       "Y": 7
     }
   ]

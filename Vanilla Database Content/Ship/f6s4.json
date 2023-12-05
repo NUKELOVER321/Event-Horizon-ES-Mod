@@ -34,5 +34,7 @@
       "WeaponClass": "L"
     }
   ],
-  "Regeneration": true
+  "Features": {
+    "Regeneration": true
+  }
 }

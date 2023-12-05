@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 102,
+  "ShipType": 4,
   "SizeClass": 4,
   "Name": "$f12_Flagship",
   "Faction": 12,
@@ -15,13 +16,14 @@
       "Position": {
         "x": 0.4
       },
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "LS"
     }
   ],
-  "ShipCategory": 2,
-  "Regeneration": true,
-  "BuiltinDevices": [
-    21
-  ]
+  "Features": {
+    "Regeneration": true,
+    "BuiltinDevices": [
+      21
+    ]
+  }
 }

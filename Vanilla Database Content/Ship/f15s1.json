@@ -9,6 +9,14 @@
   "ModelImage": "fs1",
   "ModelScale": 1.2,
   "EngineColor": "#40FF7F00",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9
+      },
+      "Size": 0.2
+    }
+  ],
   "Layout": "003334400033334440033334440033333330033333330033333330033535330005555500000555000",
   "Barrels": [
     {
@@ -17,14 +25,10 @@
         "y": -0.5
       },
       "Rotation": -60.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "WeaponClass": "L",
       "Image": "scavenger_arm",
       "Size": 1.5
     }
-  ],
-  "EnginePosition": {
-    "x": -0.9
-  },
-  "EngineSize": 0.2
+  ]
 }

@@ -6,34 +6,29 @@
   "Components": [
     {
       "ComponentId": 2023,
-      "Locked": true,
       "X": 12,
       "Y": 3,
       "BarrelId": 1
     },
     {
       "ComponentId": 2023,
-      "Locked": true,
       "X": 7,
       "Y": 3
     },
     {
       "ComponentId": 2023,
-      "Locked": true,
       "X": 12,
       "Y": 6,
       "BarrelId": 3
     },
     {
       "ComponentId": 2023,
-      "Locked": true,
       "X": 7,
       "Y": 6,
       "BarrelId": 2
     },
     {
       "ComponentId": 10,
-      "Locked": true,
       "X": 4,
       "Y": 8,
       "BarrelId": -1,
@@ -41,7 +36,6 @@
     },
     {
       "ComponentId": 10,
-      "Locked": true,
       "X": 14,
       "Y": 8,
       "BarrelId": -1,
@@ -49,7 +43,6 @@
     },
     {
       "ComponentId": 1007,
-      "Locked": true,
       "X": 2,
       "Y": 9,
       "BarrelId": -1,
@@ -57,14 +50,12 @@
     },
     {
       "ComponentId": 1007,
-      "Locked": true,
       "Y": 9,
       "BarrelId": -1,
       "KeyBinding": 2
     },
     {
       "ComponentId": 1007,
-      "Locked": true,
       "X": 17,
       "Y": 9,
       "BarrelId": -1,
@@ -72,7 +63,6 @@
     },
     {
       "ComponentId": 1007,
-      "Locked": true,
       "X": 19,
       "Y": 9,
       "BarrelId": -1,
@@ -80,7 +70,6 @@
     },
     {
       "ComponentId": 1032,
-      "Locked": true,
       "X": 7,
       "Y": 8,
       "BarrelId": -1,
@@ -88,7 +77,6 @@
     },
     {
       "ComponentId": 1032,
-      "Locked": true,
       "X": 11,
       "Y": 8,
       "BarrelId": -1,
@@ -96,7 +84,6 @@
     },
     {
       "ComponentId": 69,
-      "Locked": true,
       "X": 10,
       "Y": 11,
       "BarrelId": -1,
@@ -104,7 +91,6 @@
     },
     {
       "ComponentId": 1016,
-      "Locked": true,
       "X": 11,
       "Y": 15,
       "BarrelId": -1,
@@ -112,7 +98,6 @@
     },
     {
       "ComponentId": 1015,
-      "Locked": true,
       "X": 7,
       "Y": 15,
       "BarrelId": -1,
@@ -120,7 +105,6 @@
     },
     {
       "ComponentId": 1082,
-      "Locked": true,
       "X": 9,
       "Y": 12,
       "BarrelId": 4,

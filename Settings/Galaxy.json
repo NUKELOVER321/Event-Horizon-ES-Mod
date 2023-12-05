@@ -1,10 +1,11 @@
 {
   "ItemType": 101,
-  "DefaultStarbaseBuild": 192,
   "AbandonedStarbaseFaction": 215,
   "StartingShipBuilds": [
     1001,
     1004,
     1007
-  ]
+  ],
+  "DefaultStarbaseBuild": 192,
+  "EnemyLevel": "MIN(3*distance/5 - 5, MaxEnemyShipsLevel)"
 }

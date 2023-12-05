@@ -7,84 +7,72 @@
   "Components": [
     {
       "ComponentId": 2100,
-      "Locked": true,
       "X": 7,
       "Y": 16,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1053,
-      "Locked": true,
       "X": 9,
       "Y": 5,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1079,
-      "Locked": true,
       "X": 13,
       "Y": 6,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1054,
-      "Locked": true,
       "X": 11,
       "Y": 9,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1079,
-      "Locked": true,
       "X": 20,
       "Y": 10,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1009,
-      "Locked": true,
       "X": 16,
       "Y": 9,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1009,
-      "Locked": true,
       "X": 16,
       "Y": 13,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1007,
-      "Locked": true,
       "X": 9,
       "Y": 9,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1007,
-      "Locked": true,
       "X": 23,
       "Y": 9,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1025,
-      "Locked": true,
       "X": 26,
       "Y": 7,
       "BarrelId": 1
     },
     {
       "ComponentId": 1025,
-      "Locked": true,
       "X": 1,
       "Y": 20,
       "BarrelId": 2
     },
     {
       "ComponentId": 1246,
-      "Locked": true,
       "X": 20,
       "Y": 24,
       "BarrelId": 3,
@@ -92,14 +80,12 @@
     },
     {
       "ComponentId": 1246,
-      "Locked": true,
       "X": 9,
       "Y": 2,
       "KeyBinding": 1
     },
     {
       "ComponentId": 1008,
-      "Locked": true,
       "X": 8,
       "Y": 11,
       "KeyBinding": 2
@@ -108,7 +94,6 @@
       "ComponentId": 1058,
       "Modification": 3,
       "Quality": 5,
-      "Locked": true,
       "X": 4,
       "Y": 18,
       "KeyBinding": 2
@@ -117,28 +102,24 @@
       "ComponentId": 1058,
       "Modification": 3,
       "Quality": 5,
-      "Locked": true,
       "X": 11,
       "Y": 15,
       "KeyBinding": 2
     },
     {
       "ComponentId": 3002,
-      "Locked": true,
       "X": 20,
       "Y": 20,
       "KeyBinding": 2
     },
     {
       "ComponentId": 3003,
-      "Locked": true,
       "X": 19,
       "Y": 17,
       "KeyBinding": 3
     },
     {
       "ComponentId": 2100,
-      "Locked": true,
       "X": 15,
       "Y": 17,
       "KeyBinding": 1
@@ -147,7 +128,6 @@
       "ComponentId": 2100,
       "Modification": 3,
       "Quality": 5,
-      "Locked": true,
       "X": 16,
       "Y": 21,
       "KeyBinding": 4

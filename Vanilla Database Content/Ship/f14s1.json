@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 112,
+  "ShipRarity": 2,
   "SizeClass": 3,
   "Name": "$f14_Battleship",
   "IconImage": "f14s1",
@@ -42,6 +43,5 @@
       "Rotation": -10.0,
       "WeaponClass": "M"
     }
-  ],
-  "ShipCategory": 5
+  ]
 }

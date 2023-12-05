@@ -1,6 +1,7 @@
 {
   "ItemType": 6,
   "Id": 100,
+  "ShipType": 3,
   "SizeClass": 2,
   "Name": "turret1",
   "Faction": 1,
@@ -12,10 +13,9 @@
   "Layout": "0000111000000111111100012111112100222444222022224442222222244422222222444222202224442220012111112100011111110000001110000",
   "Barrels": [
     {
-      "PlatformType": 1,
+      "AutoAimingArc": 360.0,
       "Image": "turret",
       "Size": 1.0
     }
-  ],
-  "ShipCategory": 3
+  ]
 }

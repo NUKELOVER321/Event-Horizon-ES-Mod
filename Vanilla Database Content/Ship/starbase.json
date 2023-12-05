@@ -1,7 +1,8 @@
 {
   "ItemType": 6,
   "Id": 94,
-  "SizeClass": 4,
+  "ShipType": 2,
+  "SizeClass": 5,
   "Name": "starbase",
   "IconImage": "starbase",
   "IconScale": 1.0,
@@ -16,7 +17,7 @@
         "y": 0.46
       },
       "Rotation": 30.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "turret",
       "Size": 0.12
     },
@@ -25,7 +26,7 @@
         "y": -0.92
       },
       "Rotation": 270.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "turret",
       "Size": 0.12
     },
@@ -35,10 +36,9 @@
         "y": 0.46
       },
       "Rotation": 150.0,
-      "PlatformType": 2,
+      "AutoAimingArc": 80.0,
       "Image": "turret",
       "Size": 0.12
     }
-  ],
-  "ShipCategory": 4
+  ]
 }

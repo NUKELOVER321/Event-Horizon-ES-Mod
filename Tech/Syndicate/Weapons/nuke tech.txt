@@ -5,6 +5,6 @@
   "Faction": 203,
   "Price": 100,
   "Dependencies": [
-    335
+    6335
   ]
 }

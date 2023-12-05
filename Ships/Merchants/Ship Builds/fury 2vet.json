@@ -9,7 +9,6 @@
       "ComponentId": 69,
       "Modification": 2,
       "Quality": 5,
-      "Locked": true,
       "X": 5,
       "Y": 3,
       "BarrelId": -1,
@@ -19,7 +18,6 @@
       "ComponentId": 11,
       "Modification": 3,
       "Quality": 5,
-      "Locked": true,
       "X": 7,
       "Y": 5,
       "BarrelId": -1,
@@ -29,7 +27,6 @@
       "ComponentId": 11,
       "Modification": 3,
       "Quality": 5,
-      "Locked": true,
       "X": 2,
       "Y": 5,
       "BarrelId": -1,
@@ -39,7 +36,6 @@
       "ComponentId": 66,
       "Modification": 9,
       "Quality": 5,
-      "Locked": true,
       "X": 7,
       "Y": 7,
       "BarrelId": -1,
@@ -49,7 +45,6 @@
       "ComponentId": 66,
       "Modification": 9,
       "Quality": 5,
-      "Locked": true,
       "X": 2,
       "Y": 7,
       "BarrelId": -1,
@@ -59,7 +54,6 @@
       "ComponentId": 69,
       "Modification": 2,
       "Quality": 5,
-      "Locked": true,
       "X": 5,
       "Y": 10,
       "BarrelId": -1,
@@ -67,7 +61,6 @@
     },
     {
       "ComponentId": 1003,
-      "Locked": true,
       "X": 4,
       "Y": 7,
       "BarrelId": -1,
@@ -75,7 +68,6 @@
     },
     {
       "ComponentId": 1003,
-      "Locked": true,
       "X": 4,
       "Y": 4,
       "BarrelId": -1,
@@ -85,7 +77,6 @@
       "ComponentId": 58,
       "Modification": 11,
       "Quality": 5,
-      "Locked": true,
       "X": 7,
       "Y": 9,
       "BarrelId": -1,
@@ -95,7 +86,6 @@
       "ComponentId": 55,
       "Modification": 11,
       "Quality": 5,
-      "Locked": true,
       "X": 2,
       "Y": 9,
       "BarrelId": -1,
@@ -103,20 +93,17 @@
     },
     {
       "ComponentId": 2026,
-      "Locked": true,
       "X": 6,
       "Y": 2,
       "BarrelId": 1
     },
     {
       "ComponentId": 2026,
-      "Locked": true,
       "X": 3,
       "Y": 2
     },
     {
       "ComponentId": 2027,
-      "Locked": true,
       "X": 9,
       "Y": 8,
       "BarrelId": 3,
@@ -124,7 +111,6 @@
     },
     {
       "ComponentId": 2027,
-      "Locked": true,
       "Y": 8,
       "BarrelId": 2,
       "KeyBinding": 1
