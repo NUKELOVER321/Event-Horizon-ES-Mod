@@ -666,15 +666,19 @@ Changelog:
       - Changed abandoned station faction to Drak
     - Added descriptions to a large number of outfits
       - Descriptions are visible to players using EH:CE or Inverse Mod
-    - **Updated mod for Event Horizon 0.10.2 compatibility**
-      - Increased regen perk to 5%, reduced weight reduction to 75%
-      - Improved attack, defense, and shield bonus skills to 15% base
-      - Improved merchant cost and crafting requirement reduction skills to 10%
-      - Improved exploration loot bonus skill to 25%
-      - Improved map travel speed and range skills to 50% and 10% respectively
+    - **Made the mod compatible with Event Horizon 0.10.2 Build 1469**
+  - Skill and Perk Changes
+    - Increased regen perk bonus to 5% health per second
+    - Decreased weight reduction perk bonus to -75% weight
+    - Tweaked shield strength and recharge skills to 20% bonus per skill point
+    - Tweaked merchant and crafting costs to -13.3% per skill point
+    - Tweaked crafting LY requirements to 10LY per level
+    - Improved map travel speed and range skills to 100% and 25% per skill point respectively
+    - Improved exploration loot bonus skill to 25% more loot per skill point
   - Component Changes
     - Fixed the missing autopilot feature on the Control Transceiver and Reasoning Node
     - Made the Flamethrower work (at last)
+    - Increased weight per cell of all interference plating
   - Ship Changes
     - Added the Auxiliary (H) and Auxiliary (T) to the Republic of Earth
     - Buffed the 2vet Raven (laser beams -> heavy laser beams)
@@ -710,8 +714,8 @@ Changelog:
     - Decreased Korath Piercer projectile weight (0.15 -> 0.1)
     - Increased velocity of Torpedo, Typhoon Torpedo, EMP Torpedo, EMP Deployer, Teciimach Torpedo, Javelin Rocket, Firestorm Missile by 100%
     - Increased velocity of Finisher Torpedo by 50%
-    - Increased energy cost of Javelin rockets by 100%
-    - Increased energy cost of gatling gun bullets by 25%
+    - Increased energy cost of Javelin Rockets by 100%
+    - Increased energy cost of Gatling Gun bullets by 25%
     - Increased velocity of Ion Hail and Ion Rain projectiles by 33%
 
 ### Planned changes:

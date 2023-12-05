@@ -5,5 +5,5 @@
   "Color": "#FDE4B3",
   "HomeStarDistance": 500,
   "WanderingShipsDistance": 500,
-  "Hostile": true
+  "NoMissions": true
 }
