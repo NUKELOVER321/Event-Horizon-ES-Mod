@@ -667,6 +667,7 @@ Changelog:
     - Added descriptions to a large number of outfits
       - Descriptions are visible to players using EH:CE or Inverse Mod
     - **Made the mod compatible with Event Horizon 0.10.2 Build 1469**
+    - Changed level scaling to equal to light year * 0.5
   - Skill and Perk Changes
     - Increased regen perk bonus to 5% health per second
     - Decreased weight reduction perk bonus to -75% weight

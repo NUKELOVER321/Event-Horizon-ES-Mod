@@ -1,7 +1,7 @@
 {
   "ItemType": 107,
   "DisableExceedTheLimits": true,
-  "FuelTankCapacity": "BaseFuelCapacity + 10*level",
+  "FuelTankCapacity": "BaseFuelCapacity + 80*level",
   "AttackBonus": "0.1*level",
   "DefenseBonus": "0.1*level",
   "ShieldStrengthBonus": "0.2*level",

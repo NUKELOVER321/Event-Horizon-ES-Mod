@@ -7,5 +7,5 @@
     1007
   ],
   "DefaultStarbaseBuild": 192,
-  "EnemyLevel": "MIN(3*distance/5 - 5, MaxEnemyShipsLevel)"
+  "EnemyLevel": "MIN(distance/2, MaxEnemyShipsLevel)"
 }
