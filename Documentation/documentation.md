@@ -122,7 +122,7 @@ Module cooling | Cooling / size / 500 (or / 250 for active cooling)
 Active cooling energy cost | Energy / size / 2.5
 Shield health | (Generation / size) * 5
 Shield generation | Shield health / 10
-Shield gen energy cost | Cost
+Shield gen energy cost | (Shield energy + energy consumption, per second) / size
 Hull regeneration | Regen / size
 
 Determining stats:
@@ -438,6 +438,16 @@ Sea Scorpion | 425 | 1373-1375
 Ionic Blaster | 2245
 Ionic Turret | 1245
 Tri-pulse Shredder | 1293
+Penta Pulser | 2293
+Harasser Quad Railgun | 2101
+Octa-pulse Annihilator | 3293
+Monolith | 1351
+Ruby Regenerator | 1352
+Predator Engine | 1353
+Locust | 466
+Tarantula | 467
+Phrynus | 468
+Lycosidae | 469
 
 Remnant
 
@@ -874,8 +884,8 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1340
-Ship | 466
+Component | 1343
+Ship | 470
 Build | 1512
 Drone | 3031
 Quest | 1049
@@ -895,3 +905,5 @@ Finisher Torpedo | +50% projectile speed
 Ion Hail, Ion Rain | +33% speed
 Javelin Rocket | +100% energy cost
 Korath Piercer Missile | -33% projectile mass
+Ruby Regenerator | +100% energy cost, +50% heat generation
+Monolith Core | +10% energy generation

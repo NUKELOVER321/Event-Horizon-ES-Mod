@@ -676,6 +676,7 @@ Changelog:
     - Tweaked crafting LY requirements to 10LY per level
     - Improved map travel speed and range skills to 100% and 25% per skill point respectively
     - Improved exploration loot bonus skill to 25% more loot per skill point
+    - Increased fuel skills to +80 fuel per skill point
   - Component Changes
     - Fixed the missing autopilot feature on the Control Transceiver and Reasoning Node
     - Made the Flamethrower work (at last)
@@ -718,6 +719,24 @@ Changelog:
     - Increased energy cost of Javelin Rockets by 100%
     - Increased energy cost of Gatling Gun bullets by 25%
     - Increased velocity of Ion Hail and Ion Rain projectiles by 33%
+
+### 0.15.3.1 "Australian Bloody Pissmas Miracle" update
+
+Changelog:
+- Changes:
+  - Major Changes
+    - Attempted to make Christmas eternal.
+  - Skill and Perk Changes
+  - Component Changes
+    - Added missing shield regeneration cooldown values to some shields
+    - Reduced S-970 and Diamond Regenerator to 3x3 size
+    - Added Ruby Regenerator, Harasser Quadrail, and Monolith Core to Hai
+  - Ship Changes
+    - Fixed an issue with the Leviathan 2vet having negative energy regen
+    - Tweaked the Archon's barrels
+  - Tech Changes
+  - Other Changes
+    - Fixed a broken quest
 
 ### Planned changes:
 - Adjust the blast radii of various explosive weapons

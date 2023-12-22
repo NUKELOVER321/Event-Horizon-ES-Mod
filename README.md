@@ -59,7 +59,7 @@ See [CONTRIBUTING.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/CONTRIBUT
 
 ## Credits, Copyrights, Documentation
 
-Specific information on credits and copyrights for this project can be found in [COPYRIGHT.txt](https://jasonwu00.github.io/Event-Horizon-ES-Mod/COPYRIGHT.txt).  
+Specific information on credits and copyrights for this project can be found in [COPYRIGHT.txt](https://jasonwu00.github.io/Event-Horizon-ES-Mod/Documentation/COPYRIGHT.txt).  
 A list of all changes to the mod can be found in [changelog.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/Documentation/changelog).  
 An unorganized list of information on various mod elements can be found in [documentation.md](https://jasonwu00.github.io/Event-Horizon-ES-Mod/Documentation/documentation).  
 
