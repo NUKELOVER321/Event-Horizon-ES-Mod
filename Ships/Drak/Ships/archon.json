@@ -31,14 +31,14 @@
         "x": 0.7,
         "y": 0.1
       },
-      "AutoAimingArc": 20.0
+      "AutoAimingArc": 360.0
     },
     {
       "Position": {
         "x": 0.7,
         "y": -0.1
       },
-      "AutoAimingArc": 20.0
+      "AutoAimingArc": 360.0
     },
     {
       "Position": {

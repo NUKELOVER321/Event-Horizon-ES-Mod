@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1351,
+  "Name": "Monolith Core",
+  "Description": "A gigantic Hai reactor designed by the Unfettered.",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1351,
+  "Faction": 206,
+  "Level": 350,
+  "Icon": "monolith.png",
+  "Layout": "0111011111111111111101110",
+  "CellType": "2",
+  "PossibleModifications": [
+    12
+  ]
+}
