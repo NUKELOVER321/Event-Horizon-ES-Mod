@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 2293,
+  "Name": "Penta Pulser",
+  "Description": "Five pulse cannons on a turret, for when the Tri-pulse Shredder still doesn't cut it.",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 206,
+  "Level": 275,
+  "Icon": "penta pulser.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 2293,
+  "AmmunitionId": 1098,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

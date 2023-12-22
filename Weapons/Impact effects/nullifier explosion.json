@@ -3,7 +3,7 @@
   "Id": 1185,
   "Elements": [
     {
-      "Image": "ion explode.png",
+      "Image": "ion explosion.png",
       "Size": 3.0,
       "Lifetime": 5.0
     },

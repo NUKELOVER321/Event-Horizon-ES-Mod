@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 2101,
+  "Name": "Harasser Quadrail",
+  "Description": "Four Hai Railguns on a turret. It costs 400,000 dollars to fire it for 12 seconds.",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 206,
+  "Level": 275,
+  "Icon": "harasser quadrailgun.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 2101,
+  "AmmunitionId": 1101,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}
