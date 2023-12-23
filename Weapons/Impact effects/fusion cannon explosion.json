@@ -55,7 +55,7 @@
     {
       "Image": "static+5.png",
       "Size": 1.25,
-      "StartTime": 0.75,
+      "StartTime": 0.25,
       "Lifetime": 0.1
     },
     {
@@ -72,19 +72,19 @@
     {
       "Image": "finisher sparks~1.png",
       "Size": 0.25,
-      "StartTime": 0.1,
+      "StartTime": 0.05,
       "Lifetime": 0.1
     },
     {
       "Image": "finisher sparks~2.png",
       "Size": 0.25,
-      "StartTime": 0.2,
+      "StartTime": 0.1,
       "Lifetime": 0.1
     },
     {
       "Image": "finisher sparks~3.png",
       "Size": 0.25,
-      "StartTime": 0.3,
+      "StartTime": 0.15,
       "Lifetime": 0.1
     }
   ]

@@ -4,28 +4,32 @@
   "Elements": [
     {
       "Image": "ion explosion.png",
-      "Size": 2.0,
-      "Lifetime": 3.0
+      "Size": 1.0,
+      "Lifetime": 0.1
     },
     {
-      "Type": 1,
-      "Image": "star",
-      "ColorMode": 2,
-      "Color": "#00B9FF",
-      "Size": 2.0,
-      "Lifetime": 3.0
+      "Image": "ion explosion~1.png",
+      "Size": 1.0,
+      "StartTime": 0.05,
+      "Lifetime": 0.1
     },
     {
-      "Type": 5,
-      "Size": 2.0,
-      "Lifetime": 3.0
+      "Image": "ion explosion~2.png",
+      "Size": 1.0,
+      "StartTime": 0.1,
+      "Lifetime": 0.1
     },
     {
-      "Type": 2,
-      "Image": "emp ring.png",
-      "Color": "#00000000",
-      "Size": 3.0,
-      "Lifetime": 3.0
+      "Image": "ion explosion~3.png",
+      "Size": 1.0,
+      "StartTime": 0.15,
+      "Lifetime": 0.1
+    },
+    {
+      "Image": "ion explosion~4.png",
+      "Size": 1.0,
+      "StartTime": 0.1,
+      "Lifetime": 0.1
     }
   ]
 }
