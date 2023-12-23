@@ -1,0 +1,38 @@
+{
+  "ItemType": 6,
+  "Id": 466,
+  "ShipType": 1,
+  "Name": "Locust",
+  "Faction": 206,
+  "IconImage": "hai locust icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "hai locust.png",
+  "ModelScale": 0.9,
+  "EngineColor": "#0094FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.2
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.2
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0004400000044000001221000012210000122100001221000012210000555500",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.8
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    }
+  ]
+}
