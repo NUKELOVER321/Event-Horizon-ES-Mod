@@ -121,10 +121,25 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
- Component?Images/ruby?regenerator*
+ Ship?Images/Hai/hai?mantis*
+ Component?Images/Hai/penta?pulser*
+ Component?Images/Hai/octapulse?annihilator*
+ Weapons/Ammo?Images/octa?annihilator?projectile*
 Copyright: Ejo Thims
 License: CC-BY-SA-4.0
-Comment: Derived from works by Becca Tommaso (under the same license).
+Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ Component?Images/Hai/ruby?regenerator*
+Copyright: Ejo Thims
+License: CC-BY-SA-4.0
+Comment: Derived from works by Becca Tomaso (under the same license).
+
+Files:
+ Ship?Images/hai?lycosidae*
+Copyright: Ejo Thims
+License: CC-BY-SA-4.0
+Comment: Derived from works by LocalGod, Becca Tommaso and Michael Zahniser (under the same license).
 
 Files:
  Component?Images/predator?engine*

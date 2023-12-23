@@ -59,6 +59,7 @@ Ursa Polaris | 5005 | 5005
 Black Diamond | 3024
 Shooting Star | 5006
 Navy Battleship | 5007 | 5007
+Lycosidae | 5008 | 5008
 
 First unusued quest ID for special ships:
 
@@ -444,10 +445,9 @@ Octa-pulse Annihilator | 3293
 Monolith | 1351
 Ruby Regenerator | 1352
 Predator Engine | 1353
-Locust | 466
-Tarantula | 467
-Phrynus | 468
-Lycosidae | 469
+Locust | 466 | 1512-1514
+Tarantula | 467 | 1515-1517
+Phrynus | 468 | 1518-1520
 
 Remnant
 
@@ -885,8 +885,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1343
-Ship | 470
-Build | 1512
+Ship | 469
+Build | 1521
 Drone | 3031
 Quest | 1049
 

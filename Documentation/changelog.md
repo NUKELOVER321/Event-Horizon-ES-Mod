@@ -731,12 +731,17 @@ Changelog:
     - Added missing shield regeneration cooldown values to some shields
     - Reduced S-970 and Diamond Regenerator to 3x3 size
     - Added Ruby Regenerator, Harasser Quadrail, and Monolith Core to Hai
+    - Fixed a bug with the Kelvin Beam Turret not having correct damage values
+    - Fixed an out of place hit effect on the Fusion Cannon
   - Ship Changes
     - Fixed an issue with the Leviathan 2vet having negative energy regen
+    - Fixed an issue with Heliarch ships appearing in Coalition territory
     - Tweaked the Archon's barrels
+    - Made the Marauder Bactrian require Marauder Pirates bases
   - Tech Changes
   - Other Changes
     - Fixed a broken quest
+    - Fixed an issue with Heliarch faction missions asking for iron instead of yottrite
 
 ### Planned changes:
 - Adjust the blast radii of various explosive weapons
