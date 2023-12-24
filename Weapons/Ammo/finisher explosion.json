@@ -14,7 +14,7 @@
       "VisualEffect": 1152,
       "AudioClip": "torpedo hit",
       "Size": 1.0,
-      "Lifetime": 2.0
+      "Lifetime": 1.0
     }
   ],
   "ImpactType": 1,

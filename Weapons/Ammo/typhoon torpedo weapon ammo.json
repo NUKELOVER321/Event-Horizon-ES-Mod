@@ -39,11 +39,10 @@
     },
     {
       "Condition": 1,
-      "EffectType": 1,
-      "VisualEffect": 2074,
+      "EffectType": 2,
+      "Ammunition": 3074,
       "Color": "#00000000",
-      "Size": 3.0,
-      "Lifetime": 1.0
+      "Quantity": 1
     }
   ],
   "Effects": [
