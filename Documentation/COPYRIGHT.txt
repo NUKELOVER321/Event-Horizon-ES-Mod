@@ -104,7 +104,6 @@ Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
  Ship?Images/hai?lycosidae*
- Component?Images/hai?lycosidae*
 Copyright: Ejo Thims
 License: CC-BY-SA-4.0
 Comment: Derived from works by LocalGod, Becca Tommaso and Michael Zahniser (under the same license).
@@ -112,7 +111,6 @@ Comment: Derived from works by LocalGod, Becca Tommaso and Michael Zahniser (und
 Files:
  icon*.png
  Ship?Images/hai?tarantula*
- Component?Images/hai?tarantula*
  Component?Images/unfettered?bomb*
  Weapons/Ammo?Images/unfettered?bomb*
  Weapons/Buttons/unfettered?bomb*
@@ -162,27 +160,45 @@ License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
 
 Files:
-  Component?Images/Korath/Sestor/detainer?turret*
-  Component?Images/Korath/Sestor/double?detainer?turret*
-  Component?Images/Korath/Mereti/double?slicer?turret*
-  Ship?Images/Korath/Sestor/fet?243*
-  Component?Images/Wanderers/wanderer?heavy?antimissile*
-  Component?Images/Hai/ionic?blaster*
-  Component?Images/Hai/ionic?turret*
-  Component?Images/Hai/ion?mortar*
-  Component?Images/Pirates/barrage?turret*
-  Component?Images/Pirates/javelin?turret*
-  Component?Images/Marauder?Pirates/modified?radiothermal*
-  Component?Images/Marauder?Pirates/stabilized?gatling?gun*
-  Component?Images/Repiblic/ion?beam*
-  Component?Images/Repiblic/ion?beam?turret*
-  Ship?Images/Wanderers/blizzard*
-  Ship?Images/Korath/Exiles/courier*
-  Ship?Images/Korath/Exiles/shipper*
-  Ship?Images/Hai/sea?scorpion*
+ Component?Images/Korath/Sestor/detainer?turret*
+ Component?Images/Korath/Sestor/double?detainer?turret*
+ Component?Images/Korath/Mereti/double?slicer?turret*
+ Ship?Images/Korath/Sestor/fet?243*
+ Component?Images/Wanderers/wanderer?heavy?antimissile*
+ Component?Images/Hai/ionic?blaster*
+ Component?Images/Hai/ionic?turret*
+ Component?Images/Hai/ion?mortar*
+ Component?Images/Pirates/barrage?turret*
+ Component?Images/Pirates/javelin?turret*
+ Component?Images/Marauder?Pirates/modified?radiothermal*
+ Component?Images/Marauder?Pirates/stabilized?gatling?gun*
+ Component?Images/Repiblic/ion?beam*
+ Component?Images/Repiblic/ion?beam?turret*
+ Ship?Images/Wanderers/blizzard*
+ Ship?Images/Korath/Exiles/courier*
+ Ship?Images/Korath/Exiles/shipper*
+ Ship?Images/Hai/sea?scorpion*
 Copyright: Becca Tomaso
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
+
+Files:
+ Ships/Korath/Mereti/*
+ Weapons/Ammo?Images/*x2*
+Copyright: Raul39 (on Discord)
+License: CC-BY-SA-4.0
+
+Files:
+ FTU?Images/4x4?reactive*
+ FTU?Images/4x4*shield*
+Copyright: Crdball (on Discord)
+License: CC-BY-SA-4.0
+
+Files:
+ FTU?Images/4x4?armor*
+ FTU?Images/Infesticore*
+Copyright: Mirage Spirit (on Discord)
+License: CC-BY-SA-4.0
 
 License: GPL-3+
   This program is free software: you can redistribute it and/or modify

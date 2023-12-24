@@ -730,18 +730,23 @@ Changelog:
   - Component Changes
     - Added missing shield regeneration cooldown values to some shields
     - Reduced S-970 and Diamond Regenerator to 3x3 size
-    - Added Ruby Regenerator, Harasser Quadrail, and Monolith Core to Hai
+    - Added Ruby Regenerator, Harasser Quadrail, Monolith Core, and Locust dronebay to Hai
     - Fixed a bug with the Kelvin Beam Turret not having correct damage values
     - Fixed an out of place hit effect on the Fusion Cannon
     - Reverted a change to some ammunitions that caused the firing effect to stick to the ammo
     - Added new explosion effects to the EMP deployer and the Finisher torpedo
   - Ship Changes
+    - Added Tarantula and Phrynus to Hai
     - Fixed an issue with the Leviathan 2vet having negative energy regen
     - Fixed an issue with Heliarch ships appearing in Coalition territory
     - Tweaked the Archon's barrels
     - Made the Marauder Bactrian require Marauder Pirates bases
     - Remade some Hai builds using the new Ruby and Diamond Regenerators
   - Tech Changes
+    - Rearranged the Hai tech tree
+      - Chameleon anti-missile and Water Bug moved to lower positions
+      - Ion Cannon now follows Sea Scorpion
+      
   - Other Changes
     - Fixed a broken quest
     - Fixed an issue with Heliarch faction missions asking for iron instead of yottrite
