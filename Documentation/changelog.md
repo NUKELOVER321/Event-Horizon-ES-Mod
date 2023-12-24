@@ -746,7 +746,6 @@ Changelog:
     - Rearranged the Hai tech tree
       - Chameleon anti-missile and Water Bug moved to lower positions
       - Ion Cannon now follows Sea Scorpion
-      
   - Other Changes
     - Fixed a broken quest
     - Fixed an issue with Heliarch faction missions asking for iron instead of yottrite
