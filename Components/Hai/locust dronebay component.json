@@ -1,0 +1,23 @@
+{
+  "ItemType": 1,
+  "Id": 3031,
+  "Name": "Locust",
+  "Description": "A Hai interceptor wielding an ionic cannon..",
+  "DisplayCategory": 5,
+  "Availability": 2,
+  "ComponentStatsId": 3031,
+  "Faction": 206,
+  "Level": 300,
+  "Icon": "hai locust icon.png",
+  "Layout": "111111111",
+  "CellType": "1",
+  "DroneBayId": 3031,
+  "DroneId": 3031,
+  "PossibleModifications": [
+    17,
+    18,
+    19,
+    20,
+    2
+  ]
+}
