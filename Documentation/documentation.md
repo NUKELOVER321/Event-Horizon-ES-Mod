@@ -445,7 +445,7 @@ Octa-pulse Annihilator | 3293
 Monolith | 1351
 Ruby Regenerator | 1352
 Predator Engine | 1353
-Locust | 466 | 1512-1514
+Locust | 3031 | 3031
 Tarantula | 467 | 1515-1517
 Phrynus | 468 | 1518-1520
 
@@ -887,7 +887,7 @@ First unused IDs:
 Component | 1343
 Ship | 469
 Build | 1521
-Drone | 3031
+Drone | 3032
 Quest | 1049
 
 Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.

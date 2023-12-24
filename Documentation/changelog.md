@@ -725,7 +725,7 @@ Changelog:
 Changelog:
 - Changes:
   - Major Changes
-    - Attempted to make Christmas eternal.
+    - Attempted to make Christmas eternal
   - Skill and Perk Changes
   - Component Changes
     - Added missing shield regeneration cooldown values to some shields
@@ -733,11 +733,14 @@ Changelog:
     - Added Ruby Regenerator, Harasser Quadrail, and Monolith Core to Hai
     - Fixed a bug with the Kelvin Beam Turret not having correct damage values
     - Fixed an out of place hit effect on the Fusion Cannon
+    - Reverted a change to some ammunitions that caused the firing effect to stick to the ammo
+    - Added new explosion effects to the EMP deployer and the Finisher torpedo
   - Ship Changes
     - Fixed an issue with the Leviathan 2vet having negative energy regen
     - Fixed an issue with Heliarch ships appearing in Coalition territory
     - Tweaked the Archon's barrels
     - Made the Marauder Bactrian require Marauder Pirates bases
+    - Remade some Hai builds using the new Ruby and Diamond Regenerators
   - Tech Changes
   - Other Changes
     - Fixed a broken quest
