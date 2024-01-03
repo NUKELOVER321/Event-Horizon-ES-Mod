@@ -36,7 +36,7 @@ NT200 | 0.0552 | 0.4176
 RT-I | 0.096 | 0.768
 S1 Thermionic | 0.131 | 1.179
 S-270 | 0.04 | 0.16
-S-970 | 0.0388 | 0.6208
+S-970 | 0.0388 | 0.3496
 Water Cooling | -0.144 | -0.576
 
 FW
@@ -80,8 +80,10 @@ Sand | 0.0245 | 0.098
 Pebble | 0.089 | 0.882
 Geode | 0.0877 | 1.4032
 Boulder | 0.09 | 1.35
+Monolith | 0.119 | 2.499
 Corundum | 0.045 | 0.18
-Diamond | 0.044 | 0.704
+Diamond | 0.044 | 0.396
+Ruby | 0.05 | 0.8
 Williwaw | -0.09 | -0.09
 
 Remnant
@@ -95,7 +97,7 @@ Smelter | 0.032 | 0.512
 Aeon | 0.046 | 0.184
 Epoch | 0.048 | 0.432
 Millennium | 0.05 | 0.8
-Crystal Cap | 0.016 | 0.064
+Crystal Capacitor | 0.016 | 0.064
 Thermoelectric | -0.24 | -0.24
 
 Ka'Het
@@ -157,6 +159,13 @@ White Sun | 0.06 | 1.26
 Blue Sun | 0.0615 | 1.968
 Heat Sink | -0.19 | -0.76
 Large Heat Sink | -0.221 | -3.546
+
+Kaltheim
+
+Item | Heat Per Square | Heat Per Module
+--- | --- | ---
+Floe Core | 0.04 | 0.16
+Iceberg Core | 0.05 | 0.8
 
 Coalition
 
