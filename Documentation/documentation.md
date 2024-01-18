@@ -907,3 +907,5 @@ Javelin Rocket | +100% energy cost
 Korath Piercer Missile | -33% projectile mass
 Ruby Regenerator | +100% energy cost, +50% heat generation
 Monolith Core | +10% energy generation
+Dragonflame Cannon | +300% energy cost, +400% damage
+Fusion Cannon | +100% energy cost and damage 

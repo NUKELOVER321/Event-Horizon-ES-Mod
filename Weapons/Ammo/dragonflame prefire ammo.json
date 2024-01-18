@@ -7,7 +7,7 @@
     "Velocity": 300.0,
     "Range": 30.0,
     "Weight": 0.1,
-    "EnergyCost": 160.0
+    "EnergyCost": 640.0
   },
   "Triggers": [
     {
