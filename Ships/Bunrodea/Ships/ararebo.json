@@ -1,0 +1,52 @@
+{
+  "ItemType": 6,
+  "Id": 471,
+  "Name": "Ararebo",
+  "Faction": 221,
+  "IconImage": "ararebo icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "ararebo.png",
+  "ModelScale": 2.5,
+  "EngineColor": "#4C00FF",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.4
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "000441144000000442244000000012210000000012210000000002200000000112211000001112211100003222222300003222222300003220022300001550055100000550055000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.2
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.2
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    }
+  ]
+}

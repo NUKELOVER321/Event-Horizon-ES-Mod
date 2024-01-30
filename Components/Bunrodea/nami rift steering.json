@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1355,
+  "Name": "Nami Rift Steering",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1355,
+  "Faction": 221,
+  "Level": 300,
+  "Icon": "nami rift steering.png",
+  "Layout": "111111111",
+  "PossibleModifications": [
+    9
+  ]
+}

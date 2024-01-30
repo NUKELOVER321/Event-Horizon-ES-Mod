@@ -14,6 +14,7 @@ Hai | 250 | 206
 Trisolar Coalition | 250 | 218
 Remnants | 300 | 207
 Korath Exiles | 300 | 209
+Bunrodea | 325 | 221
 Wanderers | 350 | 211
 Ka'het | 350 | 210
 Kaltheim | 375 | 220
@@ -592,6 +593,38 @@ Shipper | 433 | 1397-1399
 Courier | 434 | 1400-1402
 Command Center | 1316
 
+Bunrodea
+
+Item Name | Item ID | Build IDs (if applicable)
+--- | --- | ---
+Kaiken | 3033 | 3033
+Sasumata | 469 | 1521-1523
+Tanto | 470 | 1524-1526
+Ararebo | 471 | 1527-1529
+Tekkan | 472 | 1530-1532
+Kunai | 473 | 1533-1535
+Kama | 474 | 1536-1538
+Chigiriki | 475 | 1539-1541
+Nami Rift Thruster | 1354
+Nami Rift Steering | 1355
+Ookii Rift Thruster | 1356
+Ookii Rift Steering | 1357
+Subarashii Rift Thruster | 1358
+Subarashii Rift Steering | 1359
+Thorax Cannon | 1360
+Locust Blaster | 1361 (turret 2361)
+Mandible Cannon | 1362 (turret 2362)
+Swarm Pod | 1363
+Small Shield Relay | 1364
+Large Shield Relay | 1365
+Small Nanite Fabricator | 1366
+Large Nanite Fabricator | 1367
+Quark Reactor | 1368
+Electroweak Reactor | 1369
+Dark Reactor | 1370
+Chiisana Rift Thruster | 1371
+Chiisana Rift Steering | 1372
+
 Ka'het
 
 Item Name | Item ID | Build IDs (if applicable)
@@ -884,10 +917,10 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1343
-Ship | 469
-Build | 1521
-Drone | 3032
+Component | 1364
+Ship | 476
+Build | 1542
+Drone | 3034
 Quest | 1049
 
 Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.

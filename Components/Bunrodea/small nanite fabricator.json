@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1366,
+  "Name": "Small Nanite Fabricator",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1366,
+  "Faction": 221,
+  "Level": 300,
+  "Icon": "small nanite fabricator.png",
+  "Layout": "1111",
+  "PossibleModifications": [
+    9
+  ]
+}

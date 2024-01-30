@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1370,
+  "Name": "Dark Reactor",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1370,
+  "Faction": 221,
+  "Level": 350,
+  "Icon": "dark reactor.png",
+  "Layout": "1111111111111111",
+  "PossibleModifications": [
+    9
+  ]
+}

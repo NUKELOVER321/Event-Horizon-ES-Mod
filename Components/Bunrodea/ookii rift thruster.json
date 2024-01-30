@@ -1,0 +1,15 @@
+{
+  "ItemType": 1,
+  "Id": 1356,
+  "Name": "Ookii Rift Thruster",
+  "DisplayCategory": 3,
+  "Availability": 2,
+  "ComponentStatsId": 1356,
+  "Faction": 221,
+  "Level": 325,
+  "Icon": "ookii rift thruster.png",
+  "Layout": "1111111111111111",
+  "PossibleModifications": [
+    9
+  ]
+}
