@@ -139,6 +139,8 @@ For every engine other than Ionics:
 
 NOTE: Due to changes to the ion engine stats in base ES, it is important to use the values provided below (sourced from the Endless Sky GitHub repo before 16 April 2022) for the above calculations. These values will be obsoleted in a future update that adjusts all engines to match these changes.
 
+To see all the changes in the 16 April 2022 update: inspect this link: https://github.com/endless-sky/endless-sky/commit/8a503d9bd5e062054549056aa4a730813def8977#diff-7429a26a7e995048c3b962ee40092f520add3a2cad1af48e67e1b46a2bd8f9f3
+
 Engine | Thrust | Turn | Outfit space
 --- | --- | --- | ---
 X1050 | 14400 | 6600 | 20
@@ -149,14 +151,15 @@ X4700 | 153000 | - | 79
 X5700 | 293400 | - | 134
 X1200 | - | 9600 | 12
 X2200 | - | 12420 | 20
-X3200 | - | 35400 | 35 
+X3200 | - | 35400 | 35
 X4200 | - | 67920 | 59
-X5200 | - | 130440 | 100
+X5200 | - | 130440 | 89
 
 Calculating engine power consumption:   
-calculate power per unit of outfit space for desired single or pair of engine(s).   
-calculate power per unit of corresponding ion engine. divide former by latter.   
-multiply value by power consumption of ion engine.   
+1: calculate power per unit of outfit space for desired single or pair of engine(s).   
+2: calculate power per unit of corresponding ion engine(s). 
+3: divide 1 by 2.   
+4: multiply value by the power consumption of the corresponding ion engine.   
 
 For referencing values directly from the data files:   
 Multiply turn by 3600 and thrust by 60.   
