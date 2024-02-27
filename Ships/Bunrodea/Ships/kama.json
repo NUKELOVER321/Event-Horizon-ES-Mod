@@ -8,7 +8,7 @@
   "IconScale": 1.0,
   "ModelImage": "kama.png",
   "ModelScale": 4.5,
-  "EngineColor": "#4C00FF",
+  "EngineColor": "#59A54C",
   "Engines": [
     {
       "Position": {

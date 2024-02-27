@@ -9,7 +9,7 @@
   "IconScale": 1.0,
   "ModelImage": "chigiriki.png",
   "ModelScale": 6.5,
-  "EngineColor": "#4C00FF",
+  "EngineColor": "#59A54C",
   "Engines": [
     {
       "Position": {
