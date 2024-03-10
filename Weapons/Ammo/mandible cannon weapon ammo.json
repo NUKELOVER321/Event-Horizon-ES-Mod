@@ -1,0 +1,26 @@
+{
+  "ItemType": 25,
+  "Id": 1360,
+  "Body": {
+    "Size": 1.5,
+    "Velocity": 34.0,
+    "Range": 85.0,
+    "BulletPrefab": 1360,
+    "EnergyCost": 0.25,
+    "CanBeDisarmed": true
+  },
+  "Triggers": [
+    {
+      "Condition": 3,
+      "EffectType": 1,
+      "VisualEffect": 1034,
+      "Size": 0.5
+    }
+  ],
+  "Effects": [
+    {
+      "DamageType": 1,
+      "Power": 25.0
+    }
+  ]
+}
