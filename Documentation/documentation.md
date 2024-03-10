@@ -116,6 +116,7 @@ Anti-missile range | Range / 25 (Put the value in "Size" field)
 Non-weapon stats | Conversion
 --- | ---
 Battery energy storage | (Energy / space) * 10 (and * 2 for Syscores and Sun Reactors)
+Alternate battery energy storage | (Energy / space) / 40?
 Reactor energy output | Power output / space 
 Engine thrust | (Thrust / size) / (ion engine thrust / size)
 Engine steering | (Steering / size) / (ion engine thrust / size)
@@ -284,6 +285,9 @@ Mammoth | 448 | 1458-1460
 RT-II Radiothermal | 1319
 Accurate Gatling | 1320
 Large Radar Jammer | 1322
+Enforcer | 476 | 1542-1544
+Hogshead | 477 | 1545-1547
+Saber | 478 | 1548-1560
 
 Syndicate
 
@@ -616,7 +620,7 @@ Subarashii Rift Thruster | 1358
 Subarashii Rift Steering | 1359
 Thorax Cannon | 1360
 Locust Blaster | 1361 (turret 2361)
-Mandible Cannon | 1362 (turret 2362)
+Mandible Cannon | 1362
 Swarm Pod | 1363
 Small Shield Relay | 1364
 Large Shield Relay | 1365
@@ -627,6 +631,8 @@ Electroweak Reactor | 1369
 Dark Reactor | 1370
 Chiisana Rift Thruster | 1371
 Chiisana Rift Steering | 1372
+Solar Battery | 1373
+Solar Cell | 1374
 
 Ka'het
 
@@ -921,8 +927,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1364
-Ship | 476
-Build | 1542
+Ship | 479
+Build | 1561
 Drone | 3034
 Quest | 1049
 
@@ -938,6 +944,7 @@ Detainer, Inhibitor | (Pending)
 Bombardment, Thrasher, Thunderhead | +100% projectile speed
 Torpedo, Typhoon Torpedo, EMP Torpedo, EMP Deployer, Teciimach Torpedo, Javelin Rocket, Firestorm Missile | +100% projectile speed
 Finisher Torpedo | +50% projectile speed
+Locust Blaster | +300% projectile speed
 Ion Hail, Ion Rain | +33% speed
 Javelin Rocket | +100% energy cost
 Korath Piercer Missile | -33% projectile mass
@@ -945,3 +952,4 @@ Ruby Regenerator | +100% energy cost, +50% heat generation
 Monolith Core | +10% energy generation
 Dragonflame Cannon | +300% energy cost, +400% damage
 Fusion Cannon | +100% energy cost and damage 
+Solar Battery | -80% energy storage
