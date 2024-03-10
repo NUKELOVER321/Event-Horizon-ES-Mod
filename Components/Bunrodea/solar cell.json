@@ -1,15 +1,15 @@
 {
   "ItemType": 1,
-  "Id": 1368,
-  "Name": "Quark Reactor",
+  "Id": 1374,
+  "Name": "Solar Cell",
   "DisplayCategory": 3,
   "Availability": 1,
-  "ComponentStatsId": 1368,
+  "ComponentStatsId": 1374,
   "Faction": 221,
   "Level": 300,
-  "Icon": "quark reactor.png",
-  "Layout": "111111111",
-  "CellType": "2",
+  "Icon": "solar cell.png",
+  "Layout": "1",
+  "CellType": "0",
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     9

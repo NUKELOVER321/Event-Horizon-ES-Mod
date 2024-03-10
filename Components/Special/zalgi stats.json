@@ -9,6 +9,8 @@
   "Level": 1000,
   "Icon": "zalgi.png",
   "Layout": "1111",
+  "CellType": "\u0000",
+  "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     12,
     3,

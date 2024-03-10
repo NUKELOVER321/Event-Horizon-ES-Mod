@@ -10,6 +10,7 @@
   "Level": 10,
   "Icon": "LP072a batterypack.png",
   "Layout": "1111",
+  "CellType": "0",
   "PossibleModifications": [
     9
   ]

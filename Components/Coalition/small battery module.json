@@ -9,6 +9,7 @@
   "Level": 25,
   "Icon": "small battery module.png",
   "Layout": "1",
+  "CellType": "0",
   "PossibleModifications": [
     9
   ]

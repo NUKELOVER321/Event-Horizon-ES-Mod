@@ -9,6 +9,8 @@
   "Level": 70,
   "Icon": "polar battery.png",
   "Layout": "1111",
+  "CellType": "\u0000",
+  "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     9
   ]

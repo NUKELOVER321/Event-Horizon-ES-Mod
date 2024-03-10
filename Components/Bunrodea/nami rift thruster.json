@@ -2,13 +2,15 @@
   "ItemType": 1,
   "Id": 1354,
   "Name": "Nami Rift Thruster",
-  "DisplayCategory": 3,
-  "Availability": 2,
+  "DisplayCategory": 4,
+  "Availability": 1,
   "ComponentStatsId": 1354,
   "Faction": 221,
   "Level": 300,
   "Icon": "nami rift thruster.png",
   "Layout": "111111111",
+  "CellType": "5",
+  "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     9
   ]

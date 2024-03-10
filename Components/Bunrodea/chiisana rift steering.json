@@ -2,13 +2,15 @@
   "ItemType": 1,
   "Id": 1372,
   "Name": "Chiisana Rift Steering",
-  "DisplayCategory": 3,
-  "Availability": 2,
+  "DisplayCategory": 4,
+  "Availability": 1,
   "ComponentStatsId": 1372,
   "Faction": 221,
   "Level": 275,
   "Icon": "chiisana rift steering.png",
   "Layout": "1111",
+  "CellType": "5",
+  "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     9
   ]

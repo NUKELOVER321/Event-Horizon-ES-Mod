@@ -1,15 +1,15 @@
 {
   "ItemType": 1,
-  "Id": 1364,
-  "Name": "Small Shield Relay",
-  "DisplayCategory": 2,
+  "Id": 1373,
+  "Name": "Solar Battery",
+  "DisplayCategory": 3,
   "Availability": 1,
-  "ComponentStatsId": 1364,
+  "ComponentStatsId": 1373,
   "Faction": 221,
   "Level": 300,
-  "Icon": "small shield relay.png",
+  "Icon": "solar battery.png",
   "Layout": "1111",
-  "CellType": "3",
+  "CellType": "0",
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     9

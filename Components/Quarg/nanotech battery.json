@@ -9,6 +9,7 @@
   "Level": 500,
   "Icon": "nanotech battery.png",
   "Layout": "0111001110011100111001110",
+  "CellType": "0",
   "PossibleModifications": [
     9
   ]

@@ -9,6 +9,7 @@
   "Level": 50,
   "Icon": "large battery module.png",
   "Layout": "111111111",
+  "CellType": "0",
   "PossibleModifications": [
     9
   ]

@@ -3,12 +3,14 @@
   "Id": 1369,
   "Name": "Electroweak Reactor",
   "DisplayCategory": 3,
-  "Availability": 2,
+  "Availability": 1,
   "ComponentStatsId": 1369,
   "Faction": 221,
   "Level": 325,
   "Icon": "electroweak reactor.png",
   "Layout": "1111111111111111",
+  "CellType": "2",
+  "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     9
   ]
