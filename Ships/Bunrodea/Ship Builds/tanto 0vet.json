@@ -2,8 +2,6 @@
   "ItemType": 8,
   "Id": 1524,
   "ShipId": 462,
-  "DifficultyClass": 0,
   "BuildFaction": 221,
-  "Components": [
-  ]
+  "Components": []
 }
