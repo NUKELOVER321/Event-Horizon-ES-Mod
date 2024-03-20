@@ -8,10 +8,11 @@
   "Faction": 221,
   "Level": 300,
   "Icon": "large shield relay.png",
-  "Layout": "111111111",
-  "CellType": "3",
+  "Layout": "1111111111111111",
+  "CellType": "1",
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
-    9
+    12,
+    3
   ]
 }

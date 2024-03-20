@@ -9,9 +9,10 @@
   "Level": 300,
   "Icon": "small shield relay.png",
   "Layout": "1111",
-  "CellType": "3",
+  "CellType": "1",
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [
-    9
+    12,
+    3
   ]
 }

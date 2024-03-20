@@ -8,7 +8,7 @@
   "Faction": 221,
   "Level": 350,
   "Icon": "subarashii rift thruster.png",
-  "Layout": "1111111111111111",
+  "Layout": "1111111111111111111100000",
   "CellType": "5",
   "WeaponSlotType": "\u0000",
   "PossibleModifications": [

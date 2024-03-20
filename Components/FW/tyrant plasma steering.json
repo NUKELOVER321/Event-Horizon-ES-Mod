@@ -11,6 +11,7 @@
   "Icon": "tyrant steering.png",
   "Layout": "1111111111111111111100000",
   "CellType": "5",
+  "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     11
   ]
