@@ -766,6 +766,10 @@ Changelog:
         - 110 dmg / 50 drain -> 220 dmg / 100 drain
         - 50 ec -> 100 ec
   - Ships
+    - Buffed the Star Queen
+      - Increased its cell layout size, reduced size class to Cruiser
+      - Remade its outfits with merchants shield generators
+      - Fixed an issue where its 2vet version was labeled as a 1vet version
   - Tech
   - Other
 
