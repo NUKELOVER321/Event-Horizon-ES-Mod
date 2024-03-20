@@ -1,10 +1,10 @@
 {
   "ItemType": 3,
-  "Id": 1362,
-  "FireRate": 2.0,
+  "Id": 1360,
+  "FireRate": 0.5,
   "Spread": 2.0,
   "ActivationType": 1,
-  "ShotSound": "mandible cannon",
+  "ShotSound": "thorax cannon",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "controls_shot"
 }

@@ -1,0 +1,10 @@
+{
+  "ItemType": 3,
+  "Id": 2363,
+  "FireRate": 15.0,
+  "Spread": 15.0,
+  "ActivationType": 1,
+  "ShotSound": "swarm missile",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "meteor.png"
+}
