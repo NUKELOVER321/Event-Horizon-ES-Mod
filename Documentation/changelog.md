@@ -765,6 +765,11 @@ Changelog:
       - Fusion Cannon:
         - 110 dmg / 50 drain -> 220 dmg / 100 drain
         - 50 ec -> 100 ec
+      - Ka'het Nullifier
+        - 220 EMP -> 2200 EMP
+        - Reduced size to 3x3
+        - Changed slot type to T
+        - Re-added to Ka'het tech tree
   - Ships
     - Buffed the Star Queen
       - Increased its cell layout size, reduced size class to Cruiser
