@@ -8,5 +8,5 @@
   "ActivationType": 1,
   "ShotSound": "gatling",
   "ShotEffectPrefab": "OrbAdditive",
-  "ControlButtonIcon": "gat turret icon.png"
+  "ControlButtonIcon": "gatling.png"
 }
