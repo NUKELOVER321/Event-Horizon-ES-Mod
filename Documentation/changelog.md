@@ -769,13 +769,13 @@ Changelog:
         - 220 EMP -> 2200 EMP
         - Reduced size to 3x3
         - Changed slot type to T
-        - Re-added to Ka'het tech tree
   - Ships
     - Buffed the Star Queen
       - Increased its cell layout size, reduced size class to Cruiser
       - Remade its outfits with merchants shield generators
       - Fixed an issue where its 2vet version was labeled as a 1vet version
   - Tech
+    - Re-added the Ka'het Nullifier to the Ka'het tech tree
   - Other
 
 ### Planned changes:
