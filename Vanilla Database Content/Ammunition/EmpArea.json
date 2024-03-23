@@ -10,7 +10,9 @@
     "FriendlyFire": true,
     "Type": 2
   },
-  "Controller": {},
+  "Controller": {
+    "StartingVelocityModifier": 1.0
+  },
   "Triggers": [
     {
       "Condition": 1,
