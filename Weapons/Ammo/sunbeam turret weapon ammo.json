@@ -2,12 +2,12 @@
   "ItemType": 25,
   "Id": 1207,
   "Body": {
-    "Type": 3,
     "Size": 1.0,
     "Range": 54.0,
     "Lifetime": 0.1,
     "BulletPrefab": 2207,
-    "EnergyCost": 62.4
+    "EnergyCost": 62.4,
+    "Type": 3
   },
   "Triggers": [
     {

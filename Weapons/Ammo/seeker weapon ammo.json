@@ -2,14 +2,14 @@
   "ItemType": 25,
   "Id": 1250,
   "Body": {
-    "Type": 1,
     "Size": 1.0,
     "Velocity": 13.0,
     "Range": 130.0,
     "Weight": 0.15,
     "BulletPrefab": 1250,
     "EnergyCost": 2.5,
-    "CanBeDisarmed": true
+    "CanBeDisarmed": true,
+    "Type": 1
   },
   "Triggers": [
     {

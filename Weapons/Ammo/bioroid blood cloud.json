@@ -2,11 +2,11 @@
   "ItemType": 25,
   "Id": 6339,
   "Body": {
-    "Type": 2,
     "Size": 5.0,
     "Lifetime": 10.0,
     "Weight": 0.05,
-    "BulletPrefab": 4339
+    "BulletPrefab": 4339,
+    "Type": 2
   },
   "ImpactType": 1,
   "Effects": [

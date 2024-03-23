@@ -2,10 +2,10 @@
   "ItemType": 25,
   "Id": 5028,
   "Body": {
-    "Type": 2,
     "Size": 1.5,
     "Lifetime": 0.5,
-    "Color": "#DBDBDB"
+    "Color": "#DBDBDB",
+    "Type": 2
   },
   "Triggers": [
     {

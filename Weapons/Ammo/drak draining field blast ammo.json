@@ -2,11 +2,11 @@
   "ItemType": 25,
   "Id": 2335,
   "Body": {
-    "Type": 2,
     "Size": 60.0,
     "Lifetime": 1.0,
     "Weight": 1.0,
-    "EnergyCost": 35.0
+    "EnergyCost": 35.0,
+    "Type": 2
   },
   "Triggers": [
     {

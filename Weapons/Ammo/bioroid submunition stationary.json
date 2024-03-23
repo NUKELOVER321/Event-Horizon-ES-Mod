@@ -2,13 +2,13 @@
   "ItemType": 25,
   "Id": 4339,
   "Body": {
-    "Type": 2,
     "Size": 1.0,
     "Lifetime": 100.0,
     "Weight": 0.05,
     "HitPoints": 22,
     "BulletPrefab": 3339,
-    "CanBeDisarmed": true
+    "CanBeDisarmed": true,
+    "Type": 2
   },
   "Triggers": [
     {
