@@ -2,6 +2,7 @@
   "ItemType": 6,
   "Id": 5008,
   "ShipType": 3,
+  "ShipRarity": 3,
   "SizeClass": 3,
   "Name": "Lycosidae",
   "Faction": 206,

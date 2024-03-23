@@ -2,7 +2,6 @@
   "ItemType": 8,
   "Id": 5004,
   "ShipId": 5004,
-  "NotAvailableInGame": true,
   "Components": [
     {
       "ComponentId": 1207,
@@ -296,5 +295,6 @@
       "BarrelId": -1,
       "KeyBinding": 1
     }
-  ]
+  ],
+  "NotAvailableInGame": true
 }
