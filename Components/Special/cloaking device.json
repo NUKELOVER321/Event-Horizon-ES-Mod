@@ -10,6 +10,7 @@
   "Layout": "111111111",
   "CellType": "2",
   "DeviceId": 9000,
+  "WeaponSlotType": "\u0000",
   "Restrictions": {
     "UniqueComponentTag": "superstealth"
   },

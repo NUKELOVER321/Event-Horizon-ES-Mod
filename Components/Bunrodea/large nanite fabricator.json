@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1367,
+  "Name": "Large Nanite Fabricator",
+  "DisplayCategory": 2,
+  "Availability": 1,
+  "ComponentStatsId": 1367,
+  "Faction": 221,
+  "Level": 300,
+  "Icon": "large nanite fabricator.png",
+  "Layout": "1111111111111111",
+  "CellType": "3",
+  "WeaponSlotType": "\u0000",
+  "PossibleModifications": [
+    2
+  ]
+}

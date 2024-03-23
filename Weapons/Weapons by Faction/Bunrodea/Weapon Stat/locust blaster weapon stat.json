@@ -1,0 +1,10 @@
+{
+  "ItemType": 3,
+  "Id": 1361,
+  "FireRate": 20.0,
+  "Spread": 2.0,
+  "ActivationType": 1,
+  "ShotSound": "gatling",
+  "ShotEffectPrefab": "OrbAdditive",
+  "ControlButtonIcon": "gatling.png"
+}

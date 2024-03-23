@@ -9,6 +9,8 @@
   "Level": 1000,
   "Icon": "zambor.png",
   "Layout": "1111",
+  "CellType": "0",
+  "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     12,
     3,

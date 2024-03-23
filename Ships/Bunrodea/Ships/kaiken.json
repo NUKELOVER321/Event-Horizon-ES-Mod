@@ -1,0 +1,60 @@
+{
+  "ItemType": 6,
+  "Id": 3033,
+  "ShipType": 1,
+  "Name": "Kaiken",
+  "Faction": 221,
+  "IconImage": "kaiken icon.png",
+  "IconScale": 1.0,
+  "ModelImage": "kaiken.png",
+  "ModelScale": 0.75,
+  "EngineColor": "#59A54C",
+  "Engines": [
+    {
+      "Position": {
+        "x": -0.9,
+        "y": -0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.9,
+        "y": 0.3
+      },
+      "Size": 0.1
+    },
+    {
+      "Position": {
+        "x": -0.4
+      },
+      "Size": 0.1
+    }
+  ],
+  "Layout": "0044004400004400440000114411000011441100001322310000132231000013223100001322310000115511000000550000",
+  "Barrels": [
+    {
+      "Position": {
+        "x": 0.9,
+        "y": 0.2
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.9,
+        "y": -0.2
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    },
+    {
+      "Position": {
+        "x": 0.6
+      },
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLMT"
+    }
+  ]
+}

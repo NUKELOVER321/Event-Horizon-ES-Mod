@@ -9,6 +9,7 @@
   "Level": 350,
   "Icon": "small em battery.png",
   "Layout": "111111111",
+  "CellType": "0",
   "PossibleModifications": [
     9
   ]

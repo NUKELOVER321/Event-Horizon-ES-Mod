@@ -9,6 +9,7 @@
   "Level": 1000,
   "Icon": "zibruka icon.png",
   "Layout": "1111",
+  "CellType": "0",
   "PossibleModifications": [
     12,
     3,

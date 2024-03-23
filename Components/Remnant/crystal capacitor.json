@@ -9,6 +9,7 @@
   "Level": 150,
   "Icon": "crystal capacitor.png",
   "Layout": "1111",
+  "CellType": "0",
   "PossibleModifications": [
     9
   ]

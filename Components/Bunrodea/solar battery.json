@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1373,
+  "Name": "Solar Battery",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1373,
+  "Faction": 221,
+  "Level": 300,
+  "Icon": "solar battery.png",
+  "Layout": "1111",
+  "CellType": "0",
+  "WeaponSlotType": "\u0000",
+  "PossibleModifications": [
+    9
+  ]
+}

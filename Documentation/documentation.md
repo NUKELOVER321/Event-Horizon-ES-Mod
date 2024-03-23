@@ -14,6 +14,7 @@ Hai | 250 | 206
 Trisolar Coalition | 250 | 218
 Remnants | 300 | 207
 Korath Exiles | 300 | 209
+Bunrodea | 325 | 221
 Wanderers | 350 | 211
 Ka'het | 350 | 210
 Kaltheim | 375 | 220
@@ -115,6 +116,7 @@ Anti-missile range | Range / 25 (Put the value in "Size" field)
 Non-weapon stats | Conversion
 --- | ---
 Battery energy storage | (Energy / space) * 10 (and * 2 for Syscores and Sun Reactors)
+Alternate battery energy storage | (Energy / space) / 40?
 Reactor energy output | Power output / space 
 Engine thrust | (Thrust / size) / (ion engine thrust / size)
 Engine steering | (Steering / size) / (ion engine thrust / size)
@@ -138,6 +140,8 @@ For every engine other than Ionics:
 
 NOTE: Due to changes to the ion engine stats in base ES, it is important to use the values provided below (sourced from the Endless Sky GitHub repo before 16 April 2022) for the above calculations. These values will be obsoleted in a future update that adjusts all engines to match these changes.
 
+To see all the changes in the 16 April 2022 update: inspect this link: https://github.com/endless-sky/endless-sky/commit/8a503d9bd5e062054549056aa4a730813def8977#diff-7429a26a7e995048c3b962ee40092f520add3a2cad1af48e67e1b46a2bd8f9f3
+
 Engine | Thrust | Turn | Outfit space
 --- | --- | --- | ---
 X1050 | 14400 | 6600 | 20
@@ -148,14 +152,15 @@ X4700 | 153000 | - | 79
 X5700 | 293400 | - | 134
 X1200 | - | 9600 | 12
 X2200 | - | 12420 | 20
-X3200 | - | 35400 | 35 
+X3200 | - | 35400 | 35
 X4200 | - | 67920 | 59
-X5200 | - | 130440 | 100
+X5200 | - | 130440 | 89
 
 Calculating engine power consumption:   
-calculate power per unit of outfit space for desired single or pair of engine(s).   
-calculate power per unit of corresponding ion engine. divide former by latter.   
-multiply value by power consumption of ion engine.   
+1: calculate power per unit of outfit space for desired single or pair of engine(s).   
+2: calculate power per unit of corresponding ion engine(s). 
+3: divide 1 by 2.   
+4: multiply value by the power consumption of the corresponding ion engine.   
 
 For referencing values directly from the data files:   
 Multiply turn by 3600 and thrust by 60.   
@@ -280,6 +285,9 @@ Mammoth | 448 | 1458-1460
 RT-II Radiothermal | 1319
 Accurate Gatling | 1320
 Large Radar Jammer | 1322
+Enforcer | 476 | 1542-1544
+Hogshead | 477 | 1545-1547
+Saber | 478 | 1548-1560
 
 Syndicate
 
@@ -592,6 +600,40 @@ Shipper | 433 | 1397-1399
 Courier | 434 | 1400-1402
 Command Center | 1316
 
+Bunrodea
+
+Item Name | Item ID | Build IDs (if applicable)
+--- | --- | ---
+Kaiken | 3033 | 3033
+Sasumata | 469 | 1521-1523
+Tanto | 470 | 1524-1526
+Ararebo | 471 | 1527-1529
+Tekkan | 472 | 1530-1532
+Kunai | 473 | 1533-1535
+Kama | 474 | 1536-1538
+Chigiriki | 475 | 1539-1541
+Nami Rift Thruster | 1354
+Nami Rift Steering | 1355
+Ookii Rift Thruster | 1356
+Ookii Rift Steering | 1357
+Subarashii Rift Thruster | 1358
+Subarashii Rift Steering | 1359
+Thorax Cannon | 1360
+Locust Blaster | 1361 (turret 2361)
+Mandible Cannon | 1362
+Swarm Pod | 1363
+Small Shield Relay | 1364
+Large Shield Relay | 1365
+Small Nanite Fabricator | 1366
+Large Nanite Fabricator | 1367
+Quark Reactor | 1368
+Electroweak Reactor | 1369
+Dark Reactor | 1370
+Chiisana Rift Thruster | 1371
+Chiisana Rift Steering | 1372
+Solar Battery | 1373
+Solar Cell | 1374
+
 Ka'het
 
 Item Name | Item ID | Build IDs (if applicable)
@@ -884,10 +926,10 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1343
-Ship | 469
-Build | 1521
-Drone | 3032
+Component | 1364
+Ship | 479
+Build | 1561
+Drone | 3034
 Quest | 1049
 
 Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.
@@ -902,6 +944,7 @@ Detainer, Inhibitor | (Pending)
 Bombardment, Thrasher, Thunderhead | +100% projectile speed
 Torpedo, Typhoon Torpedo, EMP Torpedo, EMP Deployer, Teciimach Torpedo, Javelin Rocket, Firestorm Missile | +100% projectile speed
 Finisher Torpedo | +50% projectile speed
+Locust Blaster | +300% projectile speed
 Ion Hail, Ion Rain | +33% speed
 Javelin Rocket | +100% energy cost
 Korath Piercer Missile | -33% projectile mass
@@ -909,3 +952,4 @@ Ruby Regenerator | +100% energy cost, +50% heat generation
 Monolith Core | +10% energy generation
 Dragonflame Cannon | +300% energy cost, +400% damage
 Fusion Cannon | +100% energy cost and damage 
+Solar Battery | -80% energy storage

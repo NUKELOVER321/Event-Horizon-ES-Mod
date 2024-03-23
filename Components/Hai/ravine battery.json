@@ -10,6 +10,7 @@
   "Level": 60,
   "Icon": "ravine battery.png",
   "Layout": "1111111111111111",
+  "CellType": "0",
   "PossibleModifications": [
     9
   ]

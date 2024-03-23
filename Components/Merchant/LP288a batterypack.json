@@ -10,6 +10,7 @@
   "Level": 30,
   "Icon": "LP288a batterypack.png",
   "Layout": "1111111111111111",
+  "CellType": "0",
   "PossibleModifications": [
     9
   ]

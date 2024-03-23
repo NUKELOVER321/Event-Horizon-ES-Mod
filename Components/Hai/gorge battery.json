@@ -10,6 +10,7 @@
   "Level": 45,
   "Icon": "gorge battery.png",
   "Layout": "111111111",
+  "CellType": "0",
   "PossibleModifications": [
     9
   ]

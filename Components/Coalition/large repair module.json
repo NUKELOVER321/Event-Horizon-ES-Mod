@@ -10,6 +10,7 @@
   "Icon": "large repair module.png",
   "Layout": "111111111",
   "CellType": "3",
+  "WeaponSlotType": "\u0000",
   "PossibleModifications": [
     2
   ]

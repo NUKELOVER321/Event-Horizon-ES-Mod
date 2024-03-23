@@ -11,6 +11,7 @@
   "Layout": "111111111",
   "CellType": "2",
   "DeviceId": 5000,
+  "WeaponSlotType": "\u0000",
   "Restrictions": {
     "UniqueComponentTag": "safeguard"
   },

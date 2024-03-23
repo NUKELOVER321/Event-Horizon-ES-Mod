@@ -3,13 +3,14 @@
   "Id": 6001,
   "Name": "Organ Bomb",
   "DisplayCategory": 6,
-  "Availability": 2,
+  "Availability": 3,
   "ComponentStatsId": 3,
   "Level": 350,
   "Icon": "bomb cart.png",
   "Layout": "111111111",
   "CellType": "2",
   "DeviceId": 6001,
+  "WeaponSlotType": "\u0000",
   "Restrictions": {
     "UniqueComponentTag": "detonator"
   },

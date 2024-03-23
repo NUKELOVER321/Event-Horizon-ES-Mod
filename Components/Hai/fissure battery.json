@@ -10,6 +10,7 @@
   "Level": 30,
   "Icon": "fissure battery.png",
   "Layout": "1111",
+  "CellType": "0",
   "PossibleModifications": [
     9
   ]

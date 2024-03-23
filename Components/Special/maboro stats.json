@@ -9,6 +9,7 @@
   "Level": 1000,
   "Icon": "maboro icon.png",
   "Layout": "111111111",
+  "CellType": "0",
   "PossibleModifications": [
     12,
     3,

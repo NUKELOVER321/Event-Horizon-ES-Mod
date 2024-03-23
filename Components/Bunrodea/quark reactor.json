@@ -1,0 +1,17 @@
+{
+  "ItemType": 1,
+  "Id": 1368,
+  "Name": "Quark Reactor",
+  "DisplayCategory": 3,
+  "Availability": 1,
+  "ComponentStatsId": 1368,
+  "Faction": 221,
+  "Level": 300,
+  "Icon": "quark reactor.png",
+  "Layout": "111111111",
+  "CellType": "2",
+  "WeaponSlotType": "\u0000",
+  "PossibleModifications": [
+    12
+  ]
+}

@@ -527,11 +527,6 @@
       "KeyBinding": 1
     },
     {
-      "ComponentId": 1185,
-      "X": 13,
-      "BarrelId": 1
-    },
-    {
       "ComponentId": 2100,
       "X": 7,
       "Y": 16,
@@ -551,6 +546,18 @@
       "Y": 18,
       "BarrelId": 11,
       "KeyBinding": 4
+    },
+    {
+      "ComponentId": 1185,
+      "X": 14,
+      "BarrelId": 1
+    },
+    {
+      "ComponentId": 69,
+      "X": 15,
+      "Y": 25,
+      "BarrelId": -1,
+      "KeyBinding": 5
     }
   ]
 }

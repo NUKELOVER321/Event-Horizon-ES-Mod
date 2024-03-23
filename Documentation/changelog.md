@@ -755,15 +755,37 @@ Changelog:
 Changelog:
 - Changes:
   - Major Updates
+    - **Added Bunrodea as a new faction, alongside appropriate ships and outfits**
   - Skills and Perks
   - Components
+    - Changed the stats for the following weapons
+      - Dragonflame Cannon: 
+        - 400 dmg / 500 emp -> 4000 dmg / 5000 emp
+        - 160 ec -> 640 ec
+      - Fusion Cannon:
+        - 110 dmg / 50 drain -> 220 dmg / 100 drain
+        - 50 ec -> 100 ec
+      - Ka'het Nullifier
+        - 220 EMP -> 2200 EMP
+        - Reduced size to 3x3
+        - Changed slot type to T
   - Ships
+    - Buffed the Star Queen
+      - Increased its cell layout size, reduced size class to Cruiser
+      - Remade its outfits with merchants shield generators
+      - Fixed an issue where its 2vet version was labeled as a 1vet version
   - Tech
+    - Re-added the Ka'het Nullifier to the Ka'het tech tree
   - Other
 
 ### Planned changes:
 - Create 3vet Merchants builds to be used in Pirates
 - Create Syndicate Extremists faction to contain the regenerators and nuclear missile
+- Add new pirate ships and Kestrel Carrier
+  - Enforcer (4 guns 1 turret)
+  - Hogshead (2 guns 2 turrets)
+  - Saber (5 guns 1 turret)
+- Add new sprite for the Gatling Turret
 - **Add the new aliens**
   - Bunrodea
   - Gegno (all 3 subfactions at once)

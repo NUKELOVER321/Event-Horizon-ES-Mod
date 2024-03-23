@@ -1,0 +1,22 @@
+{
+  "ItemType": 1,
+  "Id": 1360,
+  "Name": "Thorax Cannon",
+  "Description": "Placeholder",
+  "DisplayCategory": 1,
+  "Availability": 2,
+  "ComponentStatsId": 1,
+  "Faction": 221,
+  "Level": 300,
+  "Icon": "thorax cannon.png",
+  "Layout": "111111111",
+  "CellType": "4",
+  "WeaponId": 1360,
+  "AmmunitionId": 1360,
+  "WeaponSlotType": "C",
+  "PossibleModifications": [
+    16,
+    5,
+    7
+  ]
+}

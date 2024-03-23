@@ -9,6 +9,7 @@
   "Faction": 201,
   "Icon": "LP036a batterypack.png",
   "Layout": "1",
+  "CellType": "0",
   "PossibleModifications": [
     9
   ]

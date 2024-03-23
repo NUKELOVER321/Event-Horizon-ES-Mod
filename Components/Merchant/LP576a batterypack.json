@@ -10,6 +10,7 @@
   "Level": 40,
   "Icon": "LP576a batterypack.png",
   "Layout": "0111011111111111111101110",
+  "CellType": "0",
   "PossibleModifications": [
     9
   ]
