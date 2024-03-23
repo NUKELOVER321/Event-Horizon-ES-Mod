@@ -769,6 +769,7 @@ Changelog:
         - 220 EMP -> 2200 EMP
         - Reduced size to 3x3
         - Changed slot type to T
+    - Gave the Gatling Turret a new sprite and button icon
   - Ships
     - Buffed the Star Queen
       - Increased its cell layout size, reduced size class to Cruiser
@@ -777,6 +778,8 @@ Changelog:
   - Tech
     - Re-added the Ka'het Nullifier to the Ka'het tech tree
   - Other
+    - Scaled back the Merchant Costs upgrade strength
+      - -13.33% -> -12.5%
 
 ### Planned changes:
 - Create 3vet Merchants builds to be used in Pirates
