@@ -5,8 +5,7 @@
     "Size": 5.0,
     "Lifetime": 0.5,
     "Color": "#FF9400",
-    "EnergyCost": 1.0,
-    "Type": 2
+    "EnergyCost": 1.0
   },
   "Triggers": [
     {
@@ -32,6 +31,11 @@
     {
       "Type": 1,
       "Power": 1.0
+    },
+    {
+      "Type": 11,
+      "DamageType": 1,
+      "Power": 100.0
     }
   ]
 }

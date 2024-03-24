@@ -4,8 +4,7 @@
   "Body": {
     "Size": 1.0,
     "Lifetime": 0.5,
-    "Color": "#DBDBDB",
-    "Type": 2
+    "Color": "#DBDBDB"
   },
   "Triggers": [
     {

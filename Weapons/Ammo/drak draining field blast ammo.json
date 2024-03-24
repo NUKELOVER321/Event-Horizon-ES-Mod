@@ -5,8 +5,7 @@
     "Size": 60.0,
     "Lifetime": 1.0,
     "Weight": 1.0,
-    "EnergyCost": 35.0,
-    "Type": 2
+    "EnergyCost": 35.0
   },
   "Triggers": [
     {
@@ -36,6 +35,11 @@
       "Type": 6,
       "DamageType": 3,
       "Power": 1.0
+    },
+    {
+      "Type": 11,
+      "DamageType": 3,
+      "Power": 50.0
     }
   ]
 }

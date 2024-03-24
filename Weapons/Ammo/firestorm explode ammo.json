@@ -4,8 +4,7 @@
   "Body": {
     "Size": 1.0,
     "Lifetime": 0.5,
-    "Color": "#BFBFBF",
-    "Type": 2
+    "Color": "#BFBFBF"
   },
   "Triggers": [
     {
@@ -32,6 +31,11 @@
       "Type": 1,
       "DamageType": 2,
       "Power": 0.8
+    },
+    {
+      "Type": 11,
+      "DamageType": 2,
+      "Power": 266.0
     }
   ]
 }

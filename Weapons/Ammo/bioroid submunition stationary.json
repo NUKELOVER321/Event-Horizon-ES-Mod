@@ -7,8 +7,7 @@
     "Weight": 0.05,
     "HitPoints": 22,
     "BulletPrefab": 3339,
-    "CanBeDisarmed": true,
-    "Type": 2
+    "CanBeDisarmed": true
   },
   "Triggers": [
     {

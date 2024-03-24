@@ -9,8 +9,7 @@
     "HitPoints": 35,
     "BulletPrefab": 1228,
     "EnergyCost": 9.0,
-    "CanBeDisarmed": true,
-    "Type": 1
+    "CanBeDisarmed": true
   },
   "Triggers": [
     {

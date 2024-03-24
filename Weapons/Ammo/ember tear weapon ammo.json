@@ -6,8 +6,7 @@
     "Range": 80.0,
     "Lifetime": 0.1,
     "BulletPrefab": 1278,
-    "EnergyCost": 138.0,
-    "Type": 3
+    "EnergyCost": 138.0
   },
   "Triggers": [
     {
@@ -30,7 +29,12 @@
     },
     {
       "Type": 3,
-      "DamageType": 1,
+      "DamageType": 3,
+      "Power": 2.5
+    },
+    {
+      "Type": 11,
+      "DamageType": 3,
       "Power": 2.5
     }
   ]
