@@ -3,11 +3,15 @@
   "Id": 4339,
   "Body": {
     "Size": 1.0,
+    "ParentVelocityEffect": 0.0,
     "Lifetime": 100.0,
     "Weight": 0.05,
     "HitPoints": 22,
     "BulletPrefab": 3339,
     "CanBeDisarmed": true
+  },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {

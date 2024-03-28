@@ -8,8 +8,12 @@
     "Weight": 0.2,
     "BulletPrefab": 1167,
     "EnergyCost": 6.0,
-    "CanBeDisarmed": true,
-    "Type": 1
+    "CanBeDisarmed": true
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.0,
+    "SmartAim": true
   },
   "Triggers": [
     {

@@ -3,10 +3,14 @@
   "Id": 5228,
   "Body": {
     "Size": 2.0,
+    "ParentVelocityEffect": 0.0,
     "Lifetime": 0.5,
     "Color": "#FF8400",
     "EnergyCost": 1.0,
-    "Type": 2
+    "AiBulletBehavior": 3
+  },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {

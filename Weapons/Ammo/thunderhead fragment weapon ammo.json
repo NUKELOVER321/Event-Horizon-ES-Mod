@@ -10,7 +10,12 @@
     "BulletPrefab": 3208,
     "EnergyCost": 3.0,
     "CanBeDisarmed": true,
-    "Type": 1
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.0,
+    "SmartAim": true
   },
   "Triggers": [
     {

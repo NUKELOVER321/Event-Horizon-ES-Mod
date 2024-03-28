@@ -9,7 +9,13 @@
     "HitPoints": 24,
     "BulletPrefab": 1332,
     "EnergyCost": 1.0,
-    "CanBeDisarmed": true
+    "CanBeDisarmed": true,
+    "AiBulletBehavior": 1
+  },
+  "Controller": {
+    "Type": 1,
+    "StartingVelocityModifier": 0.0,
+    "SmartAim": true
   },
   "Triggers": [
     {

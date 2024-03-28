@@ -3,9 +3,13 @@
   "Id": 5271,
   "Body": {
     "Size": 0.5,
+    "ParentVelocityEffect": 0.0,
     "Lifetime": 0.5,
     "Color": "#BFBFBF",
-    "Type": 2
+    "AiBulletBehavior": 3
+  },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {

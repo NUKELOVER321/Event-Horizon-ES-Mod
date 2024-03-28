@@ -3,8 +3,7 @@
   "Id": 3298,
   "Body": {
     "Size": 1.0,
-    "EnergyCost": 50.0,
-    "Type": 2
+    "EnergyCost": 50.0
   },
   "Triggers": [
     {

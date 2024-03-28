@@ -3,9 +3,13 @@
   "Id": 2335,
   "Body": {
     "Size": 60.0,
+    "ParentVelocityEffect": 0.0,
     "Lifetime": 1.0,
     "Weight": 1.0,
     "EnergyCost": 35.0
+  },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {
