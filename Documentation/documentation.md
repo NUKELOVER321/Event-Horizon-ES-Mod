@@ -828,7 +828,7 @@ Hyperdrive | 7002
 Scram Drive | 7003
 Shooting Star explosion device | 8000
 Cloaking Device | 9000
-HIPC | 1364
+HIPC | 1375
 
 Pug
 
@@ -928,7 +928,7 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1365
+Component | 1376
 Ship | 479
 Build | 1561
 Drone | 3034
