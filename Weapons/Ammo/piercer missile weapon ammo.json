@@ -49,6 +49,12 @@
       "Color": "#00000000",
       "Size": 2.0,
       "Lifetime": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "piercer",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

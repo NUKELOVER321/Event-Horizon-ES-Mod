@@ -40,6 +40,12 @@
       "Color": "#00000000",
       "Quantity": 1,
       "Size": 0.9
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "dragonflame",
+      "Color": "#00000000"
     }
   ],
   "ImpactType": 1,

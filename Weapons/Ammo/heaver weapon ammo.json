@@ -40,6 +40,12 @@
       "VisualEffect": 1299,
       "Color": "#00000000",
       "Size": 2.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "heaver",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

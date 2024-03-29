@@ -41,6 +41,12 @@
       "Color": "#00000000",
       "Quantity": 1,
       "Size": 2.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "firelight",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

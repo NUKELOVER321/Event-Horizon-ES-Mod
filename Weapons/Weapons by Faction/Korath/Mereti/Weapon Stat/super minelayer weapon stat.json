@@ -6,7 +6,6 @@
   "Spread": 360.0,
   "Magazine": 15,
   "ActivationType": 1,
-  "ShotSound": "minelayer",
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "minelayer icon.png"
 }

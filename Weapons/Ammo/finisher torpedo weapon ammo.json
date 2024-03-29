@@ -49,6 +49,12 @@
       "Color": "#00000000",
       "Size": 2.0,
       "Lifetime": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "finisher",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

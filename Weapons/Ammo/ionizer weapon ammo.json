@@ -25,6 +25,12 @@
       "Quantity": 3,
       "Size": 1.0,
       "RandomFactor": 0.75
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "detainer",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

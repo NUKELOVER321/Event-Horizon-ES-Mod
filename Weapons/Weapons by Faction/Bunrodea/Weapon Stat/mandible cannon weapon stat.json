@@ -4,7 +4,6 @@
   "FireRate": 2.0,
   "Spread": 2.0,
   "ActivationType": 1,
-  "ShotSound": "mandible cannon",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "controls_shot"
 }

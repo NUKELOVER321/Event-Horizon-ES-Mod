@@ -4,7 +4,6 @@
   "FireRate": 0.08,
   "Spread": 1.0,
   "ActivationType": 1,
-  "ShotSound": "nuke",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "nuke.png"
 }

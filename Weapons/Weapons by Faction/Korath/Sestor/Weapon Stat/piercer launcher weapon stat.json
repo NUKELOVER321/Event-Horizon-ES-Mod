@@ -4,7 +4,6 @@
   "FireRate": 0.4,
   "Spread": 1.0,
   "ActivationType": 1,
-  "ShotSound": "piercer",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "piercer.png"
 }

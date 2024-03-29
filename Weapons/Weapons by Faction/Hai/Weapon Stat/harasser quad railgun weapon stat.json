@@ -6,7 +6,6 @@
   "Spread": 2.0,
   "Magazine": 4,
   "ActivationType": 1,
-  "ShotSound": "ion",
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "rail gun.png"
 }

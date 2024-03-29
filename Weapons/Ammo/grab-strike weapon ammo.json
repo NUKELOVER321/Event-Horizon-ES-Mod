@@ -20,6 +20,12 @@
       "Condition": 3,
       "EffectType": 1,
       "VisualEffect": 1167
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "grab-strike",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

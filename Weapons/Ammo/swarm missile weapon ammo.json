@@ -38,6 +38,12 @@
       "EffectType": 1,
       "VisualEffect": 1072,
       "Color": "#00000000"
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "swarm missile",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

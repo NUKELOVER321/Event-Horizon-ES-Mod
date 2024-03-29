@@ -33,6 +33,12 @@
       "Color": "#00000000",
       "Quantity": 1,
       "Size": 5.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "ionball",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

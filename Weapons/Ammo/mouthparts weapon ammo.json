@@ -22,6 +22,12 @@
       "Ammunition": 2337,
       "Color": "#00000000",
       "Quantity": 1
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "crunch",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

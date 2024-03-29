@@ -23,6 +23,12 @@
       "Color": "#00000000",
       "Size": 1.0,
       "Lifetime": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "thorax cannon",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

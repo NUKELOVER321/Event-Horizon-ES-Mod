@@ -4,7 +4,6 @@
   "FireRate": 5.0,
   "Spread": 1.0,
   "ActivationType": 1,
-  "ShotSound": "ion",
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "rail gun.png"
 }

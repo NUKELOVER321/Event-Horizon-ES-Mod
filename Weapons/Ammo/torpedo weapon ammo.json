@@ -47,6 +47,12 @@
       "Ammunition": 3035,
       "Color": "#00000000",
       "Quantity": 1
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "torpedo",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

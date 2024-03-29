@@ -15,6 +15,12 @@
       "EffectType": 1,
       "VisualEffect": 1225,
       "Size": 2.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "detainer",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

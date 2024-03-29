@@ -43,6 +43,12 @@
       "Color": "#00000000",
       "Quantity": 11,
       "RandomFactor": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "minelayer",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

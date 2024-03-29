@@ -38,6 +38,12 @@
       "Ammunition": 3228,
       "Color": "#00000000",
       "Quantity": 10
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "minelayer",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

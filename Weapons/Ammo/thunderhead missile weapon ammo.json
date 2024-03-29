@@ -41,6 +41,12 @@
       "Color": "#00000000",
       "Quantity": 5,
       "Size": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "thunderhead",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

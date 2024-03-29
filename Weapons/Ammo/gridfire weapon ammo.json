@@ -14,6 +14,12 @@
       "Condition": 3,
       "EffectType": 1,
       "VisualEffect": 1247
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "gridfire2~",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

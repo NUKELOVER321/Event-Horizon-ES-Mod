@@ -48,6 +48,12 @@
       "Ammunition": 3074,
       "Color": "#00000000",
       "Quantity": 1
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "typhoon",
+      "Color": "#00000000"
     }
   ],
   "Effects": [
