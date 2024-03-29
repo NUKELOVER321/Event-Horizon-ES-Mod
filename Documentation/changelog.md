@@ -780,6 +780,7 @@ Changelog:
       - Fixed an issue where its 2vet version was labeled as a 1vet version
     - Added the Hai Lycosidae as a new special encounterable ship
     - Adjusted the Vareti'het cell layout to match the changes to the Nullifier
+    - Reduced weight of Class C Freighter veteran builds
   - Tech
     - Re-added the Ka'het Nullifier to the Ka'het tech tree
   - Other
