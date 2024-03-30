@@ -3,10 +3,16 @@
   "Id": 2230,
   "Body": {
     "Size": 1.0,
+    "AttachedToParent": true,
     "Range": 48.0,
     "Lifetime": 0.1,
     "BulletPrefab": 1230,
-    "EnergyCost": 24.0
+    "EnergyCost": 24.0,
+    "AiBulletBehavior": 2
+  },
+  "Controller": {
+    "Type": 2,
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {
