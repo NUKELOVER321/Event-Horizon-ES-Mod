@@ -750,7 +750,7 @@ Changelog:
     - Fixed a broken quest
     - Fixed an issue with Heliarch faction missions asking for iron instead of yottrite
 
-### 0.15.4 ??? update
+### 0.15.4 "Erabuthro" update
 
 Changelog:
 - Changes:
@@ -781,6 +781,8 @@ Changelog:
     - Added the Hai Lycosidae as a new special encounterable ship
     - Adjusted the Vareti'het cell layout to match the changes to the Nullifier
     - Reduced weight of Class C Freighter veteran builds
+    - Added the Enforcer and Saber to the Marauder Pirates tree
+    - Added the Hogshead to the Pirates tree
   - Tech
     - Re-added the Ka'het Nullifier to the Ka'het tech tree
   - Other
