@@ -4,7 +4,6 @@
   "FireRate": 6.0,
   "Spread": 15.0,
   "ActivationType": 1,
-  "ShotSound": "swarm missile",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "meteor.png"
 }

@@ -4,7 +4,6 @@
   "FireRate": 1.0,
   "Spread": 1.5,
   "ActivationType": 1,
-  "ShotSound": "pwave",
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "controls_shot"
 }

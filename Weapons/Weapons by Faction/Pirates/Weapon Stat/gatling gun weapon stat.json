@@ -4,7 +4,6 @@
   "FireRate": 15.0,
   "Spread": 4.0,
   "ActivationType": 1,
-  "ShotSound": "gatling",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "gatling.png"
 }

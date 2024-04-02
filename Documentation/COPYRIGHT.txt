@@ -24,6 +24,13 @@ License: CC-BY-SA-4.0
 Comment:
 
 Files:
+  Sounds/*.ogg
+Copyright: Michael Zahniser <mzahniser@gmail.com>
+           endless-sky contributors (see https://github.com/endless-sky/endless-sky/blob/master/credits.txt)
+License: CC-BY-SA-4.0
+Comment: Converted from .wav to .ogg using AscensionGameDev's Batch .wav To .ogg Converter (https://github.com/AscensionGameDev/Batch-Wav-To-Ogg-Converter?tab=readme-ov-file).
+
+Files:
   Component?Images/Pirates/b?class?plating*
   Component?Images/Pirates/d?class?plating*
   Component?Images/Pirates/f?class?plating*
@@ -45,6 +52,9 @@ Files:
   Ship?Images/Pug/zalgi*
   Ship?Images/Pug/zambor*
   Ship?Images/Pug/zubera*
+  Ship?Images/Pug/mazdar*
+  Ship?Images/Pug/embor*
+  Ship?Images/Korath/seedship*
 Copyright: Czartrak
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).

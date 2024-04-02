@@ -41,6 +41,7 @@ Modified Boxwing | 100 | 250
 Modified Vanguard | 200 | 350
 Shooting Star | 350 | 500
 Ursa Polaris | 350 | 500
+Lycosidae | 300 | 450
 
 Ammunition, Bullet Prefab, and Impact Effect IDs will take the IDs of the weapon.
 
@@ -158,7 +159,7 @@ X5200 | - | 130440 | 89
 
 Calculating engine power consumption:   
 1: calculate power per unit of outfit space for desired single or pair of engine(s).   
-2: calculate power per unit of corresponding ion engine(s). 
+2: calculate power per unit of corresponding ion engine(s).   
 3: divide 1 by 2.   
 4: multiply value by the power consumption of the corresponding ion engine.   
 
@@ -249,6 +250,7 @@ Javelin Rocket Launcher | 1028 (Pod 2028)
 Gatling Gun | 1029
 Falcon | 352 | 1154-1156
 Leviathan | 353 | 1157-1159
+Hogshead | 477 | 1545-1547
 Blaster | 2022
 Blaster Turret | 4022
 Laser Beam | 2024
@@ -286,8 +288,7 @@ RT-II Radiothermal | 1319
 Accurate Gatling | 1320
 Large Radar Jammer | 1322
 Enforcer | 476 | 1542-1544
-Hogshead | 477 | 1545-1547
-Saber | 478 | 1548-1560
+Saber | 478 | 1548-1550
 
 Syndicate
 
@@ -827,6 +828,7 @@ Hyperdrive | 7002
 Scram Drive | 7003
 Shooting Star explosion device | 8000
 Cloaking Device | 9000
+HIPC | 1375
 
 Pug
 
@@ -926,9 +928,9 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1364
+Component | 1376
 Ship | 479
-Build | 1561
+Build | 1551
 Drone | 3034
 Quest | 1049
 
@@ -953,3 +955,4 @@ Monolith Core | +10% energy generation
 Dragonflame Cannon | +300% energy cost, +400% damage
 Fusion Cannon | +100% energy cost and damage 
 Solar Battery | -80% energy storage
+Predator Engine | +30% thrust, steering

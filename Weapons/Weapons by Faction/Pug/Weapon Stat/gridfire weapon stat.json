@@ -4,7 +4,6 @@
   "FireRate": 3.0,
   "Spread": 1.0,
   "ActivationType": 1,
-  "ShotSound": "gridfire2~",
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "controls_shot"
 }

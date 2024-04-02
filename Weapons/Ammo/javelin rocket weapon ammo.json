@@ -11,6 +11,9 @@
     "EnergyCost": 0.4,
     "CanBeDisarmed": true
   },
+  "Controller": {
+    "StartingVelocityModifier": 0.1
+  },
   "Triggers": [
     {
       "Condition": 4,
@@ -42,6 +45,12 @@
       "VisualEffect": 201,
       "Color": "#00000000",
       "Size": 1.0
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "javelin",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

@@ -4,7 +4,6 @@
   "FireRate": 0.2,
   "Spread": 1.0,
   "ActivationType": 1,
-  "ShotSound": "typhoon",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "emp.png"
 }

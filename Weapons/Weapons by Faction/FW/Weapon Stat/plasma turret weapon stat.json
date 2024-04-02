@@ -6,7 +6,6 @@
   "Spread": 2.0,
   "Magazine": 2,
   "ActivationType": 1,
-  "ShotSound": "plasma",
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "controls_shot"
 }

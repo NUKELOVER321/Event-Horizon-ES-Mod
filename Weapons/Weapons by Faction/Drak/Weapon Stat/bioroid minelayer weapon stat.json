@@ -4,7 +4,6 @@
   "FireRate": 0.1,
   "Spread": 10.0,
   "ActivationType": 1,
-  "ShotSound": "minelayer",
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "bioroid.png"
 }

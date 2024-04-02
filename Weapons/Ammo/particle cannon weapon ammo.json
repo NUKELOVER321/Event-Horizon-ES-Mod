@@ -16,6 +16,12 @@
       "EffectType": 1,
       "VisualEffect": 1072,
       "Size": 0.5
+    },
+    {
+      "Condition": 1,
+      "EffectType": 1,
+      "AudioClip": "particle",
+      "Color": "#00000000"
     }
   ],
   "Effects": [

@@ -6,7 +6,6 @@
   "Spread": 1.0,
   "Magazine": 3,
   "ActivationType": 1,
-  "ShotSound": "firelight",
   "ShotEffectPrefab": "OrbAdditive",
   "ControlButtonIcon": "firelight.png"
 }

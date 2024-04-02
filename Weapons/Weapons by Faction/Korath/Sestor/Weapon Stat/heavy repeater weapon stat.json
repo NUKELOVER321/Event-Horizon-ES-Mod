@@ -6,7 +6,6 @@
   "Spread": 1.0,
   "Magazine": 4,
   "ActivationType": 1,
-  "ShotSound": "repeater",
   "ShotEffectPrefab": "FlashAdditive",
   "ControlButtonIcon": "controls_shot"
 }
