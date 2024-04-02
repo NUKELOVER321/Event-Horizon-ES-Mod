@@ -790,20 +790,29 @@ Changelog:
       - -13.33% -> -12.5% per upgrade
     - Updated the UI colors
 
+### 0.15.5 ??? update
+
+Changelog:
+- Major Updates
+- Components
+- Ships
+- Tech
+- Other
+
 ### Planned changes:
 - Create 3vet Merchants builds to be used in Pirates
 - Create Syndicate Extremists faction to contain the regenerators and nuclear missile
-- Add new pirate ships and Kestrel Carrier
-  - Enforcer (4 guns 1 turret)
-  - Hogshead (2 guns 2 turrets)
-  - Saber (5 guns 1 turret)
-- Add new sprite for the Gatling Turret
 - **Add the new aliens**
-  - Bunrodea
   - Gegno (all 3 subfactions at once)
   - Mega Freignt ships (as random quest fleet encounters)
   - Vyu-ira and other misc alien ships
   - Decompression of the faction light year requirement list
+- **Add new ships**
+  - Korath Efreti ships (Charm Scallop, Arch Carrack, Echo Galleon)
+  - Alternate Worldship designs
+  - Robin, Swan, Smew
+  - Cromha's Expansion stuff
+    - New Quarg, Remnant, and Korath Automata ships
 - Rebalance human engines based on most recent engines stat
 - Incorporate scanners as drone and missile capturer weapons
 - Incorporate the Shunt-Strike
