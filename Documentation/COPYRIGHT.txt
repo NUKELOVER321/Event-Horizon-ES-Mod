@@ -52,6 +52,9 @@ Files:
   Ship?Images/Pug/zalgi*
   Ship?Images/Pug/zambor*
   Ship?Images/Pug/zubera*
+  Ship?Images/Pug/mazdar*
+  Ship?Images/Pug/embor*
+  Ship?Images/Korath/seedship*
 Copyright: Czartrak
 License: CC-BY-SA-4.0
 Comment: Derived from works by Michael Zahniser (under the same license).
