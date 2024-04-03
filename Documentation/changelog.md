@@ -807,12 +807,14 @@ Changelog:
   - Mega Freignt ships (as random quest fleet encounters)
   - Vyu-ira and other misc alien ships
   - Decompression of the faction light year requirement list
-- **Add new ships**
+- **Add new ships and outfits**
   - Korath Efreti ships (Charm Scallop, Arch Carrack, Echo Galleon)
   - Alternate Worldship designs
-  - Robin, Swan, Smew
+  - Robin, Swan, Smew, Hobby
   - Cromha's Expansion stuff
     - New Quarg, Remnant, and Korath Automata ships
+  - Mega Freight outfits and possibly ships
+  - Minor plugins from Todd: https://github.com/endless-sky/endless-sky/discussions/7928
 - Rebalance human engines based on most recent engines stat
 - Incorporate scanners as drone and missile capturer weapons
 - Incorporate the Shunt-Strike
@@ -820,3 +822,16 @@ Changelog:
   - Robin, Swan (Remnant)
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
 - Incorporate the HIPC from Ursa Polaris
+
+Planned ships:
+
+- New Korath Efreti ships (Charm Scallop, Arch Carrack, Echo Galleon, Seedship from Czartrack's Ship Pack)
+- New Automata ships (Model 2, Model 192, Model 1024 with greenhouse and infection)
+- New Remnant ships (Hobby, Smew, Robin, Swan (and Swan alt), Merganser)
+- New Quarg ships
+  - Wardragon line: Drake, Hydra, Amphithere, Sibilnas, Kaukas
+  - Skylark line: Kalisto, Alt Skylark, Smaug, Zilant, Glaurun
+  - Third Style: Tarasque, Fafnir, Gtuhanai, Psuchawrl
+- New Quarg outfits (Fluxion Shield, Infimum Shield, Central Repair, Peripheral Repair, Grav Device, Tachyon Core, Singularity Core, Skydagger, Skypike)
+- New Sheragi outfits (Fission Core, Fusion Core, Fusion Afterburner, Medium Cooling, Large Fission Drive, Small Fusion Drive)
+- Possible new Sheragi ships
