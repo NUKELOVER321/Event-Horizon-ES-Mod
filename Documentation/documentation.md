@@ -62,6 +62,8 @@ Black Diamond | 3024
 Shooting Star | 5006
 Navy Battleship | 5007 | 5007
 Lycosidae | 5008 | 5008
+Model 1024 Infected | 5009 | 5009
+Model 1024 Greenhouse | 5010 | 5010
 
 First unusued quest ID for special ships:
 
@@ -492,6 +494,11 @@ EMP Torpedo Bay | 1130 (Pod 2130)
 Penguin | 369 | 1205-1207
 Ember Tear | 1278
 Research Laboratory | 1317
+Smew | 3035 | 3035
+Swan | 481 | 1554-1556
+Swan Alt | 482 | 1557-1559
+Robin | 483 | 1560-1562
+Merganser | 484 | 1563-1565
 
 Coalition
 
@@ -551,6 +558,7 @@ Finisher Pod | 1152
 Bombardment Cannon | 2153
 Bombardment Turret | 1153
 Finisher Maegrolain | 1277
+Small Recovery Module | 1391
 
 Korath Exiles
 
@@ -600,6 +608,10 @@ Lagrange Heaver | 1299
 Shipper | 433 | 1397-1399
 Courier | 434 | 1400-1402
 Command Center | 1316
+Charm-Scallop | 485 | 1566-1568
+Arch-Carrack | 486 | 1569-1572
+Echo-Galleon | 487 | 1573-1575
+Seedship | 488 | 1576-1578
 
 Bunrodea
 
@@ -768,7 +780,10 @@ Minelayer | 1228 (submunition | 3228)
 Slicer Turret | 1229 (Gun 2229)
 Disruptor Turret | 1230 (Gun 2230)
 Super Minelayer | 1233
+Infected Minelayer | 12331
 Reasoning Node | 1304
+Model 192 | 489 | 1579-1581
+Model 2 | 3034 | 3034
 
 Quarg
 
@@ -790,6 +805,32 @@ Large Graviton Thruster | 1241
 Large Graviton Steering | 1242
 Skylance | 1243
 Quarg Antimissile | 1244
+Fluxion Shield Generator | 1382
+Infimum Shield Generator | 1383
+Peripheral Repair Hub | 1384
+Central Repair Hub | 1385
+Gravitational Device | 1386
+Tachyon Core | 1387
+Singularity Core | 1388
+Skydagger | 1389
+Skypike | 1390
+Wardragon-style civilian ships | ...
+Drake | 492 | 1585-1587
+Hydra | 493 | 1588-1590
+Amphithere | 494 | 1591-1593
+Sibinas | 495 | 1594-1596
+Kaukas | 496 | 1597-1599
+Skylark-style crystal ships | ...
+Tarasque | 497 | 1600-1602
+Fafnir | 498 | 1603-1605
+Gtuhanai | 499 | 1606-1608
+Psuchawrl | 500 | 1609-1611
+Ancient Quarg ships | ...
+Kalisto | 501 | 1612-1614
+Skylark Alt | 502 | 1615-1617
+Smaug | 503 | 1618-1620
+Zilant | 504 | 1621-1623
+Glaurun | 505 | 1624-1626
 
 Starbases
 
@@ -859,6 +900,7 @@ Zambor | 3025
 Zambor Stats | 1281
 Zalgi | 3026
 Zalgi Stats | 1282
+Tulikaa | 490 | 1582-1584
 
 Drak
 Item Name | Item ID | Build IDs (if applicable)
@@ -913,6 +955,12 @@ Heavy Ion Cyclotron | 1270
 Shard Fabricator | 1271
 Dragonflame Cannon | 1272
 Sheragi AM | 1273
+Fission Core | 1376
+Fusion Core | 1377
+Fusion Afterburner | 1378
+Small Fusion Drive | 1379
+Large Fission Drive | 1380
+Medium Sheragi Cooling | 1381
 
 Shooting Star
 
@@ -928,9 +976,9 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1376
-Ship | 479
-Build | 1551
+Component | 1392
+Ship | 491
+Build | 1585
 Drone | 3034
 Quest | 1049
 

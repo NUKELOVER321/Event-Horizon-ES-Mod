@@ -794,6 +794,7 @@ Changelog:
 
 Changelog:
 - Major Updates
+  - **Reworked the Quarg faction**
 - Components
 - Ships
 - Tech
@@ -831,7 +832,8 @@ Planned ships:
 - New Quarg ships
   - Wardragon line: Drake, Hydra, Amphithere, Sibilnas, Kaukas
   - Skylark line: Kalisto, Alt Skylark, Smaug, Zilant, Glaurun
-  - Third Style: Tarasque, Fafnir, Gtuhanai, Psuchawrl
+  - Crystalline: Tarasque, Fafnir, Gtuhanai, Psuchawrl
 - New Quarg outfits (Fluxion Shield, Infimum Shield, Central Repair, Peripheral Repair, Grav Device, Tachyon Core, Singularity Core, Skydagger, Skypike)
 - New Sheragi outfits (Fission Core, Fusion Core, Fusion Afterburner, Medium Cooling, Large Fission Drive, Small Fusion Drive)
 - Possible new Sheragi ships
+- New Pug ships and outfits (Aeekelri, Tulikaa)
