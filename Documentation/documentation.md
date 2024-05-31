@@ -609,9 +609,9 @@ Shipper | 433 | 1397-1399
 Courier | 434 | 1400-1402
 Command Center | 1316
 Charm-Scallop | 485 | 1566-1568
-Arch-Carrack | 486 | 1569-1572
-Echo-Galleon | 487 | 1573-1575
-Seedship | 488 | 1576-1578
+Arch-Carrack | 486 | 1569-1571
+Echo-Galleon | 487 | 1572-1574
+Seedship | 488 | 1575-1577
 
 Bunrodea
 
@@ -782,7 +782,7 @@ Disruptor Turret | 1230 (Gun 2230)
 Super Minelayer | 1233
 Infected Minelayer | 12331
 Reasoning Node | 1304
-Model 192 | 489 | 1579-1581
+Model 192 | 489 | 1578-1580
 Model 2 | 3034 | 3034
 
 Quarg
@@ -900,7 +900,7 @@ Zambor | 3025
 Zambor Stats | 1281
 Zalgi | 3026
 Zalgi Stats | 1282
-Tulikaa | 490 | 1582-1584
+Tulikaa | 490 | 1581-1583
 
 Drak
 Item Name | Item ID | Build IDs (if applicable)
@@ -978,7 +978,7 @@ First unused IDs:
 --- | ---
 Component | 1392
 Ship | 491
-Build | 1585
+Build | 1584
 Drone | 3034
 Quest | 1049
 
