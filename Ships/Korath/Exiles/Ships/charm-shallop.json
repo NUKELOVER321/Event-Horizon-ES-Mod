@@ -7,7 +7,7 @@
   "IconImage": "charm-shallop icon.png",
   "IconScale": 1.0,
   "ModelImage": "charm-shallop.png",
-  "ModelScale": 3.0,
+  "ModelScale": 4.0,
   "EngineColor": "#FFA100",
   "Engines": [
     {

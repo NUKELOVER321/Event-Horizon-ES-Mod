@@ -8,7 +8,7 @@
   "IconImage": "echo-galleon icon.png",
   "IconScale": 1.0,
   "ModelImage": "echo-galleon.png",
-  "ModelScale": 5.0,
+  "ModelScale": 6.0,
   "EngineColor": "#FFA100",
   "Engines": [
     {

@@ -7,7 +7,7 @@
   "IconImage": "arch-carrack icon.png",
   "IconScale": 1.0,
   "ModelImage": "arch-carrack.png",
-  "ModelScale": 4.0,
+  "ModelScale": 5.0,
   "EngineColor": "#FFA100",
   "Engines": [
     {

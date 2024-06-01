@@ -7,7 +7,7 @@
   "IconImage": "seedship.png",
   "IconScale": 1.0,
   "ModelImage": "seedship.png",
-  "ModelScale": 3.0,
+  "ModelScale": 3.5,
   "EngineColor": "#FFA100",
   "Engines": [
     {
