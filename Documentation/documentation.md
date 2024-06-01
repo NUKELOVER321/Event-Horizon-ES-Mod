@@ -113,6 +113,7 @@ Energy costs | Cost (/ 10 for high costs)
 Projectile, beam, torpedo, rocket range | Range / 10
 Missile range | Range / 50
 Missile, torpedo reload | Reload / 5 (and / 2.25 for pods)
+Cannon reload | Reload / 2
 Scanner range | ???
 Anti-missile range | Range / 25 (Put the value in "Size" field)
 
@@ -130,6 +131,7 @@ Shield health | (Generation / size) * 5
 Shield generation | Shield health / 10
 Shield gen energy cost | (Shield energy + energy consumption, per second) / size
 Hull regeneration | Regen / size
+Pug ship stat blocks | Shield, health / 25; 5% shield -> regen
 
 Determining stats:
 
@@ -291,6 +293,9 @@ Accurate Gatling | 1320
 Large Radar Jammer | 1322
 Enforcer | 476 | 1542-1544
 Saber | 478 | 1548-1550
+Heavy Blaster Turret | 1393 (gun 2393)
+Proton Punt Gun | 1394
+Proton Punt Cannon | 1395
 
 Syndicate
 
@@ -901,6 +906,7 @@ Zambor Stats | 1281
 Zalgi | 3026
 Zalgi Stats | 1282
 Tulikaa | 490 | 1581-1583
+Tulikaa Stats | 1392
 
 Drak
 Item Name | Item ID | Build IDs (if applicable)
@@ -976,7 +982,7 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1392
+Component | 1393
 Ship | 491
 Build | 1584
 Drone | 3034
@@ -1004,3 +1010,4 @@ Dragonflame Cannon | +300% energy cost, +400% damage
 Fusion Cannon | +100% energy cost and damage 
 Solar Battery | -80% energy storage
 Predator Engine | +30% thrust, steering
+Heavy Blaster | -50% damage

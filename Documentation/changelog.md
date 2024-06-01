@@ -796,7 +796,19 @@ Changelog:
 - Major Updates
   - **Reworked the Quarg faction**
 - Components
+  - Updated a number of human weapons to match the 6 April 2022 human weapons rebalance (#6675)
+    - Proton Gun damage: 1.54 -> 1.85
+    - Blaster damage: 1.56 -> 1.72
+    - Modified Blaster damage: 2.0 -> 2.2
+    - Particle Cannon damage: 10.6 -> 12.7
+  - Updated the Kaltheim Phase Missile to be able to survive up to 3 anti-missile strikes
+  - Gave the Modified Blaster its correct fire sound
+  - Added Small Recovery Module to Coalition
 - Ships
+  - Added the Charm-Scallop, Arch-Carrack, Echo-Galleon, and Seedship to Korath Exiles
+  - Added the Merganser, Smew, and Swan to Remnant
+  - Added the Tulikaa to Pug
+  - Added the Model 192 and the Model 2 to Korath mereti
 - Tech
 - Other
 
