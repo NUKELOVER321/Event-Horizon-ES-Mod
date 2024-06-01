@@ -1,36 +1,31 @@
 {
   "ItemType": 25,
-  "Id": 1072,
+  "Id": 1393,
   "Body": {
     "Size": 2.0,
-    "Velocity": 72.0,
-    "Range": 75.0,
-    "Weight": 0.1,
-    "BulletPrefab": 1072,
-    "EnergyCost": 3.5,
+    "Velocity": 12.0,
+    "Range": 60.0,
+    "BulletPrefab": 1022,
+    "EnergyCost": 3.23,
     "CanBeDisarmed": true
   },
   "Triggers": [
     {
       "Condition": 3,
       "EffectType": 1,
-      "VisualEffect": 1072,
-      "Size": 0.5
+      "VisualEffect": 1022
     },
     {
       "Condition": 1,
       "EffectType": 1,
-      "AudioClip": "particle",
+      "AudioClip": "mod-blaster",
       "Color": "#00000000"
     }
   ],
   "Effects": [
     {
-      "Power": 12.7
-    },
-    {
-      "Type": 1,
-      "Power": 0.004
+      "DamageType": 1,
+      "Power": 4.73
     }
   ]
 }
