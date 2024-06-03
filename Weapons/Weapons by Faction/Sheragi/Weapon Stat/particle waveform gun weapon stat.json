@@ -1,7 +1,7 @@
 {
   "ItemType": 3,
-  "Id": 1269,
-  "FireRate": 2.0,
+  "Id": 2269,
+  "FireRate": 1.0,
   "Spread": 1.5,
   "ActivationType": 1,
   "ShotEffectPrefab": "FlashAdditive",
