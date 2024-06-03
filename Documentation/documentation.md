@@ -120,13 +120,13 @@ Anti-missile range | Range / 25 (Put the value in "Size" field)
 Non-weapon stats | Conversion
 --- | ---
 Battery energy storage | (Energy / space) * 10 (and * 2 for Syscores and Sun Reactors)
-Alternate battery energy storage | (Energy / space) / 40?
+Alternate battery energy storage | (Energy / space) / 40 (or /20)
 Reactor energy output | Power output / space 
 Engine thrust | (Thrust / size) / (ion engine thrust / size)
 Engine steering | (Steering / size) / (ion engine thrust / size)
 Module heat production | Heat / size / 250
 Module cooling | Cooling / size / 500 (or / 250 for active cooling)
-Active cooling energy cost | Energy / size / 2.5
+Active cooling energy cost | Energy / size / 2.5 (or 5?)
 Shield health | (Generation / size) * 5
 Shield generation | Shield health / 10
 Shield gen energy cost | (Shield energy + energy consumption, per second) / size
@@ -136,6 +136,9 @@ Pug ship stat blocks | Shield, health / 25; 5% shield -> regen
 Determining stats:
 
 == Engines ==   
+
+Planned new engine thrust+steer calculation: total thrust+steer / total size / 1000
+
 Ion Engines have arbitrarily determined stats and serve as a baseline.   
 For every engine other than Ionics:   
 1: Calculate its thrust/turn per unit of outfit space.  
@@ -147,19 +150,19 @@ NOTE: Due to changes to the ion engine stats in base ES, it is important to use 
 
 To see all the changes in the 16 April 2022 update: inspect this link: https://github.com/endless-sky/endless-sky/commit/8a503d9bd5e062054549056aa4a730813def8977#diff-7429a26a7e995048c3b962ee40092f520add3a2cad1af48e67e1b46a2bd8f9f3
 
-Engine | Thrust | Turn | Outfit space
+Engine | Thrust | Turn | Outfit space | Energy cost
 --- | --- | --- | ---
-X1050 | 14400 | 6600 | 20
-X1700 | 21600 | - | 16
-X2700 | 41400| - | 27
-X3700 | 79560 | - | 46
-X4700 | 153000 | - | 79
-X5700 | 293400 | - | 134
-X1200 | - | 9600 | 12
-X2200 | - | 12420 | 20
-X3200 | - | 35400 | 35
-X4200 | - | 67920 | 59
-X5200 | - | 130440 | 89
+X1050 | 14400 | 6600 | 20 | 39
+X1700 | 21600 | - | 16 | 36
+X2700 | 41400| - | 27 | 66
+X3700 | 79560 | - | 46 | 114
+X4700 | 153000 | - | 79 | 210
+X5700 | 293400 | - | 134 | 378
+X1200 | - | 9600 | 12 | 18
+X2200 | - | 12420 | 20 | 36
+X3200 | - | 35400 | 35 | 66
+X4200 | - | 67920 | 59 | 114
+X5200 | - | 130440 | 89 | 210
 
 Calculating engine power consumption:   
 1: calculate power per unit of outfit space for desired single or pair of engine(s).   
@@ -966,7 +969,18 @@ Fusion Core | 1377
 Fusion Afterburner | 1378
 Small Fusion Drive | 1379
 Large Fission Drive | 1380
-Medium Sheragi Cooling | 1381
+Medium Hybrid Cooling | 1381
+Kinetic Spear Launcher | 1397
+Pulse Beam Turret | 1398 (gun 2398)
+Particle Waveform Gun | 2269
+Solar Intake | 1399
+Medium EM Battery | 1396
+Bronze Edge | 491
+Ruby Hammer | 492
+White Brand | 493
+Gold Shield | 494
+Platinum Spear | 495
+Opal Glaive | 496
 
 Shooting Star
 

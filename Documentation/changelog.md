@@ -795,7 +795,7 @@ Changelog:
 Changelog:
 - Major Updates
   - **Reworked the Quarg faction**
-- Components
+- Outfits
   - Updated a number of human weapons to match the 6 April 2022 human weapons rebalance (#6675)
     - Proton Gun damage: 1.54 -> 1.85
     - Blaster damage: 1.56 -> 1.72
@@ -804,6 +804,13 @@ Changelog:
   - Updated the Kaltheim Phase Missile to be able to survive up to 3 anti-missile strikes
   - Gave the Modified Blaster its correct fire sound
   - Added Small Recovery Module to Coalition
+  - Fusion Drive energy generation per tile: 9.6 -> 8.75
+  - Particle Waveform Turret firing rate: 1.0 -> 2.0
+  - Added a number of Sheragi outfits
+    - Weapons: Particle Waveform Gun, Kinetic Spear Launcher, Pulse Beam
+    - Energy: Fission and Fusion Cores, Solar Intake, Medium EM Battery
+    - Engines: Small Fusion Drive, Large Fission Drive
+    - Cooling: Medium Hybrid Cooling
 - Ships
   - Added the Charm-Scallop, Arch-Carrack, Echo-Galleon, and Seedship to Korath Exiles
   - Added the Merganser, Smew, and Swan to Remnant
