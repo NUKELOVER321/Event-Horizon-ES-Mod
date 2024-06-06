@@ -1,0 +1,10 @@
+{
+  "ItemType": 11,
+  "Id": 1388,
+  "Type": 1,
+  "ArmorRepairCooldownModifier": 0.06,
+  "EnergyRechargeRate": 60.0,
+  "EnergyRechargeCooldownModifier": 0.06,
+  "ShieldRechargeCooldownModifier": 0.06,
+  "Weight": 25.0
+}
