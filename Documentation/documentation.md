@@ -327,6 +327,7 @@ Proton Gun | 2034
 Water Cooling System | 1078
 Anti-Missile Turret | 1081
 Outfit Scanner | 1307
+Prong | 3036
 
 FW
 
@@ -820,8 +821,6 @@ Central Repair Hub | 1385
 Gravitational Device | 1386
 Tachyon Core | 1387
 Singularity Core | 1388
-Skydagger | 1389
-Skypike | 1390
 Wardragon-style civilian ships | ...
 Drake | 492 | 1585-1587
 Hydra | 493 | 1588-1590
@@ -839,6 +838,14 @@ Skylark Alt | 502 | 1615-1617
 Smaug | 503 | 1618-1620
 Zilant | 504 | 1621-1623
 Glaurun | 505 | 1624-1626
+Weapons | ...
+Skydagger | 1401
+Skypiercer (Edenshard sprite) | 1402
+Ranseur | 1403
+Cataclist | 1404
+Edenshard (Starpilum) | 1405
+Turver (Skywrath) | 1406
+Doomscythe (Prismatic Shards) | 1407
 
 Starbases
 
@@ -975,6 +982,7 @@ Pulse Beam Turret | 1398 (gun 2398)
 Particle Waveform Gun | 2269
 Solar Intake | 1399
 Medium EM Battery | 1396
+Fusion Afterburner | 1400
 Bronze Edge | 491
 Ruby Hammer | 492
 White Brand | 493
@@ -996,10 +1004,10 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1393
+Component | 1401
 Ship | 491
 Build | 1584
-Drone | 3034
+Drone | 3037
 Quest | 1049
 
 Some outfits deviate from the "convert ES stats to EH stats as closely as possible, following the conversion conventions" rule. A list of them and differneces are listed below.
@@ -1025,3 +1033,5 @@ Fusion Cannon | +100% energy cost and damage
 Solar Battery | -80% energy storage
 Predator Engine | +30% thrust, steering
 Heavy Blaster | -50% damage
+Large Fission Drive | +100% energy regen
+Ranseur | Uses custom damage calculation: source file damage / 5

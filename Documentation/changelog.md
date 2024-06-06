@@ -806,6 +806,7 @@ Changelog:
   - Added Small Recovery Module to Coalition
   - Fusion Drive energy generation per tile: 9.6 -> 8.75
   - Particle Waveform Turret firing rate: 1.0 -> 2.0
+  - Skylance damage per second: 405 -> 360
   - Added a number of Sheragi outfits
     - Weapons: Particle Waveform Gun, Kinetic Spear Launcher, Pulse Beam
     - Energy: Fission and Fusion Cores, Solar Intake, Medium EM Battery
@@ -815,7 +816,8 @@ Changelog:
   - Added the Charm-Scallop, Arch-Carrack, Echo-Galleon, and Seedship to Korath Exiles
   - Added the Merganser, Smew, and Swan to Remnant
   - Added the Tulikaa to Pug
-  - Added the Model 192 and the Model 2 to Korath mereti
+  - Added the Model 192 and the Model 2 to Korath Mereti
+  - Added the Prong to Syndicate
 - Tech
 - Other
 
@@ -824,13 +826,11 @@ Changelog:
 - Create Syndicate Extremists faction to contain the regenerators and nuclear missile
 - **Add the new aliens**
   - Gegno (all 3 subfactions at once)
-  - Mega Freignt ships (as random quest fleet encounters)
   - Vyu-ira and other misc alien ships
   - Decompression of the faction light year requirement list
 - **Add new ships and outfits**
-  - Korath Efreti ships (Charm Scallop, Arch Carrack, Echo Galleon)
   - Alternate Worldship designs
-  - Robin, Swan, Smew, Hobby
+  - Robin, Hobby
   - Cromha's Expansion stuff
     - New Quarg, Remnant, and Korath Automata ships
   - Mega Freight outfits and possibly ships
