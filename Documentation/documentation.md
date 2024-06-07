@@ -839,11 +839,11 @@ Smaug | 503 | 1618-1620
 Zilant | 504 | 1621-1623
 Glaurun | 505 | 1624-1626
 Weapons | ...
-Skydagger | 1401
+Skydagger | 1401 X
 Skypiercer (Edenshard sprite) | 1402
-Ranseur | 1403
+Ranseur | 1403 X
 Cataclist | 1404
-Edenshard (Starpilum) | 1405
+Edenshard (Starpilum) | 1405 X
 Turver (Skywrath) | 1406
 Doomscythe (Prismatic Shards) | 1407
 

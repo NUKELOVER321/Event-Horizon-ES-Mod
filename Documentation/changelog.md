@@ -806,7 +806,8 @@ Changelog:
   - Added Small Recovery Module to Coalition
   - Fusion Drive energy generation per tile: 9.6 -> 8.75
   - Particle Waveform Turret firing rate: 1.0 -> 2.0
-  - Skylance damage per second: 405 -> 360
+  - Skylance damage per second: 405 -> 180
+  - Skylance energy cost per second: 180 -> 90
   - Added a number of Sheragi outfits
     - Weapons: Particle Waveform Gun, Kinetic Spear Launcher, Pulse Beam
     - Energy: Fission and Fusion Cores, Solar Intake, Medium EM Battery
