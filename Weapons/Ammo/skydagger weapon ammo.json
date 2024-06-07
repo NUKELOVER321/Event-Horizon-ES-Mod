@@ -1,13 +1,13 @@
 {
   "ItemType": 25,
-  "Id": 1243,
+  "Id": 1401,
   "Body": {
     "Size": 1.0,
     "AttachedToParent": true,
-    "Range": 50.0,
+    "Range": 43.0,
     "Lifetime": 0.1,
-    "BulletPrefab": 1243,
-    "EnergyCost": 90.0,
+    "BulletPrefab": 1401,
+    "EnergyCost": 27.6,
     "AiBulletBehavior": 2
   },
   "Controller": {
@@ -25,12 +25,12 @@
   "Effects": [
     {
       "DamageType": 1,
-      "Power": 180.0
+      "Power": 55.2
     },
     {
       "Type": 3,
       "DamageType": 1,
-      "Power": 60.0
+      "Power": 30.0
     }
   ]
 }
