@@ -218,9 +218,9 @@
       "KeyBinding": 1
     },
     {
-      "ComponentId": 1396,
-      "X": 62,
-      "Y": 78,
+      "ComponentId": 1381,
+      "X": 49,
+      "Y": 51,
       "BarrelId": -1
     },
     {
@@ -256,26 +256,13 @@
     {
       "ComponentId": 1379,
       "X": 48,
-      "Y": 94,
+      "Y": 93,
       "BarrelId": -1
     },
     {
-      "ComponentId": 1381,
-      "X": 49,
-      "Y": 51,
-      "BarrelId": -1
-    },
-    {
-      "ComponentId": 1243,
-      "X": 40,
-      "Y": 69,
-      "BarrelId": 4,
-      "KeyBinding": 1
-    },
-    {
-      "ComponentId": 1403,
-      "X": 57,
-      "Y": 69,
+      "ComponentId": 1375,
+      "X": 56,
+      "Y": 68,
       "BarrelId": 5
     }
   ],
