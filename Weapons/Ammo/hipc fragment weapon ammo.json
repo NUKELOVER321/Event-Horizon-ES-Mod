@@ -1,13 +1,13 @@
 {
   "ItemType": 25,
-  "Id": 1375,
+  "Id": 13751,
   "Body": {
-    "Size": 2.5,
-    "Velocity": 48.0,
-    "Range": 48.0,
+    "Size": 1.0,
+    "Velocity": 16.0,
+    "Range": 14.4,
     "Weight": 0.1,
-    "BulletPrefab": 1375,
-    "EnergyCost": 63.0
+    "BulletPrefab": 13751,
+    "EnergyCost": 5.0
   },
   "Controller": {
     "StartingVelocityModifier": 0.1
@@ -16,7 +16,7 @@
     {
       "Condition": 3,
       "EffectType": 2,
-      "Ammunition": 2375,
+      "Ammunition": 23751,
       "Color": "#00000000",
       "Quantity": 1,
       "Size": 0.9
@@ -24,7 +24,7 @@
     {
       "Condition": 2,
       "EffectType": 2,
-      "Ammunition": 2375,
+      "Ammunition": 23751,
       "Color": "#00000000",
       "Quantity": 1,
       "Size": 0.9
@@ -32,25 +32,10 @@
     {
       "Condition": 4,
       "EffectType": 2,
-      "Ammunition": 2375,
+      "Ammunition": 23751,
       "Color": "#00000000",
       "Quantity": 1,
       "Size": 0.9
-    },
-    {
-      "Condition": 1,
-      "EffectType": 1,
-      "AudioClip": "torpedo",
-      "Color": "#00000000"
-    },
-    {
-      "Condition": 2,
-      "EffectType": 2,
-      "Ammunition": 13751,
-      "Color": "#00000000",
-      "Quantity": 8,
-      "Size": 0.5,
-      "Rotation": "IF(Quantity == 1, 0, RANDOM(0, 45))"
     }
   ],
   "Effects": [

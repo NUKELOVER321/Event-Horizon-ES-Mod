@@ -7,7 +7,7 @@
   "ComponentStatsId": 1,
   "Faction": 217,
   "Level": 500,
-  "Icon": "pwave gun.png",
+  "Icon": "particle waveform cannon.png",
   "Layout": "1111",
   "CellType": "4",
   "WeaponId": 2269,
