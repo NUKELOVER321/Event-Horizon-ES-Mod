@@ -804,6 +804,8 @@ Changelog:
   - Updated the Kaltheim Phase Missile to be able to survive up to 3 anti-missile strikes
   - Gave the Modified Blaster its correct fire sound
   - Added Small Recovery Module to Coalition
+  - Added a sound effect to the Cloaking Device
+  - Fixed the sound effect on the Scram Drive
   - Fusion Drive energy generation per tile: 9.6 -> 8.75
   - Particle Waveform Turret firing rate: 1.0 -> 2.0
   - Skylance damage per second: 405 -> 180

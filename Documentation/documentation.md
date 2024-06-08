@@ -840,11 +840,11 @@ Zilant | 504 | 1621-1623
 Glaurun | 505 | 1624-1626
 Weapons | ...
 Skydagger | 1401 X
-Skypiercer (Edenshard sprite) | 1402
+Skypiercer (Edenshard sprite) | 1402 X
 Ranseur | 1403 X
 Cataclist | 1404
 Edenshard (Starpilum) | 1405 X
-Turver (Skywrath) | 1406
+Turver (Skywrath) | 1406 X
 Doomscythe (Prismatic Shards) | 1407
 
 Starbases
@@ -1035,3 +1035,5 @@ Predator Engine | +30% thrust, steering
 Heavy Blaster | -50% damage
 Large Fission Drive | +100% energy regen
 Ranseur | Uses custom damage calculation: source file damage / 5
+Turver | +100% projectile speed
+Doomscythe | removed direct damage portion
