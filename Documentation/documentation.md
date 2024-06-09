@@ -984,12 +984,13 @@ Particle Waveform Gun | 2269
 Solar Intake | 1399
 Medium EM Battery | 1396
 Fusion Afterburner | 1400
-Bronze Edge | 491
-Ruby Hammer | 492
-White Brand | 493
-Gold Shield | 494
-Platinum Spear | 495
-Opal Glaive | 496
+Bronze Edge | 491 | 1584-1586
+Ruby Hammer | 492 | 1587-1589
+White Brand | 493 | 1590-1592
+Gold Shield | 494 | 1593-1595
+Platinum Spear | 495 | 1596-1598
+Opal Glaive (NOT ADDED) | 496 | 1599-1602
+Fusion Power Converter | 1408
 
 Shooting Star
 
@@ -1005,7 +1006,7 @@ First unused IDs:
 
 .json file type | ID
 --- | ---
-Component | 1401
+Component | 1409
 Ship | 491
 Build | 1584
 Drone | 3037
@@ -1038,3 +1039,5 @@ Large Fission Drive | +100% energy regen
 Ranseur | Uses custom damage calculation: source file damage / 5
 Turver | +100% projectile speed
 Doomscythe | removed direct damage portion
+Fission Drive, Large Fission Drive | +150% thrust and steering
+Fusion Power Converter | stats are arbitrarily made up
