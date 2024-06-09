@@ -814,6 +814,7 @@ Large Graviton Thruster | 1241
 Large Graviton Steering | 1242
 Skylance | 1243
 Quarg Antimissile | 1244
+New outfits | ...
 Fluxion Shield Generator | 1382
 Infimum Shield Generator | 1383
 Peripheral Repair Hub | 1384
@@ -839,12 +840,12 @@ Smaug | 503 | 1618-1620
 Zilant | 504 | 1621-1623
 Glaurun | 505 | 1624-1626
 Weapons | ...
-Skydagger | 1401 X
-Skypiercer (Edenshard sprite) | 1402 X
-Ranseur | 1403 X
-Cataclist | 1404
-Edenshard (Starpilum) | 1405 X
-Turver (Skywrath) | 1406 X
+Skydagger | 1401
+Skypiercer (Edenshard sprite) | 1402
+Ranseur | 1403
+Cataclist | 1404 !!!
+Edenshard (Starpilum) | 1405
+Turver (Skywrath) | 1406
 Doomscythe (Prismatic Shards) | 1407
 
 Starbases

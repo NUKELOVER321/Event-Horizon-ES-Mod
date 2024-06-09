@@ -795,6 +795,9 @@ Changelog:
 Changelog:
 - Major Updates
   - **Reworked the Quarg faction**
+    - Added a swathe of new outfits and ships
+  - **Reworked the Sheragi faction**
+    - Added a swathe of new outfits and ships
 - Outfits
   - Updated a number of human weapons to match the 6 April 2022 human weapons rebalance (#6675)
     - Proton Gun damage: 1.54 -> 1.85
