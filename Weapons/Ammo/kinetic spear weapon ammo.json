@@ -20,7 +20,7 @@
       "EffectType": 1,
       "VisualEffect": 10000,
       "Color": "#00000000",
-      "Size": 4.0,
+      "Size": 1.0,
       "Lifetime": 1.0
     },
     {
@@ -41,7 +41,7 @@
   ],
   "Effects": [
     {
-      "Power": 137.5
+      "Power": 275.0
     }
   ]
 }
