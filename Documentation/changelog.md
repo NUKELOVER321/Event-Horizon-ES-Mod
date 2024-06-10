@@ -809,10 +809,13 @@ Changelog:
   - Added Small Recovery Module to Coalition
   - Added a sound effect to the Cloaking Device
   - Fixed the sound effect on the Scram Drive
-  - Fusion Drive energy generation per tile: 9.6 -> 8.75
-  - Particle Waveform Turret firing rate: 1.0 -> 2.0
-  - Skylance damage per second: 405 -> 180
-  - Skylance energy cost per second: 180 -> 90
+  - Decreased Fusion Drive energy generation per tile from 9.6 -> 8.75
+  - Increased Particle Waveform Turret firing rate from 1.0 -> 2.0
+  - Decreased Skylance damage per second from 405 -> 180
+  - Decreased Skylance energy cost per second from 180 -> 90
+  - Increased Fission Drive thrust and steering by 150%
+  - Added new modifiers to Sheragi EM batteries
+  - Reduced cooling outfit count on a few Sestor ships
   - Added a number of Sheragi outfits
     - Weapons: Particle Waveform Gun, Kinetic Spear Launcher, Pulse Beam
     - Energy: Fission and Fusion Cores, Solar Intake, Medium EM Battery
