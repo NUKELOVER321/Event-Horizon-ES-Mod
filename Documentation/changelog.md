@@ -852,16 +852,10 @@ Changelog:
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
 - Incorporate the HIPC from Ursa Polaris
 
-Planned ships:
-
-- New Korath Efreti ships (Charm Scallop, Arch Carrack, Echo Galleon, Seedship from Czartrack's Ship Pack)
-- New Automata ships (Model 2, Model 192, Model 1024 with greenhouse and infection)
-- New Remnant ships (Hobby, Smew, Robin, Swan (and Swan alt), Merganser)
+Planned changes:
+- New Remnant ships (Hobby, Robin, (Swan alt))
 - New Quarg ships
   - Wardragon line: Drake, Hydra, Amphithere, Sibilnas, Kaukas
   - Skylark line: Kalisto, Alt Skylark, Smaug, Zilant, Glaurun
   - Crystalline: Tarasque, Fafnir, Gtuhanai, Psuchawrl
-- New Quarg outfits (Fluxion Shield, Infimum Shield, Central Repair, Peripheral Repair, Grav Device, Tachyon Core, Singularity Core, Skydagger, Skypike)
-- New Sheragi outfits (Fission Core, Fusion Core, Fusion Afterburner, Medium Cooling, Large Fission Drive, Small Fusion Drive)
-- Possible new Sheragi ships
-- New Pug ships and outfits (Aeekelri, Tulikaa)
+- New Pug ships and outfits (Aeekelri)

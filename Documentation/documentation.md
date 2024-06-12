@@ -121,7 +121,7 @@ Non-weapon stats | Conversion
 --- | ---
 Battery energy storage | (Energy / space) * 10 (and * 2 for Syscores and Sun Reactors)
 Alternate battery energy storage | (Energy / space) / 40 (or /20)
-Reactor energy output | Power output / space 
+Reactor energy output | Power output / space
 Engine thrust | (Thrust / size) / (ion engine thrust / size)
 Engine steering | (Steering / size) / (ion engine thrust / size)
 Module heat production | Heat / size / 250
@@ -141,7 +141,7 @@ Planned new engine thrust+steer calculation: total thrust+steer / total size / 1
 
 Ion Engines have arbitrarily determined stats and serve as a baseline.   
 For every engine other than Ionics:   
-1: Calculate its thrust/turn per unit of outfit space.  
+1: Calculate its thrust/turn per unit of outfit space.   
 2: Calculate the thrust/turn per unit of the corresponding ion engine (e.g. A860/865 -> X5200/5700).
 3: Divide the result of Step 1 by Step 2.   
 4: Multiply the value of Step 3 by the in-mod arbitrary stats of the corresponding ion engine.
