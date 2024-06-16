@@ -823,22 +823,23 @@ Gravitational Device | 1386
 Tachyon Core | 1387
 Singularity Core | 1388
 Wardragon-style civilian ships | ...
-Drake | 492 | 1585-1587
-Hydra | 493 | 1588-1590
-Amphithere | 494 | 1591-1593
-Sibinas | 495 | 1594-1596
-Kaukas | 496 | 1597-1599
+Drake | 497 | 1603-1605
+Hydra | 498 | 1606-1608
+Amphithere | 499 | 1609-1611
+Slibinas | 500 | 1612-1614
+Kaukas | 501 | 1615-1617
 Skylark-style crystal ships | ...
-Tarasque | 497 | 1600-1602
-Fafnir | 498 | 1603-1605
-Gtuhanai | 499 | 1606-1608
-Psuchawrl | 500 | 1609-1611
-Ancient Quarg ships | ...
-Kalisto | 501 | 1612-1614
-Skylark Alt | 502 | 1615-1617
-Smaug | 503 | 1618-1620
-Zilant | 504 | 1621-1623
-Glaurun | 505 | 1624-1626
+Tarasque | 502 | 1618-1620
+Fafnir | 503 | 1621-1623
+Superheavy ships (unused) | ...
+Gtuhanai | 504 | 1624-1626
+Psuchawrl | 505 | 1627-1629
+Ancient Quarg ships (unused) | ...
+Kalisto | 506 | 1630-1632
+Skylark Alt | 502 | 1633-1635
+Smaug | 507 | 1636-1638
+Zilant | 508 | 1639-1641
+Glaurun | 509 | 1642-1644
 Weapons | ...
 Skydagger | 1401
 Skypiercer (Edenshard sprite) | 1402
