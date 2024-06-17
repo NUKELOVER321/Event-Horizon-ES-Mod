@@ -12,6 +12,7 @@ Marauder Pirates | 175 | 219
 Republic of Earth | 200 | 205
 Hai | 250 | 206
 Trisolar Coalition | 250 | 218
+Sheragi | 275 | 217
 Remnants | 300 | 207
 Korath Exiles | 300 | 209
 Bunrodea | 325 | 221
@@ -793,6 +794,7 @@ Infected Minelayer | 12331
 Reasoning Node | 1304
 Model 192 | 489 | 1578-1580
 Model 2 | 3034 | 3034
+Model 128 Surveyor | 510 | 1645-1647
 
 Quarg
 
@@ -1008,8 +1010,8 @@ First unused IDs:
 .json file type | ID
 --- | ---
 Component | 1409
-Ship | 491
-Build | 1584
+Ship | 511
+Build | 1648
 Drone | 3037
 Quest | 1049
 

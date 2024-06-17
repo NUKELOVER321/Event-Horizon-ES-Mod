@@ -790,7 +790,7 @@ Changelog:
       - -13.33% -> -12.5% per upgrade
     - Updated the UI colors
 
-### 0.15.5 ??? update
+### 0.15.5 "Over the Rainbow" update
 
 Changelog:
 - Major Updates
@@ -798,6 +798,7 @@ Changelog:
     - Added a swathe of new outfits and ships
   - **Reworked the Sheragi faction**
     - Added a swathe of new outfits and ships
+    - Made Sheragi faction regions appear on the galaxy map from 275+ light years
 - Outfits
   - Updated a number of human weapons to match the 6 April 2022 human weapons rebalance (#6675)
     - Proton Gun damage: 1.54 -> 1.85
@@ -825,7 +826,7 @@ Changelog:
   - Added the Charm-Scallop, Arch-Carrack, Echo-Galleon, and Seedship to Korath Exiles
   - Added the Merganser, Smew, and Swan to Remnant
   - Added the Tulikaa to Pug
-  - Added the Model 192 and the Model 2 to Korath Mereti
+  - Added the Model 192, Model 2, and Model 128 Surveyor to Korath Mereti
   - Added the Prong to Syndicate
 - Tech
 - Other
@@ -851,11 +852,14 @@ Changelog:
   - Robin, Swan (Remnant)
 - Incorporate the IBS as a C type weapon firing triple HIPC rounds
 - Incorporate the HIPC from Ursa Polaris
-
-Planned changes:
 - New Remnant ships (Hobby, Robin, (Swan alt))
 - New Quarg ships
   - Wardragon line: Drake, Hydra, Amphithere, Sibilnas, Kaukas
   - Skylark line: Kalisto, Alt Skylark, Smaug, Zilant, Glaurun
   - Crystalline: Tarasque, Fafnir, Gtuhanai, Psuchawrl
 - New Pug ships and outfits (Aeekelri)
+
+To still do:
+- Make technologies for all Quarg content
+- Make builds for Quarg ships
+- Update mod to EH latest
