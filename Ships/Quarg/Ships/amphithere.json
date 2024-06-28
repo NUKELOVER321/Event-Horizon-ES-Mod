@@ -40,32 +40,32 @@
         "x": 0.2,
         "y": 0.2
       },
-      "AutoAimingArc": 80.0,
-      "WeaponClass": "CL"
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": 0.2,
         "y": -0.2
       },
-      "AutoAimingArc": 80.0,
-      "WeaponClass": "CL"
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": 0.1,
         "y": 0.35
       },
-      "AutoAimingArc": 80.0,
-      "WeaponClass": "CL"
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {
         "x": 0.1,
         "y": -0.35
       },
-      "AutoAimingArc": 80.0,
-      "WeaponClass": "CL"
+      "AutoAimingArc": 20.0,
+      "WeaponClass": "CLTM"
     },
     {
       "Position": {

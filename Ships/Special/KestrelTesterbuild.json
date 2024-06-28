@@ -239,28 +239,17 @@
       "BarrelId": -1
     },
     {
-      "ComponentId": 1349,
-      "X": 56,
-      "Y": 68,
+      "ComponentId": 1402,
+      "X": 57,
+      "Y": 69,
       "BarrelId": 5
     },
     {
-      "ComponentId": 1233,
-      "X": 39,
-      "Y": 68,
-      "BarrelId": 4
-    },
-    {
-      "ComponentId": 1227,
-      "X": 33,
-      "Y": 67,
-      "BarrelId": 2
-    },
-    {
-      "ComponentId": 1407,
-      "X": 62,
-      "Y": 67,
-      "BarrelId": 3
+      "ComponentId": 1404,
+      "X": 40,
+      "Y": 69,
+      "BarrelId": 4,
+      "KeyBinding": 1
     }
   ],
   "NotAvailableInGame": true

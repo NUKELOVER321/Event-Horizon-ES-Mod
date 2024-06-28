@@ -3,5 +3,42 @@
   "Id": 1612,
   "ShipId": 500,
   "BuildFaction": 214,
-  "Components": []
+  "Components": [
+    {
+      "ComponentId": 1402,
+      "X": 36,
+      "Y": 27,
+      "BarrelId": 10
+    },
+    {
+      "ComponentId": 1402,
+      "X": 18,
+      "Y": 27,
+      "BarrelId": 9
+    },
+    {
+      "ComponentId": 1402,
+      "X": 21,
+      "Y": 24,
+      "BarrelId": 7
+    },
+    {
+      "ComponentId": 1402,
+      "X": 33,
+      "Y": 24,
+      "BarrelId": 8
+    },
+    {
+      "ComponentId": 1240,
+      "X": 31,
+      "Y": 38,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1239,
+      "X": 22,
+      "Y": 38,
+      "BarrelId": -1
+    }
+  ]
 }
