@@ -5,15 +5,15 @@
   "BuildFaction": 214,
   "Components": [
     {
-      "ComponentId": 1240,
-      "X": 17,
-      "Y": 27,
+      "ComponentId": 1234,
+      "X": 14,
+      "Y": 14,
       "BarrelId": -1
     },
     {
-      "ComponentId": 1239,
-      "X": 12,
-      "Y": 27,
+      "ComponentId": 2110,
+      "X": 15,
+      "Y": 21,
       "BarrelId": -1
     },
     {
@@ -97,9 +97,27 @@
       "KeyBinding": 1
     },
     {
-      "ComponentId": 1234,
-      "X": 14,
-      "Y": 14,
+      "ComponentId": 1237,
+      "X": 17,
+      "Y": 28,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1237,
+      "X": 13,
+      "Y": 28,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1238,
+      "X": 21,
+      "Y": 27,
+      "BarrelId": -1
+    },
+    {
+      "ComponentId": 1238,
+      "X": 9,
+      "Y": 27,
       "BarrelId": -1
     }
   ]

@@ -101,6 +101,12 @@
       "X": 9,
       "Y": 29,
       "BarrelId": -1
+    },
+    {
+      "ComponentId": 2110,
+      "X": 19,
+      "Y": 15,
+      "BarrelId": -1
     }
   ]
 }
