@@ -8,7 +8,7 @@
   "IconImage": "tarasque icon.png",
   "IconScale": 1.0,
   "ModelImage": "tarasque.png",
-  "ModelScale": 5.0,
+  "ModelScale": 7.0,
   "EngineColor": "#B200FF",
   "Engines": [
     {

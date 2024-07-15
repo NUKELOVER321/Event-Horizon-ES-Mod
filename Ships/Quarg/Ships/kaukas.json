@@ -9,7 +9,7 @@
   "IconImage": "kaukas icon.png",
   "IconScale": 1.0,
   "ModelImage": "kaukas.png",
-  "ModelScale": 5.0,
+  "ModelScale": 8.0,
   "EngineColor": "#B200FF",
   "Engines": [
     {

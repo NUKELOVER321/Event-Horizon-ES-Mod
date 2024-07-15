@@ -7,7 +7,7 @@
   "IconImage": "drake icon.png",
   "IconScale": 1.0,
   "ModelImage": "drake.png",
-  "ModelScale": 5.0,
+  "ModelScale": 4.0,
   "EngineColor": "#B200FF",
   "Engines": [
     {
