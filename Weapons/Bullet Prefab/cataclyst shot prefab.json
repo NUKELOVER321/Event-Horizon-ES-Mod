@@ -3,9 +3,8 @@
   "Id": 1404,
   "Shape": 1,
   "Image": "quarg ringedcircle.png",
-  "Size": 1.0,
-  "Margins": 0.7,
+  "Size": 0.5,
   "MainColor": "#00FFFFFF",
-  "SecondColor": "#7FACFF",
+  "SecondColor": "#000000",
   "SecondColorMode": 1
 }
