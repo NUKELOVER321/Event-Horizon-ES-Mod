@@ -846,7 +846,7 @@ Weapons | ...
 Skydagger | 1401
 Skypiercer (Edenshard sprite) | 1402
 Ranseur | 1403
-Cataclist | 1404 !!!
+Cataclist | 1404
 Edenshard (Starpilum) | 1405
 Turver (Skywrath) | 1406
 Doomscythe (Prismatic Shards) | 1407
