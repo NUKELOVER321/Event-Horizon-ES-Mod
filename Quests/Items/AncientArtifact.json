@@ -2,5 +2,6 @@
   "ItemType": 20,
   "Id": 30,
   "Name": "$AncientArtifact",
-  "Icon": "artifact"
+  "Description": "A weird blue rock that lets its holder understand the Scavengers.",
+  "Icon": "skade tear.png"
 }
