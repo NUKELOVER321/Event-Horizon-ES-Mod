@@ -34,8 +34,7 @@
           "TargetNode": 5,
           "Requirement": {
             "Type": 25,
-            "ItemId": 30,
-            "MinValue": 1
+            "ItemId": 30
           },
           "ButtonText": "$Action_UseArtifact"
         },

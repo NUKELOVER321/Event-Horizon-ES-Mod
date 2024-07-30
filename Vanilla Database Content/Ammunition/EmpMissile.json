@@ -16,7 +16,7 @@
   },
   "Controller": {
     "Type": 1,
-    "StartingVelocityModifier": 1.0
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {

@@ -5,7 +5,5 @@
   "ArmorPointsPerCell": 1.0,
   "ArmorRepairCooldown": 0.5,
   "EnergyRechargeCooldown": 0.5,
-  "ShieldRechargeCooldown": 0.5,
-  "MaxVelocity": 30.0,
-  "MaxTurnRate": 30.0
+  "ShieldRechargeCooldown": 0.5
 }
