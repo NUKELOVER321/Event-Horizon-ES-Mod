@@ -25,8 +25,7 @@
       "Condition": 1,
       "EffectType": 1,
       "VisualEffect": 12,
-      "Size": 2.0,
-      "SyncLifetimeWithBullet": true
+      "Size": 2.0
     }
   ]
 }

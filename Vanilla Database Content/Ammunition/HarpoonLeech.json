@@ -13,7 +13,8 @@
     "AiBulletBehavior": 5
   },
   "Controller": {
-    "Type": 4
+    "Type": 4,
+    "StartingVelocityModifier": 0.1
   },
   "Triggers": [
     {
