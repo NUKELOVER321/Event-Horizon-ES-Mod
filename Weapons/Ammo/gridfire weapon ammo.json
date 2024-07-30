@@ -3,7 +3,7 @@
   "Id": 1247,
   "Body": {
     "Size": 1.0,
-    "Velocity": 36.0,
+    "Velocity": 144.0,
     "Range": 144.0,
     "Weight": 0.1,
     "BulletPrefab": 1247,
@@ -19,11 +19,22 @@
   "Effects": [
     {
       "Type": 1,
-      "Power": 0.0001
+      "Power": 0.001
     },
     {
       "DamageType": 3,
-      "Power": 120.0
+      "Power": 30.0
+    },
+    {
+      "Power": 30.0
+    },
+    {
+      "DamageType": 1,
+      "Power": 30.0
+    },
+    {
+      "DamageType": 2,
+      "Power": 30.0
     }
   ]
 }

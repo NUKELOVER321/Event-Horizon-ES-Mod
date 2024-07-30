@@ -5,6 +5,7 @@
     "Size": 1.5,
     "Velocity": 45.0,
     "Range": 33.6,
+    "Weight": 0.01,
     "BulletPrefab": 1029,
     "EnergyCost": 0.25,
     "CanBeDisarmed": true
